@@ -1,5 +1,6 @@
 @echo off
 START temp.bat
+START help.bat
 DEL readme.md
 cls
 @echo The window that just opened is the NPM installation.
