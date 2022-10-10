@@ -7,6 +7,7 @@ cls
 @echo Please wait for that installation to finish. Close that after, then press any key to continue.
 pause
 START QuickServerLaunch.bat
+START mitmstart.bat
 DEL temp.bat
 DEL readme.md
 DEL install.bat
