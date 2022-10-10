@@ -8,3 +8,4 @@ cls
 pause
 DEL /commands/temp.bat
 DEL install.bat
+START startserver.bat
