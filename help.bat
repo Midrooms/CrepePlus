@@ -1,5 +1,15 @@
 @echo off
 title CrepePlus (MITM) Help
+echo CrepeSR requires:
+echo NodeJS
+echo Python
+echo Visual Studio (Desktop Development with C++)
+echo mitmproxy
+echo MongoDB Compass
+echo MongoDB Community
+echo CrepeSR and CrepeSR Resources.
+pause
+cls
 echo Please set proxy settings first, before connecting to Honkai: Star Rail.
 pause
 cls
