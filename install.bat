@@ -7,5 +7,5 @@ cls
 @echo Please wait for that installation to finish. Only continue if the installation is complete. You might cancel the installation if you continue. (If the installation isn't done yet)
 pause
 DEL /commands/temp.bat
-DEL install.bat
 START startserver.bat
+DEL install.bat
