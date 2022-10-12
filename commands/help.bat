@@ -21,7 +21,7 @@ echo Address: 127.0.0.1
 echo Port: 8080
 echo Open MongoDB Compass. Click on "connect"
 echo if it shows "EREFUSED CONNECT" (or something similar), Start the MongoDB Service. (That is, if you installed MongoDB)
-echo Go to https://github.com/web-pri/crepewiki/wiki/Troubleshooting to fix more errors that may occur.
+echo Go to https://github.com/web-pri/crepewiki/wiki/Troubleshooting to find and/or fix more errors that may occur.
 echo Continue if you would like to close this window.
 pause
 cls
