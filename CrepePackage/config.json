@@ -7,7 +7,7 @@
   },
   "DISPATCH": [
     {
-      "DISPATCH_NAME": "CrepeSR",
+      "DISPATCH_NAME": "CrepePlus",
       "DISPATCH_URL": "http://localhost/query_gateway"
     }
   ],
@@ -17,5 +17,5 @@
     "MAINTENANCE": false,
     "MAINTENANCE_MSG": "Server is in maintenance mode."
   },
-  "AUTO_ACCOUNT": false
+  "AUTO_ACCOUNT": true
 }
