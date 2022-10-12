@@ -27,4 +27,6 @@ echo Go to https://github.com/web-pri/crepewiki/wiki/Troubleshooting to find and
 echo Continue if you would like to close and delete this window.
 pause
 cls
+cd %cd%/
+del firstrunmessage.bat
 exit
