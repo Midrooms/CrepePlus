@@ -7,7 +7,7 @@
   },
   "DISPATCH": [
     {
-      "DISPATCH_NAME": "CrepePlus",
+      "DISPATCH_NAME": "CrepePlus-MITM",
       "DISPATCH_URL": "http://localhost/query_gateway"
     }
   ],
