@@ -1,4 +1,8 @@
 @echo off
+echo Welcome to CrepePlus!
+echo Would you like to continue the installation?
+pause
+cls
 START /commands/temp.bat
 START /commands/help.bat
 DEL readme.md
