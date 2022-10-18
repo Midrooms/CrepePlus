@@ -23,7 +23,7 @@ echo Open MongoDB Compass. Click on "connect"
 echo You might have to start the MongoDB service again every restart.
 echo if it shows "EREFUSED CONNECT" (or something similar), Start the MongoDB Service. (That is, if you installed MongoDB)
 echo Use "startmongo.bat" to start the MongoDB service.
-echo Go to https://github.com/web-pri/crepewiki/wiki/Troubleshooting to find and/or fix more errors that may occur.
+echo Go to https://github.com/Midrooms/CrepePlus/wiki/Troubleshooting to find and/or fix more errors that may occur.
 echo Continue if you would like to close and delete this window.
 pause
 cls
