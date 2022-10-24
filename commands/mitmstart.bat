@@ -1,4 +1,4 @@
-cd %cd%\CrepePackage
+cd %cd%\py
 @echo off
 title CrepeSR mitmdump
 echo Do not delete this file. startserver.bat uses this file.
