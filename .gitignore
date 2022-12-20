@@ -133,3 +133,7 @@ replit.nix*
 # jetbrains
 .idea*
 .fleet*
+
+# crepe package
+CrepePackage.zip*
+resources/app/view/runner/CrepePackage*
