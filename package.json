@@ -1,0 +1,30 @@
+{
+  "name": "CrepePlus",
+  "version": "1.2.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "@echo \"Error: no test specified\" && exit 1",
+    "st": "electron-forge start",
+    "pkg": "electron-packager --out out --overwrite --platform win32 --appname clientlmcenter . --icon=view/favicon.ico  --win32metadata.FileDescription=\"CrepePlus\"",
+    "build": "electron-forge make",
+    "dev": "electron ."
+  },
+  "author": "Midrooms",
+  "license": "ISC",
+  "description": "CrepePlus",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.4",
+    "@electron-forge/maker-deb": "^6.0.4",
+    "@electron-forge/maker-rpm": "^6.0.4",
+    "@electron-forge/maker-squirrel": "^6.0.4",
+    "@electron-forge/maker-zip": "^6.0.4",
+    "electron": "^22.0.0"
+  },
+  "dependencies": {
+    "@electron-forge/maker-pkg": "^6.0.4",
+    "discord-rpc": "^4.0.1",
+    "electron-squirrel-startup": "^1.0.0",
+    "highlight.js": "^11.7.0",
+    "marked": "^4.2.4"
+  }
+}

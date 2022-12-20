@@ -1,0 +1,1 @@
+@START %cd%\resources\app\view\runner\ex2.bat
