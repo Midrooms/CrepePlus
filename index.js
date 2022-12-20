@@ -2,7 +2,7 @@ const { app, BrowserWindow, Menu, ipcMain, nativeTheme } = require('electron');
 const path = require('path');
 const { spawn } = require('child_process');
 const DiscordRPC = require('discord-rpc');
-const config = require('./statuses');
+const config = require('./view/rpc-config');
 // functions
 function runCrepePlusBat1() {
 
@@ -10,13 +10,13 @@ function runCrepePlusBat1() {
   // Spawn a new process to run the batch file
   const child = spawn('cmd.exe', ['/c', batchFile]);
   rpc.setActivity({
-    details: `CrepePlus - In PS`,
-    state: `Playing CrepePlus (mitmproxy)`,
+    details: config.onlineDeta,
+    state: config.onlineState,
     startTimestamp,
     largeImageKey: config.onlineLargeImageKey,
-    largeImageText: 'On CrepeSR - CrepePlus',
+    largeImageText: config.onlineLargeImageText,
     smallImageKey: config.onlineSmallImageKey,
-    smallImageText: 'Connected to PS',
+    smallImageText: config.onlineSmallImageText,
     instance: false,
   });
   // Listen for any output from the batch file
@@ -130,13 +130,13 @@ function createWindow() {
   async function setActivity() {
 
     rpc.setActivity({
-      details: `CrepePlus - Offline`,
+      details: config.offlineDeta,
       state: `${config.status}`,
       startTimestamp,
-      largeImageKey: 'icon',
-      largeImageText: 'Offline (idle)',
-      smallImageKey: '8997_offline_1_',
-      smallImageText: 'Offline',
+      largeImageKey: config.offlineLargeImageKey,
+      largeImageText: config.offlineLargeImageText,
+      smallImageKey: config.offlineSmallImageKey,
+      smallImageText: config.offlineSmallImageText,
       instance: false,
     });
   }
