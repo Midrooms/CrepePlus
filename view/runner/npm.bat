@@ -1,2 +1,2 @@
-start %cd%\resources\app\view\runner\CrepePackage\npminstall.bat
+start %cd%\resources\app\view\runner\npminstall.bat
 cls
