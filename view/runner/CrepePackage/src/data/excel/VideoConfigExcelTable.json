@@ -1,0 +1,92 @@
+{
+  "1": {
+    "VideoID": 1,
+    "VideoPath": "CS_Chap01_Act010.usm",
+    "IsPlayerInvolved": true,
+    "CaptionPath": "Config/VideoCaption/CS_Chap01_Act010_Caption.json"
+  },
+  "2": {
+    "VideoID": 2,
+    "VideoPath": "CS_Chap01_Act020.usm",
+    "IsPlayerInvolved": true,
+    "CaptionPath": "Config/VideoCaption/CS_Chap01_Act020_Caption.json"
+  },
+  "3": {
+    "VideoID": 3,
+    "VideoPath": "CS_Chap01_Act110.usm",
+    "IsPlayerInvolved": true,
+    "CaptionPath": "Config/VideoCaption/CS_Chap01_Act110_Caption.json"
+  },
+  "4": {
+    "VideoID": 4,
+    "VideoPath": "CS_Chap01_Act120.usm",
+    "IsPlayerInvolved": true,
+    "CaptionPath": ""
+  },
+  "5": {
+    "VideoID": 5,
+    "VideoPath": "CS_Chap01_Act130.usm",
+    "IsPlayerInvolved": true,
+    "CaptionPath": "Config/VideoCaption/CS_Chap01_Act130_Caption.json"
+  },
+  "7": {
+    "VideoID": 7,
+    "VideoPath": "CS_Chap01_Act150.usm",
+    "IsPlayerInvolved": true,
+    "CaptionPath": "Config/VideoCaption/CS_Chap01_Act150_Caption.json"
+  },
+  "8": {
+    "VideoID": 8,
+    "VideoPath": "CS_Chap00_Act210.usm",
+    "IsPlayerInvolved": false,
+    "CaptionPath": "Config/VideoCaption/CS_Chap00_Act210_Caption.json"
+  },
+  "16": {
+    "VideoID": 16,
+    "VideoPath": "CS_Chap00_Act270.usm",
+    "IsPlayerInvolved": true,
+    "CaptionPath": "Config/VideoCaption/CS_Chap00_Act270_Caption.json"
+  },
+  "21": {
+    "VideoID": 21,
+    "VideoPath": "CS_Chap00_Act300.usm",
+    "IsPlayerInvolved": true,
+    "CaptionPath": "Config/VideoCaption/CS_Chap00_Act300_Caption.json"
+  },
+  "100": {
+    "VideoID": 100,
+    "VideoPath": "CS_ChapLoop01_Act0000.usm",
+    "IsPlayerInvolved": false,
+    "CaptionPath": ""
+  },
+  "101": {
+    "VideoID": 101,
+    "VideoPath": "CS_ChapLoop01_Act0010.usm",
+    "IsPlayerInvolved": false,
+    "CaptionPath": ""
+  },
+  "102": {
+    "VideoID": 102,
+    "VideoPath": "CS_ChapLoop01_Act0020.usm",
+    "IsPlayerInvolved": false,
+    "CaptionPath": ""
+  },
+  "103": {
+    "VideoID": 103,
+    "VideoPath": "CS_ChapLoop01_Act0030.usm",
+    "IsPlayerInvolved": false,
+    "CaptionPath": ""
+  },
+  "104": {
+    "VideoID": 104,
+    "VideoPath": "CS_ChapLoop_Black.usm",
+    "IsPlayerInvolved": false,
+    "CaptionPath": ""
+  },
+  "105": {
+    "VideoID": 105,
+    "VideoPath": "CS_ChapLoop01_Act0040.usm",
+    "IsPlayerInvolved": false,
+    "CaptionPath": "Config/VideoCaption/CS_ChapLoop01_Act0040_Caption.json"
+  }
+}

@@ -1,0 +1,1010 @@
+{
+  "Warrior:1": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 1,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 4
+  },
+  "Warrior:2": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 2,
+    "Up": 0,
+    "Down": 0,
+    "Left": 4,
+    "Right": 0
+  },
+  "Warrior:3": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 3,
+    "Up": 4,
+    "Down": 5,
+    "Left": 0,
+    "Right": 0
+  },
+  "Warrior:4": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 4,
+    "Up": 8,
+    "Down": 3,
+    "Left": 1,
+    "Right": 2
+  },
+  "Warrior:5": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 5,
+    "Up": 3,
+    "Down": 9,
+    "Left": 6,
+    "Right": 7
+  },
+  "Warrior:6": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 6,
+    "Up": 10,
+    "Down": 0,
+    "Left": 10,
+    "Right": 5
+  },
+  "Warrior:7": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 7,
+    "Up": 13,
+    "Down": 0,
+    "Left": 5,
+    "Right": 13
+  },
+  "Warrior:8": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 8,
+    "Up": 16,
+    "Down": 4,
+    "Left": 0,
+    "Right": 0
+  },
+  "Warrior:9": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 9,
+    "Up": 5,
+    "Down": 0,
+    "Left": 0,
+    "Right": 0
+  },
+  "Warrior:10": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 10,
+    "Up": 11,
+    "Down": 6,
+    "Left": 11,
+    "Right": 6
+  },
+  "Warrior:11": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 11,
+    "Up": 12,
+    "Down": 10,
+    "Left": 0,
+    "Right": 0
+  },
+  "Warrior:12": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 12,
+    "Up": 0,
+    "Down": 11,
+    "Left": 11,
+    "Right": 0
+  },
+  "Warrior:13": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 13,
+    "Up": 14,
+    "Down": 7,
+    "Left": 7,
+    "Right": 14
+  },
+  "Warrior:14": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 14,
+    "Up": 15,
+    "Down": 13,
+    "Left": 0,
+    "Right": 0
+  },
+  "Warrior:15": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 15,
+    "Up": 0,
+    "Down": 14,
+    "Left": 0,
+    "Right": 14
+  },
+  "Warrior:16": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 16,
+    "Up": 0,
+    "Down": 8,
+    "Left": 17,
+    "Right": 18
+  },
+  "Warrior:17": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 17,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 16
+  },
+  "Warrior:18": {
+    "AvatarBaseType": "Warrior",
+    "PointID": 18,
+    "Up": 0,
+    "Down": 0,
+    "Left": 16,
+    "Right": 0
+  },
+  "Rogue:1": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 1,
+    "Up": 12,
+    "Down": 0,
+    "Left": 12,
+    "Right": 4
+  },
+  "Rogue:2": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 2,
+    "Up": 15,
+    "Down": 0,
+    "Left": 4,
+    "Right": 15
+  },
+  "Rogue:3": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 3,
+    "Up": 4,
+    "Down": 5,
+    "Left": 0,
+    "Right": 0
+  },
+  "Rogue:4": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 4,
+    "Up": 8,
+    "Down": 3,
+    "Left": 1,
+    "Right": 2
+  },
+  "Rogue:5": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 5,
+    "Up": 3,
+    "Down": 9,
+    "Left": 6,
+    "Right": 7
+  },
+  "Rogue:6": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 6,
+    "Up": 10,
+    "Down": 0,
+    "Left": 10,
+    "Right": 5
+  },
+  "Rogue:7": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 7,
+    "Up": 13,
+    "Down": 0,
+    "Left": 5,
+    "Right": 13
+  },
+  "Rogue:8": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 8,
+    "Up": 16,
+    "Down": 4,
+    "Left": 0,
+    "Right": 0
+  },
+  "Rogue:9": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 9,
+    "Up": 5,
+    "Down": 0,
+    "Left": 0,
+    "Right": 0
+  },
+  "Rogue:10": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 10,
+    "Up": 11,
+    "Down": 6,
+    "Left": 11,
+    "Right": 6
+  },
+  "Rogue:11": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 11,
+    "Up": 0,
+    "Down": 10,
+    "Left": 0,
+    "Right": 10
+  },
+  "Rogue:12": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 12,
+    "Up": 0,
+    "Down": 1,
+    "Left": 0,
+    "Right": 1
+  },
+  "Rogue:13": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 13,
+    "Up": 14,
+    "Down": 7,
+    "Left": 7,
+    "Right": 14
+  },
+  "Rogue:14": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 14,
+    "Up": 0,
+    "Down": 13,
+    "Left": 13,
+    "Right": 0
+  },
+  "Rogue:15": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 15,
+    "Up": 0,
+    "Down": 2,
+    "Left": 2,
+    "Right": 0
+  },
+  "Rogue:16": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 16,
+    "Up": 0,
+    "Down": 8,
+    "Left": 17,
+    "Right": 18
+  },
+  "Rogue:17": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 17,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 16
+  },
+  "Rogue:18": {
+    "AvatarBaseType": "Rogue",
+    "PointID": 18,
+    "Up": 0,
+    "Down": 0,
+    "Left": 16,
+    "Right": 0
+  },
+  "Mage:1": {
+    "AvatarBaseType": "Mage",
+    "PointID": 1,
+    "Up": 0,
+    "Down": 0,
+    "Left": 6,
+    "Right": 3
+  },
+  "Mage:2": {
+    "AvatarBaseType": "Mage",
+    "PointID": 2,
+    "Up": 0,
+    "Down": 0,
+    "Left": 3,
+    "Right": 7
+  },
+  "Mage:3": {
+    "AvatarBaseType": "Mage",
+    "PointID": 3,
+    "Up": 4,
+    "Down": 5,
+    "Left": 1,
+    "Right": 2
+  },
+  "Mage:4": {
+    "AvatarBaseType": "Mage",
+    "PointID": 4,
+    "Up": 8,
+    "Down": 3,
+    "Left": 0,
+    "Right": 0
+  },
+  "Mage:5": {
+    "AvatarBaseType": "Mage",
+    "PointID": 5,
+    "Up": 3,
+    "Down": 9,
+    "Left": 0,
+    "Right": 0
+  },
+  "Mage:6": {
+    "AvatarBaseType": "Mage",
+    "PointID": 6,
+    "Up": 0,
+    "Down": 0,
+    "Left": 10,
+    "Right": 1
+  },
+  "Mage:7": {
+    "AvatarBaseType": "Mage",
+    "PointID": 7,
+    "Up": 0,
+    "Down": 0,
+    "Left": 2,
+    "Right": 13
+  },
+  "Mage:8": {
+    "AvatarBaseType": "Mage",
+    "PointID": 8,
+    "Up": 0,
+    "Down": 4,
+    "Left": 16,
+    "Right": 17
+  },
+  "Mage:9": {
+    "AvatarBaseType": "Mage",
+    "PointID": 9,
+    "Up": 5,
+    "Down": 0,
+    "Left": 0,
+    "Right": 18
+  },
+  "Mage:10": {
+    "AvatarBaseType": "Mage",
+    "PointID": 10,
+    "Up": 12,
+    "Down": 11,
+    "Left": 0,
+    "Right": 6
+  },
+  "Mage:11": {
+    "AvatarBaseType": "Mage",
+    "PointID": 11,
+    "Up": 10,
+    "Down": 0,
+    "Left": 0,
+    "Right": 0
+  },
+  "Mage:12": {
+    "AvatarBaseType": "Mage",
+    "PointID": 12,
+    "Up": 0,
+    "Down": 10,
+    "Left": 0,
+    "Right": 0
+  },
+  "Mage:13": {
+    "AvatarBaseType": "Mage",
+    "PointID": 13,
+    "Up": 15,
+    "Down": 14,
+    "Left": 7,
+    "Right": 0
+  },
+  "Mage:14": {
+    "AvatarBaseType": "Mage",
+    "PointID": 14,
+    "Up": 13,
+    "Down": 0,
+    "Left": 0,
+    "Right": 0
+  },
+  "Mage:15": {
+    "AvatarBaseType": "Mage",
+    "PointID": 15,
+    "Up": 0,
+    "Down": 13,
+    "Left": 0,
+    "Right": 0
+  },
+  "Mage:16": {
+    "AvatarBaseType": "Mage",
+    "PointID": 16,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 8
+  },
+  "Mage:17": {
+    "AvatarBaseType": "Mage",
+    "PointID": 17,
+    "Up": 0,
+    "Down": 0,
+    "Left": 8,
+    "Right": 0
+  },
+  "Mage:18": {
+    "AvatarBaseType": "Mage",
+    "PointID": 18,
+    "Up": 5,
+    "Down": 0,
+    "Left": 9,
+    "Right": 0
+  },
+  "Shaman:1": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 1,
+    "Up": 0,
+    "Down": 0,
+    "Left": 6,
+    "Right": 4
+  },
+  "Shaman:2": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 2,
+    "Up": 0,
+    "Down": 0,
+    "Left": 4,
+    "Right": 7
+  },
+  "Shaman:3": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 3,
+    "Up": 4,
+    "Down": 5,
+    "Left": 0,
+    "Right": 0
+  },
+  "Shaman:4": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 4,
+    "Up": 8,
+    "Down": 3,
+    "Left": 1,
+    "Right": 2
+  },
+  "Shaman:5": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 5,
+    "Up": 3,
+    "Down": 9,
+    "Left": 0,
+    "Right": 0
+  },
+  "Shaman:6": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 6,
+    "Up": 10,
+    "Down": 0,
+    "Left": 10,
+    "Right": 1
+  },
+  "Shaman:7": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 7,
+    "Up": 0,
+    "Down": 13,
+    "Left": 2,
+    "Right": 0
+  },
+  "Shaman:8": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 8,
+    "Up": 16,
+    "Down": 4,
+    "Left": 0,
+    "Right": 0
+  },
+  "Shaman:9": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 9,
+    "Up": 5,
+    "Down": 0,
+    "Left": 12,
+    "Right": 15
+  },
+  "Shaman:10": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 10,
+    "Up": 11,
+    "Down": 6,
+    "Left": 0,
+    "Right": 0
+  },
+  "Shaman:11": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 11,
+    "Up": 0,
+    "Down": 10,
+    "Left": 10,
+    "Right": 0
+  },
+  "Shaman:12": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 12,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 9
+  },
+  "Shaman:13": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 13,
+    "Up": 7,
+    "Down": 0,
+    "Left": 14,
+    "Right": 0
+  },
+  "Shaman:14": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 14,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 13
+  },
+  "Shaman:15": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 15,
+    "Up": 0,
+    "Down": 0,
+    "Left": 9,
+    "Right": 0
+  },
+  "Shaman:16": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 16,
+    "Up": 0,
+    "Down": 8,
+    "Left": 17,
+    "Right": 18
+  },
+  "Shaman:17": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 17,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 16
+  },
+  "Shaman:18": {
+    "AvatarBaseType": "Shaman",
+    "PointID": 18,
+    "Up": 0,
+    "Down": 0,
+    "Left": 16,
+    "Right": 0
+  },
+  "Warlock:1": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 1,
+    "Up": 0,
+    "Down": 0,
+    "Left": 6,
+    "Right": 3
+  },
+  "Warlock:2": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 2,
+    "Up": 0,
+    "Down": 0,
+    "Left": 3,
+    "Right": 7
+  },
+  "Warlock:3": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 3,
+    "Up": 4,
+    "Down": 5,
+    "Left": 1,
+    "Right": 2
+  },
+  "Warlock:4": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 4,
+    "Up": 8,
+    "Down": 3,
+    "Left": 0,
+    "Right": 0
+  },
+  "Warlock:5": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 5,
+    "Up": 3,
+    "Down": 9,
+    "Left": 0,
+    "Right": 0
+  },
+  "Warlock:6": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 6,
+    "Up": 0,
+    "Down": 10,
+    "Left": 10,
+    "Right": 1
+  },
+  "Warlock:7": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 7,
+    "Up": 0,
+    "Down": 13,
+    "Left": 2,
+    "Right": 13
+  },
+  "Warlock:8": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 8,
+    "Up": 0,
+    "Down": 4,
+    "Left": 16,
+    "Right": 17
+  },
+  "Warlock:9": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 9,
+    "Up": 5,
+    "Down": 18,
+    "Left": 0,
+    "Right": 0
+  },
+  "Warlock:10": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 10,
+    "Up": 6,
+    "Down": 11,
+    "Left": 0,
+    "Right": 0
+  },
+  "Warlock:11": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 11,
+    "Up": 10,
+    "Down": 12,
+    "Left": 10,
+    "Right": 12
+  },
+  "Warlock:12": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 12,
+    "Up": 11,
+    "Down": 0,
+    "Left": 11,
+    "Right": 0
+  },
+  "Warlock:13": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 13,
+    "Up": 7,
+    "Down": 14,
+    "Left": 0,
+    "Right": 0
+  },
+  "Warlock:14": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 14,
+    "Up": 13,
+    "Down": 15,
+    "Left": 15,
+    "Right": 13
+  },
+  "Warlock:15": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 15,
+    "Up": 14,
+    "Down": 0,
+    "Left": 0,
+    "Right": 14
+  },
+  "Warlock:16": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 16,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 8
+  },
+  "Warlock:17": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 17,
+    "Up": 0,
+    "Down": 0,
+    "Left": 8,
+    "Right": 0
+  },
+  "Warlock:18": {
+    "AvatarBaseType": "Warlock",
+    "PointID": 18,
+    "Up": 9,
+    "Down": 0,
+    "Left": 0,
+    "Right": 0
+  },
+  "Knight:1": {
+    "AvatarBaseType": "Knight",
+    "PointID": 1,
+    "Up": 12,
+    "Down": 0,
+    "Left": 12,
+    "Right": 3
+  },
+  "Knight:2": {
+    "AvatarBaseType": "Knight",
+    "PointID": 2,
+    "Up": 15,
+    "Down": 0,
+    "Left": 3,
+    "Right": 15
+  },
+  "Knight:3": {
+    "AvatarBaseType": "Knight",
+    "PointID": 3,
+    "Up": 4,
+    "Down": 5,
+    "Left": 1,
+    "Right": 2
+  },
+  "Knight:4": {
+    "AvatarBaseType": "Knight",
+    "PointID": 4,
+    "Up": 8,
+    "Down": 3,
+    "Left": 0,
+    "Right": 0
+  },
+  "Knight:5": {
+    "AvatarBaseType": "Knight",
+    "PointID": 5,
+    "Up": 3,
+    "Down": 9,
+    "Left": 0,
+    "Right": 0
+  },
+  "Knight:6": {
+    "AvatarBaseType": "Knight",
+    "PointID": 6,
+    "Up": 10,
+    "Down": 0,
+    "Left": 10,
+    "Right": 9
+  },
+  "Knight:7": {
+    "AvatarBaseType": "Knight",
+    "PointID": 7,
+    "Up": 13,
+    "Down": 0,
+    "Left": 9,
+    "Right": 13
+  },
+  "Knight:8": {
+    "AvatarBaseType": "Knight",
+    "PointID": 8,
+    "Up": 16,
+    "Down": 4,
+    "Left": 0,
+    "Right": 0
+  },
+  "Knight:9": {
+    "AvatarBaseType": "Knight",
+    "PointID": 9,
+    "Up": 5,
+    "Down": 0,
+    "Left": 6,
+    "Right": 7
+  },
+  "Knight:10": {
+    "AvatarBaseType": "Knight",
+    "PointID": 10,
+    "Up": 11,
+    "Down": 6,
+    "Left": 11,
+    "Right": 6
+  },
+  "Knight:11": {
+    "AvatarBaseType": "Knight",
+    "PointID": 11,
+    "Up": 0,
+    "Down": 10,
+    "Left": 0,
+    "Right": 10
+  },
+  "Knight:12": {
+    "AvatarBaseType": "Knight",
+    "PointID": 12,
+    "Up": 0,
+    "Down": 1,
+    "Left": 0,
+    "Right": 1
+  },
+  "Knight:13": {
+    "AvatarBaseType": "Knight",
+    "PointID": 13,
+    "Up": 14,
+    "Down": 7,
+    "Left": 7,
+    "Right": 14
+  },
+  "Knight:14": {
+    "AvatarBaseType": "Knight",
+    "PointID": 14,
+    "Up": 0,
+    "Down": 13,
+    "Left": 13,
+    "Right": 0
+  },
+  "Knight:15": {
+    "AvatarBaseType": "Knight",
+    "PointID": 15,
+    "Up": 0,
+    "Down": 2,
+    "Left": 2,
+    "Right": 0
+  },
+  "Knight:16": {
+    "AvatarBaseType": "Knight",
+    "PointID": 16,
+    "Up": 0,
+    "Down": 8,
+    "Left": 17,
+    "Right": 18
+  },
+  "Knight:17": {
+    "AvatarBaseType": "Knight",
+    "PointID": 17,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 16
+  },
+  "Knight:18": {
+    "AvatarBaseType": "Knight",
+    "PointID": 18,
+    "Up": 0,
+    "Down": 0,
+    "Left": 16,
+    "Right": 0
+  },
+  "Priest:1": {
+    "AvatarBaseType": "Priest",
+    "PointID": 1,
+    "Up": 0,
+    "Down": 0,
+    "Left": 4,
+    "Right": 0
+  },
+  "Priest:2": {
+    "AvatarBaseType": "Priest",
+    "PointID": 2,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 4
+  },
+  "Priest:3": {
+    "AvatarBaseType": "Priest",
+    "PointID": 3,
+    "Up": 4,
+    "Down": 5,
+    "Left": 0,
+    "Right": 0
+  },
+  "Priest:4": {
+    "AvatarBaseType": "Priest",
+    "PointID": 4,
+    "Up": 8,
+    "Down": 3,
+    "Left": 2,
+    "Right": 1
+  },
+  "Priest:5": {
+    "AvatarBaseType": "Priest",
+    "PointID": 5,
+    "Up": 3,
+    "Down": 18,
+    "Left": 7,
+    "Right": 6
+  },
+  "Priest:6": {
+    "AvatarBaseType": "Priest",
+    "PointID": 6,
+    "Up": 10,
+    "Down": 0,
+    "Left": 5,
+    "Right": 10
+  },
+  "Priest:7": {
+    "AvatarBaseType": "Priest",
+    "PointID": 7,
+    "Up": 13,
+    "Down": 0,
+    "Left": 13,
+    "Right": 5
+  },
+  "Priest:8": {
+    "AvatarBaseType": "Priest",
+    "PointID": 8,
+    "Up": 0,
+    "Down": 4,
+    "Left": 17,
+    "Right": 16
+  },
+  "Priest:9": {
+    "AvatarBaseType": "Priest",
+    "PointID": 9,
+    "Up": 5,
+    "Down": 0,
+    "Left": 18,
+    "Right": 0
+  },
+  "Priest:10": {
+    "AvatarBaseType": "Priest",
+    "PointID": 10,
+    "Up": 11,
+    "Down": 6,
+    "Left": 6,
+    "Right": 11
+  },
+  "Priest:11": {
+    "AvatarBaseType": "Priest",
+    "PointID": 11,
+    "Up": 12,
+    "Down": 10,
+    "Left": 0,
+    "Right": 0
+  },
+  "Priest:12": {
+    "AvatarBaseType": "Priest",
+    "PointID": 12,
+    "Up": 0,
+    "Down": 11,
+    "Left": 0,
+    "Right": 11
+  },
+  "Priest:13": {
+    "AvatarBaseType": "Priest",
+    "PointID": 13,
+    "Up": 14,
+    "Down": 7,
+    "Left": 14,
+    "Right": 7
+  },
+  "Priest:14": {
+    "AvatarBaseType": "Priest",
+    "PointID": 14,
+    "Up": 15,
+    "Down": 13,
+    "Left": 0,
+    "Right": 0
+  },
+  "Priest:15": {
+    "AvatarBaseType": "Priest",
+    "PointID": 15,
+    "Up": 0,
+    "Down": 14,
+    "Left": 14,
+    "Right": 0
+  },
+  "Priest:16": {
+    "AvatarBaseType": "Priest",
+    "PointID": 16,
+    "Up": 0,
+    "Down": 0,
+    "Left": 8,
+    "Right": 0
+  },
+  "Priest:17": {
+    "AvatarBaseType": "Priest",
+    "PointID": 17,
+    "Up": 0,
+    "Down": 0,
+    "Left": 0,
+    "Right": 8
+  },
+  "Priest:18": {
+    "AvatarBaseType": "Priest",
+    "PointID": 18,
+    "Up": 5,
+    "Down": 0,
+    "Left": 0,
+    "Right": 9
+  }
+}

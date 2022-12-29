@@ -1,0 +1,7802 @@
+{
+  "1:1": {
+    "HardLevelGroup": 1,
+    "Level": 1,
+    "AttackRatio": {
+      "RawValue": 2576980380
+    },
+    "DefenceRatio": {
+      "RawValue": 4294967296
+    },
+    "HPRatio": {
+      "RawValue": 3865470570
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:2": {
+    "HardLevelGroup": 1,
+    "Level": 2,
+    "AttackRatio": {
+      "RawValue": 3035777378
+    },
+    "DefenceRatio": {
+      "RawValue": 4499489344
+    },
+    "HPRatio": {
+      "RawValue": 4221093864
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:3": {
+    "HardLevelGroup": 1,
+    "Level": 3,
+    "AttackRatio": {
+      "RawValue": 3533340752
+    },
+    "DefenceRatio": {
+      "RawValue": 4704011392
+    },
+    "HPRatio": {
+      "RawValue": 4583589097
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:4": {
+    "HardLevelGroup": 1,
+    "Level": 4,
+    "AttackRatio": {
+      "RawValue": 4902778185
+    },
+    "DefenceRatio": {
+      "RawValue": 4908533443
+    },
+    "HPRatio": {
+      "RawValue": 6291066236
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:5": {
+    "HardLevelGroup": 1,
+    "Level": 5,
+    "AttackRatio": {
+      "RawValue": 5265909079
+    },
+    "DefenceRatio": {
+      "RawValue": 5113055491
+    },
+    "HPRatio": {
+      "RawValue": 6710504151
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 2783138807808
+      },
+      {
+        "RawValue": 1408749273088
+      },
+      {
+        "RawValue": 2611340115968
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:6": {
+    "HardLevelGroup": 1,
+    "Level": 6,
+    "AttackRatio": {
+      "RawValue": 5559633304
+    },
+    "DefenceRatio": {
+      "RawValue": 5317577536
+    },
+    "HPRatio": {
+      "RawValue": 7137694487
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 2972117368832
+      },
+      {
+        "RawValue": 1408749273088
+      },
+      {
+        "RawValue": 2765958938624
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:7": {
+    "HardLevelGroup": 1,
+    "Level": 7,
+    "AttackRatio": {
+      "RawValue": 5936383541
+    },
+    "DefenceRatio": {
+      "RawValue": 5522099584
+    },
+    "HPRatio": {
+      "RawValue": 7572650117
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3143916060672
+      },
+      {
+        "RawValue": 1425929142272
+      },
+      {
+        "RawValue": 2920577761280
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:8": {
+    "HardLevelGroup": 1,
+    "Level": 8,
+    "AttackRatio": {
+      "RawValue": 6235381987
+    },
+    "DefenceRatio": {
+      "RawValue": 5726621632
+    },
+    "HPRatio": {
+      "RawValue": 8015379640
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3332894621696
+      },
+      {
+        "RawValue": 1425929142272
+      },
+      {
+        "RawValue": 3075196583936
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:9": {
+    "HardLevelGroup": 1,
+    "Level": 9,
+    "AttackRatio": {
+      "RawValue": 6534895824
+    },
+    "DefenceRatio": {
+      "RawValue": 5931143683
+    },
+    "HPRatio": {
+      "RawValue": 8465891646
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3521873182720
+      },
+      {
+        "RawValue": 1425929142272
+      },
+      {
+        "RawValue": 3246995275776
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:10": {
+    "HardLevelGroup": 1,
+    "Level": 10,
+    "AttackRatio": {
+      "RawValue": 6834894996
+    },
+    "DefenceRatio": {
+      "RawValue": 6135665728
+    },
+    "HPRatio": {
+      "RawValue": 8924194718
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3710851743744
+      },
+      {
+        "RawValue": 1443109011456
+      },
+      {
+        "RawValue": 3401614098432
+      },
+      {
+        "RawValue": 1116691496960
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:11": {
+    "HardLevelGroup": 1,
+    "Level": 11,
+    "AttackRatio": {
+      "RawValue": 8009173416
+    },
+    "DefenceRatio": {
+      "RawValue": 6340187776
+    },
+    "HPRatio": {
+      "RawValue": 10120154133
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3917010173952
+      },
+      {
+        "RawValue": 1443109011456
+      },
+      {
+        "RawValue": 3556232921088
+      },
+      {
+        "RawValue": 1357209665536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:12": {
+    "HardLevelGroup": 1,
+    "Level": 12,
+    "AttackRatio": {
+      "RawValue": 9183451829
+    },
+    "DefenceRatio": {
+      "RawValue": 6544714119
+    },
+    "HPRatio": {
+      "RawValue": 11316113548
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4105988734976
+      },
+      {
+        "RawValue": 1460288880640
+      },
+      {
+        "RawValue": 3728031612928
+      },
+      {
+        "RawValue": 1597727834112
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:13": {
+    "HardLevelGroup": 1,
+    "Level": 13,
+    "AttackRatio": {
+      "RawValue": 10357730252
+    },
+    "DefenceRatio": {
+      "RawValue": 6749236167
+    },
+    "HPRatio": {
+      "RawValue": 12512068668
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4312147165184
+      },
+      {
+        "RawValue": 1460288880640
+      },
+      {
+        "RawValue": 3882650435584
+      },
+      {
+        "RawValue": 1821066133504
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:14": {
+    "HardLevelGroup": 1,
+    "Level": 14,
+    "AttackRatio": {
+      "RawValue": 11532008666
+    },
+    "DefenceRatio": {
+      "RawValue": 6953758212
+    },
+    "HPRatio": {
+      "RawValue": 13708028079
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4501125726208
+      },
+      {
+        "RawValue": 1477468749824
+      },
+      {
+        "RawValue": 4054449127424
+      },
+      {
+        "RawValue": 2061584302080
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:15": {
+    "HardLevelGroup": 1,
+    "Level": 15,
+    "AttackRatio": {
+      "RawValue": 12706287086
+    },
+    "DefenceRatio": {
+      "RawValue": 7158280263
+    },
+    "HPRatio": {
+      "RawValue": 14903987491
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4707284156416
+      },
+      {
+        "RawValue": 1477468749824
+      },
+      {
+        "RawValue": 4209067950080
+      },
+      {
+        "RawValue": 2302102470656
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:16": {
+    "HardLevelGroup": 1,
+    "Level": 16,
+    "AttackRatio": {
+      "RawValue": 13880565505
+    },
+    "DefenceRatio": {
+      "RawValue": 7362802311
+    },
+    "HPRatio": {
+      "RawValue": 16099946906
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4913442586624
+      },
+      {
+        "RawValue": 1494648619008
+      },
+      {
+        "RawValue": 4380866641920
+      },
+      {
+        "RawValue": 2559800508416
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:17": {
+    "HardLevelGroup": 1,
+    "Level": 17,
+    "AttackRatio": {
+      "RawValue": 15054843922
+    },
+    "DefenceRatio": {
+      "RawValue": 7567324359
+    },
+    "HPRatio": {
+      "RawValue": 17295902019
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 5102421147648
+      },
+      {
+        "RawValue": 1494648619008
+      },
+      {
+        "RawValue": 4552665333760
+      },
+      {
+        "RawValue": 2800318676992
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:18": {
+    "HardLevelGroup": 1,
+    "Level": 18,
+    "AttackRatio": {
+      "RawValue": 16229122342
+    },
+    "DefenceRatio": {
+      "RawValue": 7771846404
+    },
+    "HPRatio": {
+      "RawValue": 18491861437
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 5308579577856
+      },
+      {
+        "RawValue": 1494648619008
+      },
+      {
+        "RawValue": 4724464025600
+      },
+      {
+        "RawValue": 3040836845568
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:19": {
+    "HardLevelGroup": 1,
+    "Level": 19,
+    "AttackRatio": {
+      "RawValue": 17403400758
+    },
+    "DefenceRatio": {
+      "RawValue": 7976368452
+    },
+    "HPRatio": {
+      "RawValue": 19687820852
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 5514738008064
+      },
+      {
+        "RawValue": 1511828488192
+      },
+      {
+        "RawValue": 4896262717440
+      },
+      {
+        "RawValue": 3298534883328
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:20": {
+    "HardLevelGroup": 1,
+    "Level": 20,
+    "AttackRatio": {
+      "RawValue": 18577679178
+    },
+    "DefenceRatio": {
+      "RawValue": 8180890503
+    },
+    "HPRatio": {
+      "RawValue": 20883780267
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 5738076307456
+      },
+      {
+        "RawValue": 1511828488192
+      },
+      {
+        "RawValue": 5068061409280
+      },
+      {
+        "RawValue": 3556232921088
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:21": {
+    "HardLevelGroup": 1,
+    "Level": 21,
+    "AttackRatio": {
+      "RawValue": 20083357272
+    },
+    "DefenceRatio": {
+      "RawValue": 8385412551
+    },
+    "HPRatio": {
+      "RawValue": 22407475744
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 7765300871168
+      },
+      {
+        "RawValue": 1529008357376
+      },
+      {
+        "RawValue": 6992206757888
+      },
+      {
+        "RawValue": 3693671874560
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:22": {
+    "HardLevelGroup": 1,
+    "Level": 22,
+    "AttackRatio": {
+      "RawValue": 21589039663
+    },
+    "DefenceRatio": {
+      "RawValue": 8589934592
+    },
+    "HPRatio": {
+      "RawValue": 23931166936
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 7988639170560
+      },
+      {
+        "RawValue": 1529008357376
+      },
+      {
+        "RawValue": 7181185318912
+      },
+      {
+        "RawValue": 3831110828032
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:23": {
+    "HardLevelGroup": 1,
+    "Level": 23,
+    "AttackRatio": {
+      "RawValue": 23094722052
+    },
+    "DefenceRatio": {
+      "RawValue": 8794456640
+    },
+    "HPRatio": {
+      "RawValue": 25454862420
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 8211977469952
+      },
+      {
+        "RawValue": 1546188226560
+      },
+      {
+        "RawValue": 7370163879936
+      },
+      {
+        "RawValue": 3968549781504
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:24": {
+    "HardLevelGroup": 1,
+    "Level": 24,
+    "AttackRatio": {
+      "RawValue": 24600400149
+    },
+    "DefenceRatio": {
+      "RawValue": 8998978688
+    },
+    "HPRatio": {
+      "RawValue": 26978557900
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 8435315769344
+      },
+      {
+        "RawValue": 1546188226560
+      },
+      {
+        "RawValue": 7559142440960
+      },
+      {
+        "RawValue": 4105988734976
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:25": {
+    "HardLevelGroup": 1,
+    "Level": 25,
+    "AttackRatio": {
+      "RawValue": 26106082537
+    },
+    "DefenceRatio": {
+      "RawValue": 9203500739
+    },
+    "HPRatio": {
+      "RawValue": 28502253384
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 8675833937920
+      },
+      {
+        "RawValue": 1546188226560
+      },
+      {
+        "RawValue": 7748121001984
+      },
+      {
+        "RawValue": 4243427688448
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:26": {
+    "HardLevelGroup": 1,
+    "Level": 26,
+    "AttackRatio": {
+      "RawValue": 27611760634
+    },
+    "DefenceRatio": {
+      "RawValue": 9408022787
+    },
+    "HPRatio": {
+      "RawValue": 30025948871
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 8899172237312
+      },
+      {
+        "RawValue": 1563368095744
+      },
+      {
+        "RawValue": 7937099563008
+      },
+      {
+        "RawValue": 4380866641920
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:27": {
+    "HardLevelGroup": 1,
+    "Level": 27,
+    "AttackRatio": {
+      "RawValue": 29117443023
+    },
+    "DefenceRatio": {
+      "RawValue": 9612544832
+    },
+    "HPRatio": {
+      "RawValue": 31549644348
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 9122510536704
+      },
+      {
+        "RawValue": 1563368095744
+      },
+      {
+        "RawValue": 8126078124032
+      },
+      {
+        "RawValue": 4535485464576
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:28": {
+    "HardLevelGroup": 1,
+    "Level": 28,
+    "AttackRatio": {
+      "RawValue": 30623121116
+    },
+    "DefenceRatio": {
+      "RawValue": 9817066880
+    },
+    "HPRatio": {
+      "RawValue": 33073335540
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 9363028705280
+      },
+      {
+        "RawValue": 1580547964928
+      },
+      {
+        "RawValue": 8315056685056
+      },
+      {
+        "RawValue": 4672924418048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:29": {
+    "HardLevelGroup": 1,
+    "Level": 29,
+    "AttackRatio": {
+      "RawValue": 32128803511
+    },
+    "DefenceRatio": {
+      "RawValue": 10021588928
+    },
+    "HPRatio": {
+      "RawValue": 34597031017
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 9603546873856
+      },
+      {
+        "RawValue": 1580547964928
+      },
+      {
+        "RawValue": 8521215115264
+      },
+      {
+        "RawValue": 4827543240704
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:30": {
+    "HardLevelGroup": 1,
+    "Level": 30,
+    "AttackRatio": {
+      "RawValue": 33634481605
+    },
+    "DefenceRatio": {
+      "RawValue": 10226110979
+    },
+    "HPRatio": {
+      "RawValue": 36120726501
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 9826885173248
+      },
+      {
+        "RawValue": 3813930958848
+      },
+      {
+        "RawValue": 9191230013440
+      },
+      {
+        "RawValue": 4964982194176
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:31": {
+    "HardLevelGroup": 1,
+    "Level": 31,
+    "AttackRatio": {
+      "RawValue": 35140163993
+    },
+    "DefenceRatio": {
+      "RawValue": 10430633024
+    },
+    "HPRatio": {
+      "RawValue": 37644421988
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 10067403341824
+      },
+      {
+        "RawValue": 3831110828032
+      },
+      {
+        "RawValue": 9380208574464
+      },
+      {
+        "RawValue": 5136780886016
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:32": {
+    "HardLevelGroup": 1,
+    "Level": 32,
+    "AttackRatio": {
+      "RawValue": 36645842090
+    },
+    "DefenceRatio": {
+      "RawValue": 10635155072
+    },
+    "HPRatio": {
+      "RawValue": 39168117465
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 10307921510400
+      },
+      {
+        "RawValue": 3848290697216
+      },
+      {
+        "RawValue": 9586367004672
+      },
+      {
+        "RawValue": 5308579577856
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:33": {
+    "HardLevelGroup": 1,
+    "Level": 33,
+    "AttackRatio": {
+      "RawValue": 38151524482
+    },
+    "DefenceRatio": {
+      "RawValue": 10839681415
+    },
+    "HPRatio": {
+      "RawValue": 40691812949
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 10548439678976
+      },
+      {
+        "RawValue": 3865470566400
+      },
+      {
+        "RawValue": 9792525434880
+      },
+      {
+        "RawValue": 5497558138880
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:34": {
+    "HardLevelGroup": 1,
+    "Level": 34,
+    "AttackRatio": {
+      "RawValue": 39657206867
+    },
+    "DefenceRatio": {
+      "RawValue": 11044203463
+    },
+    "HPRatio": {
+      "RawValue": 42215508433
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 10788957847552
+      },
+      {
+        "RawValue": 3882650435584
+      },
+      {
+        "RawValue": 9998683865088
+      },
+      {
+        "RawValue": 5669356830720
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:35": {
+    "HardLevelGroup": 1,
+    "Level": 35,
+    "AttackRatio": {
+      "RawValue": 41162884967
+    },
+    "DefenceRatio": {
+      "RawValue": 11248725508
+    },
+    "HPRatio": {
+      "RawValue": 43739199621
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 11046655885312
+      },
+      {
+        "RawValue": 3899830304768
+      },
+      {
+        "RawValue": 10204842295296
+      },
+      {
+        "RawValue": 5841155522560
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:36": {
+    "HardLevelGroup": 1,
+    "Level": 36,
+    "AttackRatio": {
+      "RawValue": 42668567356
+    },
+    "DefenceRatio": {
+      "RawValue": 11453247559
+    },
+    "HPRatio": {
+      "RawValue": 45262895105
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 11287174053888
+      },
+      {
+        "RawValue": 3934190043136
+      },
+      {
+        "RawValue": 10411000725504
+      },
+      {
+        "RawValue": 6030134083584
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:37": {
+    "HardLevelGroup": 1,
+    "Level": 37,
+    "AttackRatio": {
+      "RawValue": 44174245446
+    },
+    "DefenceRatio": {
+      "RawValue": 11657769607
+    },
+    "HPRatio": {
+      "RawValue": 46786590589
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 11527692222464
+      },
+      {
+        "RawValue": 3951369912320
+      },
+      {
+        "RawValue": 10617159155712
+      },
+      {
+        "RawValue": 6201932775424
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:38": {
+    "HardLevelGroup": 1,
+    "Level": 38,
+    "AttackRatio": {
+      "RawValue": 45679927841
+    },
+    "DefenceRatio": {
+      "RawValue": 11862291655
+    },
+    "HPRatio": {
+      "RawValue": 48310286066
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 11785390260224
+      },
+      {
+        "RawValue": 3968549781504
+      },
+      {
+        "RawValue": 10823317585920
+      },
+      {
+        "RawValue": 6390911336448
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:39": {
+    "HardLevelGroup": 1,
+    "Level": 39,
+    "AttackRatio": {
+      "RawValue": 47185605935
+    },
+    "DefenceRatio": {
+      "RawValue": 12066813700
+    },
+    "HPRatio": {
+      "RawValue": 49833981556
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 12043088297984
+      },
+      {
+        "RawValue": 3985729650688
+      },
+      {
+        "RawValue": 11046655885312
+      },
+      {
+        "RawValue": 6579889897472
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:40": {
+    "HardLevelGroup": 1,
+    "Level": 40,
+    "AttackRatio": {
+      "RawValue": 48691288323
+    },
+    "DefenceRatio": {
+      "RawValue": 12271335748
+    },
+    "HPRatio": {
+      "RawValue": 51357677037
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 12300786335744
+      },
+      {
+        "RawValue": 4002909519872
+      },
+      {
+        "RawValue": 11252814315520
+      },
+      {
+        "RawValue": 7095285972992
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:41": {
+    "HardLevelGroup": 1,
+    "Level": 41,
+    "AttackRatio": {
+      "RawValue": 51573030990
+    },
+    "DefenceRatio": {
+      "RawValue": 12475857799
+    },
+    "HPRatio": {
+      "RawValue": 55902547002
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 14551349198848
+      },
+      {
+        "RawValue": 4020089389056
+      },
+      {
+        "RawValue": 13400297963520
+      },
+      {
+        "RawValue": 7473243095040
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:42": {
+    "HardLevelGroup": 1,
+    "Level": 42,
+    "AttackRatio": {
+      "RawValue": 54454777953
+    },
+    "DefenceRatio": {
+      "RawValue": 12680379847
+    },
+    "HPRatio": {
+      "RawValue": 60447421263
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 14826227105792
+      },
+      {
+        "RawValue": 4037269258240
+      },
+      {
+        "RawValue": 13623636262912
+      },
+      {
+        "RawValue": 7851200217088
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:43": {
+    "HardLevelGroup": 1,
+    "Level": 43,
+    "AttackRatio": {
+      "RawValue": 57336524912
+    },
+    "DefenceRatio": {
+      "RawValue": 12884901888
+    },
+    "HPRatio": {
+      "RawValue": 64992291235
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 15083925143552
+      },
+      {
+        "RawValue": 4054449127424
+      },
+      {
+        "RawValue": 13846974562304
+      },
+      {
+        "RawValue": 8229157339136
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:44": {
+    "HardLevelGroup": 1,
+    "Level": 44,
+    "AttackRatio": {
+      "RawValue": 60218267582
+    },
+    "DefenceRatio": {
+      "RawValue": 13089423936
+    },
+    "HPRatio": {
+      "RawValue": 69537165499
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 15358803050496
+      },
+      {
+        "RawValue": 4071628996608
+      },
+      {
+        "RawValue": 14070312861696
+      },
+      {
+        "RawValue": 8607114461184
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:45": {
+    "HardLevelGroup": 1,
+    "Level": 45,
+    "AttackRatio": {
+      "RawValue": 63100014545
+    },
+    "DefenceRatio": {
+      "RawValue": 13293945984
+    },
+    "HPRatio": {
+      "RawValue": 74082039760
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 15633680957440
+      },
+      {
+        "RawValue": 4088808865792
+      },
+      {
+        "RawValue": 14310831030272
+      },
+      {
+        "RawValue": 9122510536704
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:46": {
+    "HardLevelGroup": 1,
+    "Level": 46,
+    "AttackRatio": {
+      "RawValue": 65981761507
+    },
+    "DefenceRatio": {
+      "RawValue": 13498468035
+    },
+    "HPRatio": {
+      "RawValue": 78626909729
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 15908558864384
+      },
+      {
+        "RawValue": 4105988734976
+      },
+      {
+        "RawValue": 14534169329664
+      },
+      {
+        "RawValue": 9655086481408
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:47": {
+    "HardLevelGroup": 1,
+    "Level": 47,
+    "AttackRatio": {
+      "RawValue": 68863504171
+    },
+    "DefenceRatio": {
+      "RawValue": 13702990083
+    },
+    "HPRatio": {
+      "RawValue": 83171783993
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 16183436771328
+      },
+      {
+        "RawValue": 4123168604160
+      },
+      {
+        "RawValue": 14774687498240
+      },
+      {
+        "RawValue": 10204842295296
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:48": {
+    "HardLevelGroup": 1,
+    "Level": 48,
+    "AttackRatio": {
+      "RawValue": 71745251137
+    },
+    "DefenceRatio": {
+      "RawValue": 13907512128
+    },
+    "HPRatio": {
+      "RawValue": 87716658254
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 16458314678272
+      },
+      {
+        "RawValue": 4140348473344
+      },
+      {
+        "RawValue": 14998025797632
+      },
+      {
+        "RawValue": 10771777978368
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:49": {
+    "HardLevelGroup": 1,
+    "Level": 49,
+    "AttackRatio": {
+      "RawValue": 74626998096
+    },
+    "DefenceRatio": {
+      "RawValue": 14112034176
+    },
+    "HPRatio": {
+      "RawValue": 92261528223
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 16733192585216
+      },
+      {
+        "RawValue": 4157528342528
+      },
+      {
+        "RawValue": 15238543966208
+      },
+      {
+        "RawValue": 11355893530624
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:50": {
+    "HardLevelGroup": 1,
+    "Level": 50,
+    "AttackRatio": {
+      "RawValue": 77508740760
+    },
+    "DefenceRatio": {
+      "RawValue": 14316556224
+    },
+    "HPRatio": {
+      "RawValue": 96806402487
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 17025250361344
+      },
+      {
+        "RawValue": 7301444403200
+      },
+      {
+        "RawValue": 15479062134784
+      },
+      {
+        "RawValue": 11957188952064
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "1:51": {
+    "HardLevelGroup": 1,
+    "Level": 51,
+    "AttackRatio": {
+      "RawValue": 82003243651
+    },
+    "DefenceRatio": {
+      "RawValue": 14521078275
+    },
+    "HPRatio": {
+      "RawValue": 106530715252
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 19396072308736
+      },
+      {
+        "RawValue": 7335804141568
+      },
+      {
+        "RawValue": 17729624997888
+      },
+      {
+        "RawValue": 12575664242688
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 21474835
+    },
+    "StatusResistance": {
+      "RawValue": 17179868
+    }
+  },
+  "1:52": {
+    "HardLevelGroup": 1,
+    "Level": 52,
+    "AttackRatio": {
+      "RawValue": 86497746533
+    },
+    "DefenceRatio": {
+      "RawValue": 14725600320
+    },
+    "HPRatio": {
+      "RawValue": 116255028013
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 19688130084864
+      },
+      {
+        "RawValue": 7370163879936
+      },
+      {
+        "RawValue": 17970143166464
+      },
+      {
+        "RawValue": 13194139533312
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 42949673
+    },
+    "StatusResistance": {
+      "RawValue": 34359736
+    }
+  },
+  "1:53": {
+    "HardLevelGroup": 1,
+    "Level": 53,
+    "AttackRatio": {
+      "RawValue": 90992249424
+    },
+    "DefenceRatio": {
+      "RawValue": 14930122368
+    },
+    "HPRatio": {
+      "RawValue": 125979340781
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 19997367730176
+      },
+      {
+        "RawValue": 7404523618304
+      },
+      {
+        "RawValue": 18227841204224
+      },
+      {
+        "RawValue": 13846974562304
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 64424508
+    },
+    "StatusResistance": {
+      "RawValue": 51539607
+    }
+  },
+  "1:54": {
+    "HardLevelGroup": 1,
+    "Level": 54,
+    "AttackRatio": {
+      "RawValue": 95486752309
+    },
+    "DefenceRatio": {
+      "RawValue": 15134648711
+    },
+    "HPRatio": {
+      "RawValue": 135703653546
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 20289425506304
+      },
+      {
+        "RawValue": 7438883356672
+      },
+      {
+        "RawValue": 18485539241984
+      },
+      {
+        "RawValue": 14499809591296
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 85899346
+    },
+    "StatusResistance": {
+      "RawValue": 68719475
+    }
+  },
+  "1:55": {
+    "HardLevelGroup": 1,
+    "Level": 55,
+    "AttackRatio": {
+      "RawValue": 99981259489
+    },
+    "DefenceRatio": {
+      "RawValue": 15339170759
+    },
+    "HPRatio": {
+      "RawValue": 145427966311
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 20581483282432
+      },
+      {
+        "RawValue": 7473243095040
+      },
+      {
+        "RawValue": 18726057410560
+      },
+      {
+        "RawValue": 15187004358656
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 107374181
+    },
+    "StatusResistance": {
+      "RawValue": 85899346
+    }
+  },
+  "1:56": {
+    "HardLevelGroup": 1,
+    "Level": 56,
+    "AttackRatio": {
+      "RawValue": 104475762377
+    },
+    "DefenceRatio": {
+      "RawValue": 15543692804
+    },
+    "HPRatio": {
+      "RawValue": 155152279069
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 20890720927744
+      },
+      {
+        "RawValue": 7490422964224
+      },
+      {
+        "RawValue": 18983755448320
+      },
+      {
+        "RawValue": 15874199126016
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 128849019
+    },
+    "StatusResistance": {
+      "RawValue": 103079214
+    }
+  },
+  "1:57": {
+    "HardLevelGroup": 1,
+    "Level": 57,
+    "AttackRatio": {
+      "RawValue": 108970265265
+    },
+    "DefenceRatio": {
+      "RawValue": 15748214855
+    },
+    "HPRatio": {
+      "RawValue": 164876591834
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 21182778703872
+      },
+      {
+        "RawValue": 7524782702592
+      },
+      {
+        "RawValue": 19241453486080
+      },
+      {
+        "RawValue": 16595753631744
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 150323854
+    },
+    "StatusResistance": {
+      "RawValue": 120259082
+    }
+  },
+  "1:58": {
+    "HardLevelGroup": 1,
+    "Level": 58,
+    "AttackRatio": {
+      "RawValue": 113464768150
+    },
+    "DefenceRatio": {
+      "RawValue": 15952736903
+    },
+    "HPRatio": {
+      "RawValue": 174600904602
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 21492016349184
+      },
+      {
+        "RawValue": 7559142440960
+      },
+      {
+        "RawValue": 19499151523840
+      },
+      {
+        "RawValue": 17317308137472
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 171798692
+    },
+    "StatusResistance": {
+      "RawValue": 137438953
+    }
+  },
+  "1:59": {
+    "HardLevelGroup": 1,
+    "Level": 59,
+    "AttackRatio": {
+      "RawValue": 117959271038
+    },
+    "DefenceRatio": {
+      "RawValue": 16157258951
+    },
+    "HPRatio": {
+      "RawValue": 184325217367
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 21801253994496
+      },
+      {
+        "RawValue": 7593502179328
+      },
+      {
+        "RawValue": 19756849561600
+      },
+      {
+        "RawValue": 18056042512384
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 193273527
+    },
+    "StatusResistance": {
+      "RawValue": 154618821
+    }
+  },
+  "1:60": {
+    "HardLevelGroup": 1,
+    "Level": 60,
+    "AttackRatio": {
+      "RawValue": 122453773929
+    },
+    "DefenceRatio": {
+      "RawValue": 16361780996
+    },
+    "HPRatio": {
+      "RawValue": 194049530131
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 22110491639808
+      },
+      {
+        "RawValue": 10892037062656
+      },
+      {
+        "RawValue": 20014547599360
+      },
+      {
+        "RawValue": 18811956756480
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 214748365
+    },
+    "StatusResistance": {
+      "RawValue": 171798692
+    }
+  },
+  "1:61": {
+    "HardLevelGroup": 1,
+    "Level": 61,
+    "AttackRatio": {
+      "RawValue": 128166561465
+    },
+    "DefenceRatio": {
+      "RawValue": 16566303044
+    },
+    "HPRatio": {
+      "RawValue": 212997718956
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24601572671488
+      },
+      {
+        "RawValue": 10943576670208
+      },
+      {
+        "RawValue": 22385369546752
+      },
+      {
+        "RawValue": 19567871000576
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 236223200
+    },
+    "StatusResistance": {
+      "RawValue": 188978560
+    }
+  },
+  "1:62": {
+    "HardLevelGroup": 1,
+    "Level": 62,
+    "AttackRatio": {
+      "RawValue": 133879349003
+    },
+    "DefenceRatio": {
+      "RawValue": 16770825095
+    },
+    "HPRatio": {
+      "RawValue": 231945912069
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24927990185984
+      },
+      {
+        "RawValue": 10977936408576
+      },
+      {
+        "RawValue": 22643067584512
+      },
+      {
+        "RawValue": 20340965113856
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 257698038
+    },
+    "StatusResistance": {
+      "RawValue": 206158428
+    }
+  },
+  "1:63": {
+    "HardLevelGroup": 1,
+    "Level": 63,
+    "AttackRatio": {
+      "RawValue": 139592136545
+    },
+    "DefenceRatio": {
+      "RawValue": 16975347143
+    },
+    "HPRatio": {
+      "RawValue": 250894100897
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 25254407700480
+      },
+      {
+        "RawValue": 11029476016128
+      },
+      {
+        "RawValue": 22917945491456
+      },
+      {
+        "RawValue": 21114059227136
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 279172873
+    },
+    "StatusResistance": {
+      "RawValue": 223338299
+    }
+  },
+  "1:64": {
+    "HardLevelGroup": 1,
+    "Level": 64,
+    "AttackRatio": {
+      "RawValue": 145304924087
+    },
+    "DefenceRatio": {
+      "RawValue": 17179869184
+    },
+    "HPRatio": {
+      "RawValue": 269842294017
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 25563645345792
+      },
+      {
+        "RawValue": 11063835754496
+      },
+      {
+        "RawValue": 23192823398400
+      },
+      {
+        "RawValue": 21887153340416
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 300647711
+    },
+    "StatusResistance": {
+      "RawValue": 240518167
+    }
+  },
+  "1:65": {
+    "HardLevelGroup": 1,
+    "Level": 65,
+    "AttackRatio": {
+      "RawValue": 151017711625
+    },
+    "DefenceRatio": {
+      "RawValue": 17384391232
+    },
+    "HPRatio": {
+      "RawValue": 288790482838
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 25890062860288
+      },
+      {
+        "RawValue": 11115375362048
+      },
+      {
+        "RawValue": 23467701305344
+      },
+      {
+        "RawValue": 23244363005952
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 322122546
+    },
+    "StatusResistance": {
+      "RawValue": 257698038
+    }
+  },
+  "1:66": {
+    "HardLevelGroup": 1,
+    "Level": 66,
+    "AttackRatio": {
+      "RawValue": 156730499167
+    },
+    "DefenceRatio": {
+      "RawValue": 17588913280
+    },
+    "HPRatio": {
+      "RawValue": 307738675964
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 26216480374784
+      },
+      {
+        "RawValue": 11166914969600
+      },
+      {
+        "RawValue": 23759759081472
+      },
+      {
+        "RawValue": 24635932409856
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 343597384
+    },
+    "StatusResistance": {
+      "RawValue": 274877906
+    }
+  },
+  "1:67": {
+    "HardLevelGroup": 1,
+    "Level": 67,
+    "AttackRatio": {
+      "RawValue": 162443282414
+    },
+    "DefenceRatio": {
+      "RawValue": 17793435331
+    },
+    "HPRatio": {
+      "RawValue": 326686864782
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 26560077758464
+      },
+      {
+        "RawValue": 11201274707968
+      },
+      {
+        "RawValue": 24034636988416
+      },
+      {
+        "RawValue": 26079041421312
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 365072219
+    },
+    "StatusResistance": {
+      "RawValue": 292057774
+    }
+  },
+  "1:68": {
+    "HardLevelGroup": 1,
+    "Level": 68,
+    "AttackRatio": {
+      "RawValue": 168156069952
+    },
+    "DefenceRatio": {
+      "RawValue": 17997957379
+    },
+    "HPRatio": {
+      "RawValue": 345635057902
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 26886495272960
+      },
+      {
+        "RawValue": 11252814315520
+      },
+      {
+        "RawValue": 24309514895360
+      },
+      {
+        "RawValue": 27556510171136
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 386547057
+    },
+    "StatusResistance": {
+      "RawValue": 309237645
+    }
+  },
+  "1:69": {
+    "HardLevelGroup": 1,
+    "Level": 69,
+    "AttackRatio": {
+      "RawValue": 173868857494
+    },
+    "DefenceRatio": {
+      "RawValue": 18202479424
+    },
+    "HPRatio": {
+      "RawValue": 364583246727
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 27212912787456
+      },
+      {
+        "RawValue": 11287174053888
+      },
+      {
+        "RawValue": 24601572671488
+      },
+      {
+        "RawValue": 29085518528512
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 408021892
+    },
+    "StatusResistance": {
+      "RawValue": 326417513
+    }
+  },
+  "1:70": {
+    "HardLevelGroup": 1,
+    "Level": 70,
+    "AttackRatio": {
+      "RawValue": 179581645030
+    },
+    "DefenceRatio": {
+      "RawValue": 18407001472
+    },
+    "HPRatio": {
+      "RawValue": 383531439846
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 27556510171136
+      },
+      {
+        "RawValue": 14740327759872
+      },
+      {
+        "RawValue": 24876450578432
+      },
+      {
+        "RawValue": 29858612641792
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 429496730
+    },
+    "StatusResistance": {
+      "RawValue": 343597384
+    }
+  },
+  "1:71": {
+    "HardLevelGroup": 1,
+    "Level": 71,
+    "AttackRatio": {
+      "RawValue": 188795728565
+    },
+    "DefenceRatio": {
+      "RawValue": 18611523520
+    },
+    "HPRatio": {
+      "RawValue": 431077642639
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 30047591202816
+      },
+      {
+        "RawValue": 14740327759872
+      },
+      {
+        "RawValue": 27247272525824
+      },
+      {
+        "RawValue": 30511447670784
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 450971565
+    },
+    "StatusResistance": {
+      "RawValue": 360777252
+    }
+  },
+  "1:72": {
+    "HardLevelGroup": 1,
+    "Level": 72,
+    "AttackRatio": {
+      "RawValue": 198009807804
+    },
+    "DefenceRatio": {
+      "RawValue": 18816045571
+    },
+    "HPRatio": {
+      "RawValue": 478623845435
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 30270929502208
+      },
+      {
+        "RawValue": 14740327759872
+      },
+      {
+        "RawValue": 27419071217664
+      },
+      {
+        "RawValue": 31147102830592
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 472446403
+    },
+    "StatusResistance": {
+      "RawValue": 377957120
+    }
+  },
+  "1:73": {
+    "HardLevelGroup": 1,
+    "Level": 73,
+    "AttackRatio": {
+      "RawValue": 207223891336
+    },
+    "DefenceRatio": {
+      "RawValue": 19020567616
+    },
+    "HPRatio": {
+      "RawValue": 526170043933
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 30494267801600
+      },
+      {
+        "RawValue": 14740327759872
+      },
+      {
+        "RawValue": 27608049778688
+      },
+      {
+        "RawValue": 31799937859584
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 493921238
+    },
+    "StatusResistance": {
+      "RawValue": 395136991
+    }
+  },
+  "1:74": {
+    "HardLevelGroup": 1,
+    "Level": 74,
+    "AttackRatio": {
+      "RawValue": 216437970579
+    },
+    "DefenceRatio": {
+      "RawValue": 19225089664
+    },
+    "HPRatio": {
+      "RawValue": 573716246729
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 30734785970176
+      },
+      {
+        "RawValue": 14740327759872
+      },
+      {
+        "RawValue": 27797028339712
+      },
+      {
+        "RawValue": 32452772888576
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 515396076
+    },
+    "StatusResistance": {
+      "RawValue": 412316859
+    }
+  },
+  "1:75": {
+    "HardLevelGroup": 1,
+    "Level": 75,
+    "AttackRatio": {
+      "RawValue": 225652054111
+    },
+    "DefenceRatio": {
+      "RawValue": 19429616007
+    },
+    "HPRatio": {
+      "RawValue": 621262449525
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 30958124269568
+      },
+      {
+        "RawValue": 14740327759872
+      },
+      {
+        "RawValue": 27986006900736
+      },
+      {
+        "RawValue": 33191507263488
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 536870911
+    },
+    "StatusResistance": {
+      "RawValue": 429496730
+    }
+  },
+  "1:76": {
+    "HardLevelGroup": 1,
+    "Level": 76,
+    "AttackRatio": {
+      "RawValue": 234866133351
+    },
+    "DefenceRatio": {
+      "RawValue": 19634138055
+    },
+    "HPRatio": {
+      "RawValue": 668808652318
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 31181462568960
+      },
+      {
+        "RawValue": 14740327759872
+      },
+      {
+        "RawValue": 28174985461760
+      },
+      {
+        "RawValue": 33930241638400
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 558345749
+    },
+    "StatusResistance": {
+      "RawValue": 446676598
+    }
+  },
+  "1:77": {
+    "HardLevelGroup": 1,
+    "Level": 77,
+    "AttackRatio": {
+      "RawValue": 244080216886
+    },
+    "DefenceRatio": {
+      "RawValue": 19838660100
+    },
+    "HPRatio": {
+      "RawValue": 716354855114
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 31404800868352
+      },
+      {
+        "RawValue": 14740327759872
+      },
+      {
+        "RawValue": 28363964022784
+      },
+      {
+        "RawValue": 34668976013312
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 579820584
+    },
+    "StatusResistance": {
+      "RawValue": 463856466
+    }
+  },
+  "1:78": {
+    "HardLevelGroup": 1,
+    "Level": 78,
+    "AttackRatio": {
+      "RawValue": 253294296129
+    },
+    "DefenceRatio": {
+      "RawValue": 20043182151
+    },
+    "HPRatio": {
+      "RawValue": 763901053615
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 31628139167744
+      },
+      {
+        "RawValue": 14740327759872
+      },
+      {
+        "RawValue": 28535762714624
+      },
+      {
+        "RawValue": 35407710388224
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 601295422
+    },
+    "StatusResistance": {
+      "RawValue": 481036337
+    }
+  },
+  "1:79": {
+    "HardLevelGroup": 1,
+    "Level": 79,
+    "AttackRatio": {
+      "RawValue": 262508379660
+    },
+    "DefenceRatio": {
+      "RawValue": 20247704199
+    },
+    "HPRatio": {
+      "RawValue": 811447256411
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 31868657336320
+      },
+      {
+        "RawValue": 14740327759872
+      },
+      {
+        "RawValue": 28724741275648
+      },
+      {
+        "RawValue": 36146444763136
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 622770257
+    },
+    "StatusResistance": {
+      "RawValue": 498216205
+    }
+  },
+  "1:80": {
+    "HardLevelGroup": 1,
+    "Level": 80,
+    "AttackRatio": {
+      "RawValue": 271722458897
+    },
+    "DefenceRatio": {
+      "RawValue": 20452226247
+    },
+    "HPRatio": {
+      "RawValue": 858993459200
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 644245095
+    },
+    "StatusResistance": {
+      "RawValue": 515396076
+    }
+  },
+  "1:81": {
+    "HardLevelGroup": 1,
+    "Level": 81,
+    "AttackRatio": {
+      "RawValue": 276241370084
+    },
+    "DefenceRatio": {
+      "RawValue": 20656748292
+    },
+    "HPRatio": {
+      "RawValue": 914828034048
+    },
+    "SpeedRatio": {
+      "RawValue": 5153960756
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 665719930
+    },
+    "StatusResistance": {
+      "RawValue": 532575944
+    }
+  },
+  "1:82": {
+    "HardLevelGroup": 1,
+    "Level": 82,
+    "AttackRatio": {
+      "RawValue": 280797170744
+    },
+    "DefenceRatio": {
+      "RawValue": 20861270340
+    },
+    "HPRatio": {
+      "RawValue": 971500127518
+    },
+    "SpeedRatio": {
+      "RawValue": 5153960756
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 687194768
+    },
+    "StatusResistance": {
+      "RawValue": 549755812
+    }
+  },
+  "1:83": {
+    "HardLevelGroup": 1,
+    "Level": 83,
+    "AttackRatio": {
+      "RawValue": 285389895237
+    },
+    "DefenceRatio": {
+      "RawValue": 21065792391
+    },
+    "HPRatio": {
+      "RawValue": 1029022302395
+    },
+    "SpeedRatio": {
+      "RawValue": 5153960756
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 708669603
+    },
+    "StatusResistance": {
+      "RawValue": 566935683
+    }
+  },
+  "1:84": {
+    "HardLevelGroup": 1,
+    "Level": 84,
+    "AttackRatio": {
+      "RawValue": 290019590811
+    },
+    "DefenceRatio": {
+      "RawValue": 21270314439
+    },
+    "HPRatio": {
+      "RawValue": 1087407310428
+    },
+    "SpeedRatio": {
+      "RawValue": 5153960756
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 730144441
+    },
+    "StatusResistance": {
+      "RawValue": 584115551
+    }
+  },
+  "1:85": {
+    "HardLevelGroup": 1,
+    "Level": 85,
+    "AttackRatio": {
+      "RawValue": 294686296115
+    },
+    "DefenceRatio": {
+      "RawValue": 21474836480
+    },
+    "HPRatio": {
+      "RawValue": 1146668092358
+    },
+    "SpeedRatio": {
+      "RawValue": 5153960756
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 751619276
+    },
+    "StatusResistance": {
+      "RawValue": 601295422
+    }
+  },
+  "1:86": {
+    "HardLevelGroup": 1,
+    "Level": 86,
+    "AttackRatio": {
+      "RawValue": 299390049810
+    },
+    "DefenceRatio": {
+      "RawValue": 21679358528
+    },
+    "HPRatio": {
+      "RawValue": 1206817786489
+    },
+    "SpeedRatio": {
+      "RawValue": 5368709121
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 773094114
+    },
+    "StatusResistance": {
+      "RawValue": 618475290
+    }
+  },
+  "1:87": {
+    "HardLevelGroup": 1,
+    "Level": 87,
+    "AttackRatio": {
+      "RawValue": 304130894846
+    },
+    "DefenceRatio": {
+      "RawValue": 21883880576
+    },
+    "HPRatio": {
+      "RawValue": 1267869728691
+    },
+    "SpeedRatio": {
+      "RawValue": 5368709121
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 794568949
+    },
+    "StatusResistance": {
+      "RawValue": 635655158
+    }
+  },
+  "1:88": {
+    "HardLevelGroup": 1,
+    "Level": 88,
+    "AttackRatio": {
+      "RawValue": 308908869866
+    },
+    "DefenceRatio": {
+      "RawValue": 22088402627
+    },
+    "HPRatio": {
+      "RawValue": 1329837443825
+    },
+    "SpeedRatio": {
+      "RawValue": 5368709121
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 816043787
+    },
+    "StatusResistance": {
+      "RawValue": 652835029
+    }
+  },
+  "1:89": {
+    "HardLevelGroup": 1,
+    "Level": 89,
+    "AttackRatio": {
+      "RawValue": 313724017828
+    },
+    "DefenceRatio": {
+      "RawValue": 22292924675
+    },
+    "HPRatio": {
+      "RawValue": 1392734680073
+    },
+    "SpeedRatio": {
+      "RawValue": 5368709121
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 837518622
+    },
+    "StatusResistance": {
+      "RawValue": 670014897
+    }
+  },
+  "1:90": {
+    "HardLevelGroup": 1,
+    "Level": 90,
+    "AttackRatio": {
+      "RawValue": 318576373094
+    },
+    "DefenceRatio": {
+      "RawValue": 22497446720
+    },
+    "HPRatio": {
+      "RawValue": 1456575374609
+    },
+    "SpeedRatio": {
+      "RawValue": 5368709121
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 858993460
+    },
+    "StatusResistance": {
+      "RawValue": 687194768
+    }
+  },
+  "1:91": {
+    "HardLevelGroup": 1,
+    "Level": 91,
+    "AttackRatio": {
+      "RawValue": 320263341758
+    },
+    "DefenceRatio": {
+      "RawValue": 22701968768
+    },
+    "HPRatio": {
+      "RawValue": 1521373675052
+    },
+    "SpeedRatio": {
+      "RawValue": 5583457486
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 880468295
+    },
+    "StatusResistance": {
+      "RawValue": 704374636
+    }
+  },
+  "1:92": {
+    "HardLevelGroup": 1,
+    "Level": 92,
+    "AttackRatio": {
+      "RawValue": 321953793646
+    },
+    "DefenceRatio": {
+      "RawValue": 22906490816
+    },
+    "HPRatio": {
+      "RawValue": 1587143956662
+    },
+    "SpeedRatio": {
+      "RawValue": 5583457486
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 901943133
+    },
+    "StatusResistance": {
+      "RawValue": 721554504
+    }
+  },
+  "1:93": {
+    "HardLevelGroup": 1,
+    "Level": 93,
+    "AttackRatio": {
+      "RawValue": 323647655730
+    },
+    "DefenceRatio": {
+      "RawValue": 23111012867
+    },
+    "HPRatio": {
+      "RawValue": 1653900787961
+    },
+    "SpeedRatio": {
+      "RawValue": 5583457486
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 923417968
+    },
+    "StatusResistance": {
+      "RawValue": 738734375
+    }
+  },
+  "1:94": {
+    "HardLevelGroup": 1,
+    "Level": 94,
+    "AttackRatio": {
+      "RawValue": 325344872189
+    },
+    "DefenceRatio": {
+      "RawValue": 23315534912
+    },
+    "HPRatio": {
+      "RawValue": 1721658973711
+    },
+    "SpeedRatio": {
+      "RawValue": 5583457486
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 944892806
+    },
+    "StatusResistance": {
+      "RawValue": 755914243
+    }
+  },
+  "1:95": {
+    "HardLevelGroup": 1,
+    "Level": 95,
+    "AttackRatio": {
+      "RawValue": 327045382882
+    },
+    "DefenceRatio": {
+      "RawValue": 23520056960
+    },
+    "HPRatio": {
+      "RawValue": 1790433529107
+    },
+    "SpeedRatio": {
+      "RawValue": 5583457486
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 966367641
+    },
+    "StatusResistance": {
+      "RawValue": 773094114
+    }
+  },
+  "1:96": {
+    "HardLevelGroup": 1,
+    "Level": 96,
+    "AttackRatio": {
+      "RawValue": 328749131988
+    },
+    "DefenceRatio": {
+      "RawValue": 23724583303
+    },
+    "HPRatio": {
+      "RawValue": 1860239705580
+    },
+    "SpeedRatio": {
+      "RawValue": 5798205851
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 987842479
+    },
+    "StatusResistance": {
+      "RawValue": 790273982
+    }
+  },
+  "1:97": {
+    "HardLevelGroup": 1,
+    "Level": 97,
+    "AttackRatio": {
+      "RawValue": 330456059367
+    },
+    "DefenceRatio": {
+      "RawValue": 23929105351
+    },
+    "HPRatio": {
+      "RawValue": 1931092973608
+    },
+    "SpeedRatio": {
+      "RawValue": 5798205851
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 1009317314
+    },
+    "StatusResistance": {
+      "RawValue": 807453850
+    }
+  },
+  "1:98": {
+    "HardLevelGroup": 1,
+    "Level": 98,
+    "AttackRatio": {
+      "RawValue": 332166113475
+    },
+    "DefenceRatio": {
+      "RawValue": 24133627396
+    },
+    "HPRatio": {
+      "RawValue": 2003009039887
+    },
+    "SpeedRatio": {
+      "RawValue": 5798205851
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 1030792152
+    },
+    "StatusResistance": {
+      "RawValue": 824633721
+    }
+  },
+  "1:99": {
+    "HardLevelGroup": 1,
+    "Level": 99,
+    "AttackRatio": {
+      "RawValue": 333879247081
+    },
+    "DefenceRatio": {
+      "RawValue": 24338149447
+    },
+    "HPRatio": {
+      "RawValue": 2076003851618
+    },
+    "SpeedRatio": {
+      "RawValue": 5798205851
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 1052266987
+    },
+    "StatusResistance": {
+      "RawValue": 841813589
+    }
+  },
+  "1:100": {
+    "HardLevelGroup": 1,
+    "Level": 100,
+    "AttackRatio": {
+      "RawValue": 335595408640
+    },
+    "DefenceRatio": {
+      "RawValue": 24542671495
+    },
+    "HPRatio": {
+      "RawValue": 2150093579371
+    },
+    "SpeedRatio": {
+      "RawValue": 5798205851
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 32091995635712
+      },
+      {
+        "RawValue": 15874199126016
+      },
+      {
+        "RawValue": 28913719836672
+      },
+      {
+        "RawValue": 36885179138048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 1073741825
+    },
+    "StatusResistance": {
+      "RawValue": 858993460
+    }
+  },
+  "2:1": {
+    "HardLevelGroup": 2,
+    "Level": 1,
+    "AttackRatio": {
+      "RawValue": 2576980380
+    },
+    "DefenceRatio": {
+      "RawValue": 4294967296
+    },
+    "HPRatio": {
+      "RawValue": 3865470570
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:2": {
+    "HardLevelGroup": 2,
+    "Level": 2,
+    "AttackRatio": {
+      "RawValue": 3035777378
+    },
+    "DefenceRatio": {
+      "RawValue": 4499489344
+    },
+    "HPRatio": {
+      "RawValue": 4221093864
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:3": {
+    "HardLevelGroup": 2,
+    "Level": 3,
+    "AttackRatio": {
+      "RawValue": 3533340752
+    },
+    "DefenceRatio": {
+      "RawValue": 4704011392
+    },
+    "HPRatio": {
+      "RawValue": 4583589097
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:4": {
+    "HardLevelGroup": 2,
+    "Level": 4,
+    "AttackRatio": {
+      "RawValue": 4902778185
+    },
+    "DefenceRatio": {
+      "RawValue": 4908533443
+    },
+    "HPRatio": {
+      "RawValue": 6291066236
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:5": {
+    "HardLevelGroup": 2,
+    "Level": 5,
+    "AttackRatio": {
+      "RawValue": 5265909079
+    },
+    "DefenceRatio": {
+      "RawValue": 5113055491
+    },
+    "HPRatio": {
+      "RawValue": 6710504151
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 2087354105856
+      },
+      {
+        "RawValue": 1056561954816
+      },
+      {
+        "RawValue": 1958505086976
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:6": {
+    "HardLevelGroup": 2,
+    "Level": 6,
+    "AttackRatio": {
+      "RawValue": 5559633304
+    },
+    "DefenceRatio": {
+      "RawValue": 5317577536
+    },
+    "HPRatio": {
+      "RawValue": 7137694487
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 2229088026624
+      },
+      {
+        "RawValue": 1056561954816
+      },
+      {
+        "RawValue": 2074469203968
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:7": {
+    "HardLevelGroup": 2,
+    "Level": 7,
+    "AttackRatio": {
+      "RawValue": 5936383541
+    },
+    "DefenceRatio": {
+      "RawValue": 5522099584
+    },
+    "HPRatio": {
+      "RawValue": 7572650117
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 2357937045504
+      },
+      {
+        "RawValue": 1069446856704
+      },
+      {
+        "RawValue": 2190433320960
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:8": {
+    "HardLevelGroup": 2,
+    "Level": 8,
+    "AttackRatio": {
+      "RawValue": 6235381987
+    },
+    "DefenceRatio": {
+      "RawValue": 5726621632
+    },
+    "HPRatio": {
+      "RawValue": 8015379640
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 2499670966272
+      },
+      {
+        "RawValue": 1069446856704
+      },
+      {
+        "RawValue": 2306397437952
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:9": {
+    "HardLevelGroup": 2,
+    "Level": 9,
+    "AttackRatio": {
+      "RawValue": 6534895824
+    },
+    "DefenceRatio": {
+      "RawValue": 5931143683
+    },
+    "HPRatio": {
+      "RawValue": 8465891646
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 2641404887040
+      },
+      {
+        "RawValue": 1069446856704
+      },
+      {
+        "RawValue": 2435246456832
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:10": {
+    "HardLevelGroup": 2,
+    "Level": 10,
+    "AttackRatio": {
+      "RawValue": 6834894996
+    },
+    "DefenceRatio": {
+      "RawValue": 6135665728
+    },
+    "HPRatio": {
+      "RawValue": 8924194718
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 2783138807808
+      },
+      {
+        "RawValue": 1082331758592
+      },
+      {
+        "RawValue": 2551210573824
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:11": {
+    "HardLevelGroup": 2,
+    "Level": 11,
+    "AttackRatio": {
+      "RawValue": 8009173416
+    },
+    "DefenceRatio": {
+      "RawValue": 6340187776
+    },
+    "HPRatio": {
+      "RawValue": 10120154133
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 2937757630464
+      },
+      {
+        "RawValue": 1082331758592
+      },
+      {
+        "RawValue": 2667174690816
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:12": {
+    "HardLevelGroup": 2,
+    "Level": 12,
+    "AttackRatio": {
+      "RawValue": 9183451829
+    },
+    "DefenceRatio": {
+      "RawValue": 6544714119
+    },
+    "HPRatio": {
+      "RawValue": 11316113548
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3079491551232
+      },
+      {
+        "RawValue": 1095216660480
+      },
+      {
+        "RawValue": 2796023709696
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:13": {
+    "HardLevelGroup": 2,
+    "Level": 13,
+    "AttackRatio": {
+      "RawValue": 10357730252
+    },
+    "DefenceRatio": {
+      "RawValue": 6749236167
+    },
+    "HPRatio": {
+      "RawValue": 12512068668
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3234110373888
+      },
+      {
+        "RawValue": 1095216660480
+      },
+      {
+        "RawValue": 2911987826688
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:14": {
+    "HardLevelGroup": 2,
+    "Level": 14,
+    "AttackRatio": {
+      "RawValue": 11532008666
+    },
+    "DefenceRatio": {
+      "RawValue": 6953758212
+    },
+    "HPRatio": {
+      "RawValue": 13708028079
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3375844294656
+      },
+      {
+        "RawValue": 1108101562368
+      },
+      {
+        "RawValue": 3040836845568
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:15": {
+    "HardLevelGroup": 2,
+    "Level": 15,
+    "AttackRatio": {
+      "RawValue": 12706287086
+    },
+    "DefenceRatio": {
+      "RawValue": 7158280263
+    },
+    "HPRatio": {
+      "RawValue": 14903987491
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3530463117312
+      },
+      {
+        "RawValue": 1108101562368
+      },
+      {
+        "RawValue": 3156800962560
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:16": {
+    "HardLevelGroup": 2,
+    "Level": 16,
+    "AttackRatio": {
+      "RawValue": 13880565505
+    },
+    "DefenceRatio": {
+      "RawValue": 7362802311
+    },
+    "HPRatio": {
+      "RawValue": 16099946906
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3685081939968
+      },
+      {
+        "RawValue": 1120986464256
+      },
+      {
+        "RawValue": 3285649981440
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:17": {
+    "HardLevelGroup": 2,
+    "Level": 17,
+    "AttackRatio": {
+      "RawValue": 15054843922
+    },
+    "DefenceRatio": {
+      "RawValue": 7567324359
+    },
+    "HPRatio": {
+      "RawValue": 17295902019
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3826815860736
+      },
+      {
+        "RawValue": 1120986464256
+      },
+      {
+        "RawValue": 3414499000320
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:18": {
+    "HardLevelGroup": 2,
+    "Level": 18,
+    "AttackRatio": {
+      "RawValue": 16229122342
+    },
+    "DefenceRatio": {
+      "RawValue": 7771846404
+    },
+    "HPRatio": {
+      "RawValue": 18491861437
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 3981434683392
+      },
+      {
+        "RawValue": 1120986464256
+      },
+      {
+        "RawValue": 3543348019200
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:19": {
+    "HardLevelGroup": 2,
+    "Level": 19,
+    "AttackRatio": {
+      "RawValue": 17403400758
+    },
+    "DefenceRatio": {
+      "RawValue": 7976368452
+    },
+    "HPRatio": {
+      "RawValue": 19687820852
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4136053506048
+      },
+      {
+        "RawValue": 1133871366144
+      },
+      {
+        "RawValue": 3672197038080
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:20": {
+    "HardLevelGroup": 2,
+    "Level": 20,
+    "AttackRatio": {
+      "RawValue": 18577679178
+    },
+    "DefenceRatio": {
+      "RawValue": 8180890503
+    },
+    "HPRatio": {
+      "RawValue": 20883780267
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 4303557230592
+      },
+      {
+        "RawValue": 1133871366144
+      },
+      {
+        "RawValue": 3801046056960
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:21": {
+    "HardLevelGroup": 2,
+    "Level": 21,
+    "AttackRatio": {
+      "RawValue": 20083357272
+    },
+    "DefenceRatio": {
+      "RawValue": 8385412551
+    },
+    "HPRatio": {
+      "RawValue": 22407475744
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 5823975653376
+      },
+      {
+        "RawValue": 1146756268032
+      },
+      {
+        "RawValue": 5244155068416
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:22": {
+    "HardLevelGroup": 2,
+    "Level": 22,
+    "AttackRatio": {
+      "RawValue": 21589039663
+    },
+    "DefenceRatio": {
+      "RawValue": 8589934592
+    },
+    "HPRatio": {
+      "RawValue": 23931166936
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 5991479377920
+      },
+      {
+        "RawValue": 1146756268032
+      },
+      {
+        "RawValue": 5385888989184
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:23": {
+    "HardLevelGroup": 2,
+    "Level": 23,
+    "AttackRatio": {
+      "RawValue": 23094722052
+    },
+    "DefenceRatio": {
+      "RawValue": 8794456640
+    },
+    "HPRatio": {
+      "RawValue": 25454862420
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 6158983102464
+      },
+      {
+        "RawValue": 1159641169920
+      },
+      {
+        "RawValue": 5527622909952
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:24": {
+    "HardLevelGroup": 2,
+    "Level": 24,
+    "AttackRatio": {
+      "RawValue": 24600400149
+    },
+    "DefenceRatio": {
+      "RawValue": 8998978688
+    },
+    "HPRatio": {
+      "RawValue": 26978557900
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 6326486827008
+      },
+      {
+        "RawValue": 1159641169920
+      },
+      {
+        "RawValue": 5669356830720
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:25": {
+    "HardLevelGroup": 2,
+    "Level": 25,
+    "AttackRatio": {
+      "RawValue": 26106082537
+    },
+    "DefenceRatio": {
+      "RawValue": 9203500739
+    },
+    "HPRatio": {
+      "RawValue": 28502253384
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 6506875453440
+      },
+      {
+        "RawValue": 1159641169920
+      },
+      {
+        "RawValue": 5811090751488
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:26": {
+    "HardLevelGroup": 2,
+    "Level": 26,
+    "AttackRatio": {
+      "RawValue": 27611760634
+    },
+    "DefenceRatio": {
+      "RawValue": 9408022787
+    },
+    "HPRatio": {
+      "RawValue": 30025948871
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 6674379177984
+      },
+      {
+        "RawValue": 1172526071808
+      },
+      {
+        "RawValue": 5952824672256
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:27": {
+    "HardLevelGroup": 2,
+    "Level": 27,
+    "AttackRatio": {
+      "RawValue": 29117443023
+    },
+    "DefenceRatio": {
+      "RawValue": 9612544832
+    },
+    "HPRatio": {
+      "RawValue": 31549644348
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 6841882902528
+      },
+      {
+        "RawValue": 1172526071808
+      },
+      {
+        "RawValue": 6094558593024
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:28": {
+    "HardLevelGroup": 2,
+    "Level": 28,
+    "AttackRatio": {
+      "RawValue": 30623121116
+    },
+    "DefenceRatio": {
+      "RawValue": 9817066880
+    },
+    "HPRatio": {
+      "RawValue": 33073335540
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 7022271528960
+      },
+      {
+        "RawValue": 1185410973696
+      },
+      {
+        "RawValue": 6236292513792
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:29": {
+    "HardLevelGroup": 2,
+    "Level": 29,
+    "AttackRatio": {
+      "RawValue": 32128803511
+    },
+    "DefenceRatio": {
+      "RawValue": 10021588928
+    },
+    "HPRatio": {
+      "RawValue": 34597031017
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 7202660155392
+      },
+      {
+        "RawValue": 1185410973696
+      },
+      {
+        "RawValue": 6390911336448
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:30": {
+    "HardLevelGroup": 2,
+    "Level": 30,
+    "AttackRatio": {
+      "RawValue": 33634481605
+    },
+    "DefenceRatio": {
+      "RawValue": 10226110979
+    },
+    "HPRatio": {
+      "RawValue": 36120726501
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 7370163879936
+      },
+      {
+        "RawValue": 2860448219136
+      },
+      {
+        "RawValue": 6893422510080
+      },
+      {
+        "RawValue": 0
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:31": {
+    "HardLevelGroup": 2,
+    "Level": 31,
+    "AttackRatio": {
+      "RawValue": 35140163993
+    },
+    "DefenceRatio": {
+      "RawValue": 10430633024
+    },
+    "HPRatio": {
+      "RawValue": 37644421988
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 7550552506368
+      },
+      {
+        "RawValue": 2873333121024
+      },
+      {
+        "RawValue": 7035156430848
+      },
+      {
+        "RawValue": 1868310773760
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:32": {
+    "HardLevelGroup": 2,
+    "Level": 32,
+    "AttackRatio": {
+      "RawValue": 36645842090
+    },
+    "DefenceRatio": {
+      "RawValue": 10635155072
+    },
+    "HPRatio": {
+      "RawValue": 39168117465
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 7730941132800
+      },
+      {
+        "RawValue": 2886218022912
+      },
+      {
+        "RawValue": 7189775253504
+      },
+      {
+        "RawValue": 2074469203968
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:33": {
+    "HardLevelGroup": 2,
+    "Level": 33,
+    "AttackRatio": {
+      "RawValue": 38151524482
+    },
+    "DefenceRatio": {
+      "RawValue": 10839681415
+    },
+    "HPRatio": {
+      "RawValue": 40691812949
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 7911329759232
+      },
+      {
+        "RawValue": 2899102924800
+      },
+      {
+        "RawValue": 7344394076160
+      },
+      {
+        "RawValue": 2267742732288
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:34": {
+    "HardLevelGroup": 2,
+    "Level": 34,
+    "AttackRatio": {
+      "RawValue": 39657206867
+    },
+    "DefenceRatio": {
+      "RawValue": 11044203463
+    },
+    "HPRatio": {
+      "RawValue": 42215508433
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 8091718385664
+      },
+      {
+        "RawValue": 2911987826688
+      },
+      {
+        "RawValue": 7499012898816
+      },
+      {
+        "RawValue": 2280627634176
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:35": {
+    "HardLevelGroup": 2,
+    "Level": 35,
+    "AttackRatio": {
+      "RawValue": 41162884967
+    },
+    "DefenceRatio": {
+      "RawValue": 11248725508
+    },
+    "HPRatio": {
+      "RawValue": 43739199621
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 8284991913984
+      },
+      {
+        "RawValue": 2924872728576
+      },
+      {
+        "RawValue": 7653631721472
+      },
+      {
+        "RawValue": 2473901162496
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:36": {
+    "HardLevelGroup": 2,
+    "Level": 36,
+    "AttackRatio": {
+      "RawValue": 42668567356
+    },
+    "DefenceRatio": {
+      "RawValue": 11453247559
+    },
+    "HPRatio": {
+      "RawValue": 45262895105
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 8465380540416
+      },
+      {
+        "RawValue": 2950642532352
+      },
+      {
+        "RawValue": 7808250544128
+      },
+      {
+        "RawValue": 2486786064384
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:37": {
+    "HardLevelGroup": 2,
+    "Level": 37,
+    "AttackRatio": {
+      "RawValue": 44174245446
+    },
+    "DefenceRatio": {
+      "RawValue": 11657769607
+    },
+    "HPRatio": {
+      "RawValue": 46786590589
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 8645769166848
+      },
+      {
+        "RawValue": 2963527434240
+      },
+      {
+        "RawValue": 7962869366784
+      },
+      {
+        "RawValue": 2499670966272
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:38": {
+    "HardLevelGroup": 2,
+    "Level": 38,
+    "AttackRatio": {
+      "RawValue": 45679927841
+    },
+    "DefenceRatio": {
+      "RawValue": 11862291655
+    },
+    "HPRatio": {
+      "RawValue": 48310286066
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 8839042695168
+      },
+      {
+        "RawValue": 2976412336128
+      },
+      {
+        "RawValue": 8117488189440
+      },
+      {
+        "RawValue": 2512555868160
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:39": {
+    "HardLevelGroup": 2,
+    "Level": 39,
+    "AttackRatio": {
+      "RawValue": 47185605935
+    },
+    "DefenceRatio": {
+      "RawValue": 12066813700
+    },
+    "HPRatio": {
+      "RawValue": 49833981556
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 9032316223488
+      },
+      {
+        "RawValue": 2989297238016
+      },
+      {
+        "RawValue": 8284991913984
+      },
+      {
+        "RawValue": 2525440770048
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:40": {
+    "HardLevelGroup": 2,
+    "Level": 40,
+    "AttackRatio": {
+      "RawValue": 48691288323
+    },
+    "DefenceRatio": {
+      "RawValue": 12271335748
+    },
+    "HPRatio": {
+      "RawValue": 51357677037
+    },
+    "SpeedRatio": {
+      "RawValue": 4294967296
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 9225589751808
+      },
+      {
+        "RawValue": 3002182139904
+      },
+      {
+        "RawValue": 8439610736640
+      },
+      {
+        "RawValue": 5463198400512
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:41": {
+    "HardLevelGroup": 2,
+    "Level": 41,
+    "AttackRatio": {
+      "RawValue": 51573030990
+    },
+    "DefenceRatio": {
+      "RawValue": 12475857799
+    },
+    "HPRatio": {
+      "RawValue": 55902547002
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 10913511899136
+      },
+      {
+        "RawValue": 3015067041792
+      },
+      {
+        "RawValue": 10050223472640
+      },
+      {
+        "RawValue": 5488968204288
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:42": {
+    "HardLevelGroup": 2,
+    "Level": 42,
+    "AttackRatio": {
+      "RawValue": 54454777953
+    },
+    "DefenceRatio": {
+      "RawValue": 12680379847
+    },
+    "HPRatio": {
+      "RawValue": 60447421263
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 11119670329344
+      },
+      {
+        "RawValue": 3027951943680
+      },
+      {
+        "RawValue": 10217727197184
+      },
+      {
+        "RawValue": 5901285064704
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:43": {
+    "HardLevelGroup": 2,
+    "Level": 43,
+    "AttackRatio": {
+      "RawValue": 57336524912
+    },
+    "DefenceRatio": {
+      "RawValue": 12884901888
+    },
+    "HPRatio": {
+      "RawValue": 64992291235
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 11312943857664
+      },
+      {
+        "RawValue": 3040836845568
+      },
+      {
+        "RawValue": 10385230921728
+      },
+      {
+        "RawValue": 5927054868480
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:44": {
+    "HardLevelGroup": 2,
+    "Level": 44,
+    "AttackRatio": {
+      "RawValue": 60218267582
+    },
+    "DefenceRatio": {
+      "RawValue": 13089423936
+    },
+    "HPRatio": {
+      "RawValue": 69537165499
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 11519102287872
+      },
+      {
+        "RawValue": 3053721747456
+      },
+      {
+        "RawValue": 10552734646272
+      },
+      {
+        "RawValue": 6352256630784
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:45": {
+    "HardLevelGroup": 2,
+    "Level": 45,
+    "AttackRatio": {
+      "RawValue": 63100014545
+    },
+    "DefenceRatio": {
+      "RawValue": 13293945984
+    },
+    "HPRatio": {
+      "RawValue": 74082039760
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 11725260718080
+      },
+      {
+        "RawValue": 3066606649344
+      },
+      {
+        "RawValue": 10733123272704
+      },
+      {
+        "RawValue": 6378026434560
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:46": {
+    "HardLevelGroup": 2,
+    "Level": 46,
+    "AttackRatio": {
+      "RawValue": 65981761507
+    },
+    "DefenceRatio": {
+      "RawValue": 13498468035
+    },
+    "HPRatio": {
+      "RawValue": 78626909729
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 11931419148288
+      },
+      {
+        "RawValue": 3079491551232
+      },
+      {
+        "RawValue": 10900626997248
+      },
+      {
+        "RawValue": 6403796238336
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:47": {
+    "HardLevelGroup": 2,
+    "Level": 47,
+    "AttackRatio": {
+      "RawValue": 68863504171
+    },
+    "DefenceRatio": {
+      "RawValue": 13702990083
+    },
+    "HPRatio": {
+      "RawValue": 83171783993
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 12137577578496
+      },
+      {
+        "RawValue": 3092376453120
+      },
+      {
+        "RawValue": 11081015623680
+      },
+      {
+        "RawValue": 6442450944000
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:48": {
+    "HardLevelGroup": 2,
+    "Level": 48,
+    "AttackRatio": {
+      "RawValue": 71745251137
+    },
+    "DefenceRatio": {
+      "RawValue": 13907512128
+    },
+    "HPRatio": {
+      "RawValue": 87716658254
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 12343736008704
+      },
+      {
+        "RawValue": 3105261355008
+      },
+      {
+        "RawValue": 11248519348224
+      },
+      {
+        "RawValue": 6468220747776
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:49": {
+    "HardLevelGroup": 2,
+    "Level": 49,
+    "AttackRatio": {
+      "RawValue": 74626998096
+    },
+    "DefenceRatio": {
+      "RawValue": 14112034176
+    },
+    "HPRatio": {
+      "RawValue": 92261528223
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 12549894438912
+      },
+      {
+        "RawValue": 3118146256896
+      },
+      {
+        "RawValue": 11428907974656
+      },
+      {
+        "RawValue": 6493990551552
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:50": {
+    "HardLevelGroup": 2,
+    "Level": 50,
+    "AttackRatio": {
+      "RawValue": 77508740760
+    },
+    "DefenceRatio": {
+      "RawValue": 14316556224
+    },
+    "HPRatio": {
+      "RawValue": 96806402487
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 12768937771008
+      },
+      {
+        "RawValue": 5476083302400
+      },
+      {
+        "RawValue": 11609296601088
+      },
+      {
+        "RawValue": 13851269529600
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 0
+    },
+    "StatusResistance": {
+      "RawValue": 0
+    }
+  },
+  "2:51": {
+    "HardLevelGroup": 2,
+    "Level": 51,
+    "AttackRatio": {
+      "RawValue": 82003243651
+    },
+    "DefenceRatio": {
+      "RawValue": 14521078275
+    },
+    "HPRatio": {
+      "RawValue": 106530715252
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 14547054231552
+      },
+      {
+        "RawValue": 5501853106176
+      },
+      {
+        "RawValue": 13297218748416
+      },
+      {
+        "RawValue": 13915694039040
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 21474835
+    },
+    "StatusResistance": {
+      "RawValue": 17179868
+    }
+  },
+  "2:52": {
+    "HardLevelGroup": 2,
+    "Level": 52,
+    "AttackRatio": {
+      "RawValue": 86497746533
+    },
+    "DefenceRatio": {
+      "RawValue": 14725600320
+    },
+    "HPRatio": {
+      "RawValue": 116255028013
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 14766097563648
+      },
+      {
+        "RawValue": 5527622909952
+      },
+      {
+        "RawValue": 13477607374848
+      },
+      {
+        "RawValue": 14791867367424
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 42949673
+    },
+    "StatusResistance": {
+      "RawValue": 34359736
+    }
+  },
+  "2:53": {
+    "HardLevelGroup": 2,
+    "Level": 53,
+    "AttackRatio": {
+      "RawValue": 90992249424
+    },
+    "DefenceRatio": {
+      "RawValue": 14930122368
+    },
+    "HPRatio": {
+      "RawValue": 125979340781
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 14998025797632
+      },
+      {
+        "RawValue": 5553392713728
+      },
+      {
+        "RawValue": 13670880903168
+      },
+      {
+        "RawValue": 14856291876864
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 64424508
+    },
+    "StatusResistance": {
+      "RawValue": 51539607
+    }
+  },
+  "2:54": {
+    "HardLevelGroup": 2,
+    "Level": 54,
+    "AttackRatio": {
+      "RawValue": 95486752309
+    },
+    "DefenceRatio": {
+      "RawValue": 15134648711
+    },
+    "HPRatio": {
+      "RawValue": 135703653546
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 15217069129728
+      },
+      {
+        "RawValue": 5579162517504
+      },
+      {
+        "RawValue": 13864154431488
+      },
+      {
+        "RawValue": 15758235009024
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 85899346
+    },
+    "StatusResistance": {
+      "RawValue": 68719475
+    }
+  },
+  "2:55": {
+    "HardLevelGroup": 2,
+    "Level": 55,
+    "AttackRatio": {
+      "RawValue": 99981259489
+    },
+    "DefenceRatio": {
+      "RawValue": 15339170759
+    },
+    "HPRatio": {
+      "RawValue": 145427966311
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 15436112461824
+      },
+      {
+        "RawValue": 5604932321280
+      },
+      {
+        "RawValue": 14044543057920
+      },
+      {
+        "RawValue": 15822659518464
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 107374181
+    },
+    "StatusResistance": {
+      "RawValue": 85899346
+    }
+  },
+  "2:56": {
+    "HardLevelGroup": 2,
+    "Level": 56,
+    "AttackRatio": {
+      "RawValue": 104475762377
+    },
+    "DefenceRatio": {
+      "RawValue": 15543692804
+    },
+    "HPRatio": {
+      "RawValue": 155152279069
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 15668040695808
+      },
+      {
+        "RawValue": 5617817223168
+      },
+      {
+        "RawValue": 14237816586240
+      },
+      {
+        "RawValue": 15887084027904
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 128849019
+    },
+    "StatusResistance": {
+      "RawValue": 103079214
+    }
+  },
+  "2:57": {
+    "HardLevelGroup": 2,
+    "Level": 57,
+    "AttackRatio": {
+      "RawValue": 108970265265
+    },
+    "DefenceRatio": {
+      "RawValue": 15748214855
+    },
+    "HPRatio": {
+      "RawValue": 164876591834
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 15887084027904
+      },
+      {
+        "RawValue": 5643587026944
+      },
+      {
+        "RawValue": 14431090114560
+      },
+      {
+        "RawValue": 15951508537344
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 150323854
+    },
+    "StatusResistance": {
+      "RawValue": 120259082
+    }
+  },
+  "2:58": {
+    "HardLevelGroup": 2,
+    "Level": 58,
+    "AttackRatio": {
+      "RawValue": 113464768150
+    },
+    "DefenceRatio": {
+      "RawValue": 15952736903
+    },
+    "HPRatio": {
+      "RawValue": 174600904602
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 16119012261888
+      },
+      {
+        "RawValue": 5669356830720
+      },
+      {
+        "RawValue": 14624363642880
+      },
+      {
+        "RawValue": 16015933046784
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 171798692
+    },
+    "StatusResistance": {
+      "RawValue": 137438953
+    }
+  },
+  "2:59": {
+    "HardLevelGroup": 2,
+    "Level": 59,
+    "AttackRatio": {
+      "RawValue": 117959271038
+    },
+    "DefenceRatio": {
+      "RawValue": 16157258951
+    },
+    "HPRatio": {
+      "RawValue": 184325217367
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 16350940495872
+      },
+      {
+        "RawValue": 5695126634496
+      },
+      {
+        "RawValue": 14817637171200
+      },
+      {
+        "RawValue": 16080357556224
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 193273527
+    },
+    "StatusResistance": {
+      "RawValue": 154618821
+    }
+  },
+  "2:60": {
+    "HardLevelGroup": 2,
+    "Level": 60,
+    "AttackRatio": {
+      "RawValue": 122453773929
+    },
+    "DefenceRatio": {
+      "RawValue": 16361780996
+    },
+    "HPRatio": {
+      "RawValue": 194049530131
+    },
+    "SpeedRatio": {
+      "RawValue": 4509715661
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 16582868729856
+      },
+      {
+        "RawValue": 8169027796992
+      },
+      {
+        "RawValue": 15010910699520
+      },
+      {
+        "RawValue": 16995185590272
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 214748365
+    },
+    "StatusResistance": {
+      "RawValue": 171798692
+    }
+  },
+  "2:61": {
+    "HardLevelGroup": 2,
+    "Level": 61,
+    "AttackRatio": {
+      "RawValue": 128166561465
+    },
+    "DefenceRatio": {
+      "RawValue": 16566303044
+    },
+    "HPRatio": {
+      "RawValue": 212997718956
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 18451179503616
+      },
+      {
+        "RawValue": 8207682502656
+      },
+      {
+        "RawValue": 16789027160064
+      },
+      {
+        "RawValue": 17072495001600
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 236223200
+    },
+    "StatusResistance": {
+      "RawValue": 188978560
+    }
+  },
+  "2:62": {
+    "HardLevelGroup": 2,
+    "Level": 62,
+    "AttackRatio": {
+      "RawValue": 133879349003
+    },
+    "DefenceRatio": {
+      "RawValue": 16770825095
+    },
+    "HPRatio": {
+      "RawValue": 231945912069
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 18695992639488
+      },
+      {
+        "RawValue": 8233452306432
+      },
+      {
+        "RawValue": 16982300688384
+      },
+      {
+        "RawValue": 18000207937536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 257698038
+    },
+    "StatusResistance": {
+      "RawValue": 206158428
+    }
+  },
+  "2:63": {
+    "HardLevelGroup": 2,
+    "Level": 63,
+    "AttackRatio": {
+      "RawValue": 139592136545
+    },
+    "DefenceRatio": {
+      "RawValue": 16975347143
+    },
+    "HPRatio": {
+      "RawValue": 250894100897
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 18940805775360
+      },
+      {
+        "RawValue": 8272107012096
+      },
+      {
+        "RawValue": 17188459118592
+      },
+      {
+        "RawValue": 18077517348864
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 279172873
+    },
+    "StatusResistance": {
+      "RawValue": 223338299
+    }
+  },
+  "2:64": {
+    "HardLevelGroup": 2,
+    "Level": 64,
+    "AttackRatio": {
+      "RawValue": 145304924087
+    },
+    "DefenceRatio": {
+      "RawValue": 17179869184
+    },
+    "HPRatio": {
+      "RawValue": 269842294017
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 19172734009344
+      },
+      {
+        "RawValue": 8297876815872
+      },
+      {
+        "RawValue": 17394617548800
+      },
+      {
+        "RawValue": 19005230284800
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 300647711
+    },
+    "StatusResistance": {
+      "RawValue": 240518167
+    }
+  },
+  "2:65": {
+    "HardLevelGroup": 2,
+    "Level": 65,
+    "AttackRatio": {
+      "RawValue": 151017711625
+    },
+    "DefenceRatio": {
+      "RawValue": 17384391232
+    },
+    "HPRatio": {
+      "RawValue": 288790482838
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 19417547145216
+      },
+      {
+        "RawValue": 8336531521536
+      },
+      {
+        "RawValue": 17600775979008
+      },
+      {
+        "RawValue": 19082539696128
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 322122546
+    },
+    "StatusResistance": {
+      "RawValue": 257698038
+    }
+  },
+  "2:66": {
+    "HardLevelGroup": 2,
+    "Level": 66,
+    "AttackRatio": {
+      "RawValue": 156730499167
+    },
+    "DefenceRatio": {
+      "RawValue": 17588913280
+    },
+    "HPRatio": {
+      "RawValue": 307738675964
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 19662360281088
+      },
+      {
+        "RawValue": 8375186227200
+      },
+      {
+        "RawValue": 17819819311104
+      },
+      {
+        "RawValue": 19159849107456
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 343597384
+    },
+    "StatusResistance": {
+      "RawValue": 274877906
+    }
+  },
+  "2:67": {
+    "HardLevelGroup": 2,
+    "Level": 67,
+    "AttackRatio": {
+      "RawValue": 162443282414
+    },
+    "DefenceRatio": {
+      "RawValue": 17793435331
+    },
+    "HPRatio": {
+      "RawValue": 326686864782
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 19920058318848
+      },
+      {
+        "RawValue": 8400956030976
+      },
+      {
+        "RawValue": 18025977741312
+      },
+      {
+        "RawValue": 19237158518784
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 365072219
+    },
+    "StatusResistance": {
+      "RawValue": 292057774
+    }
+  },
+  "2:68": {
+    "HardLevelGroup": 2,
+    "Level": 68,
+    "AttackRatio": {
+      "RawValue": 168156069952
+    },
+    "DefenceRatio": {
+      "RawValue": 17997957379
+    },
+    "HPRatio": {
+      "RawValue": 345635057902
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 20164871454720
+      },
+      {
+        "RawValue": 8439610736640
+      },
+      {
+        "RawValue": 18232136171520
+      },
+      {
+        "RawValue": 19314467930112
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 386547057
+    },
+    "StatusResistance": {
+      "RawValue": 309237645
+    }
+  },
+  "2:69": {
+    "HardLevelGroup": 2,
+    "Level": 69,
+    "AttackRatio": {
+      "RawValue": 173868857494
+    },
+    "DefenceRatio": {
+      "RawValue": 18202479424
+    },
+    "HPRatio": {
+      "RawValue": 364583246727
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 20409684590592
+      },
+      {
+        "RawValue": 8465380540416
+      },
+      {
+        "RawValue": 18451179503616
+      },
+      {
+        "RawValue": 19391777341440
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 408021892
+    },
+    "StatusResistance": {
+      "RawValue": 326417513
+    }
+  },
+  "2:70": {
+    "HardLevelGroup": 2,
+    "Level": 70,
+    "AttackRatio": {
+      "RawValue": 179581645030
+    },
+    "DefenceRatio": {
+      "RawValue": 18407001472
+    },
+    "HPRatio": {
+      "RawValue": 383531439846
+    },
+    "SpeedRatio": {
+      "RawValue": 4724464026
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 20667382628352
+      },
+      {
+        "RawValue": 11055245819904
+      },
+      {
+        "RawValue": 18657337933824
+      },
+      {
+        "RawValue": 25447681228800
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 429496730
+    },
+    "StatusResistance": {
+      "RawValue": 343597384
+    }
+  },
+  "2:71": {
+    "HardLevelGroup": 2,
+    "Level": 71,
+    "AttackRatio": {
+      "RawValue": 188795728565
+    },
+    "DefenceRatio": {
+      "RawValue": 18611523520
+    },
+    "HPRatio": {
+      "RawValue": 431077642639
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 22535693402112
+      },
+      {
+        "RawValue": 11055245819904
+      },
+      {
+        "RawValue": 20435454394368
+      },
+      {
+        "RawValue": 25447681228800
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 450971565
+    },
+    "StatusResistance": {
+      "RawValue": 360777252
+    }
+  },
+  "2:72": {
+    "HardLevelGroup": 2,
+    "Level": 72,
+    "AttackRatio": {
+      "RawValue": 198009807804
+    },
+    "DefenceRatio": {
+      "RawValue": 18816045571
+    },
+    "HPRatio": {
+      "RawValue": 478623845435
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 22703197126656
+      },
+      {
+        "RawValue": 11055245819904
+      },
+      {
+        "RawValue": 20564303413248
+      },
+      {
+        "RawValue": 26555782791168
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 472446403
+    },
+    "StatusResistance": {
+      "RawValue": 377957120
+    }
+  },
+  "2:73": {
+    "HardLevelGroup": 2,
+    "Level": 73,
+    "AttackRatio": {
+      "RawValue": 207223891336
+    },
+    "DefenceRatio": {
+      "RawValue": 19020567616
+    },
+    "HPRatio": {
+      "RawValue": 526170043933
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 22870700851200
+      },
+      {
+        "RawValue": 11055245819904
+      },
+      {
+        "RawValue": 20706037334016
+      },
+      {
+        "RawValue": 26555782791168
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 493921238
+    },
+    "StatusResistance": {
+      "RawValue": 395136991
+    }
+  },
+  "2:74": {
+    "HardLevelGroup": 2,
+    "Level": 74,
+    "AttackRatio": {
+      "RawValue": 216437970579
+    },
+    "DefenceRatio": {
+      "RawValue": 19225089664
+    },
+    "HPRatio": {
+      "RawValue": 573716246729
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 23051089477632
+      },
+      {
+        "RawValue": 11055245819904
+      },
+      {
+        "RawValue": 20847771254784
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 515396076
+    },
+    "StatusResistance": {
+      "RawValue": 412316859
+    }
+  },
+  "2:75": {
+    "HardLevelGroup": 2,
+    "Level": 75,
+    "AttackRatio": {
+      "RawValue": 225652054111
+    },
+    "DefenceRatio": {
+      "RawValue": 19429616007
+    },
+    "HPRatio": {
+      "RawValue": 621262449525
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 23218593202176
+      },
+      {
+        "RawValue": 11055245819904
+      },
+      {
+        "RawValue": 20989505175552
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 536870911
+    },
+    "StatusResistance": {
+      "RawValue": 429496730
+    }
+  },
+  "2:76": {
+    "HardLevelGroup": 2,
+    "Level": 76,
+    "AttackRatio": {
+      "RawValue": 234866133351
+    },
+    "DefenceRatio": {
+      "RawValue": 19634138055
+    },
+    "HPRatio": {
+      "RawValue": 668808652318
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 23386096926720
+      },
+      {
+        "RawValue": 11055245819904
+      },
+      {
+        "RawValue": 21131239096320
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 558345749
+    },
+    "StatusResistance": {
+      "RawValue": 446676598
+    }
+  },
+  "2:77": {
+    "HardLevelGroup": 2,
+    "Level": 77,
+    "AttackRatio": {
+      "RawValue": 244080216886
+    },
+    "DefenceRatio": {
+      "RawValue": 19838660100
+    },
+    "HPRatio": {
+      "RawValue": 716354855114
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 23553600651264
+      },
+      {
+        "RawValue": 11055245819904
+      },
+      {
+        "RawValue": 21272973017088
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 579820584
+    },
+    "StatusResistance": {
+      "RawValue": 463856466
+    }
+  },
+  "2:78": {
+    "HardLevelGroup": 2,
+    "Level": 78,
+    "AttackRatio": {
+      "RawValue": 253294296129
+    },
+    "DefenceRatio": {
+      "RawValue": 20043182151
+    },
+    "HPRatio": {
+      "RawValue": 763901053615
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 23721104375808
+      },
+      {
+        "RawValue": 11055245819904
+      },
+      {
+        "RawValue": 21401822035968
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 601295422
+    },
+    "StatusResistance": {
+      "RawValue": 481036337
+    }
+  },
+  "2:79": {
+    "HardLevelGroup": 2,
+    "Level": 79,
+    "AttackRatio": {
+      "RawValue": 262508379660
+    },
+    "DefenceRatio": {
+      "RawValue": 20247704199
+    },
+    "HPRatio": {
+      "RawValue": 811447256411
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 23901493002240
+      },
+      {
+        "RawValue": 11055245819904
+      },
+      {
+        "RawValue": 21543555956736
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 622770257
+    },
+    "StatusResistance": {
+      "RawValue": 498216205
+    }
+  },
+  "2:80": {
+    "HardLevelGroup": 2,
+    "Level": 80,
+    "AttackRatio": {
+      "RawValue": 271722458897
+    },
+    "DefenceRatio": {
+      "RawValue": 20452226247
+    },
+    "HPRatio": {
+      "RawValue": 858993459200
+    },
+    "SpeedRatio": {
+      "RawValue": 4939212391
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 644245095
+    },
+    "StatusResistance": {
+      "RawValue": 515396076
+    }
+  },
+  "2:81": {
+    "HardLevelGroup": 2,
+    "Level": 81,
+    "AttackRatio": {
+      "RawValue": 276241370084
+    },
+    "DefenceRatio": {
+      "RawValue": 20656748292
+    },
+    "HPRatio": {
+      "RawValue": 914828034048
+    },
+    "SpeedRatio": {
+      "RawValue": 5153960756
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 665719930
+    },
+    "StatusResistance": {
+      "RawValue": 532575944
+    }
+  },
+  "2:82": {
+    "HardLevelGroup": 2,
+    "Level": 82,
+    "AttackRatio": {
+      "RawValue": 280797170744
+    },
+    "DefenceRatio": {
+      "RawValue": 20861270340
+    },
+    "HPRatio": {
+      "RawValue": 971500127518
+    },
+    "SpeedRatio": {
+      "RawValue": 5153960756
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 687194768
+    },
+    "StatusResistance": {
+      "RawValue": 549755812
+    }
+  },
+  "2:83": {
+    "HardLevelGroup": 2,
+    "Level": 83,
+    "AttackRatio": {
+      "RawValue": 285389895237
+    },
+    "DefenceRatio": {
+      "RawValue": 21065792391
+    },
+    "HPRatio": {
+      "RawValue": 1029022302395
+    },
+    "SpeedRatio": {
+      "RawValue": 5153960756
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 708669603
+    },
+    "StatusResistance": {
+      "RawValue": 566935683
+    }
+  },
+  "2:84": {
+    "HardLevelGroup": 2,
+    "Level": 84,
+    "AttackRatio": {
+      "RawValue": 290019590811
+    },
+    "DefenceRatio": {
+      "RawValue": 21270314439
+    },
+    "HPRatio": {
+      "RawValue": 1087407310428
+    },
+    "SpeedRatio": {
+      "RawValue": 5153960756
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 730144441
+    },
+    "StatusResistance": {
+      "RawValue": 584115551
+    }
+  },
+  "2:85": {
+    "HardLevelGroup": 2,
+    "Level": 85,
+    "AttackRatio": {
+      "RawValue": 294686296115
+    },
+    "DefenceRatio": {
+      "RawValue": 21474836480
+    },
+    "HPRatio": {
+      "RawValue": 1146668092358
+    },
+    "SpeedRatio": {
+      "RawValue": 5153960756
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 751619276
+    },
+    "StatusResistance": {
+      "RawValue": 601295422
+    }
+  },
+  "2:86": {
+    "HardLevelGroup": 2,
+    "Level": 86,
+    "AttackRatio": {
+      "RawValue": 299390049810
+    },
+    "DefenceRatio": {
+      "RawValue": 21679358528
+    },
+    "HPRatio": {
+      "RawValue": 1206817786489
+    },
+    "SpeedRatio": {
+      "RawValue": 5368709121
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 773094114
+    },
+    "StatusResistance": {
+      "RawValue": 618475290
+    }
+  },
+  "2:87": {
+    "HardLevelGroup": 2,
+    "Level": 87,
+    "AttackRatio": {
+      "RawValue": 304130894846
+    },
+    "DefenceRatio": {
+      "RawValue": 21883880576
+    },
+    "HPRatio": {
+      "RawValue": 1267869728691
+    },
+    "SpeedRatio": {
+      "RawValue": 5368709121
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 794568949
+    },
+    "StatusResistance": {
+      "RawValue": 635655158
+    }
+  },
+  "2:88": {
+    "HardLevelGroup": 2,
+    "Level": 88,
+    "AttackRatio": {
+      "RawValue": 308908869866
+    },
+    "DefenceRatio": {
+      "RawValue": 22088402627
+    },
+    "HPRatio": {
+      "RawValue": 1329837443825
+    },
+    "SpeedRatio": {
+      "RawValue": 5368709121
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 816043787
+    },
+    "StatusResistance": {
+      "RawValue": 652835029
+    }
+  },
+  "2:89": {
+    "HardLevelGroup": 2,
+    "Level": 89,
+    "AttackRatio": {
+      "RawValue": 313724017828
+    },
+    "DefenceRatio": {
+      "RawValue": 22292924675
+    },
+    "HPRatio": {
+      "RawValue": 1392734680073
+    },
+    "SpeedRatio": {
+      "RawValue": 5368709121
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 837518622
+    },
+    "StatusResistance": {
+      "RawValue": 670014897
+    }
+  },
+  "2:90": {
+    "HardLevelGroup": 2,
+    "Level": 90,
+    "AttackRatio": {
+      "RawValue": 318576373094
+    },
+    "DefenceRatio": {
+      "RawValue": 22497446720
+    },
+    "HPRatio": {
+      "RawValue": 1456575374609
+    },
+    "SpeedRatio": {
+      "RawValue": 5368709121
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 858993460
+    },
+    "StatusResistance": {
+      "RawValue": 687194768
+    }
+  },
+  "2:91": {
+    "HardLevelGroup": 2,
+    "Level": 91,
+    "AttackRatio": {
+      "RawValue": 320263341758
+    },
+    "DefenceRatio": {
+      "RawValue": 22701968768
+    },
+    "HPRatio": {
+      "RawValue": 1521373675052
+    },
+    "SpeedRatio": {
+      "RawValue": 5583457486
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 880468295
+    },
+    "StatusResistance": {
+      "RawValue": 704374636
+    }
+  },
+  "2:92": {
+    "HardLevelGroup": 2,
+    "Level": 92,
+    "AttackRatio": {
+      "RawValue": 321953793646
+    },
+    "DefenceRatio": {
+      "RawValue": 22906490816
+    },
+    "HPRatio": {
+      "RawValue": 1587143956662
+    },
+    "SpeedRatio": {
+      "RawValue": 5583457486
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 901943133
+    },
+    "StatusResistance": {
+      "RawValue": 721554504
+    }
+  },
+  "2:93": {
+    "HardLevelGroup": 2,
+    "Level": 93,
+    "AttackRatio": {
+      "RawValue": 323647655730
+    },
+    "DefenceRatio": {
+      "RawValue": 23111012867
+    },
+    "HPRatio": {
+      "RawValue": 1653900787961
+    },
+    "SpeedRatio": {
+      "RawValue": 5583457486
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 923417968
+    },
+    "StatusResistance": {
+      "RawValue": 738734375
+    }
+  },
+  "2:94": {
+    "HardLevelGroup": 2,
+    "Level": 94,
+    "AttackRatio": {
+      "RawValue": 325344872189
+    },
+    "DefenceRatio": {
+      "RawValue": 23315534912
+    },
+    "HPRatio": {
+      "RawValue": 1721658973711
+    },
+    "SpeedRatio": {
+      "RawValue": 5583457486
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 944892806
+    },
+    "StatusResistance": {
+      "RawValue": 755914243
+    }
+  },
+  "2:95": {
+    "HardLevelGroup": 2,
+    "Level": 95,
+    "AttackRatio": {
+      "RawValue": 327045382882
+    },
+    "DefenceRatio": {
+      "RawValue": 23520056960
+    },
+    "HPRatio": {
+      "RawValue": 1790433529107
+    },
+    "SpeedRatio": {
+      "RawValue": 5583457486
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 966367641
+    },
+    "StatusResistance": {
+      "RawValue": 773094114
+    }
+  },
+  "2:96": {
+    "HardLevelGroup": 2,
+    "Level": 96,
+    "AttackRatio": {
+      "RawValue": 328749131988
+    },
+    "DefenceRatio": {
+      "RawValue": 23724583303
+    },
+    "HPRatio": {
+      "RawValue": 1860239705580
+    },
+    "SpeedRatio": {
+      "RawValue": 5798205851
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 987842479
+    },
+    "StatusResistance": {
+      "RawValue": 790273982
+    }
+  },
+  "2:97": {
+    "HardLevelGroup": 2,
+    "Level": 97,
+    "AttackRatio": {
+      "RawValue": 330456059367
+    },
+    "DefenceRatio": {
+      "RawValue": 23929105351
+    },
+    "HPRatio": {
+      "RawValue": 1931092973608
+    },
+    "SpeedRatio": {
+      "RawValue": 5798205851
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 1009317314
+    },
+    "StatusResistance": {
+      "RawValue": 807453850
+    }
+  },
+  "2:98": {
+    "HardLevelGroup": 2,
+    "Level": 98,
+    "AttackRatio": {
+      "RawValue": 332166113475
+    },
+    "DefenceRatio": {
+      "RawValue": 24133627396
+    },
+    "HPRatio": {
+      "RawValue": 2003009039887
+    },
+    "SpeedRatio": {
+      "RawValue": 5798205851
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 1030792152
+    },
+    "StatusResistance": {
+      "RawValue": 824633721
+    }
+  },
+  "2:99": {
+    "HardLevelGroup": 2,
+    "Level": 99,
+    "AttackRatio": {
+      "RawValue": 333879247081
+    },
+    "DefenceRatio": {
+      "RawValue": 24338149447
+    },
+    "HPRatio": {
+      "RawValue": 2076003851618
+    },
+    "SpeedRatio": {
+      "RawValue": 5798205851
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 1052266987
+    },
+    "StatusResistance": {
+      "RawValue": 841813589
+    }
+  },
+  "2:100": {
+    "HardLevelGroup": 2,
+    "Level": 100,
+    "AttackRatio": {
+      "RawValue": 335595408640
+    },
+    "DefenceRatio": {
+      "RawValue": 24542671495
+    },
+    "HPRatio": {
+      "RawValue": 2150093579371
+    },
+    "SpeedRatio": {
+      "RawValue": 5798205851
+    },
+    "StanceRatio": {
+      "RawValue": 4294967296
+    },
+    "CombatPowerList": [
+      {
+        "RawValue": 24068996726784
+      },
+      {
+        "RawValue": 11905649344512
+      },
+      {
+        "RawValue": 21685289877504
+      },
+      {
+        "RawValue": 27663884353536
+      }
+    ],
+    "StatusProbability": {
+      "RawValue": 1073741825
+    },
+    "StatusResistance": {
+      "RawValue": 858993460
+    }
+  }
+}

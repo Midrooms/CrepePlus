@@ -1,0 +1,734 @@
+{
+  "301": {
+    "ID": 301,
+    "ItemID": 111002,
+    "MaterialCost": [
+      {
+        "ItemID": 111001,
+        "ItemNum": 5
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "302": {
+    "ID": 302,
+    "ItemID": 111003,
+    "MaterialCost": [
+      {
+        "ItemID": 111002,
+        "ItemNum": 5
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 2,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "303": {
+    "ID": 303,
+    "ItemID": 112002,
+    "MaterialCost": [
+      {
+        "ItemID": 112001,
+        "ItemNum": 5
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 3,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "304": {
+    "ID": 304,
+    "ItemID": 112003,
+    "MaterialCost": [
+      {
+        "ItemID": 112002,
+        "ItemNum": 5
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 4,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "305": {
+    "ID": 305,
+    "ItemID": 112012,
+    "MaterialCost": [
+      {
+        "ItemID": 112011,
+        "ItemNum": 5
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 5,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "306": {
+    "ID": 306,
+    "ItemID": 112013,
+    "MaterialCost": [
+      {
+        "ItemID": 112012,
+        "ItemNum": 5
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 6,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "307": {
+    "ID": 307,
+    "ItemID": 111012,
+    "MaterialCost": [
+      {
+        "ItemID": 111011,
+        "ItemNum": 5
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 7,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "308": {
+    "ID": 308,
+    "ItemID": 111013,
+    "MaterialCost": [
+      {
+        "ItemID": 111012,
+        "ItemNum": 5
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 8,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "201": {
+    "ID": 201,
+    "ItemID": 110112,
+    "MaterialCost": [
+      {
+        "ItemID": 110111,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "202": {
+    "ID": 202,
+    "ItemID": 110122,
+    "MaterialCost": [
+      {
+        "ItemID": 110121,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "203": {
+    "ID": 203,
+    "ItemID": 110132,
+    "MaterialCost": [
+      {
+        "ItemID": 110131,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "204": {
+    "ID": 204,
+    "ItemID": 110142,
+    "MaterialCost": [
+      {
+        "ItemID": 110141,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "205": {
+    "ID": 205,
+    "ItemID": 110152,
+    "MaterialCost": [
+      {
+        "ItemID": 110151,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "206": {
+    "ID": 206,
+    "ItemID": 110162,
+    "MaterialCost": [
+      {
+        "ItemID": 110161,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "207": {
+    "ID": 207,
+    "ItemID": 110172,
+    "MaterialCost": [
+      {
+        "ItemID": 110171,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 2,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "211": {
+    "ID": 211,
+    "ItemID": 110113,
+    "MaterialCost": [
+      {
+        "ItemID": 110112,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "212": {
+    "ID": 212,
+    "ItemID": 110123,
+    "MaterialCost": [
+      {
+        "ItemID": 110122,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "213": {
+    "ID": 213,
+    "ItemID": 110133,
+    "MaterialCost": [
+      {
+        "ItemID": 110132,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "214": {
+    "ID": 214,
+    "ItemID": 110143,
+    "MaterialCost": [
+      {
+        "ItemID": 110142,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "215": {
+    "ID": 215,
+    "ItemID": 110153,
+    "MaterialCost": [
+      {
+        "ItemID": 110152,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "216": {
+    "ID": 216,
+    "ItemID": 110163,
+    "MaterialCost": [
+      {
+        "ItemID": 110162,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "217": {
+    "ID": 217,
+    "ItemID": 110173,
+    "MaterialCost": [
+      {
+        "ItemID": 110172,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 20,
+    "Type": 12,
+    "Order": 1,
+    "WorldLevelRequire": 4,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "1001": {
+    "ID": 1001,
+    "ItemID": 71000,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 1,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1002": {
+    "ID": 1002,
+    "ItemID": 71001,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 2,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1003": {
+    "ID": 1003,
+    "ItemID": 71002,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 3,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1004": {
+    "ID": 1004,
+    "ItemID": 71003,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 4,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1005": {
+    "ID": 1005,
+    "ItemID": 71004,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 5,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1006": {
+    "ID": 1006,
+    "ItemID": 71005,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 6,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1007": {
+    "ID": 1007,
+    "ItemID": 71006,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 7,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1008": {
+    "ID": 1008,
+    "ItemID": 71007,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 8,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1009": {
+    "ID": 1009,
+    "ItemID": 71008,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 9,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1010": {
+    "ID": 1010,
+    "ItemID": 71009,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 10,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1011": {
+    "ID": 1011,
+    "ItemID": 71010,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 11,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "1012": {
+    "ID": 1012,
+    "ItemID": 71011,
+    "MaterialCost": [
+      {
+        "ItemID": 235,
+        "ItemNum": 8
+      }
+    ],
+    "CoinCost": 5000,
+    "Type": 21,
+    "Order": 12,
+    "WorldLevelRequire": 4,
+    "MaxCount": 20,
+    "IsShowHoldNumber": false
+  },
+  "2101": {
+    "ID": 2101,
+    "ItemID": 400004,
+    "MaterialCost": [
+      {
+        "ItemID": 180001,
+        "ItemNum": 1
+      },
+      {
+        "ItemID": 180002,
+        "ItemNum": 1
+      }
+    ],
+    "CoinCost": 0,
+    "Type": 2,
+    "Order": 1,
+    "WorldLevelRequire": 0,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "2102": {
+    "ID": 2102,
+    "ItemID": 400005,
+    "MaterialCost": [
+      {
+        "ItemID": 180002,
+        "ItemNum": 1
+      },
+      {
+        "ItemID": 180003,
+        "ItemNum": 1
+      }
+    ],
+    "CoinCost": 0,
+    "Type": 2,
+    "Order": 2,
+    "WorldLevelRequire": 0,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "2203": {
+    "ID": 2203,
+    "ItemID": 401003,
+    "MaterialCost": [
+      {
+        "ItemID": 180001,
+        "ItemNum": 2
+      },
+      {
+        "ItemID": 181003,
+        "ItemNum": 2
+      }
+    ],
+    "CoinCost": 0,
+    "Type": 2,
+    "Order": 3,
+    "WorldLevelRequire": 0,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "2204": {
+    "ID": 2204,
+    "ItemID": 401004,
+    "MaterialCost": [
+      {
+        "ItemID": 180003,
+        "ItemNum": 1
+      },
+      {
+        "ItemID": 181003,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 0,
+    "Type": 2,
+    "Order": 4,
+    "WorldLevelRequire": 0,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "2205": {
+    "ID": 2205,
+    "ItemID": 401005,
+    "MaterialCost": [
+      {
+        "ItemID": 180003,
+        "ItemNum": 1
+      },
+      {
+        "ItemID": 181002,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 0,
+    "Type": 2,
+    "Order": 5,
+    "WorldLevelRequire": 0,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "2307": {
+    "ID": 2307,
+    "ItemID": 402001,
+    "MaterialCost": [
+      {
+        "ItemID": 180001,
+        "ItemNum": 5
+      },
+      {
+        "ItemID": 182002,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 0,
+    "Type": 2,
+    "Order": 7,
+    "WorldLevelRequire": 0,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "2308": {
+    "ID": 2308,
+    "ItemID": 402002,
+    "MaterialCost": [
+      {
+        "ItemID": 181001,
+        "ItemNum": 4
+      },
+      {
+        "ItemID": 182004,
+        "ItemNum": 3
+      }
+    ],
+    "CoinCost": 0,
+    "Type": 2,
+    "Order": 8,
+    "WorldLevelRequire": 0,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "2409": {
+    "ID": 2409,
+    "ItemID": 403001,
+    "MaterialCost": [
+      {
+        "ItemID": 181001,
+        "ItemNum": 6
+      },
+      {
+        "ItemID": 182001,
+        "ItemNum": 2
+      },
+      {
+        "ItemID": 183002,
+        "ItemNum": 1
+      }
+    ],
+    "CoinCost": 0,
+    "Type": 2,
+    "Order": 9,
+    "WorldLevelRequire": 0,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  },
+  "2410": {
+    "ID": 2410,
+    "ItemID": 403002,
+    "MaterialCost": [
+      {
+        "ItemID": 181002,
+        "ItemNum": 5
+      },
+      {
+        "ItemID": 182003,
+        "ItemNum": 3
+      },
+      {
+        "ItemID": 183001,
+        "ItemNum": 1
+      }
+    ],
+    "CoinCost": 0,
+    "Type": 2,
+    "Order": 10,
+    "WorldLevelRequire": 0,
+    "MaxCount": 9999,
+    "IsShowHoldNumber": true
+  }
+}

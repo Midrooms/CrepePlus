@@ -1,0 +1,122 @@
+{
+  "Warrior": {
+    "ID": "Warrior",
+    "BaseTypeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "BaseTypeIconSmall": "SpriteOutput/ProfessionIconSmall/IconProfessionWarriorSmall.png",
+    "EquipmentLightMatPath": "UI/UI_Texture/System/ProfessionalLight/UI_ProfessionWarriorSmall.png",
+    "Equipment3DTgaPath": "UI/UI3D/LightCone/_dependencies/Textures/Professionlightcone3d/LightCore_Warrior.tga",
+    "BaseTypeIconPathTalk": "SpriteOutput/TalkIcon/ProfessionIcon/IconProfessionWarriorSmall.png",
+    "BgPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "BaseTypeText": {
+      "hash": 209078842
+    },
+    "BaseTypeDesc": {
+      "hash": -344124517
+    }
+  },
+  "Rogue": {
+    "ID": "Rogue",
+    "BaseTypeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsRogue.png",
+    "BaseTypeIconSmall": "SpriteOutput/ProfessionIconSmall/IconProfessionRogueSmall.png",
+    "EquipmentLightMatPath": "UI/UI_Texture/System/ProfessionalLight/UI_ProfessionRogueSmall.png",
+    "Equipment3DTgaPath": "UI/UI3D/LightCone/_dependencies/Textures/Professionlightcone3d/LightCore_Rouge.tga",
+    "BaseTypeIconPathTalk": "SpriteOutput/TalkIcon/ProfessionIcon/IconProfessionRogueSmall.png",
+    "BgPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsRogue.png",
+    "BaseTypeText": {
+      "hash": 612363369
+    },
+    "BaseTypeDesc": {
+      "hash": -1910208458
+    }
+  },
+  "Mage": {
+    "ID": "Mage",
+    "BaseTypeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsnMage.png",
+    "BaseTypeIconSmall": "SpriteOutput/ProfessionIconSmall/IconProfessionMageSmall.png",
+    "EquipmentLightMatPath": "UI/UI_Texture/System/ProfessionalLight/UI_IconProfessionMageSmall.png",
+    "Equipment3DTgaPath": "UI/UI3D/LightCone/_dependencies/Textures/Professionlightcone3d/LightCore_Mage.tga",
+    "BaseTypeIconPathTalk": "SpriteOutput/TalkIcon/ProfessionIcon/IconProfessionMageSmall.png",
+    "BgPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsnMage.png",
+    "BaseTypeText": {
+      "hash": -953720572
+    },
+    "BaseTypeDesc": {
+      "hash": 818674897
+    }
+  },
+  "Shaman": {
+    "ID": "Shaman",
+    "BaseTypeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsShaman.png",
+    "BaseTypeIconSmall": "SpriteOutput/ProfessionIconSmall/IconProfessionShamanSmall.png",
+    "EquipmentLightMatPath": "UI/UI_Texture/System/ProfessionalLight/UI_ProfessionShamanSmall.png",
+    "Equipment3DTgaPath": "UI/UI3D/LightCone/_dependencies/Textures/Professionlightcone3d/LightCore_Shaman.tga",
+    "BaseTypeIconPathTalk": "SpriteOutput/TalkIcon/ProfessionIcon/IconProfessionShamanSmall.png",
+    "BgPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsShaman.png",
+    "BaseTypeText": {
+      "hash": -194205685
+    },
+    "BaseTypeDesc": {
+      "hash": -1103639404
+    }
+  },
+  "Warlock": {
+    "ID": "Warlock",
+    "BaseTypeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarlock.png",
+    "BaseTypeIconSmall": "SpriteOutput/ProfessionIconSmall/IconProfessionWarlockSmall.png",
+    "EquipmentLightMatPath": "UI/UI_Texture/System/ProfessionalLight/UI_ProfessionWarLockSmall.png",
+    "Equipment3DTgaPath": "UI/UI3D/LightCone/_dependencies/Textures/Professionlightcone3d/LightCore_Warlock.tga",
+    "BaseTypeIconPathTalk": "SpriteOutput/TalkIcon/ProfessionIcon/IconProfessionWarlockSmall.png",
+    "BgPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarlock.png",
+    "BaseTypeText": {
+      "hash": -1760289626
+    },
+    "BaseTypeDesc": {
+      "hash": 1625243951
+    }
+  },
+  "Knight": {
+    "ID": "Knight",
+    "BaseTypeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsKnight.png",
+    "BaseTypeIconSmall": "SpriteOutput/ProfessionIconSmall/IconProfessionKnightSmall.png",
+    "EquipmentLightMatPath": "UI/UI_Texture/System/ProfessionalLight/UI_IconProfessionKnightSmall.png",
+    "Equipment3DTgaPath": "UI/UI3D/LightCone/_dependencies/Textures/Professionlightcone3d/LightCore_Knight.tga",
+    "BaseTypeIconPathTalk": "SpriteOutput/TalkIcon/ProfessionIcon/IconProfessionKnightSmall.png",
+    "BgPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsKnight.png",
+    "BaseTypeText": {
+      "hash": -1357005099
+    },
+    "BaseTypeDesc": {
+      "hash": 59160010
+    }
+  },
+  "Priest": {
+    "ID": "Priest",
+    "BaseTypeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPirest.png",
+    "BaseTypeIconSmall": "SpriteOutput/ProfessionIconSmall/IconProfessionPirestSmall.png",
+    "EquipmentLightMatPath": "UI/UI_Texture/System/ProfessionalLight/UI_ProfessionPirestSmall.png",
+    "Equipment3DTgaPath": "UI/UI3D/LightCone/_dependencies/Textures/Professionlightcone3d/LightCore_Pirest.tga",
+    "BaseTypeIconPathTalk": "SpriteOutput/TalkIcon/ProfessionIcon/IconProfessionPirestSmall.png",
+    "BgPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPirest.png",
+    "BaseTypeText": {
+      "hash": 1371878256
+    },
+    "BaseTypeDesc": {
+      "hash": -1506923931
+    }
+  },
+  "Unknown": {
+    "ID": "Unknown",
+    "BaseTypeIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "BaseTypeIconSmall": "SpriteOutput/ProfessionIconSmall/IconProfessionWarriorSmall.png",
+    "EquipmentLightMatPath": "UI/UI_Texture/System/ProfessionalLight/UI_ProfessionWarriorSmall.png",
+    "Equipment3DTgaPath": "UI/UI3D/LightCone/_dependencies/Textures/Professionlightcone3d/LightCore_Pirest.tga",
+    "BaseTypeIconPathTalk": "SpriteOutput/TalkIcon/ProfessionIcon/IconProfessionWarriorSmall.png",
+    "BgPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "BaseTypeText": {
+      "hash": 1775162783
+    },
+    "BaseTypeDesc": {
+      "hash": 1221959424
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "VERBOSE_LEVEL": 1,
+  "MONGO_URI": "mongodb://0.0.0.0:27017/crepesr",
+  "HTTP": {
+    "HTTP_HOST": "0.0.0.0",
+    "HTTP_PORT": 443
+  },
+  "DISPATCH": [
+    {
+      "DISPATCH_NAME": "CrepePlus",
+      "DISPATCH_URL": "http://localhost/query_gateway"
+    }
+  ],
+  "GAMESERVER": {
+    "SERVER_IP": "127.0.0.1",
+    "SERVER_PORT": 22102,
+    "MAINTENANCE": false,
+    "MAINTENANCE_MSG": "Server is in maintenance mode."
+  },
+  "AUTO_ACCOUNT": true
+}

@@ -1,0 +1,27 @@
+{
+  "1": {
+    "ID": 1,
+    "RarityIconPath": "SpriteOutput/AvatarIcon/UISprite/IconRarityB.png",
+    "RarityName": "D"
+  },
+  "2": {
+    "ID": 2,
+    "RarityIconPath": "SpriteOutput/AvatarIcon/UISprite/IconRarityB.png",
+    "RarityName": "C"
+  },
+  "3": {
+    "ID": 3,
+    "RarityIconPath": "SpriteOutput/AvatarIcon/UISprite/IconRarityB.png",
+    "RarityName": "B"
+  },
+  "4": {
+    "ID": 4,
+    "RarityIconPath": "SpriteOutput/AvatarIcon/UISprite/IconRarityA.png",
+    "RarityName": "A"
+  },
+  "5": {
+    "ID": 5,
+    "RarityIconPath": "SpriteOutput/AvatarIcon/UISprite/IconRarityS.png",
+    "RarityName": "S"
+  }
+}

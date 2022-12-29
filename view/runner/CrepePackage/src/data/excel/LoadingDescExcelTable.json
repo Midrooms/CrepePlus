@@ -1,0 +1,1374 @@
+{
+  "10001": {
+    "ID": 10001,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1099893541
+    },
+    "DescTextmapID": {
+      "hash": -1857465032
+    },
+    "ImagePath": 0
+  },
+  "10002": {
+    "ID": 10002,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -1628989814
+    },
+    "DescTextmapID": {
+      "hash": -1857465029
+    },
+    "ImagePath": 0
+  },
+  "10003": {
+    "ID": 10003,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -62905873
+    },
+    "DescTextmapID": {
+      "hash": -1857465030
+    },
+    "ImagePath": 10007
+  },
+  "10004": {
+    "ID": 10004,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1859408428
+    },
+    "DescTextmapID": {
+      "hash": -1857465027
+    },
+    "ImagePath": 10004
+  },
+  "10005": {
+    "ID": 10005,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -869474927
+    },
+    "DescTextmapID": {
+      "hash": -1857465028
+    },
+    "ImagePath": 10002
+  },
+  "10006": {
+    "ID": 10006,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 696609014
+    },
+    "DescTextmapID": {
+      "hash": -1857465025
+    },
+    "ImagePath": 10005
+  },
+  "10007": {
+    "ID": 10007,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -2032274341
+    },
+    "DescTextmapID": {
+      "hash": -1857465026
+    },
+    "ImagePath": 10006
+  },
+  "10008": {
+    "ID": 10008,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -822420760
+    },
+    "DescTextmapID": {
+      "hash": -1857465023
+    },
+    "ImagePath": 10001
+  },
+  "10009": {
+    "ID": 10009,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 743663181
+    },
+    "DescTextmapID": {
+      "hash": -1857465024
+    },
+    "ImagePath": 10003
+  },
+  "10010": {
+    "ID": 10010,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -466190399
+    },
+    "DescTextmapID": {
+      "hash": -291381090
+    },
+    "ImagePath": 0
+  },
+  "10011": {
+    "ID": 10011,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1099893542
+    },
+    "DescTextmapID": {
+      "hash": -291381091
+    },
+    "ImagePath": 0
+  },
+  "10012": {
+    "ID": 10012,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -1628989813
+    },
+    "DescTextmapID": {
+      "hash": -291381088
+    },
+    "ImagePath": 0
+  },
+  "10013": {
+    "ID": 10013,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -62905872
+    },
+    "DescTextmapID": {
+      "hash": -291381089
+    },
+    "ImagePath": 0
+  },
+  "10014": {
+    "ID": 10014,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1859408429
+    },
+    "DescTextmapID": {
+      "hash": -291381086
+    },
+    "ImagePath": 10008
+  },
+  "10015": {
+    "ID": 10015,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -869474926
+    },
+    "DescTextmapID": {
+      "hash": -291381087
+    },
+    "ImagePath": 10008
+  },
+  "10016": {
+    "ID": 10016,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 696609015
+    },
+    "DescTextmapID": {
+      "hash": -291381084
+    },
+    "ImagePath": 10008
+  },
+  "10017": {
+    "ID": 10017,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -2032274340
+    },
+    "DescTextmapID": {
+      "hash": -291381085
+    },
+    "ImagePath": 10008
+  },
+  "10018": {
+    "ID": 10018,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -822420759
+    },
+    "DescTextmapID": {
+      "hash": -291381082
+    },
+    "ImagePath": 10008
+  },
+  "10019": {
+    "ID": 10019,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 743663182
+    },
+    "DescTextmapID": {
+      "hash": -291381083
+    },
+    "ImagePath": 10008
+  },
+  "10020": {
+    "ID": 10020,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -466190398
+    },
+    "DescTextmapID": {
+      "hash": 1274702851
+    },
+    "ImagePath": 10008
+  },
+  "10022": {
+    "ID": 10022,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -1628989812
+    },
+    "DescTextmapID": {
+      "hash": 1274702853
+    },
+    "ImagePath": 10008
+  },
+  "10023": {
+    "ID": 10023,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010302,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -62905871
+    },
+    "DescTextmapID": {
+      "hash": 1274702852
+    },
+    "ImagePath": 10008
+  },
+  "10024": {
+    "ID": 10024,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010302,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1859408430
+    },
+    "DescTextmapID": {
+      "hash": 1274702855
+    },
+    "ImagePath": 10008
+  },
+  "10025": {
+    "ID": 10025,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010302,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -869474925
+    },
+    "DescTextmapID": {
+      "hash": 1274702854
+    },
+    "ImagePath": 10008
+  },
+  "10026": {
+    "ID": 10026,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010302,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 696609016
+    },
+    "DescTextmapID": {
+      "hash": 1274702857
+    },
+    "ImagePath": 10008
+  },
+  "10027": {
+    "ID": 10027,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010302,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -2032274339
+    },
+    "DescTextmapID": {
+      "hash": 1274702856
+    },
+    "ImagePath": 10008
+  },
+  "10028": {
+    "ID": 10028,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010302,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -822420758
+    },
+    "DescTextmapID": {
+      "hash": 1274702859
+    },
+    "ImagePath": 10008
+  },
+  "10029": {
+    "ID": 10029,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010302,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 743663183
+    },
+    "DescTextmapID": {
+      "hash": 1274702858
+    },
+    "ImagePath": 10008
+  },
+  "10030": {
+    "ID": 10030,
+    "MinLevel": 13,
+    "MaxLevel": 80,
+    "QuestID": 1010302,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -466190397
+    },
+    "DescTextmapID": {
+      "hash": -1454180504
+    },
+    "ImagePath": 10008
+  },
+  "10031": {
+    "ID": 10031,
+    "MinLevel": 13,
+    "MaxLevel": 80,
+    "QuestID": 1010302,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1099893544
+    },
+    "DescTextmapID": {
+      "hash": -1454180505
+    },
+    "ImagePath": 10008
+  },
+  "10032": {
+    "ID": 10032,
+    "MinLevel": 13,
+    "MaxLevel": 80,
+    "QuestID": 1011001,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -1628989811
+    },
+    "DescTextmapID": {
+      "hash": -1454180502
+    },
+    "ImagePath": 10008
+  },
+  "10033": {
+    "ID": 10033,
+    "MinLevel": 13,
+    "MaxLevel": 80,
+    "QuestID": 1011001,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -62905870
+    },
+    "DescTextmapID": {
+      "hash": -1454180503
+    },
+    "ImagePath": 10008
+  },
+  "10034": {
+    "ID": 10034,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1859408431
+    },
+    "DescTextmapID": {
+      "hash": -1454180500
+    },
+    "ImagePath": 10007
+  },
+  "10035": {
+    "ID": 10035,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -869474924
+    },
+    "DescTextmapID": {
+      "hash": -1454180501
+    },
+    "ImagePath": 10004
+  },
+  "10036": {
+    "ID": 10036,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 696609017
+    },
+    "DescTextmapID": {
+      "hash": -1454180498
+    },
+    "ImagePath": 10005
+  },
+  "10037": {
+    "ID": 10037,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -2032274338
+    },
+    "DescTextmapID": {
+      "hash": -1454180499
+    },
+    "ImagePath": 10006
+  },
+  "10038": {
+    "ID": 10038,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -822420757
+    },
+    "DescTextmapID": {
+      "hash": -1454180496
+    },
+    "ImagePath": 10001
+  },
+  "10039": {
+    "ID": 10039,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 743663184
+    },
+    "DescTextmapID": {
+      "hash": -1454180497
+    },
+    "ImagePath": 10003
+  },
+  "10040": {
+    "ID": 10040,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -466190404
+    },
+    "DescTextmapID": {
+      "hash": 111903437
+    },
+    "ImagePath": 10008
+  },
+  "10041": {
+    "ID": 10041,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1099893537
+    },
+    "DescTextmapID": {
+      "hash": 111903436
+    },
+    "ImagePath": 10002
+  },
+  "10042": {
+    "ID": 10042,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -1628989818
+    },
+    "DescTextmapID": {
+      "hash": 111903439
+    },
+    "ImagePath": 10008
+  },
+  "10043": {
+    "ID": 10043,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -62905877
+    },
+    "DescTextmapID": {
+      "hash": 111903438
+    },
+    "ImagePath": 10008
+  },
+  "10044": {
+    "ID": 10044,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1859408424
+    },
+    "DescTextmapID": {
+      "hash": 111903441
+    },
+    "ImagePath": 10008
+  },
+  "10045": {
+    "ID": 10045,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -869474931
+    },
+    "DescTextmapID": {
+      "hash": 111903440
+    },
+    "ImagePath": 10007
+  },
+  "10046": {
+    "ID": 10046,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 696609010
+    },
+    "DescTextmapID": {
+      "hash": 111903443
+    },
+    "ImagePath": 10001
+  },
+  "10047": {
+    "ID": 10047,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -2032274345
+    },
+    "DescTextmapID": {
+      "hash": 111903442
+    },
+    "ImagePath": 10005
+  },
+  "10048": {
+    "ID": 10048,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -822420764
+    },
+    "DescTextmapID": {
+      "hash": 111903445
+    },
+    "ImagePath": 10002
+  },
+  "10049": {
+    "ID": 10049,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 743663177
+    },
+    "DescTextmapID": {
+      "hash": 111903444
+    },
+    "ImagePath": 10008
+  },
+  "10050": {
+    "ID": 10050,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -466190403
+    },
+    "DescTextmapID": {
+      "hash": 1677987378
+    },
+    "ImagePath": 10004
+  },
+  "10051": {
+    "ID": 10051,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1099893538
+    },
+    "DescTextmapID": {
+      "hash": 1677987377
+    },
+    "ImagePath": 10008
+  },
+  "10052": {
+    "ID": 10052,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -1628989817
+    },
+    "DescTextmapID": {
+      "hash": 1677987380
+    },
+    "ImagePath": 10003
+  },
+  "10053": {
+    "ID": 10053,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -62905876
+    },
+    "DescTextmapID": {
+      "hash": 1677987379
+    },
+    "ImagePath": 10008
+  },
+  "10054": {
+    "ID": 10054,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1859408425
+    },
+    "DescTextmapID": {
+      "hash": 1677987382
+    },
+    "ImagePath": 10008
+  },
+  "10055": {
+    "ID": 10055,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -869474930
+    },
+    "DescTextmapID": {
+      "hash": 1677987381
+    },
+    "ImagePath": 10008
+  },
+  "10056": {
+    "ID": 10056,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 696609011
+    },
+    "DescTextmapID": {
+      "hash": 1677987384
+    },
+    "ImagePath": 10008
+  },
+  "10057": {
+    "ID": 10057,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -2032274344
+    },
+    "DescTextmapID": {
+      "hash": 1677987383
+    },
+    "ImagePath": 10006
+  },
+  "10058": {
+    "ID": 10058,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010001,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -822420763
+    },
+    "DescTextmapID": {
+      "hash": 1677987386
+    },
+    "ImagePath": 10008
+  },
+  "10059": {
+    "ID": 10059,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010001,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 743663178
+    },
+    "DescTextmapID": {
+      "hash": 1677987385
+    },
+    "ImagePath": 10008
+  },
+  "10060": {
+    "ID": 10060,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -466190402
+    },
+    "DescTextmapID": {
+      "hash": -1050895977
+    },
+    "ImagePath": 10008
+  },
+  "10061": {
+    "ID": 10061,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010001,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1099893539
+    },
+    "DescTextmapID": {
+      "hash": -1050895978
+    },
+    "ImagePath": 10001
+  },
+  "10062": {
+    "ID": 10062,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010001,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -1628989816
+    },
+    "DescTextmapID": {
+      "hash": -1050895975
+    },
+    "ImagePath": 10008
+  },
+  "10063": {
+    "ID": 10063,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1010001,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -62905875
+    },
+    "DescTextmapID": {
+      "hash": -1050895976
+    },
+    "ImagePath": 10008
+  },
+  "10065": {
+    "ID": 10065,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -869474929
+    },
+    "DescTextmapID": {
+      "hash": -1050895974
+    },
+    "ImagePath": 0
+  },
+  "10066": {
+    "ID": 10066,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 696609012
+    },
+    "DescTextmapID": {
+      "hash": -1050895971
+    },
+    "ImagePath": 0
+  },
+  "10069": {
+    "ID": 10069,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 743663179
+    },
+    "DescTextmapID": {
+      "hash": -1050895970
+    },
+    "ImagePath": 0
+  },
+  "10072": {
+    "ID": 10072,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -1628989815
+    },
+    "DescTextmapID": {
+      "hash": 515187966
+    },
+    "ImagePath": 0
+  },
+  "10073": {
+    "ID": 10073,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -62905874
+    },
+    "DescTextmapID": {
+      "hash": 515187965
+    },
+    "ImagePath": 0
+  },
+  "10074": {
+    "ID": 10074,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1859408427
+    },
+    "DescTextmapID": {
+      "hash": 515187968
+    },
+    "ImagePath": 10003
+  },
+  "10075": {
+    "ID": 10075,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -869474928
+    },
+    "DescTextmapID": {
+      "hash": 515187967
+    },
+    "ImagePath": 10001
+  },
+  "10076": {
+    "ID": 10076,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 696609013
+    },
+    "DescTextmapID": {
+      "hash": 515187970
+    },
+    "ImagePath": 10008
+  },
+  "10077": {
+    "ID": 10077,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -2032274342
+    },
+    "DescTextmapID": {
+      "hash": 515187969
+    },
+    "ImagePath": 10008
+  },
+  "10078": {
+    "ID": 10078,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -822420761
+    },
+    "DescTextmapID": {
+      "hash": 515187972
+    },
+    "ImagePath": 10008
+  },
+  "10079": {
+    "ID": 10079,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 743663180
+    },
+    "DescTextmapID": {
+      "hash": 515187971
+    },
+    "ImagePath": 10006
+  },
+  "10080": {
+    "ID": 10080,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -466190408
+    },
+    "DescTextmapID": {
+      "hash": -1501234671
+    },
+    "ImagePath": 10004
+  },
+  "10081": {
+    "ID": 10081,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1099893533
+    },
+    "DescTextmapID": {
+      "hash": -1501234672
+    },
+    "ImagePath": 10008
+  },
+  "10082": {
+    "ID": 10082,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -1628989822
+    },
+    "DescTextmapID": {
+      "hash": -1501234669
+    },
+    "ImagePath": 10008
+  },
+  "10083": {
+    "ID": 10083,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -62905881
+    },
+    "DescTextmapID": {
+      "hash": -1501234670
+    },
+    "ImagePath": 0
+  },
+  "10084": {
+    "ID": 10084,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1859408420
+    },
+    "DescTextmapID": {
+      "hash": -1501234667
+    },
+    "ImagePath": 0
+  },
+  "10085": {
+    "ID": 10085,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -869474935
+    },
+    "DescTextmapID": {
+      "hash": -1501234668
+    },
+    "ImagePath": 10008
+  },
+  "10086": {
+    "ID": 10086,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 696609006
+    },
+    "DescTextmapID": {
+      "hash": -1501234665
+    },
+    "ImagePath": 10008
+  },
+  "10087": {
+    "ID": 10087,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -2032274349
+    },
+    "DescTextmapID": {
+      "hash": -1501234666
+    },
+    "ImagePath": 10008
+  },
+  "10088": {
+    "ID": 10088,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -822420768
+    },
+    "DescTextmapID": {
+      "hash": -1501234663
+    },
+    "ImagePath": 10008
+  },
+  "10089": {
+    "ID": 10089,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 743663173
+    },
+    "DescTextmapID": {
+      "hash": -1501234664
+    },
+    "ImagePath": 10008
+  },
+  "10090": {
+    "ID": 10090,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -466190407
+    },
+    "DescTextmapID": {
+      "hash": 64849270
+    },
+    "ImagePath": 10008
+  },
+  "10091": {
+    "ID": 10091,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 0,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": 1099893534
+    },
+    "DescTextmapID": {
+      "hash": 64849269
+    },
+    "ImagePath": 10008
+  },
+  "10092": {
+    "ID": 10092,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 0,
+    "TitleTextmapID": {
+      "hash": -1628989821
+    },
+    "DescTextmapID": {
+      "hash": 64849272
+    },
+    "ImagePath": 10008
+  },
+  "10093": {
+    "ID": 10093,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": -62905880
+    },
+    "DescTextmapID": {
+      "hash": 64849271
+    },
+    "ImagePath": 0
+  },
+  "10095": {
+    "ID": 10095,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": -869474934
+    },
+    "DescTextmapID": {
+      "hash": 64849273
+    },
+    "ImagePath": 0
+  },
+  "10096": {
+    "ID": 10096,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": 696609007
+    },
+    "DescTextmapID": {
+      "hash": 64849276
+    },
+    "ImagePath": 0
+  },
+  "10097": {
+    "ID": 10097,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": -2032274348
+    },
+    "DescTextmapID": {
+      "hash": 64849275
+    },
+    "ImagePath": 0
+  },
+  "10098": {
+    "ID": 10098,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": -822420767
+    },
+    "DescTextmapID": {
+      "hash": 64849278
+    },
+    "ImagePath": 0
+  },
+  "10099": {
+    "ID": 10099,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": 743663174
+    },
+    "DescTextmapID": {
+      "hash": 64849277
+    },
+    "ImagePath": 0
+  },
+  "10100": {
+    "ID": 10100,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": 1120096517
+    },
+    "DescTextmapID": {
+      "hash": -1857465000
+    },
+    "ImagePath": 0
+  },
+  "10101": {
+    "ID": 10101,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": -445987424
+    },
+    "DescTextmapID": {
+      "hash": -1857464999
+    },
+    "ImagePath": 0
+  },
+  "10102": {
+    "ID": 10102,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": -42702897
+    },
+    "DescTextmapID": {
+      "hash": -1857464998
+    },
+    "ImagePath": 0
+  },
+  "10103": {
+    "ID": 10103,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": -1608786838
+    },
+    "DescTextmapID": {
+      "hash": -1857464997
+    },
+    "ImagePath": 0
+  },
+  "10104": {
+    "ID": 10104,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": -849271951
+    },
+    "DescTextmapID": {
+      "hash": -1857464996
+    },
+    "ImagePath": 0
+  },
+  "10105": {
+    "ID": 10105,
+    "MinLevel": 1,
+    "MaxLevel": 80,
+    "QuestID": 1000401,
+    "Weight": 20,
+    "TitleTextmapID": {
+      "hash": 1879611404
+    },
+    "DescTextmapID": {
+      "hash": -1857464995
+    },
+    "ImagePath": 0
+  }
+}

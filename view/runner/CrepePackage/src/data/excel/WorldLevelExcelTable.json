@@ -1,0 +1,100 @@
+{
+  "0": {
+    "Level": 0,
+    "MaxPlayerLevel": 20,
+    "LevelUpMission": 4010101,
+    "Breaktips1": {
+      "hash": -1689771034
+    },
+    "Breaktips2": {
+      "hash": -2093055561
+    },
+    "LevelUpMissionTips": {
+      "hash": -1571616738
+    }
+  },
+  "1": {
+    "Level": 1,
+    "MaxPlayerLevel": 30,
+    "LevelUpMission": 4010102,
+    "Breaktips1": {
+      "hash": -1689771034
+    },
+    "Breaktips2": {
+      "hash": -2093055561
+    },
+    "LevelUpMissionTips": {
+      "hash": -1571616738
+    }
+  },
+  "2": {
+    "Level": 2,
+    "MaxPlayerLevel": 40,
+    "LevelUpMission": 4010103,
+    "Breaktips1": {
+      "hash": -1689771034
+    },
+    "Breaktips2": {
+      "hash": -2093055561
+    },
+    "LevelUpMissionTips": {
+      "hash": -1571616738
+    }
+  },
+  "3": {
+    "Level": 3,
+    "MaxPlayerLevel": 50,
+    "LevelUpMission": 4010104,
+    "Breaktips1": {
+      "hash": -1689771034
+    },
+    "Breaktips2": {
+      "hash": -2093055561
+    },
+    "LevelUpMissionTips": {
+      "hash": -1571616738
+    }
+  },
+  "4": {
+    "Level": 4,
+    "MaxPlayerLevel": 60,
+    "LevelUpMission": 0,
+    "Breaktips1": {
+      "hash": -1689771034
+    },
+    "Breaktips2": {
+      "hash": -2093055561
+    },
+    "LevelUpMissionTips": {
+      "hash": -1571616738
+    }
+  },
+  "5": {
+    "Level": 5,
+    "MaxPlayerLevel": 65,
+    "LevelUpMission": 0,
+    "Breaktips1": {
+      "hash": -1689771034
+    },
+    "Breaktips2": {
+      "hash": -2093055561
+    },
+    "LevelUpMissionTips": {
+      "hash": -1571616738
+    }
+  },
+  "6": {
+    "Level": 6,
+    "MaxPlayerLevel": 70,
+    "LevelUpMission": 0,
+    "Breaktips1": {
+      "hash": -1689771034
+    },
+    "Breaktips2": {
+      "hash": -2093055561
+    },
+    "LevelUpMissionTips": {
+      "hash": -1571616738
+    }
+  }
+}

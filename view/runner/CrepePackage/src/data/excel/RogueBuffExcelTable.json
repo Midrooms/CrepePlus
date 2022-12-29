@@ -1,0 +1,2862 @@
+{
+  "600000:1": {
+    "MazeBuffID": 600000,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 100,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "RogueBuffScore": 100
+  },
+  "600000:2": {
+    "MazeBuffID": 600000,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 100,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "RogueBuffScore": 100
+  },
+  "600000:3": {
+    "MazeBuffID": 600000,
+    "MazeBuffLevel": 3,
+    "RogueBuffType": 100,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "RogueBuffScore": 100
+  },
+  "600000:4": {
+    "MazeBuffID": 600000,
+    "MazeBuffLevel": 4,
+    "RogueBuffType": 100,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "RogueBuffScore": 100
+  },
+  "600000:5": {
+    "MazeBuffID": 600000,
+    "MazeBuffLevel": 5,
+    "RogueBuffType": 100,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "RogueBuffScore": 100
+  },
+  "600000:6": {
+    "MazeBuffID": 600000,
+    "MazeBuffLevel": 6,
+    "RogueBuffType": 100,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "RogueBuffScore": 100
+  },
+  "600000:7": {
+    "MazeBuffID": 600000,
+    "MazeBuffLevel": 7,
+    "RogueBuffType": 100,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "RogueBuffScore": 100
+  },
+  "600000:8": {
+    "MazeBuffID": 600000,
+    "MazeBuffLevel": 8,
+    "RogueBuffType": 100,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "RogueBuffScore": 100
+  },
+  "600000:9": {
+    "MazeBuffID": 600000,
+    "MazeBuffLevel": 9,
+    "RogueBuffType": 100,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "RogueBuffScore": 100
+  },
+  "600000:10": {
+    "MazeBuffID": 600000,
+    "MazeBuffLevel": 10,
+    "RogueBuffType": 100,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "RogueBuffScore": 100
+  },
+  "612001:1": {
+    "MazeBuffID": 612001,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612002:1": {
+    "MazeBuffID": 612002,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612003:1": {
+    "MazeBuffID": 612003,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612004:1": {
+    "MazeBuffID": 612004,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612005:1": {
+    "MazeBuffID": 612005,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612006:1": {
+    "MazeBuffID": 612006,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612007:1": {
+    "MazeBuffID": 612007,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612008:1": {
+    "MazeBuffID": 612008,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612009:1": {
+    "MazeBuffID": 612009,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612010:1": {
+    "MazeBuffID": 612010,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612011:1": {
+    "MazeBuffID": 612011,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612012:1": {
+    "MazeBuffID": 612012,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612013:1": {
+    "MazeBuffID": 612013,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612014:1": {
+    "MazeBuffID": 612014,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612015:1": {
+    "MazeBuffID": 612015,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612101:1": {
+    "MazeBuffID": 612101,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612102:1": {
+    "MazeBuffID": 612102,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612103:1": {
+    "MazeBuffID": 612103,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612104:1": {
+    "MazeBuffID": 612104,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612105:1": {
+    "MazeBuffID": 612105,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612106:1": {
+    "MazeBuffID": 612106,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612107:1": {
+    "MazeBuffID": 612107,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612108:1": {
+    "MazeBuffID": 612108,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612109:1": {
+    "MazeBuffID": 612109,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612110:1": {
+    "MazeBuffID": 612110,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612111:1": {
+    "MazeBuffID": 612111,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612112:1": {
+    "MazeBuffID": 612112,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612113:1": {
+    "MazeBuffID": 612113,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612114:1": {
+    "MazeBuffID": 612114,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612115:1": {
+    "MazeBuffID": 612115,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612201:1": {
+    "MazeBuffID": 612201,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612202:1": {
+    "MazeBuffID": 612202,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612203:1": {
+    "MazeBuffID": 612203,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612204:1": {
+    "MazeBuffID": 612204,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612205:1": {
+    "MazeBuffID": 612205,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612206:1": {
+    "MazeBuffID": 612206,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612207:1": {
+    "MazeBuffID": 612207,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612208:1": {
+    "MazeBuffID": 612208,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612209:1": {
+    "MazeBuffID": 612209,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612210:1": {
+    "MazeBuffID": 612210,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612211:1": {
+    "MazeBuffID": 612211,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612212:1": {
+    "MazeBuffID": 612212,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612213:1": {
+    "MazeBuffID": 612213,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612214:1": {
+    "MazeBuffID": 612214,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612215:1": {
+    "MazeBuffID": 612215,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612301:1": {
+    "MazeBuffID": 612301,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612302:1": {
+    "MazeBuffID": 612302,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612303:1": {
+    "MazeBuffID": 612303,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612304:1": {
+    "MazeBuffID": 612304,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612305:1": {
+    "MazeBuffID": 612305,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612306:1": {
+    "MazeBuffID": 612306,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612307:1": {
+    "MazeBuffID": 612307,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612308:1": {
+    "MazeBuffID": 612308,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612309:1": {
+    "MazeBuffID": 612309,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612310:1": {
+    "MazeBuffID": 612310,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612311:1": {
+    "MazeBuffID": 612311,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612312:1": {
+    "MazeBuffID": 612312,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612313:1": {
+    "MazeBuffID": 612313,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612314:1": {
+    "MazeBuffID": 612314,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612315:1": {
+    "MazeBuffID": 612315,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612401:1": {
+    "MazeBuffID": 612401,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612402:1": {
+    "MazeBuffID": 612402,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612403:1": {
+    "MazeBuffID": 612403,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612404:1": {
+    "MazeBuffID": 612404,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612405:1": {
+    "MazeBuffID": 612405,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612406:1": {
+    "MazeBuffID": 612406,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612407:1": {
+    "MazeBuffID": 612407,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612408:1": {
+    "MazeBuffID": 612408,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612409:1": {
+    "MazeBuffID": 612409,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612410:1": {
+    "MazeBuffID": 612410,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612411:1": {
+    "MazeBuffID": 612411,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612412:1": {
+    "MazeBuffID": 612412,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612413:1": {
+    "MazeBuffID": 612413,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612414:1": {
+    "MazeBuffID": 612414,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612415:1": {
+    "MazeBuffID": 612415,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612501:1": {
+    "MazeBuffID": 612501,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612502:1": {
+    "MazeBuffID": 612502,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612503:1": {
+    "MazeBuffID": 612503,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612504:1": {
+    "MazeBuffID": 612504,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612505:1": {
+    "MazeBuffID": 612505,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612506:1": {
+    "MazeBuffID": 612506,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612507:1": {
+    "MazeBuffID": 612507,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612508:1": {
+    "MazeBuffID": 612508,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612509:1": {
+    "MazeBuffID": 612509,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612510:1": {
+    "MazeBuffID": 612510,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612511:1": {
+    "MazeBuffID": 612511,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612512:1": {
+    "MazeBuffID": 612512,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612513:1": {
+    "MazeBuffID": 612513,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612514:1": {
+    "MazeBuffID": 612514,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612515:1": {
+    "MazeBuffID": 612515,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612601:1": {
+    "MazeBuffID": 612601,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612602:1": {
+    "MazeBuffID": 612602,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612603:1": {
+    "MazeBuffID": 612603,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612604:1": {
+    "MazeBuffID": 612604,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612605:1": {
+    "MazeBuffID": 612605,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612606:1": {
+    "MazeBuffID": 612606,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612607:1": {
+    "MazeBuffID": 612607,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612608:1": {
+    "MazeBuffID": 612608,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612609:1": {
+    "MazeBuffID": 612609,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612610:1": {
+    "MazeBuffID": 612610,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612611:1": {
+    "MazeBuffID": 612611,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612612:1": {
+    "MazeBuffID": 612612,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612613:1": {
+    "MazeBuffID": 612613,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612614:1": {
+    "MazeBuffID": 612614,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612615:1": {
+    "MazeBuffID": 612615,
+    "MazeBuffLevel": 1,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612001:2": {
+    "MazeBuffID": 612001,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612002:2": {
+    "MazeBuffID": 612002,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612003:2": {
+    "MazeBuffID": 612003,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612004:2": {
+    "MazeBuffID": 612004,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612005:2": {
+    "MazeBuffID": 612005,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612006:2": {
+    "MazeBuffID": 612006,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612007:2": {
+    "MazeBuffID": 612007,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612008:2": {
+    "MazeBuffID": 612008,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612009:2": {
+    "MazeBuffID": 612009,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612010:2": {
+    "MazeBuffID": 612010,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612011:2": {
+    "MazeBuffID": 612011,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612012:2": {
+    "MazeBuffID": 612012,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612013:2": {
+    "MazeBuffID": 612013,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612014:2": {
+    "MazeBuffID": 612014,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612015:2": {
+    "MazeBuffID": 612015,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 120,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612101:2": {
+    "MazeBuffID": 612101,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612102:2": {
+    "MazeBuffID": 612102,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612103:2": {
+    "MazeBuffID": 612103,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612104:2": {
+    "MazeBuffID": 612104,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612105:2": {
+    "MazeBuffID": 612105,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612106:2": {
+    "MazeBuffID": 612106,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612107:2": {
+    "MazeBuffID": 612107,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612108:2": {
+    "MazeBuffID": 612108,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612109:2": {
+    "MazeBuffID": 612109,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612110:2": {
+    "MazeBuffID": 612110,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612111:2": {
+    "MazeBuffID": 612111,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612112:2": {
+    "MazeBuffID": 612112,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612113:2": {
+    "MazeBuffID": 612113,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612114:2": {
+    "MazeBuffID": 612114,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612115:2": {
+    "MazeBuffID": 612115,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 121,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612201:2": {
+    "MazeBuffID": 612201,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612202:2": {
+    "MazeBuffID": 612202,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612203:2": {
+    "MazeBuffID": 612203,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612204:2": {
+    "MazeBuffID": 612204,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612205:2": {
+    "MazeBuffID": 612205,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612206:2": {
+    "MazeBuffID": 612206,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612207:2": {
+    "MazeBuffID": 612207,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612208:2": {
+    "MazeBuffID": 612208,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612209:2": {
+    "MazeBuffID": 612209,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612210:2": {
+    "MazeBuffID": 612210,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612211:2": {
+    "MazeBuffID": 612211,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612212:2": {
+    "MazeBuffID": 612212,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612213:2": {
+    "MazeBuffID": 612213,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612214:2": {
+    "MazeBuffID": 612214,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612215:2": {
+    "MazeBuffID": 612215,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 122,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612301:2": {
+    "MazeBuffID": 612301,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612302:2": {
+    "MazeBuffID": 612302,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612303:2": {
+    "MazeBuffID": 612303,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612304:2": {
+    "MazeBuffID": 612304,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612305:2": {
+    "MazeBuffID": 612305,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612306:2": {
+    "MazeBuffID": 612306,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612307:2": {
+    "MazeBuffID": 612307,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612308:2": {
+    "MazeBuffID": 612308,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612309:2": {
+    "MazeBuffID": 612309,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612310:2": {
+    "MazeBuffID": 612310,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612311:2": {
+    "MazeBuffID": 612311,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612312:2": {
+    "MazeBuffID": 612312,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612313:2": {
+    "MazeBuffID": 612313,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612314:2": {
+    "MazeBuffID": 612314,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612315:2": {
+    "MazeBuffID": 612315,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 123,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612401:2": {
+    "MazeBuffID": 612401,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612402:2": {
+    "MazeBuffID": 612402,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612403:2": {
+    "MazeBuffID": 612403,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612404:2": {
+    "MazeBuffID": 612404,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612405:2": {
+    "MazeBuffID": 612405,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612406:2": {
+    "MazeBuffID": 612406,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612407:2": {
+    "MazeBuffID": 612407,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612408:2": {
+    "MazeBuffID": 612408,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612409:2": {
+    "MazeBuffID": 612409,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612410:2": {
+    "MazeBuffID": 612410,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612411:2": {
+    "MazeBuffID": 612411,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612412:2": {
+    "MazeBuffID": 612412,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612413:2": {
+    "MazeBuffID": 612413,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612414:2": {
+    "MazeBuffID": 612414,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612415:2": {
+    "MazeBuffID": 612415,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 124,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612501:2": {
+    "MazeBuffID": 612501,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612502:2": {
+    "MazeBuffID": 612502,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612503:2": {
+    "MazeBuffID": 612503,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612504:2": {
+    "MazeBuffID": 612504,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612505:2": {
+    "MazeBuffID": 612505,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612506:2": {
+    "MazeBuffID": 612506,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612507:2": {
+    "MazeBuffID": 612507,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612508:2": {
+    "MazeBuffID": 612508,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612509:2": {
+    "MazeBuffID": 612509,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612510:2": {
+    "MazeBuffID": 612510,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612511:2": {
+    "MazeBuffID": 612511,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612512:2": {
+    "MazeBuffID": 612512,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612513:2": {
+    "MazeBuffID": 612513,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612514:2": {
+    "MazeBuffID": 612514,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612515:2": {
+    "MazeBuffID": 612515,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 125,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612601:2": {
+    "MazeBuffID": 612601,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612602:2": {
+    "MazeBuffID": 612602,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612603:2": {
+    "MazeBuffID": 612603,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612604:2": {
+    "MazeBuffID": 612604,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612605:2": {
+    "MazeBuffID": 612605,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612606:2": {
+    "MazeBuffID": 612606,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612607:2": {
+    "MazeBuffID": 612607,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612608:2": {
+    "MazeBuffID": 612608,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612609:2": {
+    "MazeBuffID": 612609,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612610:2": {
+    "MazeBuffID": 612610,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612611:2": {
+    "MazeBuffID": 612611,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612612:2": {
+    "MazeBuffID": 612612,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612613:2": {
+    "MazeBuffID": 612613,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 1,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612614:2": {
+    "MazeBuffID": 612614,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 2,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  },
+  "612615:2": {
+    "MazeBuffID": 612615,
+    "MazeBuffLevel": 2,
+    "RogueBuffType": 126,
+    "RogueBuffRarity": 3,
+    "RogueBuffCost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "RogueBuffScore": 200
+  }
+}

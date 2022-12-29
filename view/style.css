@@ -1,26 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
         
         .container {
-          padding:70px;
-          margin:30px;
-          border:solid rgba(255, 255, 255, 0) 5px;
-          border-radius:5px;
-          text-align:center;
+          padding: 57px;
+          margin: 30px;
+          border: solid rgba(255, 255, 255, 0) 5px;
+          border-radius: 5px;
+          text-align: center;
           font-family: 'Monsterrat', sans-serif;
           line-height: 1.8;
+        }
+        .preq {
+            line-height: 16px;
+        }
+        .conc {
+            line-height: 17px;
+        }
+        .sep {
+            line-height: 26px;
+        }
+        .sepa {
+            font-size: xxx-large;
+        }
+        .ssssssss {
+            opacity: 0;
         }
         a {
           color: inherit;
         }
         button {
-          height: 50px;
-          border-radius: 12px;
-          border-width: 2px;
-          font-size: 20px;
-          transition: 0.3s;
+            height: 120px;
+            border-radius: 12px;
+            border-width: 2px;
+            font-size: xx-large;
+            transition: 0.3s;
+            width: 420px;
         }
         button:hover {
-          background-color:gray;
+            background-color: rgba(156,156,156,0.81)
         }
   /* dark mode support */
   @media (prefers-color-scheme: dark) {

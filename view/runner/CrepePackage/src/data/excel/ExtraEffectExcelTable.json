@@ -1,0 +1,200 @@
+{
+  "10002030": {
+    "ExtraEffectID": 10002030,
+    "ExtraEffectName": {
+      "hash": -941417595
+    },
+    "ExtraEffectDesc": {
+      "hash": 2099804807
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffDefenceDown.png",
+    "ExtraEffectType": 2
+  },
+  "10002070": {
+    "ExtraEffectID": 10002070,
+    "ExtraEffectName": {
+      "hash": -941417599
+    },
+    "ExtraEffectDesc": {
+      "hash": 2099804803
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "ExtraEffectType": 1
+  },
+  "10002080": {
+    "ExtraEffectID": 10002080,
+    "ExtraEffectName": {
+      "hash": -941417588
+    },
+    "ExtraEffectDesc": {
+      "hash": 2099804818
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffDefenceDown.png",
+    "ExtraEffectType": 2
+  },
+  "40010201": {
+    "ExtraEffectID": 40010201,
+    "ExtraEffectName": {
+      "hash": 423301719
+    },
+    "ExtraEffectDesc": {
+      "hash": -830443303
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 2
+  },
+  "40010202": {
+    "ExtraEffectID": 40010202,
+    "ExtraEffectName": {
+      "hash": 1989385660
+    },
+    "ExtraEffectDesc": {
+      "hash": 735640638
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 2
+  },
+  "40010301": {
+    "ExtraEffectID": 40010301,
+    "ExtraEffectName": {
+      "hash": -1122579246
+    },
+    "ExtraEffectDesc": {
+      "hash": 1918643028
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 1
+  },
+  "40010302": {
+    "ExtraEffectID": 40010302,
+    "ExtraEffectName": {
+      "hash": -719294719
+    },
+    "ExtraEffectDesc": {
+      "hash": -1973039741
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 1
+  },
+  "40010401": {
+    "ExtraEffectID": 40010401,
+    "ExtraEffectName": {
+      "hash": 1270276725
+    },
+    "ExtraEffectDesc": {
+      "hash": -1112768305
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 1
+  },
+  "40010501": {
+    "ExtraEffectID": 40010501,
+    "ExtraEffectName": {
+      "hash": -275604240
+    },
+    "ExtraEffectDesc": {
+      "hash": 1636318026
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 2
+  },
+  "40010502": {
+    "ExtraEffectID": 40010502,
+    "ExtraEffectName": {
+      "hash": -1841688181
+    },
+    "ExtraEffectDesc": {
+      "hash": 70234085
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 2
+  },
+  "40010503": {
+    "ExtraEffectID": 40010503,
+    "ExtraEffectName": {
+      "hash": 887195174
+    },
+    "ExtraEffectDesc": {
+      "hash": -1495849856
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 2
+  },
+  "40010601": {
+    "ExtraEffectID": 40010601,
+    "ExtraEffectName": {
+      "hash": 987951723
+    },
+    "ExtraEffectDesc": {
+      "hash": -1395093307
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 2
+  },
+  "40010602": {
+    "ExtraEffectID": 40010602,
+    "ExtraEffectName": {
+      "hash": -1740931632
+    },
+    "ExtraEffectDesc": {
+      "hash": 170990634
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 2
+  },
+  "40010701": {
+    "ExtraEffectID": 40010701,
+    "ExtraEffectName": {
+      "hash": -557929242
+    },
+    "ExtraEffectDesc": {
+      "hash": 1353993024
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 1
+  },
+  "40010801": {
+    "ExtraEffectID": 40010801,
+    "ExtraEffectName": {
+      "hash": 1834926729
+    },
+    "ExtraEffectDesc": {
+      "hash": 581181707
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 3
+  },
+  "50000101": {
+    "ExtraEffectID": 50000101,
+    "ExtraEffectName": {
+      "hash": 1928484578
+    },
+    "ExtraEffectDesc": {
+      "hash": 674739556
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 1
+  },
+  "50000102": {
+    "ExtraEffectID": 50000102,
+    "ExtraEffectName": {
+      "hash": 1525200051
+    },
+    "ExtraEffectDesc": {
+      "hash": 271455029
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 1
+  },
+  "30001010": {
+    "ExtraEffectID": 30001010,
+    "ExtraEffectName": {
+      "hash": -941489372
+    },
+    "ExtraEffectDesc": {
+      "hash": 2099876650
+    },
+    "ExtraEffectIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffCommon.png",
+    "ExtraEffectType": 3
+  }
+}

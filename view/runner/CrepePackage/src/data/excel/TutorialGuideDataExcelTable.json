@@ -1,0 +1,814 @@
+{
+  "100601": {
+    "ID": 100601,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_100601.png",
+    "DescText": {
+      "hash": -370556640
+    }
+  },
+  "100901": {
+    "ID": 100901,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_100901.png",
+    "DescText": {
+      "hash": -1708017961
+    }
+  },
+  "110101": {
+    "ID": 110101,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110101.png",
+    "DescText": {
+      "hash": 2094913034
+    }
+  },
+  "110102": {
+    "ID": 110102,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110102.png",
+    "DescText": {
+      "hash": -1796769735
+    }
+  },
+  "110103": {
+    "ID": 110103,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110103.png",
+    "DescText": {
+      "hash": 932113620
+    }
+  },
+  "110104": {
+    "ID": 110104,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110104.png",
+    "DescText": {
+      "hash": 1691628507
+    }
+  },
+  "110401": {
+    "ID": 110401,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110401.png",
+    "DescText": {
+      "hash": 1671425531
+    }
+  },
+  "110402": {
+    "ID": 110402,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110402.png",
+    "DescText": {
+      "hash": -1057457824
+    }
+  },
+  "110501": {
+    "ID": 110501,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110501.png",
+    "DescText": {
+      "hash": 1530263030
+    }
+  },
+  "110502": {
+    "ID": 110502,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110502.png",
+    "DescText": {
+      "hash": 1933547557
+    }
+  },
+  "110503": {
+    "ID": 110503,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110503.png",
+    "DescText": {
+      "hash": 367463616
+    }
+  },
+  "110601": {
+    "ID": 110601,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110601.png",
+    "DescText": {
+      "hash": 1953750533
+    }
+  },
+  "110602": {
+    "ID": 110602,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110602.png",
+    "DescText": {
+      "hash": 1550466006
+    }
+  },
+  "110701": {
+    "ID": 110701,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110701.png",
+    "DescText": {
+      "hash": 1812588032
+    }
+  },
+  "110702": {
+    "ID": 110702,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_110702.png",
+    "DescText": {
+      "hash": 246504091
+    }
+  },
+  "200601": {
+    "ID": 200601,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_200601.png",
+    "DescText": {
+      "hash": -370555617
+    }
+  },
+  "200701": {
+    "ID": 200701,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_200701.png",
+    "DescText": {
+      "hash": 1175325348
+    }
+  },
+  "201601": {
+    "ID": 201601,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_201601.png",
+    "DescText": {
+      "hash": -370555714
+    }
+  },
+  "201701": {
+    "ID": 201701,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_201701.png",
+    "DescText": {
+      "hash": 1175325251
+    }
+  },
+  "201702": {
+    "ID": 201702,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_201702.png",
+    "DescText": {
+      "hash": 772040724
+    }
+  },
+  "210101": {
+    "ID": 210101,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210101.png",
+    "DescText": {
+      "hash": 2094914057
+    }
+  },
+  "210102": {
+    "ID": 210102,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210102.png",
+    "DescText": {
+      "hash": -1796768712
+    }
+  },
+  "210201": {
+    "ID": 210201,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210201.png",
+    "DescText": {
+      "hash": -1776565736
+    }
+  },
+  "210202": {
+    "ID": 210202,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210202.png",
+    "DescText": {
+      "hash": 2115117033
+    }
+  },
+  "210203": {
+    "ID": 210203,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210203.png",
+    "DescText": {
+      "hash": -613766322
+    }
+  },
+  "210301": {
+    "ID": 210301,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210301.png",
+    "DescText": {
+      "hash": -1917728237
+    }
+  },
+  "210302": {
+    "ID": 210302,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210302.png",
+    "DescText": {
+      "hash": 811155118
+    }
+  },
+  "210303": {
+    "ID": 210303,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210303.png",
+    "DescText": {
+      "hash": -754928823
+    }
+  },
+  "210401": {
+    "ID": 210401,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210401.png",
+    "DescText": {
+      "hash": 1671426554
+    }
+  },
+  "210501": {
+    "ID": 210501,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210501.png",
+    "DescText": {
+      "hash": 1530264053
+    }
+  },
+  "210601": {
+    "ID": 210601,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_210601.png",
+    "DescText": {
+      "hash": 1953751556
+    }
+  },
+  "220101": {
+    "ID": 220101,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220101.png",
+    "DescText": {
+      "hash": -2110526472
+    }
+  },
+  "220102": {
+    "ID": 220102,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220102.png",
+    "DescText": {
+      "hash": 1781156297
+    }
+  },
+  "220201": {
+    "ID": 220201,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220201.png",
+    "DescText": {
+      "hash": 356234857
+    }
+  },
+  "220202": {
+    "ID": 220202,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220202.png",
+    "DescText": {
+      "hash": 759519384
+    }
+  },
+  "220301": {
+    "ID": 220301,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220301.png",
+    "DescText": {
+      "hash": 1902115822
+    }
+  },
+  "220302": {
+    "ID": 220302,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220302.png",
+    "DescText": {
+      "hash": -826767533
+    }
+  },
+  "220401": {
+    "ID": 220401,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220401.png",
+    "DescText": {
+      "hash": 73909855
+    }
+  },
+  "220402": {
+    "ID": 220402,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220402.png",
+    "DescText": {
+      "hash": -1492174086
+    }
+  },
+  "220501": {
+    "ID": 220501,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220501.png",
+    "DescText": {
+      "hash": 1619790820
+    }
+  },
+  "220502": {
+    "ID": 220502,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220502.png",
+    "DescText": {
+      "hash": 1216506293
+    }
+  },
+  "220601": {
+    "ID": 220601,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220601.png",
+    "DescText": {
+      "hash": -208415147
+    }
+  },
+  "220602": {
+    "ID": 220602,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220602.png",
+    "DescText": {
+      "hash": 194869380
+    }
+  },
+  "220701": {
+    "ID": 220701,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220701.png",
+    "DescText": {
+      "hash": 1337465818
+    }
+  },
+  "220702": {
+    "ID": 220702,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_220702.png",
+    "DescText": {
+      "hash": -1391417537
+    }
+  },
+  "300701": {
+    "ID": 300701,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_300701.png",
+    "DescText": {
+      "hash": 1175322147
+    }
+  },
+  "310401": {
+    "ID": 310401,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_310401.png",
+    "DescText": {
+      "hash": 1671423353
+    }
+  },
+  "310402": {
+    "ID": 310402,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_310402.png",
+    "DescText": {
+      "hash": -1057460002
+    }
+  },
+  "310501": {
+    "ID": 310501,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_310501.png",
+    "DescText": {
+      "hash": 1530260852
+    }
+  },
+  "310502": {
+    "ID": 310502,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_310502.png",
+    "DescText": {
+      "hash": 1953748355
+    }
+  },
+  "400101": {
+    "ID": 400101,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_400101.png",
+    "DescText": {
+      "hash": 1457648172
+    }
+  },
+  "400102": {
+    "ID": 400102,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_400102.png",
+    "DescText": {
+      "hash": -1271235183
+    }
+  },
+  "410101": {
+    "ID": 410101,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410101.png",
+    "DescText": {
+      "hash": 2094911879
+    }
+  },
+  "410201": {
+    "ID": 410201,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410201.png",
+    "DescText": {
+      "hash": -1776567914
+    }
+  },
+  "410202": {
+    "ID": 410202,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410202.png",
+    "DescText": {
+      "hash": 2115114855
+    }
+  },
+  "410301": {
+    "ID": 410301,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410301.png",
+    "DescText": {
+      "hash": -1917730415
+    }
+  },
+  "410302": {
+    "ID": 410302,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410302.png",
+    "DescText": {
+      "hash": 811152940
+    }
+  },
+  "410401": {
+    "ID": 410401,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410401.png",
+    "DescText": {
+      "hash": 1671424376
+    }
+  },
+  "410402": {
+    "ID": 410402,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410402.png",
+    "DescText": {
+      "hash": -1057458979
+    }
+  },
+  "410501": {
+    "ID": 410501,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410501.png",
+    "DescText": {
+      "hash": 1530261875
+    }
+  },
+  "410502": {
+    "ID": 410502,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410502.png",
+    "DescText": {
+      "hash": 1933546402
+    }
+  },
+  "410601": {
+    "ID": 410601,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410601.png",
+    "DescText": {
+      "hash": 1953749378
+    }
+  },
+  "410701": {
+    "ID": 410701,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410701.png",
+    "DescText": {
+      "hash": 1812586877
+    }
+  },
+  "410801": {
+    "ID": 410801,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410801.png",
+    "DescText": {
+      "hash": -929592908
+    }
+  },
+  "410901": {
+    "ID": 410901,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_410901.png",
+    "DescText": {
+      "hash": -1070755409
+    }
+  },
+  "500101": {
+    "ID": 500101,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_500101.png",
+    "DescText": {
+      "hash": -370560996
+    }
+  },
+  "500102": {
+    "ID": 500102,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_500102.png",
+    "DescText": {
+      "hash": -1936644937
+    }
+  },
+  "500103": {
+    "ID": 500103,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_500103.png",
+    "DescText": {
+      "hash": 792238418
+    }
+  },
+  "500104": {
+    "ID": 500104,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_500104.png",
+    "DescText": {
+      "hash": -1130075883
+    }
+  },
+  "510101": {
+    "ID": 510101,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_510101.png",
+    "DescText": {
+      "hash": 2094908678
+    }
+  },
+  "510201": {
+    "ID": 510201,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_510201.png",
+    "DescText": {
+      "hash": -1776571115
+    }
+  },
+  "510301": {
+    "ID": 510301,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_510301.png",
+    "DescText": {
+      "hash": -1917733616
+    }
+  },
+  "510401": {
+    "ID": 510401,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_510401.png",
+    "DescText": {
+      "hash": 1671421175
+    }
+  },
+  "510501": {
+    "ID": 510501,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_510501.png",
+    "DescText": {
+      "hash": 1530258674
+    }
+  },
+  "600101": {
+    "ID": 600101,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600101.png",
+    "DescText": {
+      "hash": 1457645994
+    }
+  },
+  "600102": {
+    "ID": 600102,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600102.png",
+    "DescText": {
+      "hash": -1271237361
+    }
+  },
+  "600103": {
+    "ID": 600103,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600103.png",
+    "DescText": {
+      "hash": 294846580
+    }
+  },
+  "600104": {
+    "ID": 600104,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600104.png",
+    "DescText": {
+      "hash": -2077806415
+    }
+  },
+  "600105": {
+    "ID": 600105,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600105.png",
+    "DescText": {
+      "hash": -511722474
+    }
+  },
+  "600201": {
+    "ID": 600201,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600201.png",
+    "DescText": {
+      "hash": 194090031
+    }
+  },
+  "600202": {
+    "ID": 600202,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600202.png",
+    "DescText": {
+      "hash": -1371993910
+    }
+  },
+  "600203": {
+    "ID": 600203,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600203.png",
+    "DescText": {
+      "hash": 1356889445
+    }
+  },
+  "600204": {
+    "ID": 600204,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600204.png",
+    "DescText": {
+      "hash": -209194496
+    }
+  },
+  "600301": {
+    "ID": 600301,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600301.png",
+    "DescText": {
+      "hash": 1739970996
+    }
+  },
+  "600302": {
+    "ID": 600302,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600302.png",
+    "DescText": {
+      "hash": 1336686469
+    }
+  },
+  "600303": {
+    "ID": 600303,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600303.png",
+    "DescText": {
+      "hash": -1392196886
+    }
+  },
+  "600304": {
+    "ID": 600304,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600304.png",
+    "DescText": {
+      "hash": -1795481413
+    }
+  },
+  "600305": {
+    "ID": 600305,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600305.png",
+    "DescText": {
+      "hash": -229397472
+    }
+  },
+  "600401": {
+    "ID": 600401,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600401.png",
+    "DescText": {
+      "hash": -652884975
+    }
+  },
+  "600402": {
+    "ID": 600402,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600402.png",
+    "DescText": {
+      "hash": -249600448
+    }
+  },
+  "600403": {
+    "ID": 600403,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600403.png",
+    "DescText": {
+      "hash": -1815684389
+    }
+  },
+  "600501": {
+    "ID": 600501,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600501.png",
+    "DescText": {
+      "hash": 892995990
+    }
+  },
+  "600502": {
+    "ID": 600502,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600502.png",
+    "DescText": {
+      "hash": -1835887365
+    }
+  },
+  "600503": {
+    "ID": 600503,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600503.png",
+    "DescText": {
+      "hash": -269803424
+    }
+  },
+  "600504": {
+    "ID": 600504,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600504.png",
+    "DescText": {
+      "hash": 1296280517
+    }
+  },
+  "600505": {
+    "ID": 600505,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600505.png",
+    "DescText": {
+      "hash": -1432602838
+    }
+  },
+  "600506": {
+    "ID": 600506,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_600506.png",
+    "DescText": {
+      "hash": 133481103
+    }
+  },
+  "910101": {
+    "ID": 910101,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900101.png",
+    "DescText": {
+      "hash": 2094921746
+    }
+  },
+  "910102": {
+    "ID": 910102,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900102.png",
+    "DescText": {
+      "hash": -1796761023
+    }
+  },
+  "910103": {
+    "ID": 910103,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900103.png",
+    "DescText": {
+      "hash": 932122332
+    }
+  },
+  "910104": {
+    "ID": 910104,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900104.png",
+    "DescText": {
+      "hash": 1691637219
+    }
+  },
+  "910105": {
+    "ID": 910105,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900105.png",
+    "DescText": {
+      "hash": 125553278
+    }
+  },
+  "910106": {
+    "ID": 910106,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900106.png",
+    "DescText": {
+      "hash": 528837805
+    }
+  },
+  "910107": {
+    "ID": 910107,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900107.png",
+    "DescText": {
+      "hash": -1037246136
+    }
+  },
+  "910108": {
+    "ID": 910108,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900108.png",
+    "DescText": {
+      "hash": -990191969
+    }
+  },
+  "910109": {
+    "ID": 910109,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900109.png",
+    "DescText": {
+      "hash": 1738691386
+    }
+  },
+  "910110": {
+    "ID": 910110,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900110.png",
+    "DescText": {
+      "hash": -633961608
+    }
+  },
+  "910111": {
+    "ID": 910111,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900111.png",
+    "DescText": {
+      "hash": 2094921747
+    }
+  },
+  "910112": {
+    "ID": 910112,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900112.png",
+    "DescText": {
+      "hash": -1796761022
+    }
+  },
+  "910113": {
+    "ID": 910113,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900113.png",
+    "DescText": {
+      "hash": 932122333
+    }
+  },
+  "910114": {
+    "ID": 910114,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900114.png",
+    "DescText": {
+      "hash": 1691637220
+    }
+  },
+  "910115": {
+    "ID": 910115,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900115.png",
+    "DescText": {
+      "hash": 125553279
+    }
+  },
+  "910116": {
+    "ID": 910116,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900116.png",
+    "DescText": {
+      "hash": 528837806
+    }
+  },
+  "910117": {
+    "ID": 910117,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900117.png",
+    "DescText": {
+      "hash": -1037246135
+    }
+  },
+  "910118": {
+    "ID": 910118,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900118.png",
+    "DescText": {
+      "hash": -990191968
+    }
+  },
+  "910119": {
+    "ID": 910119,
+    "ImagePath": "SpriteOutput/TutorialPic/TutorialPage_900119.png",
+    "DescText": {
+      "hash": 1738691387
+    }
+  }
+}

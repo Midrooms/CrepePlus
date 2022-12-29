@@ -1,0 +1,2833 @@
+{
+  "1001:0": {
+    "ID": 1001,
+    "WorldLevel": 0,
+    "PropID": 808,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1001,
+    "StageID": 1022010,
+    "StageIDList": [
+      1022010,
+      1022020,
+      1022030
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000329,
+      2003002,
+      2003102
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1001:1": {
+    "ID": 1001,
+    "WorldLevel": 1,
+    "PropID": 808,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1001,
+    "StageID": 1022011,
+    "StageIDList": [
+      1022011,
+      1022021,
+      1022031
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000349,
+      2003002,
+      2003105
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1001:2": {
+    "ID": 1001,
+    "WorldLevel": 2,
+    "PropID": 808,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1001,
+    "StageID": 1022012,
+    "StageIDList": [
+      1022012,
+      1022022,
+      1022032
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000369,
+      2003002,
+      2003107
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1001:3": {
+    "ID": 1001,
+    "WorldLevel": 3,
+    "PropID": 808,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1001,
+    "StageID": 1022013,
+    "StageIDList": [
+      1022013,
+      1022023,
+      1022033
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000389,
+      2003003,
+      2003109
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1001:4": {
+    "ID": 1001,
+    "WorldLevel": 4,
+    "PropID": 808,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1001,
+    "StageID": 1022014,
+    "StageIDList": [
+      1022014,
+      1022024,
+      1022034
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000401,
+      2003005,
+      2003111
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1001:5": {
+    "ID": 1001,
+    "WorldLevel": 5,
+    "PropID": 808,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1001,
+    "StageID": 0,
+    "StageIDList": [
+      1022015,
+      1022025,
+      1022035
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000403,
+      2003103,
+      2003202
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1001:6": {
+    "ID": 1001,
+    "WorldLevel": 6,
+    "PropID": 808,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1001,
+    "StageID": 0,
+    "StageIDList": [
+      1022016,
+      1022026,
+      1022036
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000405,
+      2003204
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1002:0": {
+    "ID": 1002,
+    "WorldLevel": 0,
+    "PropID": 809,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1002,
+    "StageID": 1022210,
+    "StageIDList": [
+      1022210,
+      1022220,
+      1022230
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000329,
+      2004004
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1002:1": {
+    "ID": 1002,
+    "WorldLevel": 1,
+    "PropID": 809,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1002,
+    "StageID": 1022211,
+    "StageIDList": [
+      1022211,
+      1022221,
+      1022231
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000349,
+      2004007
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1002:2": {
+    "ID": 1002,
+    "WorldLevel": 2,
+    "PropID": 809,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1002,
+    "StageID": 1022212,
+    "StageIDList": [
+      1022212,
+      1022222,
+      1022232
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000369,
+      2004010
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1002:3": {
+    "ID": 1002,
+    "WorldLevel": 3,
+    "PropID": 809,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1002,
+    "StageID": 1022213,
+    "StageIDList": [
+      1022213,
+      1022223,
+      1022233
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000389,
+      2004013
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1002:4": {
+    "ID": 1002,
+    "WorldLevel": 4,
+    "PropID": 809,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1002,
+    "StageID": 1022214,
+    "StageIDList": [
+      1022214,
+      1022224,
+      1022234
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000401,
+      2004016
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1002:5": {
+    "ID": 1002,
+    "WorldLevel": 5,
+    "PropID": 809,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1002,
+    "StageID": 0,
+    "StageIDList": [
+      1022215,
+      1022225,
+      1022235
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000403,
+      2004004,
+      2004102
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1002:6": {
+    "ID": 1002,
+    "WorldLevel": 6,
+    "PropID": 809,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1002,
+    "StageID": 0,
+    "StageIDList": [
+      1022216,
+      1022226,
+      1022236
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000405,
+      2004002,
+      2004103
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1003:0": {
+    "ID": 1003,
+    "WorldLevel": 0,
+    "PropID": 810,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1003,
+    "StageID": 1022110,
+    "StageIDList": [
+      1022110,
+      1022120,
+      1022130
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000434
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1003:1": {
+    "ID": 1003,
+    "WorldLevel": 1,
+    "PropID": 810,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1003,
+    "StageID": 1022111,
+    "StageIDList": [
+      1022111,
+      1022121,
+      1022131
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000464
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1003:2": {
+    "ID": 1003,
+    "WorldLevel": 2,
+    "PropID": 810,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1003,
+    "StageID": 1022112,
+    "StageIDList": [
+      1022112,
+      1022122,
+      1022132
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000500
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1003:3": {
+    "ID": 1003,
+    "WorldLevel": 3,
+    "PropID": 810,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1003,
+    "StageID": 1022113,
+    "StageIDList": [
+      1022113,
+      1022123,
+      1022133
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000503
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1003:4": {
+    "ID": 1003,
+    "WorldLevel": 4,
+    "PropID": 810,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1003,
+    "StageID": 1022114,
+    "StageIDList": [
+      1022114,
+      1022124,
+      1022134
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000506
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1003:5": {
+    "ID": 1003,
+    "WorldLevel": 5,
+    "PropID": 810,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1003,
+    "StageID": 0,
+    "StageIDList": [
+      1022115,
+      1022125,
+      1022135
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000509
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1003:6": {
+    "ID": 1003,
+    "WorldLevel": 6,
+    "PropID": 810,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1003,
+    "StageID": 0,
+    "StageIDList": [
+      1022116,
+      1022126,
+      1022136
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000849,
+      1000512
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": []
+  },
+  "1004:0": {
+    "ID": 1004,
+    "WorldLevel": 0,
+    "PropID": 801,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1004,
+    "StageID": 1022310,
+    "StageIDList": [
+      1022310,
+      1022320,
+      1022330
+    ],
+    "BuffDesc": {
+      "hash": 1646930205
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000329,
+      1003000,
+      920001
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1004:1": {
+    "ID": 1004,
+    "WorldLevel": 1,
+    "PropID": 801,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1004,
+    "StageID": 1022311,
+    "StageIDList": [
+      1022311,
+      1022321,
+      1022331
+    ],
+    "BuffDesc": {
+      "hash": 1646930205
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000349,
+      1003000,
+      920002
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1004:2": {
+    "ID": 1004,
+    "WorldLevel": 2,
+    "PropID": 801,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1004,
+    "StageID": 1022312,
+    "StageIDList": [
+      1022312,
+      1022322,
+      1022332
+    ],
+    "BuffDesc": {
+      "hash": 1646930205
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000369,
+      1003001,
+      920004
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1004:3": {
+    "ID": 1004,
+    "WorldLevel": 3,
+    "PropID": 801,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1004,
+    "StageID": 1022313,
+    "StageIDList": [
+      1022313,
+      1022323,
+      1022333
+    ],
+    "BuffDesc": {
+      "hash": 1646930205
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000389,
+      1003001,
+      920003,
+      920004
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1004:4": {
+    "ID": 1004,
+    "WorldLevel": 4,
+    "PropID": 801,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1004,
+    "StageID": 1022314,
+    "StageIDList": [
+      1022314,
+      1022324,
+      1022334
+    ],
+    "BuffDesc": {
+      "hash": 1646930205
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000401,
+      1003001,
+      920003,
+      920005
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1004:5": {
+    "ID": 1004,
+    "WorldLevel": 5,
+    "PropID": 801,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1004,
+    "StageID": 0,
+    "StageIDList": [
+      1022315,
+      1022325,
+      1022335
+    ],
+    "BuffDesc": {
+      "hash": 1646930205
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000403,
+      1003000,
+      1003010,
+      920006
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1004:6": {
+    "ID": 1004,
+    "WorldLevel": 6,
+    "PropID": 801,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1004,
+    "StageID": 0,
+    "StageIDList": [
+      1022316,
+      1022326,
+      1022336
+    ],
+    "BuffDesc": {
+      "hash": 1646930205
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000405,
+      1003000,
+      1003010,
+      920007
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1005:0": {
+    "ID": 1005,
+    "WorldLevel": 0,
+    "PropID": 802,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1005,
+    "StageID": 1022410,
+    "StageIDList": [
+      1022410,
+      1022420,
+      1022430
+    ],
+    "BuffDesc": {
+      "hash": 1646930206
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000329,
+      1003090,
+      920031
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1005:1": {
+    "ID": 1005,
+    "WorldLevel": 1,
+    "PropID": 802,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1005,
+    "StageID": 1022411,
+    "StageIDList": [
+      1022411,
+      1022421,
+      1022431
+    ],
+    "BuffDesc": {
+      "hash": 1646930206
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000349,
+      1003090,
+      920032
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1005:2": {
+    "ID": 1005,
+    "WorldLevel": 2,
+    "PropID": 802,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1005,
+    "StageID": 1022412,
+    "StageIDList": [
+      1022412,
+      1022422,
+      1022432
+    ],
+    "BuffDesc": {
+      "hash": 1646930206
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000369,
+      1003091,
+      920034
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1005:3": {
+    "ID": 1005,
+    "WorldLevel": 3,
+    "PropID": 802,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1005,
+    "StageID": 1022413,
+    "StageIDList": [
+      1022413,
+      1022423,
+      1022433
+    ],
+    "BuffDesc": {
+      "hash": 1646930206
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000389,
+      1003091,
+      920033,
+      920034
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1005:4": {
+    "ID": 1005,
+    "WorldLevel": 4,
+    "PropID": 802,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1005,
+    "StageID": 1022414,
+    "StageIDList": [
+      1022414,
+      1022424,
+      1022434
+    ],
+    "BuffDesc": {
+      "hash": 1646930206
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000401,
+      1003091,
+      920033,
+      920035
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1005:5": {
+    "ID": 1005,
+    "WorldLevel": 5,
+    "PropID": 802,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1005,
+    "StageID": 0,
+    "StageIDList": [
+      1022415,
+      1022425,
+      1022435
+    ],
+    "BuffDesc": {
+      "hash": 1646930206
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000403,
+      1003090,
+      1003100,
+      920036
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1005:6": {
+    "ID": 1005,
+    "WorldLevel": 6,
+    "PropID": 802,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1005,
+    "StageID": 0,
+    "StageIDList": [
+      1022416,
+      1022426,
+      1022436
+    ],
+    "BuffDesc": {
+      "hash": 1646930206
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000405,
+      1003090,
+      1003100,
+      920037
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1006:0": {
+    "ID": 1006,
+    "WorldLevel": 0,
+    "PropID": 803,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1006,
+    "StageID": 1022510,
+    "StageIDList": [
+      1022510,
+      1022520,
+      1022530
+    ],
+    "BuffDesc": {
+      "hash": 1646930203
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000329,
+      1003030,
+      920011
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1006:1": {
+    "ID": 1006,
+    "WorldLevel": 1,
+    "PropID": 803,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1006,
+    "StageID": 1022511,
+    "StageIDList": [
+      1022511,
+      1022521,
+      1022531
+    ],
+    "BuffDesc": {
+      "hash": 1646930203
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000349,
+      1003030,
+      920012
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1006:2": {
+    "ID": 1006,
+    "WorldLevel": 2,
+    "PropID": 803,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1006,
+    "StageID": 1022512,
+    "StageIDList": [
+      1022512,
+      1022522,
+      1022532
+    ],
+    "BuffDesc": {
+      "hash": 1646930203
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000369,
+      1003031,
+      920014
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1006:3": {
+    "ID": 1006,
+    "WorldLevel": 3,
+    "PropID": 803,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1006,
+    "StageID": 1022513,
+    "StageIDList": [
+      1022513,
+      1022523,
+      1022533
+    ],
+    "BuffDesc": {
+      "hash": 1646930203
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000389,
+      1003031,
+      920013,
+      920014
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1006:4": {
+    "ID": 1006,
+    "WorldLevel": 4,
+    "PropID": 803,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1006,
+    "StageID": 1022514,
+    "StageIDList": [
+      1022514,
+      1022524,
+      1022534
+    ],
+    "BuffDesc": {
+      "hash": 1646930203
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000401,
+      1003031,
+      920013,
+      920015
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1006:5": {
+    "ID": 1006,
+    "WorldLevel": 5,
+    "PropID": 803,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1006,
+    "StageID": 0,
+    "StageIDList": [
+      1022515,
+      1022525,
+      1022535
+    ],
+    "BuffDesc": {
+      "hash": 1646930203
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000403,
+      1003030,
+      1003040,
+      920016
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1006:6": {
+    "ID": 1006,
+    "WorldLevel": 6,
+    "PropID": 803,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1006,
+    "StageID": 0,
+    "StageIDList": [
+      1022516,
+      1022526,
+      1022536
+    ],
+    "BuffDesc": {
+      "hash": 1646930203
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000405,
+      1003030,
+      1003040,
+      920017
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1007:0": {
+    "ID": 1007,
+    "WorldLevel": 0,
+    "PropID": 804,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1007,
+    "StageID": 1022610,
+    "StageIDList": [
+      1022610,
+      1022620,
+      1022630
+    ],
+    "BuffDesc": {
+      "hash": 1646930204
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000329,
+      1003180,
+      920061
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1007:1": {
+    "ID": 1007,
+    "WorldLevel": 1,
+    "PropID": 804,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1007,
+    "StageID": 1022611,
+    "StageIDList": [
+      1022611,
+      1022621,
+      1022631
+    ],
+    "BuffDesc": {
+      "hash": 1646930204
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000349,
+      1003180,
+      920062
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1007:2": {
+    "ID": 1007,
+    "WorldLevel": 2,
+    "PropID": 804,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1007,
+    "StageID": 1022612,
+    "StageIDList": [
+      1022612,
+      1022622,
+      1022632
+    ],
+    "BuffDesc": {
+      "hash": 1646930204
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000369,
+      1003181,
+      920064
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1007:3": {
+    "ID": 1007,
+    "WorldLevel": 3,
+    "PropID": 804,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1007,
+    "StageID": 0,
+    "StageIDList": [
+      1022613,
+      1022623,
+      1022633
+    ],
+    "BuffDesc": {
+      "hash": 1646930204
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000389,
+      1003181,
+      920063,
+      920064
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1007:4": {
+    "ID": 1007,
+    "WorldLevel": 4,
+    "PropID": 804,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1007,
+    "StageID": 0,
+    "StageIDList": [
+      1022614,
+      1022624,
+      1022634
+    ],
+    "BuffDesc": {
+      "hash": 1646930204
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000401,
+      1003181,
+      920063,
+      920065
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1007:5": {
+    "ID": 1007,
+    "WorldLevel": 5,
+    "PropID": 804,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1007,
+    "StageID": 1022615,
+    "StageIDList": [
+      1022615,
+      1022625,
+      1022635
+    ],
+    "BuffDesc": {
+      "hash": 1646930204
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000403,
+      1003180,
+      1003190,
+      920066
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1007:6": {
+    "ID": 1007,
+    "WorldLevel": 6,
+    "PropID": 804,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1007,
+    "StageID": 1022616,
+    "StageIDList": [
+      1022616,
+      1022626,
+      1022636
+    ],
+    "BuffDesc": {
+      "hash": 1646930204
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000405,
+      1003180,
+      1003190,
+      920067
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      3,
+      6,
+      7
+    ]
+  },
+  "1008:0": {
+    "ID": 1008,
+    "WorldLevel": 0,
+    "PropID": 805,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1008,
+    "StageID": 1022710,
+    "StageIDList": [
+      1022710,
+      1022720,
+      1022730
+    ],
+    "BuffDesc": {
+      "hash": 1646930217
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000329,
+      1003060,
+      920021
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1008:1": {
+    "ID": 1008,
+    "WorldLevel": 1,
+    "PropID": 805,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1008,
+    "StageID": 1022711,
+    "StageIDList": [
+      1022711,
+      1022721,
+      1022731
+    ],
+    "BuffDesc": {
+      "hash": 1646930217
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000349,
+      1003060,
+      920022
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1008:2": {
+    "ID": 1008,
+    "WorldLevel": 2,
+    "PropID": 805,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1008,
+    "StageID": 1022712,
+    "StageIDList": [
+      1022712,
+      1022722,
+      1022732
+    ],
+    "BuffDesc": {
+      "hash": 1646930217
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000369,
+      1003061,
+      920024
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1008:3": {
+    "ID": 1008,
+    "WorldLevel": 3,
+    "PropID": 805,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1008,
+    "StageID": 1022713,
+    "StageIDList": [
+      1022713,
+      1022723,
+      1022733
+    ],
+    "BuffDesc": {
+      "hash": 1646930217
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000389,
+      1003061,
+      920023,
+      920024
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1008:4": {
+    "ID": 1008,
+    "WorldLevel": 4,
+    "PropID": 805,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1008,
+    "StageID": 1022714,
+    "StageIDList": [
+      1022714,
+      1022724,
+      1022734
+    ],
+    "BuffDesc": {
+      "hash": 1646930217
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000401,
+      1003061,
+      920023,
+      920025
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1008:5": {
+    "ID": 1008,
+    "WorldLevel": 5,
+    "PropID": 805,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1008,
+    "StageID": 0,
+    "StageIDList": [
+      1022715,
+      1022725,
+      1022735
+    ],
+    "BuffDesc": {
+      "hash": 1646930217
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000403,
+      1003060,
+      1003070,
+      920026
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1008:6": {
+    "ID": 1008,
+    "WorldLevel": 6,
+    "PropID": 805,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1008,
+    "StageID": 0,
+    "StageIDList": [
+      1022716,
+      1022726,
+      1022736
+    ],
+    "BuffDesc": {
+      "hash": 1646930217
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000405,
+      1003060,
+      1003070,
+      920027
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1009:0": {
+    "ID": 1009,
+    "WorldLevel": 0,
+    "PropID": 806,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1009,
+    "StageID": 1022810,
+    "StageIDList": [
+      1022810,
+      1022820,
+      1022830
+    ],
+    "BuffDesc": {
+      "hash": 1646930218
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000329,
+      1003150,
+      920051
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1009:1": {
+    "ID": 1009,
+    "WorldLevel": 1,
+    "PropID": 806,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1009,
+    "StageID": 1022811,
+    "StageIDList": [
+      1022811,
+      1022821,
+      1022831
+    ],
+    "BuffDesc": {
+      "hash": 1646930218
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000349,
+      1003150,
+      920052
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1009:2": {
+    "ID": 1009,
+    "WorldLevel": 2,
+    "PropID": 806,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1009,
+    "StageID": 1022812,
+    "StageIDList": [
+      1022812,
+      1022822,
+      1022832
+    ],
+    "BuffDesc": {
+      "hash": 1646930218
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000369,
+      1003151,
+      920054
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1009:3": {
+    "ID": 1009,
+    "WorldLevel": 3,
+    "PropID": 806,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1009,
+    "StageID": 1022813,
+    "StageIDList": [
+      1022813,
+      1022823,
+      1022833
+    ],
+    "BuffDesc": {
+      "hash": 1646930218
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000389,
+      1003151,
+      920053,
+      920054
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1009:4": {
+    "ID": 1009,
+    "WorldLevel": 4,
+    "PropID": 806,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1009,
+    "StageID": 1022814,
+    "StageIDList": [
+      1022814,
+      1022824,
+      1022834
+    ],
+    "BuffDesc": {
+      "hash": 1646930218
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000401,
+      1003151,
+      920053,
+      920055
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1009:5": {
+    "ID": 1009,
+    "WorldLevel": 5,
+    "PropID": 806,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1009,
+    "StageID": 0,
+    "StageIDList": [
+      1022815,
+      1022825,
+      1022835
+    ],
+    "BuffDesc": {
+      "hash": 1646930218
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000403,
+      1003150,
+      1003160,
+      920056
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1009:6": {
+    "ID": 1009,
+    "WorldLevel": 6,
+    "PropID": 806,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1009,
+    "StageID": 0,
+    "StageIDList": [
+      1022816,
+      1022826,
+      1022836
+    ],
+    "BuffDesc": {
+      "hash": 1646930218
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000405,
+      1003150,
+      1003160,
+      920057
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      1,
+      4,
+      7
+    ]
+  },
+  "1010:0": {
+    "ID": 1010,
+    "WorldLevel": 0,
+    "PropID": 807,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1010,
+    "StageID": 1022910,
+    "StageIDList": [
+      1022910,
+      1022920,
+      1022930
+    ],
+    "BuffDesc": {
+      "hash": 80846268
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000329,
+      1003120,
+      920041
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1010:1": {
+    "ID": 1010,
+    "WorldLevel": 1,
+    "PropID": 807,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1010,
+    "StageID": 1022911,
+    "StageIDList": [
+      1022911,
+      1022921,
+      1022931
+    ],
+    "BuffDesc": {
+      "hash": 80846268
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000349,
+      1003120,
+      920042
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1010:2": {
+    "ID": 1010,
+    "WorldLevel": 2,
+    "PropID": 807,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1010,
+    "StageID": 1022912,
+    "StageIDList": [
+      1022912,
+      1022922,
+      1022932
+    ],
+    "BuffDesc": {
+      "hash": 80846268
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000369,
+      1003121,
+      920044
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1010:3": {
+    "ID": 1010,
+    "WorldLevel": 3,
+    "PropID": 807,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1010,
+    "StageID": 1022913,
+    "StageIDList": [
+      1022913,
+      1022923,
+      1022933
+    ],
+    "BuffDesc": {
+      "hash": 80846268
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000389,
+      1003121,
+      920043,
+      920044
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1010:4": {
+    "ID": 1010,
+    "WorldLevel": 4,
+    "PropID": 807,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1010,
+    "StageID": 1022914,
+    "StageIDList": [
+      1022914,
+      1022924,
+      1022934
+    ],
+    "BuffDesc": {
+      "hash": 80846268
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000401,
+      1003121,
+      920043,
+      920045
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1010:5": {
+    "ID": 1010,
+    "WorldLevel": 5,
+    "PropID": 807,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1010,
+    "StageID": 0,
+    "StageIDList": [
+      1022915,
+      1022925,
+      1022935
+    ],
+    "BuffDesc": {
+      "hash": 80846268
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000403,
+      1003120,
+      1003130,
+      920046
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1010:6": {
+    "ID": 1010,
+    "WorldLevel": 6,
+    "PropID": 807,
+    "CocoonType": "TYPE_NORMAL",
+    "MappingInfoID": 1010,
+    "StageID": 0,
+    "StageIDList": [
+      1022916,
+      1022926,
+      1022936
+    ],
+    "BuffDesc": {
+      "hash": 80846268
+    },
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "DropList": [
+      1000849,
+      1000405,
+      1003120,
+      1003130,
+      920047
+    ],
+    "StaminaCost": 10,
+    "MaxWave": 6,
+    "OpenDate": [
+      2,
+      5,
+      7
+    ]
+  },
+  "1301:0": {
+    "ID": 1301,
+    "WorldLevel": 0,
+    "PropID": 113,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1301,
+    "StageID": 1052010,
+    "StageIDList": [
+      1052010
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000429,
+      200002,
+      200011,
+      980001,
+      980001,
+      980001,
+      980001,
+      980001,
+      200101,
+      980002,
+      200111,
+      1012012
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1301:1": {
+    "ID": 1301,
+    "WorldLevel": 1,
+    "PropID": 113,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1301,
+    "StageID": 1052011,
+    "StageIDList": [
+      1052011
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000439,
+      200002,
+      200011,
+      980001,
+      980001,
+      980001,
+      980001,
+      980001,
+      200101,
+      980002,
+      200111,
+      1012012
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1301:2": {
+    "ID": 1301,
+    "WorldLevel": 2,
+    "PropID": 113,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1301,
+    "StageID": 1052012,
+    "StageIDList": [
+      1052012
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000449,
+      200002,
+      200012,
+      980001,
+      980001,
+      980001,
+      980001,
+      980001,
+      980002,
+      980002,
+      200021,
+      1012012
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1301:3": {
+    "ID": 1301,
+    "WorldLevel": 3,
+    "PropID": 113,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1301,
+    "StageID": 1052013,
+    "StageIDList": [
+      1052013
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000459,
+      200002,
+      200013,
+      980001,
+      980001,
+      980001,
+      200101,
+      980002,
+      980002,
+      200111,
+      980003,
+      1012013
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1301:4": {
+    "ID": 1301,
+    "WorldLevel": 4,
+    "PropID": 113,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1301,
+    "StageID": 1052014,
+    "StageIDList": [
+      1052014
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000469,
+      200002,
+      200014,
+      980001,
+      980001,
+      980001,
+      980002,
+      980002,
+      200111,
+      980003,
+      200121,
+      200021,
+      1012013
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1301:5": {
+    "ID": 1301,
+    "WorldLevel": 5,
+    "PropID": 113,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1301,
+    "StageID": 1052015,
+    "StageIDList": [
+      1052015
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000479,
+      200002,
+      200015,
+      980001,
+      980001,
+      200101,
+      980002,
+      980002,
+      200111,
+      980003,
+      980003,
+      1012014
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1301:6": {
+    "ID": 1301,
+    "WorldLevel": 6,
+    "PropID": 113,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1301,
+    "StageID": 1052016,
+    "StageIDList": [
+      1052016
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000489,
+      200002,
+      200015,
+      980001,
+      980001,
+      980002,
+      980002,
+      200111,
+      980003,
+      980003,
+      200121,
+      1012014
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1302:0": {
+    "ID": 1302,
+    "WorldLevel": 0,
+    "PropID": 118,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1302,
+    "StageID": 1052020,
+    "StageIDList": [
+      1052020
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000429,
+      200002,
+      200011,
+      980001,
+      980001,
+      980001,
+      980001,
+      980001,
+      200101,
+      980002,
+      200111,
+      1012022
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1302:1": {
+    "ID": 1302,
+    "WorldLevel": 1,
+    "PropID": 118,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1302,
+    "StageID": 1052021,
+    "StageIDList": [
+      1052021
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000439,
+      200002,
+      200011,
+      980001,
+      980001,
+      980001,
+      980001,
+      980001,
+      200101,
+      980002,
+      200111,
+      1012022
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1302:2": {
+    "ID": 1302,
+    "WorldLevel": 2,
+    "PropID": 118,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1302,
+    "StageID": 1052022,
+    "StageIDList": [
+      1052022
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000449,
+      200002,
+      200012,
+      980001,
+      980001,
+      980001,
+      980001,
+      980001,
+      980002,
+      980002,
+      200031,
+      1012022
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1302:3": {
+    "ID": 1302,
+    "WorldLevel": 3,
+    "PropID": 118,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1302,
+    "StageID": 1052023,
+    "StageIDList": [
+      1052023
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000459,
+      200002,
+      200013,
+      980001,
+      980001,
+      980001,
+      200101,
+      980002,
+      980002,
+      200111,
+      980003,
+      1012023
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1302:4": {
+    "ID": 1302,
+    "WorldLevel": 4,
+    "PropID": 118,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1302,
+    "StageID": 1052024,
+    "StageIDList": [
+      1052024
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000469,
+      200002,
+      200014,
+      980001,
+      980001,
+      980001,
+      980002,
+      980002,
+      200111,
+      980003,
+      200121,
+      200031,
+      1012023
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1302:5": {
+    "ID": 1302,
+    "WorldLevel": 5,
+    "PropID": 118,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1302,
+    "StageID": 1052025,
+    "StageIDList": [
+      1052025
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000479,
+      200002,
+      200015,
+      980001,
+      980001,
+      200101,
+      980002,
+      980002,
+      200111,
+      980003,
+      980003,
+      1012024
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  },
+  "1302:6": {
+    "ID": 1302,
+    "WorldLevel": 6,
+    "PropID": 118,
+    "CocoonType": "TYPE_WEEK",
+    "MappingInfoID": 1302,
+    "StageID": 1052026,
+    "StageIDList": [
+      1052026
+    ],
+    "BuffDesc": {
+      "hash": 371857150
+    },
+    "ParamList": [],
+    "DropList": [
+      1000899,
+      1000489,
+      200002,
+      200015,
+      980001,
+      980001,
+      980002,
+      980002,
+      200111,
+      980003,
+      980003,
+      200121,
+      1012024
+    ],
+    "StaminaCost": 20,
+    "MaxWave": 1,
+    "OpenDate": []
+  }
+}

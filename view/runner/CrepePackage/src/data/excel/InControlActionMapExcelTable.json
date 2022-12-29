@@ -1,0 +1,1447 @@
+{
+  "Maze_MouseOperating": {
+    "actionName": "Maze_MouseOperating",
+    "actionTextmapID": {
+      "hash": 759559385
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      0
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "LeftAlt",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": []
+  },
+  "Maze_Avatar": {
+    "actionName": "Maze_Avatar",
+    "actionTextmapID": {
+      "hash": -1373810116
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      5,
+      6,
+      8,
+      9,
+      11
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "C",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": [
+      400
+    ]
+  },
+  "Maze_Team": {
+    "actionName": "Maze_Team",
+    "actionTextmapID": {
+      "hash": -1087064008
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "T",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": [
+      300,
+      301,
+      302
+    ]
+  },
+  "Maze_Map": {
+    "actionName": "Maze_Map",
+    "actionTextmapID": {
+      "hash": 849287801
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      5
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "M",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Capture",
+      "Share",
+      "View",
+      "Back",
+      "Create"
+    ],
+    "FuncGotoIDList": [
+      200,
+      2700
+    ]
+  },
+  "Maze_Bag": {
+    "actionName": "Maze_Bag",
+    "actionTextmapID": {
+      "hash": 412245537
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      5,
+      8,
+      9
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "B",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": [
+      500,
+      505,
+      500
+    ]
+  },
+  "Maze_Job": {
+    "actionName": "Maze_Job",
+    "actionTextmapID": {
+      "hash": 1138261028
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      4,
+      8,
+      9
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "J",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": [
+      700
+    ]
+  },
+  "Maze_Shop": {
+    "actionName": "Maze_Shop",
+    "actionTextmapID": {
+      "hash": 1547711189
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      8,
+      9
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "P",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": [
+      600
+    ]
+  },
+  "Maze_ShortCutWheel": {
+    "actionName": "Maze_ShortCutWheel",
+    "actionTextmapID": {
+      "hash": 818886562
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      9
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Tab",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_Gacha": {
+    "actionName": "Maze_Gacha",
+    "actionTextmapID": {
+      "hash": 1830364425
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      8,
+      9
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "N",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": [
+      2300
+    ]
+  },
+  "Maze_TutorialOverView": {
+    "actionName": "Maze_TutorialOverView",
+    "actionTextmapID": {
+      "hash": -1974924236
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "H",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": [
+      2500
+    ]
+  },
+  "Maze_Phone": {
+    "actionName": "Maze_Phone",
+    "actionTextmapID": {
+      "hash": -2036981791
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      3
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Escape",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start"
+    ],
+    "FuncGotoIDList": [
+      1900
+    ]
+  },
+  "Maze_ClosePage": {
+    "actionName": "Maze_ClosePage",
+    "actionTextmapID": {
+      "hash": -1424625968
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      11
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Escape",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_MoveUp": {
+    "actionName": "Maze_MoveUp",
+    "actionTextmapID": {
+      "hash": -1388597319
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "W",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftStickUp"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_MoveDown": {
+    "actionName": "Maze_MoveDown",
+    "actionTextmapID": {
+      "hash": -1630427712
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "S",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftStickDown"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_MoveLeft": {
+    "actionName": "Maze_MoveLeft",
+    "actionTextmapID": {
+      "hash": -743305005
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "A",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftStickLeft"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_MoveRight": {
+    "actionName": "Maze_MoveRight",
+    "actionTextmapID": {
+      "hash": 814254470
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "D",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftStickRight"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_Walk": {
+    "actionName": "Maze_Walk",
+    "actionTextmapID": {
+      "hash": 2065306720
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Control",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": []
+  },
+  "Maze_FastRun": {
+    "actionName": "Maze_FastRun",
+    "actionTextmapID": {
+      "hash": -1111841388
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "LeftShift",
+    "defaultMouseType": "RightButton",
+    "defaultInControlTypes": [
+      "RightBumper"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_LookUp": {
+    "actionName": "Maze_LookUp",
+    "actionTextmapID": {
+      "hash": -2128684161
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "PositiveY",
+    "defaultInControlTypes": [
+      "RightStickUp"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_LookDown": {
+    "actionName": "Maze_LookDown",
+    "actionTextmapID": {
+      "hash": -485519354
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "NegativeY",
+    "defaultInControlTypes": [
+      "RightStickDown"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_LookLeft": {
+    "actionName": "Maze_LookLeft",
+    "actionTextmapID": {
+      "hash": -209842871
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "NegativeX",
+    "defaultInControlTypes": [
+      "RightStickLeft"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_LookRight": {
+    "actionName": "Maze_LookRight",
+    "actionTextmapID": {
+      "hash": -71704212
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "PositiveX",
+    "defaultInControlTypes": [
+      "RightStickRight"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_LookForward": {
+    "actionName": "Maze_LookForward",
+    "actionTextmapID": {
+      "hash": 1992207681
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "PositiveScrollWheel",
+    "defaultInControlTypes": [
+      "LeftTrigger"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_LookBack": {
+    "actionName": "Maze_LookBack",
+    "actionTextmapID": {
+      "hash": -1460102287
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "NegativeScrollWheel",
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_InteractSelectUp": {
+    "actionName": "Maze_InteractSelectUp",
+    "actionTextmapID": {
+      "hash": -527254794
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "PositiveScrollWheel",
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_InteractSelectDown": {
+    "actionName": "Maze_InteractSelectDown",
+    "actionTextmapID": {
+      "hash": 540233609
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "NegativeScrollWheel",
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_CameraReset": {
+    "actionName": "Maze_CameraReset",
+    "actionTextmapID": {
+      "hash": -604642279
+    },
+    "bindingSettingsType": 3,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "CapsLock",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_SelectCharacter1": {
+    "actionName": "Maze_SelectCharacter1",
+    "actionTextmapID": {
+      "hash": -515664131
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Key1",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "DPadUp"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_SelectCharacter2": {
+    "actionName": "Maze_SelectCharacter2",
+    "actionTextmapID": {
+      "hash": -515664134
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Key2",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "DPadRight"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_SelectCharacter3": {
+    "actionName": "Maze_SelectCharacter3",
+    "actionTextmapID": {
+      "hash": -515664133
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Key3",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "DPadDown"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_SelectCharacter4": {
+    "actionName": "Maze_SelectCharacter4",
+    "actionTextmapID": {
+      "hash": -515664128
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Key4",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "DPadLeft"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_FollowJob": {
+    "actionName": "Maze_FollowJob",
+    "actionTextmapID": {
+      "hash": -1830859873
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      3
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "V",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_ChallengeEndGame": {
+    "actionName": "Maze_ChallengeEndGame",
+    "actionTextmapID": {
+      "hash": -634177493
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      4,
+      8,
+      9,
+      10,
+      11
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Escape",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Maze_RogueEndGame": {
+    "actionName": "Maze_RogueEndGame",
+    "actionTextmapID": {
+      "hash": 992288688
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      5,
+      6
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Escape",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_SelectTargetLeft": {
+    "actionName": "Battle_SelectTargetLeft",
+    "actionTextmapID": {
+      "hash": -836707038
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "A",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftBumper",
+      "LeftStickLeft",
+      "DPadLeft"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_SelectTargetRight": {
+    "actionName": "Battle_SelectTargetRight",
+    "actionTextmapID": {
+      "hash": -1384156139
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "D",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "RightBumper",
+      "LeftStickRight",
+      "DPadRight"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_ReleaseUltra1": {
+    "actionName": "Battle_ReleaseUltra1",
+    "actionTextmapID": {
+      "hash": -1332951226
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Key1",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_ReleaseUltra2": {
+    "actionName": "Battle_ReleaseUltra2",
+    "actionTextmapID": {
+      "hash": 1395932129
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Key2",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_ReleaseUltra3": {
+    "actionName": "Battle_ReleaseUltra3",
+    "actionTextmapID": {
+      "hash": -170151812
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Key3",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_ReleaseUltra4": {
+    "actionName": "Battle_ReleaseUltra4",
+    "actionTextmapID": {
+      "hash": -2092466113
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Key4",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_SkillSelect": {
+    "actionName": "Battle_SkillSelect",
+    "actionTextmapID": {
+      "hash": -1288995491
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "RightButton",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": []
+  },
+  "Battle_NormalAttack": {
+    "actionName": "Battle_NormalAttack",
+    "actionTextmapID": {
+      "hash": -1761489333
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Q",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_BPSkill": {
+    "actionName": "Battle_BPSkill",
+    "actionTextmapID": {
+      "hash": 170678375
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "E",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_SkillRelease": {
+    "actionName": "Battle_SkillRelease",
+    "actionTextmapID": {
+      "hash": -981527188
+    },
+    "bindingSettingsType": 4,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Space",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_ClosePage": {
+    "actionName": "Battle_ClosePage",
+    "actionTextmapID": {
+      "hash": -1222787511
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Escape",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_TriggerUltra": {
+    "actionName": "Battle_TriggerUltra",
+    "actionTextmapID": {
+      "hash": 546644164
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Battle_ReleaseColossusSkill": {
+    "actionName": "Battle_ReleaseColossusSkill",
+    "actionTextmapID": {
+      "hash": 1656730773
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      2
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "R",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeA": {
+    "actionName": "Menu_UnchangeA",
+    "actionTextmapID": {
+      "hash": 1315499641
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeB": {
+    "actionName": "Menu_UnchangeB",
+    "actionTextmapID": {
+      "hash": -250584300
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeX": {
+    "actionName": "Menu_UnchangeX",
+    "actionTextmapID": {
+      "hash": 1812892502
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeY": {
+    "actionName": "Menu_UnchangeY",
+    "actionTextmapID": {
+      "hash": 246808561
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeBack": {
+    "actionName": "Menu_UnchangeBack",
+    "actionTextmapID": {
+      "hash": 1923425935
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Capture",
+      "Share",
+      "View",
+      "Back",
+      "Create"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeOption": {
+    "actionName": "Menu_UnchangeOption",
+    "actionTextmapID": {
+      "hash": 297754091
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeLeftBumper": {
+    "actionName": "Menu_UnchangeLeftBumper",
+    "actionTextmapID": {
+      "hash": 1393049184
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeRightBumper": {
+    "actionName": "Menu_UnchangeRightBumper",
+    "actionTextmapID": {
+      "hash": -1481032123
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "RightBumper"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeLeftTrigger": {
+    "actionName": "Menu_UnchangeLeftTrigger",
+    "actionTextmapID": {
+      "hash": 469862771
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftTrigger"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeRightTrigger": {
+    "actionName": "Menu_UnchangeRightTrigger",
+    "actionTextmapID": {
+      "hash": 861322880
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeLeftStickButton": {
+    "actionName": "Menu_UnchangeLeftStickButton",
+    "actionTextmapID": {
+      "hash": 307277347
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeRightStickButton": {
+    "actionName": "Menu_UnchangeRightStickButton",
+    "actionTextmapID": {
+      "hash": 2078591212
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeDPadUp": {
+    "actionName": "Menu_UnchangeDPadUp",
+    "actionTextmapID": {
+      "hash": -1471683438
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "DPadUp"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeDPadDown": {
+    "actionName": "Menu_UnchangeDPadDown",
+    "actionTextmapID": {
+      "hash": 601141731
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "DPadDown"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeDPadLeft": {
+    "actionName": "Menu_UnchangeDPadLeft",
+    "actionTextmapID": {
+      "hash": 876818982
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "DPadLeft"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_UnchangeDPadRight": {
+    "actionName": "Menu_UnchangeDPadRight",
+    "actionTextmapID": {
+      "hash": -67347619
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "DPadRight"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_Confirm": {
+    "actionName": "Menu_Confirm",
+    "actionTextmapID": {
+      "hash": -1584564381
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_Cancel": {
+    "actionName": "Menu_Cancel",
+    "actionTextmapID": {
+      "hash": 772781171
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_ContinueDialog": {
+    "actionName": "Menu_ContinueDialog",
+    "actionTextmapID": {
+      "hash": 1071854592
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Space",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_MazeInteract": {
+    "actionName": "Menu_MazeInteract",
+    "actionTextmapID": {
+      "hash": -1649047864
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "F",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_MazeEnemyDetail": {
+    "actionName": "Menu_MazeEnemyDetail",
+    "actionTextmapID": {
+      "hash": -1704589443
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Z",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_MazeAttack": {
+    "actionName": "Menu_MazeAttack",
+    "actionTextmapID": {
+      "hash": -1752600294
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "",
+    "defaultMouseType": "LeftButton",
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_MazeSkill": {
+    "actionName": "Menu_MazeSkill",
+    "actionTextmapID": {
+      "hash": 578219875
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "E",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_BattleAuto": {
+    "actionName": "Menu_BattleAuto",
+    "actionTextmapID": {
+      "hash": -27269772
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "V",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Capture",
+      "Share",
+      "View",
+      "Back",
+      "Create"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_BattleFast": {
+    "actionName": "Menu_BattleFast",
+    "actionTextmapID": {
+      "hash": -1452191605
+    },
+    "bindingSettingsType": 1,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "B",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftTrigger"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_BattlePause": {
+    "actionName": "Menu_BattlePause",
+    "actionTextmapID": {
+      "hash": 1429558293
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Escape",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_BattleEnemyDetail": {
+    "actionName": "Menu_BattleEnemyDetail",
+    "actionTextmapID": {
+      "hash": 1447809800
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "Z",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_BattleAvatarDetail": {
+    "actionName": "Menu_BattleAvatarDetail",
+    "actionTextmapID": {
+      "hash": -972845305
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "C",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_MazeGuideHint": {
+    "actionName": "Menu_MazeGuideHint",
+    "actionTextmapID": {
+      "hash": 813677907
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "G",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_MazeInterruptLimitMission": {
+    "actionName": "Menu_MazeInterruptLimitMission",
+    "actionTextmapID": {
+      "hash": 2072398190
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "I",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [
+      "LeftStickButton"
+    ],
+    "FuncGotoIDList": []
+  },
+  "Menu_TinyGameEvent": {
+    "actionName": "Menu_TinyGameEvent",
+    "actionTextmapID": {
+      "hash": 1848041465
+    },
+    "bindingSettingsType": 0,
+    "actionTypeList": [
+      1
+    ],
+    "isSettingComboKey": false,
+    "defaultKey": "R",
+    "defaultMouseType": "",
+    "defaultInControlTypes": [],
+    "FuncGotoIDList": []
+  }
+}

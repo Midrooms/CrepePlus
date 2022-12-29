@@ -1,0 +1,58 @@
+{
+  "10010001": {
+    "RogueDialogID": 10010001,
+    "NextRogueDialogID": 0,
+    "GodID": 1,
+    "Content": {
+      "hash": 1060195728
+    }
+  },
+  "20010001": {
+    "RogueDialogID": 20010001,
+    "NextRogueDialogID": 0,
+    "GodID": 2,
+    "Content": {
+      "hash": -550997281
+    }
+  },
+  "30010001": {
+    "RogueDialogID": 30010001,
+    "NextRogueDialogID": 0,
+    "GodID": 3,
+    "Content": {
+      "hash": -725522406
+    }
+  },
+  "40010001": {
+    "RogueDialogID": 40010001,
+    "NextRogueDialogID": 0,
+    "GodID": 7,
+    "Content": {
+      "hash": 1958251881
+    }
+  },
+  "50010001": {
+    "RogueDialogID": 50010001,
+    "NextRogueDialogID": 0,
+    "GodID": 4,
+    "Content": {
+      "hash": 1783726756
+    }
+  },
+  "60010001": {
+    "RogueDialogID": 60010001,
+    "NextRogueDialogID": 0,
+    "GodID": 5,
+    "Content": {
+      "hash": 172533747
+    }
+  },
+  "70010001": {
+    "RogueDialogID": 70010001,
+    "NextRogueDialogID": 0,
+    "GodID": 6,
+    "Content": {
+      "hash": -1991378
+    }
+  }
+}

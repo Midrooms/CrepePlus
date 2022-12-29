@@ -1,0 +1,100 @@
+{
+  "1": {
+    "ID": 1,
+    "LevelDifference": 80,
+    "StanceLevelEffect": {
+      "RawValue": 12884901888
+    }
+  },
+  "2": {
+    "ID": 2,
+    "LevelDifference": 70,
+    "StanceLevelEffect": {
+      "RawValue": 12884901888
+    }
+  },
+  "3": {
+    "ID": 3,
+    "LevelDifference": 60,
+    "StanceLevelEffect": {
+      "RawValue": 8589934592
+    }
+  },
+  "4": {
+    "ID": 4,
+    "LevelDifference": 50,
+    "StanceLevelEffect": {
+      "RawValue": 8589934592
+    }
+  },
+  "5": {
+    "ID": 5,
+    "LevelDifference": 40,
+    "StanceLevelEffect": {
+      "RawValue": 6442450946
+    }
+  },
+  "6": {
+    "ID": 6,
+    "LevelDifference": 30,
+    "StanceLevelEffect": {
+      "RawValue": 6442450946
+    }
+  },
+  "7": {
+    "ID": 7,
+    "LevelDifference": 20,
+    "StanceLevelEffect": {
+      "RawValue": 4294967296
+    }
+  },
+  "8": {
+    "ID": 8,
+    "LevelDifference": 10,
+    "StanceLevelEffect": {
+      "RawValue": 4294967296
+    }
+  },
+  "9": {
+    "ID": 9,
+    "LevelDifference": 0,
+    "StanceLevelEffect": {
+      "RawValue": 4294967296
+    }
+  },
+  "10": {
+    "ID": 10,
+    "LevelDifference": -10,
+    "StanceLevelEffect": {
+      "RawValue": 4294967296
+    }
+  },
+  "11": {
+    "ID": 11,
+    "LevelDifference": -20,
+    "StanceLevelEffect": {
+      "RawValue": 4294967296
+    }
+  },
+  "12": {
+    "ID": 12,
+    "LevelDifference": -30,
+    "StanceLevelEffect": {
+      "RawValue": 2147483650
+    }
+  },
+  "13": {
+    "ID": 13,
+    "LevelDifference": -40,
+    "StanceLevelEffect": {
+      "RawValue": 2147483650
+    }
+  },
+  "14": {
+    "ID": 14,
+    "LevelDifference": -999,
+    "StanceLevelEffect": {
+      "RawValue": 1073741825
+    }
+  }
+}

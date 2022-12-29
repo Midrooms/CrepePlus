@@ -1,0 +1,62 @@
+{
+  "1": {
+    "Level": 1,
+    "Count": 1000,
+    "LevelIconPath": "",
+    "Reward": 113011
+  },
+  "2": {
+    "Level": 2,
+    "Count": 2000,
+    "LevelIconPath": "",
+    "Reward": 113012
+  },
+  "3": {
+    "Level": 3,
+    "Count": 4000,
+    "LevelIconPath": "",
+    "Reward": 113013
+  },
+  "4": {
+    "Level": 4,
+    "Count": 6000,
+    "LevelIconPath": "",
+    "Reward": 113014
+  },
+  "5": {
+    "Level": 5,
+    "Count": 8000,
+    "LevelIconPath": "",
+    "Reward": 113015
+  },
+  "6": {
+    "Level": 6,
+    "Count": 10000,
+    "LevelIconPath": "",
+    "Reward": 113016
+  },
+  "7": {
+    "Level": 7,
+    "Count": 12000,
+    "LevelIconPath": "",
+    "Reward": 113017
+  },
+  "8": {
+    "Level": 8,
+    "Count": 15000,
+    "LevelIconPath": "",
+    "Reward": 113018
+  },
+  "9": {
+    "Level": 9,
+    "Count": 18000,
+    "LevelIconPath": "",
+    "Reward": 113019
+  },
+  "10": {
+    "Level": 10,
+    "Count": 21000,
+    "LevelIconPath": "",
+    "Reward": 113020
+  }
+}

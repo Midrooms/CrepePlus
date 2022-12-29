@@ -1,0 +1,158 @@
+{
+  "MissionStart": {
+    "FuncName": "MissionStart",
+    "Duration": 1,
+    "Priority": 2,
+    "IsinBattle": false
+  },
+  "MissionFinish": {
+    "FuncName": "MissionFinish",
+    "Duration": 1,
+    "Priority": 1,
+    "IsinBattle": false
+  },
+  "PlayerExpGet": {
+    "FuncName": "PlayerExpGet",
+    "Duration": 1,
+    "Priority": 3,
+    "IsinBattle": false
+  },
+  "WorldLevelUP": {
+    "FuncName": "WorldLevelUP",
+    "Duration": 1,
+    "Priority": 4,
+    "IsinBattle": false
+  },
+  "NewSystemOpen": {
+    "FuncName": "NewSystemOpen",
+    "Duration": 0,
+    "Priority": 4,
+    "IsinBattle": false
+  },
+  "NewAvatarDrop": {
+    "FuncName": "NewAvatarDrop",
+    "Duration": 1,
+    "Priority": 6,
+    "IsinBattle": false
+  },
+  "PrestigeLevelUp": {
+    "FuncName": "PrestigeLevelUp",
+    "Duration": 1,
+    "Priority": 7,
+    "IsinBattle": false
+  },
+  "HeroPathExpGet": {
+    "FuncName": "HeroPathExpGet",
+    "Duration": 1,
+    "Priority": 5,
+    "IsinBattle": false
+  },
+  "HeroPathLevelUp": {
+    "FuncName": "HeroPathLevelUp",
+    "Duration": 1,
+    "Priority": 6,
+    "IsinBattle": false
+  },
+  "ChallengeEventStart": {
+    "FuncName": "ChallengeEventStart",
+    "Duration": 1,
+    "Priority": 1,
+    "IsinBattle": false
+  },
+  "ChallengeEventFinish": {
+    "FuncName": "ChallengeEventFinish",
+    "Duration": 1,
+    "Priority": 1,
+    "IsinBattle": false
+  },
+  "ChallengeEventPrepare": {
+    "FuncName": "ChallengeEventPrepare",
+    "Duration": 1,
+    "Priority": 1,
+    "IsinBattle": false
+  },
+  "RogueBlessLevelUp": {
+    "FuncName": "RogueBlessLevelUp",
+    "Duration": 1,
+    "Priority": 1,
+    "IsinBattle": false
+  },
+  "TrialAvatarAddHint": {
+    "FuncName": "TrialAvatarAddHint",
+    "Duration": 1,
+    "Priority": 6,
+    "IsinBattle": false
+  },
+  "AreaChangeHint": {
+    "FuncName": "AreaChangeHint",
+    "Duration": 1,
+    "Priority": 1,
+    "IsinBattle": false
+  },
+  "ImportItemToast": {
+    "FuncName": "ImportItemToast",
+    "Duration": 2,
+    "Priority": 2,
+    "IsinBattle": false
+  },
+  "NewItemToast": {
+    "FuncName": "NewItemToast",
+    "Duration": 3,
+    "Priority": 3,
+    "IsinBattle": false
+  },
+  "AchievementToast": {
+    "FuncName": "AchievementToast",
+    "Duration": 3,
+    "Priority": 1,
+    "IsinBattle": false
+  },
+  "PlayerLevelUp": {
+    "FuncName": "PlayerLevelUp",
+    "Duration": 1,
+    "Priority": 2,
+    "IsinBattle": false
+  },
+  "TutorialStart": {
+    "FuncName": "TutorialStart",
+    "Duration": 0,
+    "Priority": 1,
+    "IsinBattle": false
+  },
+  "MissionSuspend": {
+    "FuncName": "MissionSuspend",
+    "Duration": 0,
+    "Priority": 1,
+    "IsinBattle": false
+  },
+  "MissionAdvance": {
+    "FuncName": "MissionAdvance",
+    "Duration": 0,
+    "Priority": 2,
+    "IsinBattle": false
+  },
+  "AdventureStatusHintNew": {
+    "FuncName": "AdventureStatusHintNew",
+    "Duration": 0,
+    "Priority": 2,
+    "IsinBattle": false
+  },
+  "NewProfessionAddHint": {
+    "FuncName": "NewProfessionAddHint",
+    "Duration": 1,
+    "Priority": 6,
+    "IsinBattle": false
+  },
+  "DangerousAreasHint": {
+    "FuncName": "DangerousAreasHint",
+    "Duration": 2,
+    "Priority": 6,
+    "IsinBattle": false
+  },
+  "AchievementToastBattle": {
+    "FuncName": "AchievementToastBattle",
+    "Duration": 3,
+    "Priority": 1,
+    "IsinBattle": true
+  }
+}

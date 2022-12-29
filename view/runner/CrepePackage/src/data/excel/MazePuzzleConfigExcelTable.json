@@ -1,0 +1,14 @@
+{
+  "Info": {
+    "PuzzleFuncType": "Info",
+    "IconPath": "SpriteOutput/MazePuzzleIcon/TreasureMap.png"
+  },
+  "Probe": {
+    "PuzzleFuncType": "Probe",
+    "IconPath": "SpriteOutput/MazePuzzleIcon/Probe.png"
+  },
+  "SpecialVision": {
+    "PuzzleFuncType": "SpecialVision",
+    "IconPath": "SpriteOutput/MazePuzzleIcon/TreasureMap.png"
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "1:1": {
+    "RogueExploreRewardID": 1,
+    "WorldLevel": 1,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368770
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105101
+  },
+  "2:1": {
+    "RogueExploreRewardID": 2,
+    "WorldLevel": 1,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368767
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105102
+  },
+  "3:1": {
+    "RogueExploreRewardID": 3,
+    "WorldLevel": 1,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368768
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105103
+  },
+  "4:1": {
+    "RogueExploreRewardID": 4,
+    "WorldLevel": 1,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368765
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105104
+  },
+  "1:2": {
+    "RogueExploreRewardID": 1,
+    "WorldLevel": 2,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368770
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105111
+  },
+  "2:2": {
+    "RogueExploreRewardID": 2,
+    "WorldLevel": 2,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368767
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105112
+  },
+  "3:2": {
+    "RogueExploreRewardID": 3,
+    "WorldLevel": 2,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368768
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105113
+  },
+  "4:2": {
+    "RogueExploreRewardID": 4,
+    "WorldLevel": 2,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368765
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105114
+  },
+  "1:3": {
+    "RogueExploreRewardID": 1,
+    "WorldLevel": 3,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368770
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105121
+  },
+  "2:3": {
+    "RogueExploreRewardID": 2,
+    "WorldLevel": 3,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368767
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105122
+  },
+  "3:3": {
+    "RogueExploreRewardID": 3,
+    "WorldLevel": 3,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368768
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105123
+  },
+  "4:3": {
+    "RogueExploreRewardID": 4,
+    "WorldLevel": 3,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368765
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105124
+  },
+  "1:4": {
+    "RogueExploreRewardID": 1,
+    "WorldLevel": 4,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368770
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105131
+  },
+  "2:4": {
+    "RogueExploreRewardID": 2,
+    "WorldLevel": 4,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368767
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105132
+  },
+  "3:4": {
+    "RogueExploreRewardID": 3,
+    "WorldLevel": 4,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368768
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105133
+  },
+  "4:4": {
+    "RogueExploreRewardID": 4,
+    "WorldLevel": 4,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368765
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105134
+  },
+  "1:5": {
+    "RogueExploreRewardID": 1,
+    "WorldLevel": 5,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368770
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105141
+  },
+  "2:5": {
+    "RogueExploreRewardID": 2,
+    "WorldLevel": 5,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368767
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105142
+  },
+  "3:5": {
+    "RogueExploreRewardID": 3,
+    "WorldLevel": 5,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368768
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105143
+  },
+  "4:5": {
+    "RogueExploreRewardID": 4,
+    "WorldLevel": 5,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368765
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105144
+  },
+  "1:6": {
+    "RogueExploreRewardID": 1,
+    "WorldLevel": 6,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368770
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105151
+  },
+  "2:6": {
+    "RogueExploreRewardID": 2,
+    "WorldLevel": 6,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368767
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105152
+  },
+  "3:6": {
+    "RogueExploreRewardID": 3,
+    "WorldLevel": 6,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368768
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105153
+  },
+  "4:6": {
+    "RogueExploreRewardID": 4,
+    "WorldLevel": 6,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1669368765
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105154
+  },
+  "101:0": {
+    "RogueExploreRewardID": 101,
+    "WorldLevel": 0,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976737
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105201
+  },
+  "102:0": {
+    "RogueExploreRewardID": 102,
+    "WorldLevel": 0,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976736
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105202
+  },
+  "103:0": {
+    "RogueExploreRewardID": 103,
+    "WorldLevel": 0,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976735
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105203
+  },
+  "104:0": {
+    "RogueExploreRewardID": 104,
+    "WorldLevel": 0,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976734
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105204
+  },
+  "101:1": {
+    "RogueExploreRewardID": 101,
+    "WorldLevel": 1,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976737
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105201
+  },
+  "102:1": {
+    "RogueExploreRewardID": 102,
+    "WorldLevel": 1,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976736
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105202
+  },
+  "103:1": {
+    "RogueExploreRewardID": 103,
+    "WorldLevel": 1,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976735
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105203
+  },
+  "104:1": {
+    "RogueExploreRewardID": 104,
+    "WorldLevel": 1,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976734
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105204
+  },
+  "101:2": {
+    "RogueExploreRewardID": 101,
+    "WorldLevel": 2,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976737
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105201
+  },
+  "102:2": {
+    "RogueExploreRewardID": 102,
+    "WorldLevel": 2,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976736
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105202
+  },
+  "103:2": {
+    "RogueExploreRewardID": 103,
+    "WorldLevel": 2,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976735
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105203
+  },
+  "104:2": {
+    "RogueExploreRewardID": 104,
+    "WorldLevel": 2,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976734
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105204
+  },
+  "101:3": {
+    "RogueExploreRewardID": 101,
+    "WorldLevel": 3,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976737
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105201
+  },
+  "102:3": {
+    "RogueExploreRewardID": 102,
+    "WorldLevel": 3,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976736
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105202
+  },
+  "103:3": {
+    "RogueExploreRewardID": 103,
+    "WorldLevel": 3,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976735
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105203
+  },
+  "104:3": {
+    "RogueExploreRewardID": 104,
+    "WorldLevel": 3,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976734
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105204
+  },
+  "101:4": {
+    "RogueExploreRewardID": 101,
+    "WorldLevel": 4,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976737
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105201
+  },
+  "102:4": {
+    "RogueExploreRewardID": 102,
+    "WorldLevel": 4,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976736
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105202
+  },
+  "103:4": {
+    "RogueExploreRewardID": 103,
+    "WorldLevel": 4,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976735
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105203
+  },
+  "104:4": {
+    "RogueExploreRewardID": 104,
+    "WorldLevel": 4,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976734
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105204
+  },
+  "101:5": {
+    "RogueExploreRewardID": 101,
+    "WorldLevel": 5,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976737
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105201
+  },
+  "102:5": {
+    "RogueExploreRewardID": 102,
+    "WorldLevel": 5,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976736
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105202
+  },
+  "103:5": {
+    "RogueExploreRewardID": 103,
+    "WorldLevel": 5,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976735
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105203
+  },
+  "104:5": {
+    "RogueExploreRewardID": 104,
+    "WorldLevel": 5,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976734
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105204
+  },
+  "101:6": {
+    "RogueExploreRewardID": 101,
+    "WorldLevel": 6,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976737
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 1,
+    "RewardID": 105201
+  },
+  "102:6": {
+    "RogueExploreRewardID": 102,
+    "WorldLevel": 6,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976736
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 3,
+    "RewardID": 105202
+  },
+  "103:6": {
+    "RogueExploreRewardID": 103,
+    "WorldLevel": 6,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976735
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 5,
+    "RewardID": 105203
+  },
+  "104:6": {
+    "RogueExploreRewardID": 104,
+    "WorldLevel": 6,
+    "RogueExploreRewardTextmapID": {
+      "hash": -1391976734
+    },
+    "ExploreLevel": 0,
+    "ExploreRoom": 7,
+    "RewardID": 105204
+  }
+}

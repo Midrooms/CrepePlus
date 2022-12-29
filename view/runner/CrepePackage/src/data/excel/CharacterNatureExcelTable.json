@@ -1,0 +1,37 @@
+{
+  "1": {
+    "NatureID": 1,
+    "NatureType": "NatureNone",
+    "SpritePath": "SpriteOutput/UI/Nature/Nature_None.png"
+  },
+  "2": {
+    "NatureID": 2,
+    "NatureType": "Biologic",
+    "SpritePath": "SpriteOutput/UI/Nature/IconNatureBiologic.png"
+  },
+  "3": {
+    "NatureID": 3,
+    "NatureType": "Mechanoid",
+    "SpritePath": "SpriteOutput/UI/Nature/IconNatureMega.png"
+  },
+  "4": {
+    "NatureID": 4,
+    "NatureType": "Psychic",
+    "SpritePath": "SpriteOutput/UI/Nature/IconNaturePhychic.png"
+  },
+  "5": {
+    "NatureID": 5,
+    "NatureType": "Quantum",
+    "SpritePath": "SpriteOutput/UI/Nature/IconNatureQuantum.png"
+  },
+  "6": {
+    "NatureID": 6,
+    "NatureType": "Imaginary",
+    "SpritePath": "SpriteOutput/UI/Nature/IconNatureImaginary.png"
+  },
+  "7": {
+    "NatureID": 7,
+    "NatureType": "Chaos",
+    "SpritePath": "SpriteOutput/UI/Nature/IconNatureChaos.png"
+  }
+}

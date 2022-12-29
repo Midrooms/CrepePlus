@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Times": 1,
+    "Price": {
+      "1": 50
+    },
+    "ToStamina": 60
+  },
+  "2": {
+    "Times": 2,
+    "Price": {
+      "1": 75
+    },
+    "ToStamina": 60
+  },
+  "3": {
+    "Times": 3,
+    "Price": {
+      "1": 100
+    },
+    "ToStamina": 60
+  },
+  "4": {
+    "Times": 4,
+    "Price": {
+      "1": 100
+    },
+    "ToStamina": 60
+  },
+  "5": {
+    "Times": 5,
+    "Price": {
+      "1": 150
+    },
+    "ToStamina": 60
+  },
+  "6": {
+    "Times": 6,
+    "Price": {
+      "1": 200
+    },
+    "ToStamina": 60
+  }
+}

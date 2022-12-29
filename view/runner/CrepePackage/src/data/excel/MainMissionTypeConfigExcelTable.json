@@ -1,0 +1,38 @@
+{
+  "None": {
+    "Type": "None",
+    "TypeName": {
+      "hash": 403557608
+    },
+    "TypeIcon": "SpriteOutput/TabIcon/Quest/QuestAllIcon.png",
+    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/AllTasksIcon.png",
+    "TypeColor": "#ffc500"
+  },
+  "Main": {
+    "Type": "Main",
+    "TypeName": {
+      "hash": 403557609
+    },
+    "TypeIcon": "SpriteOutput/TabIcon/Quest/QuestMainIcon.png",
+    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/MainMission.png",
+    "TypeColor": "#ffc500"
+  },
+  "Branch": {
+    "Type": "Branch",
+    "TypeName": {
+      "hash": 403557610
+    },
+    "TypeIcon": "SpriteOutput/TabIcon/Quest/QuestSideIcon.png",
+    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/SideMission.png",
+    "TypeColor": "#31e0e4"
+  },
+  "Daily": {
+    "Type": "Daily",
+    "TypeName": {
+      "hash": 403557611
+    },
+    "TypeIcon": "SpriteOutput/TabIcon/Quest/QuestDailyIcon.png",
+    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/DailyMission.png",
+    "TypeColor": "#abd347"
+  }
+}

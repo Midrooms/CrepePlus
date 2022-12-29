@@ -1,0 +1,30 @@
+{
+  "Physical": {
+    "Type": "Physical",
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconPhysicalResistanceDelta.png"
+  },
+  "Fire": {
+    "Type": "Fire",
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconFireResistanceDelta.png"
+  },
+  "Ice": {
+    "Type": "Ice",
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconIceResistanceDelta.png"
+  },
+  "Thunder": {
+    "Type": "Thunder",
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconThunderResistanceDelta.png"
+  },
+  "Wind": {
+    "Type": "Wind",
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconWindResistanceDelta.png"
+  },
+  "Quantum": {
+    "Type": "Quantum",
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconQuantumResistanceDelta.png"
+  },
+  "Imaginary": {
+    "Type": "Imaginary",
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconImaginaryResistanceDelta.png"
+  }
+}

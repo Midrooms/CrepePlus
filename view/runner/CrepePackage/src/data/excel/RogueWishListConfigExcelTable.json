@@ -1,0 +1,58 @@
+{
+  "1": {
+    "RogueWishListID": 1,
+    "GachaGoodsGroupIDList": [
+      1111,
+      1121,
+      1131,
+      2111,
+      2121,
+      2131
+    ],
+    "WishListNameTextmapID": {
+      "hash": -1822756556
+    }
+  },
+  "2": {
+    "RogueWishListID": 2,
+    "GachaGoodsGroupIDList": [
+      1112,
+      1122,
+      1132,
+      2112,
+      2122,
+      2132
+    ],
+    "WishListNameTextmapID": {
+      "hash": -1822756553
+    }
+  },
+  "3": {
+    "RogueWishListID": 3,
+    "GachaGoodsGroupIDList": [
+      1113,
+      1123,
+      1133,
+      2113,
+      2123,
+      2133
+    ],
+    "WishListNameTextmapID": {
+      "hash": -1822756554
+    }
+  },
+  "4": {
+    "RogueWishListID": 4,
+    "GachaGoodsGroupIDList": [
+      1114,
+      1124,
+      1134,
+      2114,
+      2124,
+      2134
+    ],
+    "WishListNameTextmapID": {
+      "hash": -1822756559
+    }
+  }
+}

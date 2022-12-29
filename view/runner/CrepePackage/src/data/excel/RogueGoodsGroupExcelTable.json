@@ -1,0 +1,566 @@
+{
+  "1": {
+    "RogueGachaGoodsGroupID": 1,
+    "ChildGachaGoodsGroupList": [
+      101,
+      102,
+      103,
+      104,
+      111,
+      112,
+      113,
+      121,
+      131
+    ],
+    "GachaGoodsList": []
+  },
+  "2": {
+    "RogueGachaGoodsGroupID": 2,
+    "ChildGachaGoodsGroupList": [
+      201,
+      202,
+      203,
+      204,
+      211,
+      212,
+      213,
+      221,
+      231
+    ],
+    "GachaGoodsList": []
+  },
+  "3": {
+    "RogueGachaGoodsGroupID": 3,
+    "ChildGachaGoodsGroupList": [
+      301,
+      302,
+      303,
+      304,
+      311,
+      312,
+      313,
+      321,
+      322,
+      331
+    ],
+    "GachaGoodsList": []
+  },
+  "4": {
+    "RogueGachaGoodsGroupID": 4,
+    "ChildGachaGoodsGroupList": [
+      401,
+      402,
+      403,
+      404,
+      411,
+      412,
+      413,
+      421,
+      422,
+      431
+    ],
+    "GachaGoodsList": []
+  },
+  "111": {
+    "RogueGachaGoodsGroupID": 111,
+    "ChildGachaGoodsGroupList": [
+      1131,
+      1132,
+      1133,
+      1134
+    ],
+    "GachaGoodsList": []
+  },
+  "112": {
+    "RogueGachaGoodsGroupID": 112,
+    "ChildGachaGoodsGroupList": [
+      1121,
+      1122,
+      1123,
+      1124
+    ],
+    "GachaGoodsList": []
+  },
+  "113": {
+    "RogueGachaGoodsGroupID": 113,
+    "ChildGachaGoodsGroupList": [
+      1111,
+      1112,
+      1113,
+      1114
+    ],
+    "GachaGoodsList": []
+  },
+  "121": {
+    "RogueGachaGoodsGroupID": 121,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      232
+    ]
+  },
+  "131": {
+    "RogueGachaGoodsGroupID": 131,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      70002
+    ]
+  },
+  "101": {
+    "RogueGachaGoodsGroupID": 101,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      183001,
+      183002
+    ]
+  },
+  "102": {
+    "RogueGachaGoodsGroupID": 102,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      182001,
+      182002,
+      182003,
+      182004
+    ]
+  },
+  "103": {
+    "RogueGachaGoodsGroupID": 103,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      181001,
+      181002,
+      181003
+    ]
+  },
+  "104": {
+    "RogueGachaGoodsGroupID": 104,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      180001,
+      180002,
+      180003
+    ]
+  },
+  "211": {
+    "RogueGachaGoodsGroupID": 211,
+    "ChildGachaGoodsGroupList": [
+      2131,
+      2132,
+      2133,
+      2134
+    ],
+    "GachaGoodsList": []
+  },
+  "212": {
+    "RogueGachaGoodsGroupID": 212,
+    "ChildGachaGoodsGroupList": [
+      2121,
+      2122,
+      2123,
+      2124
+    ],
+    "GachaGoodsList": []
+  },
+  "213": {
+    "RogueGachaGoodsGroupID": 213,
+    "ChildGachaGoodsGroupList": [
+      2111,
+      2112,
+      2113,
+      2114
+    ],
+    "GachaGoodsList": []
+  },
+  "221": {
+    "RogueGachaGoodsGroupID": 221,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2232
+    ]
+  },
+  "231": {
+    "RogueGachaGoodsGroupID": 231,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      270002
+    ]
+  },
+  "201": {
+    "RogueGachaGoodsGroupID": 201,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      183001,
+      183002
+    ]
+  },
+  "202": {
+    "RogueGachaGoodsGroupID": 202,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      182001,
+      182002,
+      182003,
+      182004
+    ]
+  },
+  "203": {
+    "RogueGachaGoodsGroupID": 203,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      181001,
+      181002,
+      181003
+    ]
+  },
+  "204": {
+    "RogueGachaGoodsGroupID": 204,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      180001,
+      180002,
+      180003
+    ]
+  },
+  "311": {
+    "RogueGachaGoodsGroupID": 311,
+    "ChildGachaGoodsGroupList": [
+      1131,
+      1132,
+      1133,
+      1134
+    ],
+    "GachaGoodsList": []
+  },
+  "312": {
+    "RogueGachaGoodsGroupID": 312,
+    "ChildGachaGoodsGroupList": [
+      1121,
+      1122,
+      1123,
+      1124
+    ],
+    "GachaGoodsList": []
+  },
+  "313": {
+    "RogueGachaGoodsGroupID": 313,
+    "ChildGachaGoodsGroupList": [
+      1111,
+      1112,
+      1113,
+      1114
+    ],
+    "GachaGoodsList": []
+  },
+  "321": {
+    "RogueGachaGoodsGroupID": 321,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      233
+    ]
+  },
+  "322": {
+    "RogueGachaGoodsGroupID": 322,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      232
+    ]
+  },
+  "331": {
+    "RogueGachaGoodsGroupID": 331,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      70002
+    ]
+  },
+  "301": {
+    "RogueGachaGoodsGroupID": 301,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      183001,
+      183002
+    ]
+  },
+  "302": {
+    "RogueGachaGoodsGroupID": 302,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      182001,
+      182002,
+      182003,
+      182004
+    ]
+  },
+  "303": {
+    "RogueGachaGoodsGroupID": 303,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      181001,
+      181002,
+      181003
+    ]
+  },
+  "304": {
+    "RogueGachaGoodsGroupID": 304,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      180001,
+      180002,
+      180003
+    ]
+  },
+  "411": {
+    "RogueGachaGoodsGroupID": 411,
+    "ChildGachaGoodsGroupList": [
+      2131,
+      2132,
+      2133,
+      2134
+    ],
+    "GachaGoodsList": []
+  },
+  "412": {
+    "RogueGachaGoodsGroupID": 412,
+    "ChildGachaGoodsGroupList": [
+      2121,
+      2122,
+      2123,
+      2124
+    ],
+    "GachaGoodsList": []
+  },
+  "413": {
+    "RogueGachaGoodsGroupID": 413,
+    "ChildGachaGoodsGroupList": [
+      2111,
+      2112,
+      2113,
+      2114
+    ],
+    "GachaGoodsList": []
+  },
+  "421": {
+    "RogueGachaGoodsGroupID": 421,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2233
+    ]
+  },
+  "422": {
+    "RogueGachaGoodsGroupID": 422,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2232
+    ]
+  },
+  "431": {
+    "RogueGachaGoodsGroupID": 431,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      70003
+    ]
+  },
+  "401": {
+    "RogueGachaGoodsGroupID": 401,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      183001,
+      183002
+    ]
+  },
+  "402": {
+    "RogueGachaGoodsGroupID": 402,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      182001,
+      182002,
+      182003,
+      182004
+    ]
+  },
+  "403": {
+    "RogueGachaGoodsGroupID": 403,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      181001,
+      181002,
+      181003
+    ]
+  },
+  "404": {
+    "RogueGachaGoodsGroupID": 404,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      180001,
+      180002,
+      180003
+    ]
+  },
+  "1111": {
+    "RogueGachaGoodsGroupID": 1111,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      111011
+    ]
+  },
+  "1112": {
+    "RogueGachaGoodsGroupID": 1112,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      112011
+    ]
+  },
+  "1113": {
+    "RogueGachaGoodsGroupID": 1113,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      112001
+    ]
+  },
+  "1114": {
+    "RogueGachaGoodsGroupID": 1114,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      111001
+    ]
+  },
+  "1121": {
+    "RogueGachaGoodsGroupID": 1121,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      111012
+    ]
+  },
+  "1122": {
+    "RogueGachaGoodsGroupID": 1122,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      112012
+    ]
+  },
+  "1123": {
+    "RogueGachaGoodsGroupID": 1123,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      112002
+    ]
+  },
+  "1124": {
+    "RogueGachaGoodsGroupID": 1124,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      111002
+    ]
+  },
+  "1131": {
+    "RogueGachaGoodsGroupID": 1131,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      111013
+    ]
+  },
+  "1132": {
+    "RogueGachaGoodsGroupID": 1132,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      112013
+    ]
+  },
+  "1133": {
+    "RogueGachaGoodsGroupID": 1133,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      112003
+    ]
+  },
+  "1134": {
+    "RogueGachaGoodsGroupID": 1134,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      111003
+    ]
+  },
+  "2111": {
+    "RogueGachaGoodsGroupID": 2111,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2111011
+    ]
+  },
+  "2112": {
+    "RogueGachaGoodsGroupID": 2112,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2112011
+    ]
+  },
+  "2113": {
+    "RogueGachaGoodsGroupID": 2113,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2112001
+    ]
+  },
+  "2114": {
+    "RogueGachaGoodsGroupID": 2114,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2111001
+    ]
+  },
+  "2121": {
+    "RogueGachaGoodsGroupID": 2121,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2111012
+    ]
+  },
+  "2122": {
+    "RogueGachaGoodsGroupID": 2122,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2112012
+    ]
+  },
+  "2123": {
+    "RogueGachaGoodsGroupID": 2123,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2112002
+    ]
+  },
+  "2124": {
+    "RogueGachaGoodsGroupID": 2124,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2111002
+    ]
+  },
+  "2131": {
+    "RogueGachaGoodsGroupID": 2131,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2111013
+    ]
+  },
+  "2132": {
+    "RogueGachaGoodsGroupID": 2132,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2112013
+    ]
+  },
+  "2133": {
+    "RogueGachaGoodsGroupID": 2133,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2112003
+    ]
+  },
+  "2134": {
+    "RogueGachaGoodsGroupID": 2134,
+    "ChildGachaGoodsGroupList": [],
+    "GachaGoodsList": [
+      2111003
+    ]
+  }
+}
