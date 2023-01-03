@@ -1,12 +1,12 @@
 {
   "name": "CrepePlus",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "main": "main.js",
   "scripts": {
     "test": "@echo \"Error: no test specified\" && exit 1",
     "st": "electron-forge start",
     "pkg": "electron-packager --out out --overwrite --platform win32 --appname clientlmcenter . --icon=view/img/favicon.ico  --win32metadata.FileDescription=\"CrepePlus\"",
-    "build": "electron-forge make --ignore=\"\\node_modules\" --ignore=\"\\.idea\"",
+    "build": "electron-forge make",
     "dev": "electron ."
   },
   "author": "Midrooms",

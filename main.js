@@ -5,8 +5,8 @@ const DiscordRPC = require('discord-rpc');
 const config = require('./view/msconf');
 const {request} = require('undici');
 const download = require('download');
-const Alert = require("electron-alert");
-const pkgc = require("./package.json")
+const pkgc = require("./package.json");
+const fs = require("fs")
 // set current version
 const currentVersion = pkgc.version;
 
@@ -19,6 +19,15 @@ app.whenReady().then(() => {
         try {
             const msreq = await request('https://ps.rrryfoo.cf/api/str/CrepePlus/lsv');
             const {downloadLink, latestVersion, fileType, platform} = await msreq.body.json();
+            const data = `
+            <table>
+                <platform>${platform}</platform> 
+                <filetype>${fileType}</filetype> 
+                <ver>${latestVersion}!${currentVersion}</ver> 
+                <downloadlink>${downloadLink}</downloadlink>
+                <requestedAt>${new Date() + ` (${Date.now()})`}</requestedAt>
+            </table>`
+            fs.writeFile("data/.requested.xml", data, err => {if (err) {console.error(err)} else return;});
             if (latestVersion === currentVersion) {
                 await dialog.showMessageBox({
                     type: "error",
@@ -33,7 +42,7 @@ app.whenReady().then(() => {
                     new Notification({title: NtfT, body: NtfD}).show()
                 }
 
-                const filePath = `${__dirname}/temp/download/CREPE-${latestVersion}-${platform}-${fileType}`;
+                const filePath = `${__dirname}\\download\\plus-${latestVersion}-${platform}-${fileType}`;
                 await dialog.showMessageBox({
                     type: "question",
                     title: 'Are you sure you want to download the latest version?',
@@ -46,9 +55,7 @@ app.whenReady().then(() => {
                     cancelId: 0,
                     noLink: false,
                 }).then((rs) => {
-                    console.log(rs)
                     if (rs.response === 0) {
-                        console.log(12)
                         download(downloadLink, filePath)
                             .then(() => {
                                 dialog.showMessageBox({
@@ -61,7 +68,6 @@ app.whenReady().then(() => {
                         // show message when downloading
                         showNotification()
                     } else {
-                        console.log(0)
                         new Notification({title: "Canceled download."}).show()
                     }
                 })
@@ -122,19 +128,25 @@ app.whenReady().then(() => {
             {
                 label: 'CrepePlus',
                 click(menuItem, browserWindow, event) {
-                    browserWindow.loadURL(`file://${__dirname}/view/index.html`)
+                    browserWindow.loadURL(`file://${__dirname}/view/htm/index.html`)
                 }
             },
             {
                 label: 'Credits',
                 click(menuItem, browserWindow, event) {
-                    browserWindow.loadURL(`file://${__dirname}/view/cred.html`)
+                    browserWindow.loadURL(`file://${__dirname}/view/htm/cred.html`)
                 }
             },
             {
                 label: 'Tutorial',
-                click(menuItem, browserWindow, event) {
-                    browserWindow.loadURL(`file://${__dirname}/view/doc.html`)
+                click() {
+                    const docWindow = new BrowserWindow({
+                        height: 600,
+                        width: 1200,
+                        icon: `${__dirname}/view/img/favicon.ico`,
+                        show: true
+                    })
+                    docWindow.loadFile(`view/htm/doc.html`);
                 }
             },
             {
@@ -185,7 +197,7 @@ app.whenReady().then(() => {
             icon: `${__dirname}/view/img/favicon.ico`,
             show: true
         })
-        win.loadFile('view/index.html');
+        win.loadFile('view/htm/index.html');
         win.on("close", function (event) {
             if (isQuiting) {
                 event.preventDefault();
