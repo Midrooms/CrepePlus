@@ -6,6 +6,7 @@
 import Interface from "./commands/Interface";
 import HttpServer from "./http/HttpServer";
 import SRServer from "./server/kcp/SRServer";
+import RCONServer from "./server/rcon/RCONServer";
 import Banners from "./util/Banner";
 import Logger from "./util/Logger";
 import ProtoFactory from "./util/ProtoFactory"
@@ -15,6 +16,7 @@ c.log(`Starting CrepeSR...`);
 
 Banners.init();
 ProtoFactory.init();
-Interface.start(); 
+Interface.start();
 HttpServer.getInstance().start();
 SRServer.getInstance().start();
+RCONServer.getInstance().start();

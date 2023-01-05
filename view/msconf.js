@@ -2,19 +2,19 @@
 const clientID = "1054053726723252324";
 // default is "Offline"
 var status;
-status = "Idle - Not in CrepePlus (CrepePlus 1.3.0)";
-
+const pkx = require('../package.json');
+status = `Idle - Not in CrepePlus (CrepePlus v${pkx.version})`;
 
 // online image stuff (defaults)
-const onlineDeta = "CrepePlus - In PS";
-const onlineState = "Playing CrepePlus (mitmproxy of CrepePlus 1.3.0)";
+const onlineDeta = "In PS - CrepePlus (CrepeSR)";
+const onlineState = `Playing CrepePlus (mitmproxy - CrepePlus ${pkx.version})`;
 const onlineLargeImageKey = "icon";
-const onlineLargeImageText = "On CrepeSR - CrepePlus"
+const onlineLargeImageText = "CrepeSR - CrepePlus"
 const onlineSmallImageKey = "online";
 const onlineSmallImageText = "Connected to PS";
 
 // offline image stuff (defaults)
-const offlineDeta = "CrepePlus - Offline";
+const offlineDeta = "Offline - CrepeSR";
 const offlineLargeImageKey = "icon";
 const offlineLargeImageText = "Offline (idle)";
 const offlineSmallImageKey = "8997_offline_1_";

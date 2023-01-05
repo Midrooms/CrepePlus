@@ -146,6 +146,7 @@ app.whenReady().then(() => {
                         icon: `${__dirname}/view/img/favicon.ico`,
                         show: true
                     })
+                    docWindow.removeMenu();
                     docWindow.loadFile(`view/htm/doc.html`);
                 }
             },

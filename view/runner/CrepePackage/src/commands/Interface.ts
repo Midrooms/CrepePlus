@@ -27,28 +27,32 @@ export default class Interface {
 
     private constructor() { }
 
-    public static readonly start = () => {
+    public static start() {
         Interface.rl.question("", (_command) => {
             if (!_command) {
                 Interface.start();
                 return;
             }
             const cmd = new Command(_command);
-            import(`./${alias[cmd.name] || cmd.name}`).then(async module => {
-                await module.default(cmd);
-            }).catch(err => {
-                if (err.code == "MODULE_NOT_FOUND") {
-                    c.log(`Command ${cmd.name} not found.`);
-                    return;
-                }
-                c.error(err);
-            });
+            Interface.handle(cmd);
             Interface.start();
         });
 
         Interface.rl.on('close', () => {
             console.log('Have a great day!');
             process.exit(0);
+        });
+    }
+
+    public static handle(cmd: Command) {
+        import(`./${alias[cmd.name] || cmd.name}`).then(async module => {
+            await module.default(cmd);
+        }).catch(err => {
+            if (err.code == "MODULE_NOT_FOUND") {
+                c.log(`Command ${cmd.name} not found.`);
+                return;
+            }
+            c.error(err);
         });
     }
 }

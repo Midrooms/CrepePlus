@@ -1,9 +1,0 @@
-{
-    "close": "exit",
-    "stop": "exit",
-    "t": "target",
-    "acc": "account",
-    "d": "debug",
-    "?": "help",
-    "m": "maintenance"
-}
