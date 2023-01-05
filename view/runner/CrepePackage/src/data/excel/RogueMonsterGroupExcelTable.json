@@ -1,0 +1,569 @@
+{
+  "11": {
+    "RogueMonsterGroupID": 11,
+    "RogueMonsterListAndWeight": {
+      "111": 1.0
+    }
+  },
+  "12": {
+    "RogueMonsterGroupID": 12,
+    "RogueMonsterListAndWeight": {
+      "121": 1.0
+    }
+  },
+  "13": {
+    "RogueMonsterGroupID": 13,
+    "RogueMonsterListAndWeight": {
+      "131": 1.0
+    }
+  },
+  "14": {
+    "RogueMonsterGroupID": 14,
+    "RogueMonsterListAndWeight": {
+      "141": 1.0
+    }
+  },
+  "15": {
+    "RogueMonsterGroupID": 15,
+    "RogueMonsterListAndWeight": {
+      "151": 1.0
+    }
+  },
+  "16": {
+    "RogueMonsterGroupID": 16,
+    "RogueMonsterListAndWeight": {
+      "161": 1.0
+    }
+  },
+  "17": {
+    "RogueMonsterGroupID": 17,
+    "RogueMonsterListAndWeight": {
+      "171": 1.0
+    }
+  },
+  "18": {
+    "RogueMonsterGroupID": 18,
+    "RogueMonsterListAndWeight": {
+      "181": 1.0
+    }
+  },
+  "19": {
+    "RogueMonsterGroupID": 19,
+    "RogueMonsterListAndWeight": {
+      "191": 1.0
+    }
+  },
+  "20": {
+    "RogueMonsterGroupID": 20,
+    "RogueMonsterListAndWeight": {
+      "192": 1.0
+    }
+  },
+  "21": {
+    "RogueMonsterGroupID": 21,
+    "RogueMonsterListAndWeight": {
+      "193": 1.0
+    }
+  },
+  "22": {
+    "RogueMonsterGroupID": 22,
+    "RogueMonsterListAndWeight": {
+      "194": 1.0
+    }
+  },
+  "23": {
+    "RogueMonsterGroupID": 23,
+    "RogueMonsterListAndWeight": {
+      "195": 1.0
+    }
+  },
+  "101": {
+    "RogueMonsterGroupID": 101,
+    "RogueMonsterListAndWeight": {
+      "1011": 1.0,
+      "1012": 1.0,
+      "1013": 1.0
+    }
+  },
+  "102": {
+    "RogueMonsterGroupID": 102,
+    "RogueMonsterListAndWeight": {
+      "1021": 1.0,
+      "1022": 1.0,
+      "1023": 1.0
+    }
+  },
+  "103": {
+    "RogueMonsterGroupID": 103,
+    "RogueMonsterListAndWeight": {
+      "1031": 1.0,
+      "1032": 1.0,
+      "1033": 1.0
+    }
+  },
+  "104": {
+    "RogueMonsterGroupID": 104,
+    "RogueMonsterListAndWeight": {
+      "1041": 1.0,
+      "1042": 1.0,
+      "1043": 1.0
+    }
+  },
+  "105": {
+    "RogueMonsterGroupID": 105,
+    "RogueMonsterListAndWeight": {
+      "1051": 1.0,
+      "1052": 1.0,
+      "1053": 1.0
+    }
+  },
+  "106": {
+    "RogueMonsterGroupID": 106,
+    "RogueMonsterListAndWeight": {
+      "1061": 1.0,
+      "1062": 1.0,
+      "1063": 1.0,
+      "1621": 3.0
+    }
+  },
+  "107": {
+    "RogueMonsterGroupID": 107,
+    "RogueMonsterListAndWeight": {
+      "1071": 1.0,
+      "1072": 1.0,
+      "1073": 1.0
+    }
+  },
+  "108": {
+    "RogueMonsterGroupID": 108,
+    "RogueMonsterListAndWeight": {
+      "1081": 1.0,
+      "1082": 1.0,
+      "1083": 1.0
+    }
+  },
+  "109": {
+    "RogueMonsterGroupID": 109,
+    "RogueMonsterListAndWeight": {
+      "1091": 1.0,
+      "1092": 1.0,
+      "1093": 1.0
+    }
+  },
+  "110": {
+    "RogueMonsterGroupID": 110,
+    "RogueMonsterListAndWeight": {
+      "1101": 1.0,
+      "1102": 1.0,
+      "1103": 1.0,
+      "1631": 3.0
+    }
+  },
+  "111": {
+    "RogueMonsterGroupID": 111,
+    "RogueMonsterListAndWeight": {
+      "1111": 1.0,
+      "1112": 1.0,
+      "1113": 1.0
+    }
+  },
+  "112": {
+    "RogueMonsterGroupID": 112,
+    "RogueMonsterListAndWeight": {
+      "1121": 1.0,
+      "1122": 1.0,
+      "1123": 1.0
+    }
+  },
+  "141": {
+    "RogueMonsterGroupID": 141,
+    "RogueMonsterListAndWeight": {
+      "1411": 1.0,
+      "1412": 1.0
+    }
+  },
+  "142": {
+    "RogueMonsterGroupID": 142,
+    "RogueMonsterListAndWeight": {
+      "1421": 1.0,
+      "1422": 1.0
+    }
+  },
+  "143": {
+    "RogueMonsterGroupID": 143,
+    "RogueMonsterListAndWeight": {
+      "1431": 1.0,
+      "1432": 1.0
+    }
+  },
+  "144": {
+    "RogueMonsterGroupID": 144,
+    "RogueMonsterListAndWeight": {
+      "1441": 1.0,
+      "1442": 1.0
+    }
+  },
+  "151": {
+    "RogueMonsterGroupID": 151,
+    "RogueMonsterListAndWeight": {
+      "1511": 1.0,
+      "1512": 1.0
+    }
+  },
+  "152": {
+    "RogueMonsterGroupID": 152,
+    "RogueMonsterListAndWeight": {
+      "1521": 1.0,
+      "1522": 1.0
+    }
+  },
+  "153": {
+    "RogueMonsterGroupID": 153,
+    "RogueMonsterListAndWeight": {
+      "1531": 1.0,
+      "1532": 1.0
+    }
+  },
+  "154": {
+    "RogueMonsterGroupID": 154,
+    "RogueMonsterListAndWeight": {
+      "1541": 1.0,
+      "1542": 1.0
+    }
+  },
+  "161": {
+    "RogueMonsterGroupID": 161,
+    "RogueMonsterListAndWeight": {
+      "1612": 1.0
+    }
+  },
+  "162": {
+    "RogueMonsterGroupID": 162,
+    "RogueMonsterListAndWeight": {
+      "1622": 1.0
+    }
+  },
+  "163": {
+    "RogueMonsterGroupID": 163,
+    "RogueMonsterListAndWeight": {
+      "1632": 1.0
+    }
+  },
+  "181": {
+    "RogueMonsterGroupID": 181,
+    "RogueMonsterListAndWeight": {
+      "1811": 1.0
+    }
+  },
+  "182": {
+    "RogueMonsterGroupID": 182,
+    "RogueMonsterListAndWeight": {
+      "1821": 1.0
+    }
+  },
+  "191": {
+    "RogueMonsterGroupID": 191,
+    "RogueMonsterListAndWeight": {
+      "1911": 1.0
+    }
+  },
+  "201": {
+    "RogueMonsterGroupID": 201,
+    "RogueMonsterListAndWeight": {
+      "2011": 1.0,
+      "2012": 1.0,
+      "2013": 1.0
+    }
+  },
+  "202": {
+    "RogueMonsterGroupID": 202,
+    "RogueMonsterListAndWeight": {
+      "2021": 1.0,
+      "2022": 1.0,
+      "2023": 1.0
+    }
+  },
+  "203": {
+    "RogueMonsterGroupID": 203,
+    "RogueMonsterListAndWeight": {
+      "2031": 1.0,
+      "2032": 1.0,
+      "2033": 1.0
+    }
+  },
+  "204": {
+    "RogueMonsterGroupID": 204,
+    "RogueMonsterListAndWeight": {
+      "2041": 1.0,
+      "2042": 1.0,
+      "2043": 1.0
+    }
+  },
+  "205": {
+    "RogueMonsterGroupID": 205,
+    "RogueMonsterListAndWeight": {
+      "2051": 1.0,
+      "2052": 1.0,
+      "2053": 1.0
+    }
+  },
+  "206": {
+    "RogueMonsterGroupID": 206,
+    "RogueMonsterListAndWeight": {
+      "2061": 1.0,
+      "2062": 1.0,
+      "2063": 1.0
+    }
+  },
+  "207": {
+    "RogueMonsterGroupID": 207,
+    "RogueMonsterListAndWeight": {
+      "2071": 1.0,
+      "2072": 1.0,
+      "2073": 1.0
+    }
+  },
+  "208": {
+    "RogueMonsterGroupID": 208,
+    "RogueMonsterListAndWeight": {
+      "2081": 1.0,
+      "2082": 1.0,
+      "2083": 1.0
+    }
+  },
+  "209": {
+    "RogueMonsterGroupID": 209,
+    "RogueMonsterListAndWeight": {
+      "2091": 1.0,
+      "2092": 1.0,
+      "2093": 1.0
+    }
+  },
+  "210": {
+    "RogueMonsterGroupID": 210,
+    "RogueMonsterListAndWeight": {
+      "2101": 1.0,
+      "2102": 1.0,
+      "2103": 1.0
+    }
+  },
+  "211": {
+    "RogueMonsterGroupID": 211,
+    "RogueMonsterListAndWeight": {
+      "2111": 1.0,
+      "2112": 1.0,
+      "2113": 1.0
+    }
+  },
+  "212": {
+    "RogueMonsterGroupID": 212,
+    "RogueMonsterListAndWeight": {
+      "2121": 1.0,
+      "2122": 1.0,
+      "2123": 1.0
+    }
+  },
+  "241": {
+    "RogueMonsterGroupID": 241,
+    "RogueMonsterListAndWeight": {
+      "2411": 1.0,
+      "2412": 1.0
+    }
+  },
+  "242": {
+    "RogueMonsterGroupID": 242,
+    "RogueMonsterListAndWeight": {
+      "2421": 1.0,
+      "2422": 1.0
+    }
+  },
+  "243": {
+    "RogueMonsterGroupID": 243,
+    "RogueMonsterListAndWeight": {
+      "2431": 1.0,
+      "2432": 1.0
+    }
+  },
+  "244": {
+    "RogueMonsterGroupID": 244,
+    "RogueMonsterListAndWeight": {
+      "2441": 1.0,
+      "2442": 1.0
+    }
+  },
+  "251": {
+    "RogueMonsterGroupID": 251,
+    "RogueMonsterListAndWeight": {
+      "2511": 1.0,
+      "2512": 1.0
+    }
+  },
+  "252": {
+    "RogueMonsterGroupID": 252,
+    "RogueMonsterListAndWeight": {
+      "2521": 1.0,
+      "2522": 1.0
+    }
+  },
+  "253": {
+    "RogueMonsterGroupID": 253,
+    "RogueMonsterListAndWeight": {
+      "2531": 1.0,
+      "2532": 1.0
+    }
+  },
+  "254": {
+    "RogueMonsterGroupID": 254,
+    "RogueMonsterListAndWeight": {
+      "2541": 1.0,
+      "2542": 1.0
+    }
+  },
+  "261": {
+    "RogueMonsterGroupID": 261,
+    "RogueMonsterListAndWeight": {
+      "2612": 1.0
+    }
+  },
+  "262": {
+    "RogueMonsterGroupID": 262,
+    "RogueMonsterListAndWeight": {
+      "2622": 1.0
+    }
+  },
+  "263": {
+    "RogueMonsterGroupID": 263,
+    "RogueMonsterListAndWeight": {
+      "2632": 1.0
+    }
+  },
+  "281": {
+    "RogueMonsterGroupID": 281,
+    "RogueMonsterListAndWeight": {
+      "2811": 1.0
+    }
+  },
+  "282": {
+    "RogueMonsterGroupID": 282,
+    "RogueMonsterListAndWeight": {
+      "2821": 1.0
+    }
+  },
+  "291": {
+    "RogueMonsterGroupID": 291,
+    "RogueMonsterListAndWeight": {
+      "2911": 1.0
+    }
+  },
+  "300": {
+    "RogueMonsterGroupID": 300,
+    "RogueMonsterListAndWeight": {
+      "1411": 1.0
+    }
+  },
+  "301": {
+    "RogueMonsterGroupID": 301,
+    "RogueMonsterListAndWeight": {
+      "1412": 1.0
+    }
+  },
+  "302": {
+    "RogueMonsterGroupID": 302,
+    "RogueMonsterListAndWeight": {
+      "1421": 1.0
+    }
+  },
+  "303": {
+    "RogueMonsterGroupID": 303,
+    "RogueMonsterListAndWeight": {
+      "1422": 1.0
+    }
+  },
+  "304": {
+    "RogueMonsterGroupID": 304,
+    "RogueMonsterListAndWeight": {
+      "1431": 1.0
+    }
+  },
+  "411": {
+    "RogueMonsterGroupID": 411,
+    "RogueMonsterListAndWeight": {
+      "1111": 1.0,
+      "1112": 1.0,
+      "1113": 1.0,
+      "1121": 1.0,
+      "1122": 1.0,
+      "1123": 1.0
+    }
+  },
+  "412": {
+    "RogueMonsterGroupID": 412,
+    "RogueMonsterListAndWeight": {
+      "1431": 1.0
+    }
+  },
+  "413": {
+    "RogueMonsterGroupID": 413,
+    "RogueMonsterListAndWeight": {
+      "1441": 1.0
+    }
+  },
+  "421": {
+    "RogueMonsterGroupID": 421,
+    "RogueMonsterListAndWeight": {
+      "1111": 1.0,
+      "1112": 1.0,
+      "1113": 1.0,
+      "1121": 1.0,
+      "1122": 1.0,
+      "1123": 1.0
+    }
+  },
+  "422": {
+    "RogueMonsterGroupID": 422,
+    "RogueMonsterListAndWeight": {
+      "1431": 1.0
+    }
+  },
+  "423": {
+    "RogueMonsterGroupID": 423,
+    "RogueMonsterListAndWeight": {
+      "1441": 1.0
+    }
+  },
+  "431": {
+    "RogueMonsterGroupID": 431,
+    "RogueMonsterListAndWeight": {
+      "1111": 1.0,
+      "1112": 1.0,
+      "1113": 1.0,
+      "1121": 1.0,
+      "1122": 1.0,
+      "1123": 1.0
+    }
+  },
+  "432": {
+    "RogueMonsterGroupID": 432,
+    "RogueMonsterListAndWeight": {
+      "1431": 1.0
+    }
+  },
+  "433": {
+    "RogueMonsterGroupID": 433,
+    "RogueMonsterListAndWeight": {
+      "1441": 1.0
+    }
+  },
+  "434": {
+    "RogueMonsterGroupID": 434,
+    "RogueMonsterListAndWeight": {
+      "1442": 1.0
+    }
+  },
+  "441": {
+    "RogueMonsterGroupID": 441,
+    "RogueMonsterListAndWeight": {
+      "1811": 1.0
+    }
+  }
+}

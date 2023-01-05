@@ -1,0 +1,326 @@
+{
+  "1001": {
+    "ID": 1001,
+    "AvatarID": 1001,
+    "PlayerName": "AvatarName_1001",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Mar_7th_00/Player_Maid_Mar_7th_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Mar_7th_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1001.png",
+    "MazeSkillIdList": [
+      100101,
+      100102
+    ]
+  },
+  "1002": {
+    "ID": 1002,
+    "AvatarID": 1002,
+    "PlayerName": "AvatarName_1002",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/DanHeng_00/Player_Lad_DanHeng_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_DanHeng_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1002.png",
+    "MazeSkillIdList": [
+      100201,
+      100202
+    ]
+  },
+  "1003": {
+    "ID": 1003,
+    "AvatarID": 1003,
+    "PlayerName": "AvatarName_1003",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Himeko_00/Player_Lady_Himeko_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Himeko_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1003.png",
+    "MazeSkillIdList": [
+      100301,
+      100302
+    ]
+  },
+  "1004": {
+    "ID": 1004,
+    "AvatarID": 1004,
+    "PlayerName": "AvatarName_1004",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Welt_00/Player_Male_Welt_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Welt_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1004.png",
+    "MazeSkillIdList": [
+      100401,
+      100402
+    ]
+  },
+  "1005": {
+    "ID": 1005,
+    "AvatarID": 1005,
+    "PlayerName": "AvatarName_1005",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Kafka_00/Player_Lady_Kafka_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Kafka_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1005.png",
+    "MazeSkillIdList": [
+      100501,
+      100502
+    ]
+  },
+  "1006": {
+    "ID": 1006,
+    "AvatarID": 1006,
+    "PlayerName": "AvatarName_1006",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Silwolf_00/Player_Girl_Silwolf_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Silwolf_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1006.png",
+    "MazeSkillIdList": [
+      100601,
+      100602
+    ]
+  },
+  "1008": {
+    "ID": 1008,
+    "AvatarID": 1008,
+    "PlayerName": "AvatarName_1008",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Arlan_00/Player_Boy_Arlan_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Arlan_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1008.png",
+    "MazeSkillIdList": [
+      100801,
+      100802
+    ]
+  },
+  "1009": {
+    "ID": 1009,
+    "AvatarID": 1009,
+    "PlayerName": "AvatarName_1009",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Asta_00/Player_Maid_Asta_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Asta_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1009.png",
+    "MazeSkillIdList": [
+      100901,
+      100902
+    ]
+  },
+  "1013": {
+    "ID": 1013,
+    "AvatarID": 1013,
+    "PlayerName": "AvatarName_1013",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Herta_00/Player_Girl_Herta_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Herta_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1013.png",
+    "MazeSkillIdList": [
+      101301,
+      101302
+    ]
+  },
+  "1101": {
+    "ID": 1101,
+    "AvatarID": 1101,
+    "PlayerName": "AvatarName_1101",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Bronya_00/Player_Maid_Bronya_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Bronya_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1101.png",
+    "MazeSkillIdList": [
+      110101,
+      110102
+    ]
+  },
+  "1102": {
+    "ID": 1102,
+    "AvatarID": 1102,
+    "PlayerName": "AvatarName_1102",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Seele_00/Player_Maid_Seele_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Seele_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1102.png",
+    "MazeSkillIdList": [
+      110201,
+      110202
+    ]
+  },
+  "1103": {
+    "ID": 1103,
+    "AvatarID": 1103,
+    "PlayerName": "AvatarName_1103",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Serval_00/Player_Lady_Serval_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Serval_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1103.png",
+    "MazeSkillIdList": [
+      110301,
+      110302
+    ]
+  },
+  "1104": {
+    "ID": 1104,
+    "AvatarID": 1104,
+    "PlayerName": "AvatarName_1104",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Gepard_00/Player_Male_Gepard_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Gepard_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1104.png",
+    "MazeSkillIdList": [
+      110401,
+      110402
+    ]
+  },
+  "1105": {
+    "ID": 1105,
+    "AvatarID": 1105,
+    "PlayerName": "AvatarName_1105",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Natasha_00/Player_Lady_Natasha_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Natasha_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1105.png",
+    "MazeSkillIdList": [
+      110501,
+      110502
+    ]
+  },
+  "1106": {
+    "ID": 1106,
+    "AvatarID": 1106,
+    "PlayerName": "AvatarName_1106",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Pela_00/Player_Girl_Pela_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Pela_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1106.png",
+    "MazeSkillIdList": [
+      110601,
+      110602
+    ]
+  },
+  "1107": {
+    "ID": 1107,
+    "AvatarID": 1107,
+    "PlayerName": "AvatarName_1107",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Klara_00/Player_Girl_Klara_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Klara_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1107.png",
+    "MazeSkillIdList": [
+      110701,
+      110702
+    ]
+  },
+  "1108": {
+    "ID": 1108,
+    "AvatarID": 1108,
+    "PlayerName": "AvatarName_1108",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Sampo_00/Player_Male_Sampo_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Sampo_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1108.png",
+    "MazeSkillIdList": [
+      110801,
+      110802
+    ]
+  },
+  "1109": {
+    "ID": 1109,
+    "AvatarID": 1109,
+    "PlayerName": "AvatarName_1109",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Hook_00/Player_Kid_Hook_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Hook_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1109.png",
+    "MazeSkillIdList": [
+      110901,
+      110902
+    ]
+  },
+  "1203": {
+    "ID": 1203,
+    "AvatarID": 1203,
+    "PlayerName": "AvatarName_1203",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Luocha_00/Player_Male_Luocha_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Luocha_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1203.png",
+    "MazeSkillIdList": [
+      120301,
+      120302
+    ]
+  },
+  "1204": {
+    "ID": 1204,
+    "AvatarID": 1204,
+    "PlayerName": "AvatarName_1204",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/JingYuan_00/Player_Male_JingYuan_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_JingYuan_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1204.png",
+    "MazeSkillIdList": [
+      120401,
+      120402
+    ]
+  },
+  "1205": {
+    "ID": 1205,
+    "AvatarID": 1205,
+    "PlayerName": "AvatarName_1205",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Ren_00/Player_Male_Ren_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Ren_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1205.png",
+    "MazeSkillIdList": [
+      120501,
+      120502
+    ]
+  },
+  "1206": {
+    "ID": 1206,
+    "AvatarID": 1206,
+    "PlayerName": "AvatarName_1206",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Sushang_00/Player_Maid_Sushang_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_Sushang_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1206.png",
+    "MazeSkillIdList": [
+      120601,
+      120602
+    ]
+  },
+  "8001": {
+    "ID": 8001,
+    "AvatarID": 8001,
+    "PlayerName": "AvatarName_8001",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/PlayerBoy_00/Player_Lad_PlayerBoy_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_PlayerBoy_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/8001.png",
+    "MazeSkillIdList": [
+      800101,
+      800102
+    ]
+  },
+  "8002": {
+    "ID": 8002,
+    "AvatarID": 8002,
+    "PlayerName": "AvatarName_8002",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/PlayerGirl_00/Player_Miss_PlayerGirl_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_PlayerGirl_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/8002.png",
+    "MazeSkillIdList": [
+      800201,
+      800202
+    ]
+  },
+  "8003": {
+    "ID": 8003,
+    "AvatarID": 8003,
+    "PlayerName": "AvatarName_8003",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/PlayerBoy_10/Player_Lad_PlayerBoy_10.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_PlayerBoy_10_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/8003.png",
+    "MazeSkillIdList": [
+      800301,
+      800302
+    ]
+  },
+  "8004": {
+    "ID": 8004,
+    "AvatarID": 8004,
+    "PlayerName": "AvatarName_8004",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/PlayerGirl_10/Player_Miss_PlayerGirl_10.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_PlayerGirl_10_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/8004.png",
+    "MazeSkillIdList": [
+      800401,
+      800402
+    ]
+  },
+  "9998": {
+    "ID": 9998,
+    "AvatarID": 9998,
+    "PlayerName": "AvatarName_9998",
+    "PlayerPrefabPath": "Characters/CharacterPrefabs/Player/Pela_00/Player_Test_00.prefab",
+    "PlayerJsonPath": "Config/ConfigCharacter/LocalPlayer/LocalPlayer_QA_00_Config.json",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/AvatarIconTeam/1106.png",
+    "MazeSkillIdList": [
+      999801,
+      999802
+    ]
+  }
+}

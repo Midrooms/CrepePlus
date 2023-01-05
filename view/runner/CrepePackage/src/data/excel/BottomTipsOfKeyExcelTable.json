@@ -1,0 +1,99 @@
+{
+  "Default:1": {
+    "ContextName": "Default",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Menu_Confirm",
+      "Menu_Cancel"
+    ]
+  },
+  "BattleGamePageContext:1": {
+    "ContextName": "BattleGamePageContext",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Battle_TriggerUltra",
+      "Battle_SelectTargetLeft",
+      "Battle_SelectTargetRight",
+      "Battle_SkillSelect",
+      "Battle_SkillRelease"
+    ]
+  },
+  "TownMainPage:1": {
+    "ContextName": "TownMainPage",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Maze_Phone",
+      "Maze_MouseOperating",
+      "Maze_Job"
+    ]
+  },
+  "MazeMainPage:1": {
+    "ContextName": "MazeMainPage",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Menu_MazeEnemyDetail",
+      "Maze_Bag",
+      "Maze_Map",
+      "Maze_MouseOperating"
+    ]
+  },
+  "RoomMainPage:1": {
+    "ContextName": "RoomMainPage",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Menu_MazeEnemyDetail",
+      "Maze_Bag",
+      "Maze_Map",
+      "Maze_MouseOperating"
+    ]
+  },
+  "TrainMainPage:1": {
+    "ContextName": "TrainMainPage",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Maze_Avatar",
+      "Maze_Phone",
+      "Maze_Team",
+      "Maze_MouseOperating"
+    ]
+  },
+  "ChallengeMainPage:1": {
+    "ContextName": "ChallengeMainPage",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Menu_MazeEnemyDetail",
+      "Maze_MouseOperating"
+    ]
+  },
+  "RogueMapPage:1": {
+    "ContextName": "RogueMapPage",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Menu_MazeEnemyDetail",
+      "Maze_MouseOperating"
+    ]
+  },
+  "FarmRelicMainPage:1": {
+    "ContextName": "FarmRelicMainPage",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Menu_MazeEnemyDetail",
+      "Maze_MouseOperating"
+    ]
+  },
+  "RaidMainPage:1": {
+    "ContextName": "RaidMainPage",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Menu_MazeEnemyDetail",
+      "Maze_MouseOperating"
+    ]
+  },
+  "ClientMainPage:1": {
+    "ContextName": "ClientMainPage",
+    "ZoomType": 1,
+    "ActionNameList": [
+      "Maze_MouseOperating"
+    ]
+  }
+}

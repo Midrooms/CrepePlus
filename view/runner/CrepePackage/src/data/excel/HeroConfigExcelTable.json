@@ -1,0 +1,22 @@
+{
+  "8001": {
+    "HeroAvatarID": 8001,
+    "Gender": "GENDER_MAN",
+    "UnlockMissionID": 0
+  },
+  "8002": {
+    "HeroAvatarID": 8002,
+    "Gender": "GENDER_WOMAN",
+    "UnlockMissionID": 0
+  },
+  "8003": {
+    "HeroAvatarID": 8003,
+    "Gender": "GENDER_MAN",
+    "UnlockMissionID": 1011403
+  },
+  "8004": {
+    "HeroAvatarID": 8004,
+    "Gender": "GENDER_WOMAN",
+    "UnlockMissionID": 1011403
+  }
+}

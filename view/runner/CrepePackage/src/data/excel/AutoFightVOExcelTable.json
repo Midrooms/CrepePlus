@@ -1,0 +1,14 @@
+{
+  "1": {
+    "Mode": 1,
+    "ActionBegin": 0,
+    "ActionBeginAdvantage": 1,
+    "ActionBeginHighThreat": 1,
+    "ReceiveHealing": 0,
+    "ReceiveBuff": 1,
+    "Revived": 0,
+    "UltraReady": 0,
+    "LightHit": 1,
+    "StandBy": 0
+  }
+}

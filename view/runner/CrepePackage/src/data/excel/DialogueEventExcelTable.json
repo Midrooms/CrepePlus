@@ -1,0 +1,3043 @@
+{
+  "811010101": {
+    "EventID": 811010101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      7,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 50
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "811010201": {
+    "EventID": 811010201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      1,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 50
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "811020101": {
+    "EventID": 811020101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      7,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 50
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "811020201": {
+    "EventID": 811020201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      40,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "811030101": {
+    "EventID": 811030101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      3,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "811030201": {
+    "EventID": 811030201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      8,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812010101": {
+    "EventID": 812010101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      1,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812010201": {
+    "EventID": 812010201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      4,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812020101": {
+    "EventID": 812020101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      1,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812020201": {
+    "EventID": 812020201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      4,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812030101": {
+    "EventID": 812030101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      1,
+      3
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812030201": {
+    "EventID": 812030201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      4,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812040101": {
+    "EventID": 812040101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812040201": {
+    "EventID": 812040201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      24,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812050101": {
+    "EventID": 812050101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      9,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812050201": {
+    "EventID": 812050201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "None",
+    "ParameterList1": [],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 50
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812060101": {
+    "EventID": 812060101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      9,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "812060201": {
+    "EventID": 812060201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      9,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 50
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "813010101": {
+    "EventID": 813010101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      10,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "813010201": {
+    "EventID": 813010201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      1,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "813020101": {
+    "EventID": 813020101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      5,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "813020201": {
+    "EventID": 813020201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      50
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "813030101": {
+    "EventID": 813030101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      5,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "813030201": {
+    "EventID": 813030201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "813040101": {
+    "EventID": 813040101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      5,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "813040201": {
+    "EventID": 813040201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      200
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "813050101": {
+    "EventID": 813050101,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      120,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "813050201": {
+    "EventID": 813050201,
+    "EventTitle": {
+      "hash": 371857150
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      24,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801110111": {
+    "EventID": 801110111,
+    "EventTitle": {
+      "hash": 1669208939
+    },
+    "Type1": "GetRogueBuff",
+    "ParameterList1": [
+      1240
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801110121": {
+    "EventID": 801110121,
+    "EventTitle": {
+      "hash": 1669208936
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801110131": {
+    "EventID": 801110131,
+    "EventTitle": {
+      "hash": 1669208937
+    },
+    "Type1": "None",
+    "ParameterList1": [],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801120111": {
+    "EventID": 801120111,
+    "EventTitle": {
+      "hash": 1758735706
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801120121": {
+    "EventID": 801120121,
+    "EventTitle": {
+      "hash": 1758735703
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      23,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801120131": {
+    "EventID": 801120131,
+    "EventTitle": {
+      "hash": 1758735704
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801120211": {
+    "EventID": 801120211,
+    "EventTitle": {
+      "hash": -69470261
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801120221": {
+    "EventID": 801120221,
+    "EventTitle": {
+      "hash": -69470264
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      24,
+      1
+    ],
+    "Type2": "RecoverLineup",
+    "ParameterList2": [
+      -50,
+      0
+    ],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801120231": {
+    "EventID": 801120231,
+    "EventTitle": {
+      "hash": -69470263
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130111": {
+    "EventID": 801130111,
+    "EventTitle": {
+      "hash": -1898967883
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130121": {
+    "EventID": 801130121,
+    "EventTitle": {
+      "hash": -1898967886
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130131": {
+    "EventID": 801130131,
+    "EventTitle": {
+      "hash": -1898967885
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      25,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130211": {
+    "EventID": 801130211,
+    "EventTitle": {
+      "hash": -2040130384
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130221": {
+    "EventID": 801130221,
+    "EventTitle": {
+      "hash": -2040130387
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130231": {
+    "EventID": 801130231,
+    "EventTitle": {
+      "hash": -2040130386
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      40,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130311": {
+    "EventID": 801130311,
+    "EventTitle": {
+      "hash": 2113674411
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130321": {
+    "EventID": 801130321,
+    "EventTitle": {
+      "hash": 2113674408
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130331": {
+    "EventID": 801130331,
+    "EventTitle": {
+      "hash": 2113674409
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130411": {
+    "EventID": 801130411,
+    "EventTitle": {
+      "hash": -1193155378
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130421": {
+    "EventID": 801130421,
+    "EventTitle": {
+      "hash": -1193155381
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130431": {
+    "EventID": 801130431,
+    "EventTitle": {
+      "hash": -1193155380
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130511": {
+    "EventID": 801130511,
+    "EventTitle": {
+      "hash": -1334317879
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130521": {
+    "EventID": 801130521,
+    "EventTitle": {
+      "hash": -1334317882
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130531": {
+    "EventID": 801130531,
+    "EventTitle": {
+      "hash": -1334317881
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      26,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130611": {
+    "EventID": 801130611,
+    "EventTitle": {
+      "hash": -1475480380
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130621": {
+    "EventID": 801130621,
+    "EventTitle": {
+      "hash": -1475480383
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      25,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130631": {
+    "EventID": 801130631,
+    "EventTitle": {
+      "hash": -1475480382
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      40,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130711": {
+    "EventID": 801130711,
+    "EventTitle": {
+      "hash": -1616642881
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130721": {
+    "EventID": 801130721,
+    "EventTitle": {
+      "hash": -1616642884
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      25,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130731": {
+    "EventID": 801130731,
+    "EventTitle": {
+      "hash": -1616642883
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130811": {
+    "EventID": 801130811,
+    "EventTitle": {
+      "hash": -628505374
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130821": {
+    "EventID": 801130821,
+    "EventTitle": {
+      "hash": -628505377
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      25,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130831": {
+    "EventID": 801130831,
+    "EventTitle": {
+      "hash": -628505376
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130911": {
+    "EventID": 801130911,
+    "EventTitle": {
+      "hash": -769667875
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130921": {
+    "EventID": 801130921,
+    "EventTitle": {
+      "hash": -769667878
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      25,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801130931": {
+    "EventID": 801130931,
+    "EventTitle": {
+      "hash": -769667877
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      26,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131011": {
+    "EventID": 801131011,
+    "EventTitle": {
+      "hash": -1757805415
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      25,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131021": {
+    "EventID": 801131021,
+    "EventTitle": {
+      "hash": -1757805416
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      40,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131031": {
+    "EventID": 801131031,
+    "EventTitle": {
+      "hash": -1757805417
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131111": {
+    "EventID": 801131111,
+    "EventTitle": {
+      "hash": -1898967916
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      25,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131121": {
+    "EventID": 801131121,
+    "EventTitle": {
+      "hash": -1898967917
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      40,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131131": {
+    "EventID": 801131131,
+    "EventTitle": {
+      "hash": -1898967918
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131211": {
+    "EventID": 801131211,
+    "EventTitle": {
+      "hash": -2040130417
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      25,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131221": {
+    "EventID": 801131221,
+    "EventTitle": {
+      "hash": -2040130418
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      40,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131231": {
+    "EventID": 801131231,
+    "EventTitle": {
+      "hash": -2040130419
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      26,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131311": {
+    "EventID": 801131311,
+    "EventTitle": {
+      "hash": 2113674378
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      40,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131321": {
+    "EventID": 801131321,
+    "EventTitle": {
+      "hash": 2113674377
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131331": {
+    "EventID": 801131331,
+    "EventTitle": {
+      "hash": 2113674376
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131411": {
+    "EventID": 801131411,
+    "EventTitle": {
+      "hash": -1193155411
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      40,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131421": {
+    "EventID": 801131421,
+    "EventTitle": {
+      "hash": -1193155412
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131431": {
+    "EventID": 801131431,
+    "EventTitle": {
+      "hash": -1193155413
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      26,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131511": {
+    "EventID": 801131511,
+    "EventTitle": {
+      "hash": -1334317912
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131521": {
+    "EventID": 801131521,
+    "EventTitle": {
+      "hash": -1334317913
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801131531": {
+    "EventID": 801131531,
+    "EventTitle": {
+      "hash": -1334317914
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      26,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801140111": {
+    "EventID": 801140111,
+    "EventTitle": {
+      "hash": -1809441116
+    },
+    "Type1": "GetRogueBuff",
+    "ParameterList1": [
+      100004
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801140121": {
+    "EventID": 801140121,
+    "EventTitle": {
+      "hash": -1809441119
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      6,
+      100
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801140131": {
+    "EventID": 801140131,
+    "EventTitle": {
+      "hash": -1809441118
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150111": {
+    "EventID": 801150111,
+    "EventTitle": {
+      "hash": -1172177409
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      30,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150121": {
+    "EventID": 801150121,
+    "EventTitle": {
+      "hash": -1172177412
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150131": {
+    "EventID": 801150131,
+    "EventTitle": {
+      "hash": -1172177411
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150211": {
+    "EventID": 801150211,
+    "EventTitle": {
+      "hash": -748689906
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      30,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150221": {
+    "EventID": 801150221,
+    "EventTitle": {
+      "hash": -748689909
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150231": {
+    "EventID": 801150231,
+    "EventTitle": {
+      "hash": -748689908
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      31,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150311": {
+    "EventID": 801150311,
+    "EventTitle": {
+      "hash": -889852407
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      30,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150321": {
+    "EventID": 801150321,
+    "EventTitle": {
+      "hash": -889852410
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150331": {
+    "EventID": 801150331,
+    "EventTitle": {
+      "hash": -889852409
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      28,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150411": {
+    "EventID": 801150411,
+    "EventTitle": {
+      "hash": -1595664912
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      30,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150421": {
+    "EventID": 801150421,
+    "EventTitle": {
+      "hash": -1595664915
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150431": {
+    "EventID": 801150431,
+    "EventTitle": {
+      "hash": -1595664914
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150511": {
+    "EventID": 801150511,
+    "EventTitle": {
+      "hash": -1736827413
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      30,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150521": {
+    "EventID": 801150521,
+    "EventTitle": {
+      "hash": -1736827416
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150531": {
+    "EventID": 801150531,
+    "EventTitle": {
+      "hash": -1736827415
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      31,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150611": {
+    "EventID": 801150611,
+    "EventTitle": {
+      "hash": -1313339910
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      30,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150621": {
+    "EventID": 801150621,
+    "EventTitle": {
+      "hash": -1313339913
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150631": {
+    "EventID": 801150631,
+    "EventTitle": {
+      "hash": -1313339912
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      28,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150711": {
+    "EventID": 801150711,
+    "EventTitle": {
+      "hash": -1454502411
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      60,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150721": {
+    "EventID": 801150721,
+    "EventTitle": {
+      "hash": -1454502414
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150731": {
+    "EventID": 801150731,
+    "EventTitle": {
+      "hash": -1454502413
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150811": {
+    "EventID": 801150811,
+    "EventTitle": {
+      "hash": 98285100
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      60,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150821": {
+    "EventID": 801150821,
+    "EventTitle": {
+      "hash": 98285097
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150831": {
+    "EventID": 801150831,
+    "EventTitle": {
+      "hash": 98285098
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      31,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150911": {
+    "EventID": 801150911,
+    "EventTitle": {
+      "hash": -42877401
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      60,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150921": {
+    "EventID": 801150921,
+    "EventTitle": {
+      "hash": -42877404
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801150931": {
+    "EventID": 801150931,
+    "EventTitle": {
+      "hash": -42877403
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      28,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151011": {
+    "EventID": 801151011,
+    "EventTitle": {
+      "hash": -1031014941
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      60,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151021": {
+    "EventID": 801151021,
+    "EventTitle": {
+      "hash": -1031014942
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151031": {
+    "EventID": 801151031,
+    "EventTitle": {
+      "hash": -1031014943
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151111": {
+    "EventID": 801151111,
+    "EventTitle": {
+      "hash": -1172177442
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      60,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151121": {
+    "EventID": 801151121,
+    "EventTitle": {
+      "hash": -1172177443
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151131": {
+    "EventID": 801151131,
+    "EventTitle": {
+      "hash": -1172177444
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      31,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151211": {
+    "EventID": 801151211,
+    "EventTitle": {
+      "hash": -748689939
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      60,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151221": {
+    "EventID": 801151221,
+    "EventTitle": {
+      "hash": -748689940
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151231": {
+    "EventID": 801151231,
+    "EventTitle": {
+      "hash": -748689941
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      28,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151311": {
+    "EventID": 801151311,
+    "EventTitle": {
+      "hash": -889852440
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151321": {
+    "EventID": 801151321,
+    "EventTitle": {
+      "hash": -889852441
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151331": {
+    "EventID": 801151331,
+    "EventTitle": {
+      "hash": -889852442
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151411": {
+    "EventID": 801151411,
+    "EventTitle": {
+      "hash": -1595664945
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151421": {
+    "EventID": 801151421,
+    "EventTitle": {
+      "hash": -1595664946
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151431": {
+    "EventID": 801151431,
+    "EventTitle": {
+      "hash": -1595664947
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      31,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151511": {
+    "EventID": 801151511,
+    "EventTitle": {
+      "hash": -1736827446
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151521": {
+    "EventID": 801151521,
+    "EventTitle": {
+      "hash": -1736827447
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151531": {
+    "EventID": 801151531,
+    "EventTitle": {
+      "hash": -1736827448
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      28,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151611": {
+    "EventID": 801151611,
+    "EventTitle": {
+      "hash": -1313339943
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151621": {
+    "EventID": 801151621,
+    "EventTitle": {
+      "hash": -1313339944
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151631": {
+    "EventID": 801151631,
+    "EventTitle": {
+      "hash": -1313339945
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151711": {
+    "EventID": 801151711,
+    "EventTitle": {
+      "hash": -1454502444
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151721": {
+    "EventID": 801151721,
+    "EventTitle": {
+      "hash": -1454502445
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151731": {
+    "EventID": 801151731,
+    "EventTitle": {
+      "hash": -1454502446
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      31,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151811": {
+    "EventID": 801151811,
+    "EventTitle": {
+      "hash": 98285067
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151821": {
+    "EventID": 801151821,
+    "EventTitle": {
+      "hash": 98285066
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151831": {
+    "EventID": 801151831,
+    "EventTitle": {
+      "hash": 98285065
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      28,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151911": {
+    "EventID": 801151911,
+    "EventTitle": {
+      "hash": -42877434
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151921": {
+    "EventID": 801151921,
+    "EventTitle": {
+      "hash": -42877435
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801151931": {
+    "EventID": 801151931,
+    "EventTitle": {
+      "hash": -42877436
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152011": {
+    "EventID": 801152011,
+    "EventTitle": {
+      "hash": -1031014974
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152021": {
+    "EventID": 801152021,
+    "EventTitle": {
+      "hash": -1031014973
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152031": {
+    "EventID": 801152031,
+    "EventTitle": {
+      "hash": -1031014972
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      31,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152111": {
+    "EventID": 801152111,
+    "EventTitle": {
+      "hash": -1172177475
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152121": {
+    "EventID": 801152121,
+    "EventTitle": {
+      "hash": -1172177474
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      22,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152131": {
+    "EventID": 801152131,
+    "EventTitle": {
+      "hash": -1172177473
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      28,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152211": {
+    "EventID": 801152211,
+    "EventTitle": {
+      "hash": -748689972
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152221": {
+    "EventID": 801152221,
+    "EventTitle": {
+      "hash": -748689971
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152231": {
+    "EventID": 801152231,
+    "EventTitle": {
+      "hash": -748689970
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152311": {
+    "EventID": 801152311,
+    "EventTitle": {
+      "hash": -889852473
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152321": {
+    "EventID": 801152321,
+    "EventTitle": {
+      "hash": -889852472
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152331": {
+    "EventID": 801152331,
+    "EventTitle": {
+      "hash": -889852471
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      31,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152411": {
+    "EventID": 801152411,
+    "EventTitle": {
+      "hash": -1595664978
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152421": {
+    "EventID": 801152421,
+    "EventTitle": {
+      "hash": -1595664977
+    },
+    "Type1": "UpRogueBuffLevel",
+    "ParameterList1": [
+      100004,
+      2
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 100
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801152431": {
+    "EventID": 801152431,
+    "EventTitle": {
+      "hash": -1595664976
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      28,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [
+      {
+        "ItemID": 31,
+        "ItemNum": 200
+      }
+    ],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801160111": {
+    "EventID": 801160111,
+    "EventTitle": {
+      "hash": -1082650642
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      0,
+      6
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801160121": {
+    "EventID": 801160121,
+    "EventTitle": {
+      "hash": -1082650645
+    },
+    "Type1": "RecoverLineup",
+    "ParameterList1": [
+      40,
+      0
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801160131": {
+    "EventID": 801160131,
+    "EventTitle": {
+      "hash": -1082650644
+    },
+    "Type1": "TriggerBattle",
+    "ParameterList1": [
+      80100901
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170111": {
+    "EventID": 801170111,
+    "EventTitle": {
+      "hash": -445386935
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      29,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170121": {
+    "EventID": 801170121,
+    "EventTitle": {
+      "hash": -445386938
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      32,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170131": {
+    "EventID": 801170131,
+    "EventTitle": {
+      "hash": -445386937
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170211": {
+    "EventID": 801170211,
+    "EventTitle": {
+      "hash": -586549436
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      29,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170221": {
+    "EventID": 801170221,
+    "EventTitle": {
+      "hash": -586549439
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      33,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170231": {
+    "EventID": 801170231,
+    "EventTitle": {
+      "hash": -586549438
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170311": {
+    "EventID": 801170311,
+    "EventTitle": {
+      "hash": -727711937
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      29,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170321": {
+    "EventID": 801170321,
+    "EventTitle": {
+      "hash": -727711940
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      34,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170331": {
+    "EventID": 801170331,
+    "EventTitle": {
+      "hash": -727711939
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170411": {
+    "EventID": 801170411,
+    "EventTitle": {
+      "hash": -868874438
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      29,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170421": {
+    "EventID": 801170421,
+    "EventTitle": {
+      "hash": -868874441
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      35,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  },
+  "801170431": {
+    "EventID": 801170431,
+    "EventTitle": {
+      "hash": -868874440
+    },
+    "Type1": "GetRogueItem",
+    "ParameterList1": [
+      27,
+      1
+    ],
+    "Type2": "None",
+    "ParameterList2": [],
+    "Cost": [],
+    "ConditionName": "",
+    "ConditionParam": {}
+  }
+}

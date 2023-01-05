@@ -1,0 +1,22 @@
+{
+  "1": {
+    "ID": 1,
+    "PrefabPath": "UI/Guide/GuideArrow.prefab"
+  },
+  "2": {
+    "ID": 2,
+    "PrefabPath": "UI/Guide/GuideMessage.prefab"
+  },
+  "3": {
+    "ID": 3,
+    "PrefabPath": "UI/Guide/GuideTips.prefab"
+  },
+  "4": {
+    "ID": 4,
+    "PrefabPath": "UI/Guide/GuideArrowTips.prefab"
+  },
+  "5": {
+    "ID": 5,
+    "PrefabPath": "UI/Guide/GuideMessageNoIcon.prefab"
+  }
+}

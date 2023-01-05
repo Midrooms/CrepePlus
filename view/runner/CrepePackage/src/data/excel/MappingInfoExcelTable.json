@@ -1,0 +1,7243 @@
+{
+  "1001:0": {
+    "ID": 1001,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1448898566
+    },
+    "Desc": {
+      "hash": 530978844
+    },
+    "ShowMonsterList": [
+      8001010,
+      8001020
+    ],
+    "RewardList": [
+      104000
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1001:1": {
+    "ID": 1001,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1448898566
+    },
+    "Desc": {
+      "hash": 530978844
+    },
+    "ShowMonsterList": [
+      8001010,
+      8001020
+    ],
+    "RewardList": [
+      104001
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1001:2": {
+    "ID": 1001,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1448898566
+    },
+    "Desc": {
+      "hash": 530978844
+    },
+    "ShowMonsterList": [
+      8001010,
+      8001020
+    ],
+    "RewardList": [
+      104002
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1001:3": {
+    "ID": 1001,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1448898566
+    },
+    "Desc": {
+      "hash": 530978844
+    },
+    "ShowMonsterList": [
+      8001010,
+      8001020
+    ],
+    "RewardList": [
+      104003
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1001:4": {
+    "ID": 1001,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1448898566
+    },
+    "Desc": {
+      "hash": 530978844
+    },
+    "ShowMonsterList": [
+      8001010,
+      8001020
+    ],
+    "RewardList": [
+      104004
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1001:5": {
+    "ID": 1001,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1448898566
+    },
+    "Desc": {
+      "hash": 530978844
+    },
+    "ShowMonsterList": [
+      8001010,
+      8001020
+    ],
+    "RewardList": [
+      104005
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1001:6": {
+    "ID": 1001,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1448898566
+    },
+    "Desc": {
+      "hash": 530978844
+    },
+    "ShowMonsterList": [
+      8001010,
+      8001020
+    ],
+    "RewardList": [
+      104006
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1002:0": {
+    "ID": 1002,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 26,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1045614039
+    },
+    "Desc": {
+      "hash": 934263371
+    },
+    "ShowMonsterList": [
+      1022020,
+      1022010,
+      8001010
+    ],
+    "RewardList": [
+      104020
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1002:1": {
+    "ID": 1002,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 26,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1045614039
+    },
+    "Desc": {
+      "hash": 934263371
+    },
+    "ShowMonsterList": [
+      1022020,
+      1022010,
+      8001010
+    ],
+    "RewardList": [
+      104021
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1002:2": {
+    "ID": 1002,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 26,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1045614039
+    },
+    "Desc": {
+      "hash": 934263371
+    },
+    "ShowMonsterList": [
+      1022020,
+      1022010,
+      8001010
+    ],
+    "RewardList": [
+      104022
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1002:3": {
+    "ID": 1002,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 26,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1045614039
+    },
+    "Desc": {
+      "hash": 934263371
+    },
+    "ShowMonsterList": [
+      1022020,
+      1022010,
+      8001010
+    ],
+    "RewardList": [
+      104023
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1002:4": {
+    "ID": 1002,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 26,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1045614039
+    },
+    "Desc": {
+      "hash": 934263371
+    },
+    "ShowMonsterList": [
+      1022020,
+      1022010,
+      8001010
+    ],
+    "RewardList": [
+      104024
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1002:5": {
+    "ID": 1002,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 26,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1045614039
+    },
+    "Desc": {
+      "hash": 934263371
+    },
+    "ShowMonsterList": [
+      1022020,
+      1022010,
+      8001010
+    ],
+    "RewardList": [
+      104025
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1002:6": {
+    "ID": 1002,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 26,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1045614039
+    },
+    "Desc": {
+      "hash": 934263371
+    },
+    "ShowMonsterList": [
+      1022020,
+      1022010,
+      8001010
+    ],
+    "RewardList": [
+      104026
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1003:0": {
+    "ID": 1003,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 20,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1683269316
+    },
+    "Desc": {
+      "hash": -631820570
+    },
+    "ShowMonsterList": [
+      1012030,
+      1012010,
+      1012020
+    ],
+    "RewardList": [
+      104010
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1003:1": {
+    "ID": 1003,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 20,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1683269316
+    },
+    "Desc": {
+      "hash": -631820570
+    },
+    "ShowMonsterList": [
+      1012030,
+      1012010,
+      1012020
+    ],
+    "RewardList": [
+      104011
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1003:2": {
+    "ID": 1003,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 20,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1683269316
+    },
+    "Desc": {
+      "hash": -631820570
+    },
+    "ShowMonsterList": [
+      1012030,
+      1012010,
+      1012020
+    ],
+    "RewardList": [
+      104012
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1003:3": {
+    "ID": 1003,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 20,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1683269316
+    },
+    "Desc": {
+      "hash": -631820570
+    },
+    "ShowMonsterList": [
+      1012030,
+      1012010,
+      1012020
+    ],
+    "RewardList": [
+      104013
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1003:4": {
+    "ID": 1003,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 20,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1683269316
+    },
+    "Desc": {
+      "hash": -631820570
+    },
+    "ShowMonsterList": [
+      1012030,
+      1012010,
+      1012020
+    ],
+    "RewardList": [
+      104014
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1003:5": {
+    "ID": 1003,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 20,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1683269316
+    },
+    "Desc": {
+      "hash": -631820570
+    },
+    "ShowMonsterList": [
+      1012030,
+      1012010,
+      1012020
+    ],
+    "RewardList": [
+      104015
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1003:6": {
+    "ID": 1003,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 20,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1683269316
+    },
+    "Desc": {
+      "hash": -631820570
+    },
+    "ShowMonsterList": [
+      1012030,
+      1012010,
+      1012020
+    ],
+    "RewardList": [
+      104016
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1004:0": {
+    "ID": 1004,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2086553843
+    },
+    "Desc": {
+      "hash": 127694317
+    },
+    "ShowMonsterList": [
+      8012010,
+      8012020,
+      8012030,
+      8011010
+    ],
+    "RewardList": [
+      104030
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1004:1": {
+    "ID": 1004,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2086553843
+    },
+    "Desc": {
+      "hash": 127694317
+    },
+    "ShowMonsterList": [
+      8012010,
+      8012020,
+      8012030,
+      8011010
+    ],
+    "RewardList": [
+      104031
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1004:2": {
+    "ID": 1004,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2086553843
+    },
+    "Desc": {
+      "hash": 127694317
+    },
+    "ShowMonsterList": [
+      8012010,
+      8012020,
+      8012030,
+      8011010
+    ],
+    "RewardList": [
+      104032
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1004:3": {
+    "ID": 1004,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2086553843
+    },
+    "Desc": {
+      "hash": 127694317
+    },
+    "ShowMonsterList": [
+      8012010,
+      8012020,
+      8012030,
+      8011010
+    ],
+    "RewardList": [
+      104033
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1004:4": {
+    "ID": 1004,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2086553843
+    },
+    "Desc": {
+      "hash": 127694317
+    },
+    "ShowMonsterList": [
+      8012010,
+      8012020,
+      8012030,
+      8011010
+    ],
+    "RewardList": [
+      104034
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1004:5": {
+    "ID": 1004,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2086553843
+    },
+    "Desc": {
+      "hash": 127694317
+    },
+    "ShowMonsterList": [
+      8012010,
+      8012020,
+      8012030,
+      8011010
+    ],
+    "RewardList": [
+      104035
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1004:6": {
+    "ID": 1004,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2086553843
+    },
+    "Desc": {
+      "hash": 127694317
+    },
+    "ShowMonsterList": [
+      8012010,
+      8012020,
+      8012030,
+      8011010
+    ],
+    "RewardList": [
+      104036
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1005:0": {
+    "ID": 1005,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 23,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 520469902
+    },
+    "Desc": {
+      "hash": -1438389624
+    },
+    "ShowMonsterList": [
+      8012010,
+      8011020,
+      8012030
+    ],
+    "RewardList": [
+      104060
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1005:1": {
+    "ID": 1005,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 23,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 520469902
+    },
+    "Desc": {
+      "hash": -1438389624
+    },
+    "ShowMonsterList": [
+      8012010,
+      8011020,
+      8012030
+    ],
+    "RewardList": [
+      104061
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1005:2": {
+    "ID": 1005,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 23,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 520469902
+    },
+    "Desc": {
+      "hash": -1438389624
+    },
+    "ShowMonsterList": [
+      8012010,
+      8011020,
+      8012030
+    ],
+    "RewardList": [
+      104062
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1005:3": {
+    "ID": 1005,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 23,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 520469902
+    },
+    "Desc": {
+      "hash": -1438389624
+    },
+    "ShowMonsterList": [
+      8012010,
+      8011020,
+      8012030
+    ],
+    "RewardList": [
+      104063
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1005:4": {
+    "ID": 1005,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 23,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 520469902
+    },
+    "Desc": {
+      "hash": -1438389624
+    },
+    "ShowMonsterList": [
+      8012010,
+      8011020,
+      8012030
+    ],
+    "RewardList": [
+      104064
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1005:5": {
+    "ID": 1005,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 23,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 520469902
+    },
+    "Desc": {
+      "hash": -1438389624
+    },
+    "ShowMonsterList": [
+      8012010,
+      8011020,
+      8012030
+    ],
+    "RewardList": [
+      104065
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1005:6": {
+    "ID": 1005,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 23,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 520469902
+    },
+    "Desc": {
+      "hash": -1438389624
+    },
+    "ShowMonsterList": [
+      8012010,
+      8011020,
+      8012030
+    ],
+    "RewardList": [
+      104066
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1006:0": {
+    "ID": 1006,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 923754429
+    },
+    "Desc": {
+      "hash": -1035105097
+    },
+    "ShowMonsterList": [
+      1002040,
+      1002050
+    ],
+    "RewardList": [
+      104040
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1006:1": {
+    "ID": 1006,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 923754429
+    },
+    "Desc": {
+      "hash": -1035105097
+    },
+    "ShowMonsterList": [
+      1002040,
+      1002050
+    ],
+    "RewardList": [
+      104041
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1006:2": {
+    "ID": 1006,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 923754429
+    },
+    "Desc": {
+      "hash": -1035105097
+    },
+    "ShowMonsterList": [
+      1002040,
+      1002050
+    ],
+    "RewardList": [
+      104042
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1006:3": {
+    "ID": 1006,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 923754429
+    },
+    "Desc": {
+      "hash": -1035105097
+    },
+    "ShowMonsterList": [
+      1002040,
+      1002050
+    ],
+    "RewardList": [
+      104043
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1006:4": {
+    "ID": 1006,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 923754429
+    },
+    "Desc": {
+      "hash": -1035105097
+    },
+    "ShowMonsterList": [
+      1002040,
+      1002050
+    ],
+    "RewardList": [
+      104044
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1006:5": {
+    "ID": 1006,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 923754429
+    },
+    "Desc": {
+      "hash": -1035105097
+    },
+    "ShowMonsterList": [
+      1002040,
+      1002050
+    ],
+    "RewardList": [
+      104045
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1006:6": {
+    "ID": 1006,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 16,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 923754429
+    },
+    "Desc": {
+      "hash": -1035105097
+    },
+    "ShowMonsterList": [
+      1002040,
+      1002050
+    ],
+    "RewardList": [
+      104046
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1007:0": {
+    "ID": 1007,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -642329512
+    },
+    "Desc": {
+      "hash": 1693778258
+    },
+    "ShowMonsterList": [
+      8001020,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104090
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1007:1": {
+    "ID": 1007,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -642329512
+    },
+    "Desc": {
+      "hash": 1693778258
+    },
+    "ShowMonsterList": [
+      8001020,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104091
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1007:2": {
+    "ID": 1007,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -642329512
+    },
+    "Desc": {
+      "hash": 1693778258
+    },
+    "ShowMonsterList": [
+      8001020,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104092
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1007:3": {
+    "ID": 1007,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -642329512
+    },
+    "Desc": {
+      "hash": 1693778258
+    },
+    "ShowMonsterList": [
+      8001020,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104093
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1007:4": {
+    "ID": 1007,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -642329512
+    },
+    "Desc": {
+      "hash": 1693778258
+    },
+    "ShowMonsterList": [
+      8001020,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104094
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1007:5": {
+    "ID": 1007,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -642329512
+    },
+    "Desc": {
+      "hash": 1693778258
+    },
+    "ShowMonsterList": [
+      8001020,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104095
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1007:6": {
+    "ID": 1007,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -642329512
+    },
+    "Desc": {
+      "hash": 1693778258
+    },
+    "ShowMonsterList": [
+      8001020,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104096
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1008:0": {
+    "ID": 1008,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20003,
+    "FloorID": 20003001,
+    "GroupID": 7,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 473415735
+    },
+    "Desc": {
+      "hash": -1841674151
+    },
+    "ShowMonsterList": [
+      1012030,
+      1002020,
+      1012010
+    ],
+    "RewardList": [
+      104050
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1008:1": {
+    "ID": 1008,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20003,
+    "FloorID": 20003001,
+    "GroupID": 7,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 473415735
+    },
+    "Desc": {
+      "hash": -1841674151
+    },
+    "ShowMonsterList": [
+      1012030,
+      1002020,
+      1012010
+    ],
+    "RewardList": [
+      104051
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1008:2": {
+    "ID": 1008,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20003,
+    "FloorID": 20003001,
+    "GroupID": 7,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 473415735
+    },
+    "Desc": {
+      "hash": -1841674151
+    },
+    "ShowMonsterList": [
+      1012030,
+      1002020,
+      1012010
+    ],
+    "RewardList": [
+      104052
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1008:3": {
+    "ID": 1008,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20003,
+    "FloorID": 20003001,
+    "GroupID": 7,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 473415735
+    },
+    "Desc": {
+      "hash": -1841674151
+    },
+    "ShowMonsterList": [
+      1012030,
+      1002020,
+      1012010
+    ],
+    "RewardList": [
+      104053
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1008:4": {
+    "ID": 1008,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20003,
+    "FloorID": 20003001,
+    "GroupID": 7,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 473415735
+    },
+    "Desc": {
+      "hash": -1841674151
+    },
+    "ShowMonsterList": [
+      1012030,
+      1002020,
+      1012010
+    ],
+    "RewardList": [
+      104054
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1008:5": {
+    "ID": 1008,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20003,
+    "FloorID": 20003001,
+    "GroupID": 7,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 473415735
+    },
+    "Desc": {
+      "hash": -1841674151
+    },
+    "ShowMonsterList": [
+      1012030,
+      1002020,
+      1012010
+    ],
+    "RewardList": [
+      104055
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1008:6": {
+    "ID": 1008,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20003,
+    "FloorID": 20003001,
+    "GroupID": 7,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 473415735
+    },
+    "Desc": {
+      "hash": -1841674151
+    },
+    "ShowMonsterList": [
+      1012030,
+      1002020,
+      1012010
+    ],
+    "RewardList": [
+      104056
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1009:0": {
+    "ID": 1009,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 17,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1092668206
+    },
+    "Desc": {
+      "hash": 887209204
+    },
+    "ShowMonsterList": [
+      8001020,
+      8002010,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104080
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1009:1": {
+    "ID": 1009,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 17,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1092668206
+    },
+    "Desc": {
+      "hash": 887209204
+    },
+    "ShowMonsterList": [
+      8001020,
+      8002010,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104081
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1009:2": {
+    "ID": 1009,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 17,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1092668206
+    },
+    "Desc": {
+      "hash": 887209204
+    },
+    "ShowMonsterList": [
+      8001020,
+      8002010,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104082
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1009:3": {
+    "ID": 1009,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 17,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1092668206
+    },
+    "Desc": {
+      "hash": 887209204
+    },
+    "ShowMonsterList": [
+      8001020,
+      8002010,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104083
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1009:4": {
+    "ID": 1009,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 17,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1092668206
+    },
+    "Desc": {
+      "hash": 887209204
+    },
+    "ShowMonsterList": [
+      8001020,
+      8002010,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104084
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1009:5": {
+    "ID": 1009,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 17,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1092668206
+    },
+    "Desc": {
+      "hash": 887209204
+    },
+    "ShowMonsterList": [
+      8001020,
+      8002010,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104085
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1009:6": {
+    "ID": 1009,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 17,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1092668206
+    },
+    "Desc": {
+      "hash": 887209204
+    },
+    "ShowMonsterList": [
+      8001020,
+      8002010,
+      1022010,
+      1022020
+    ],
+    "RewardList": [
+      104086
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010:0": {
+    "ID": 1010,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 25,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 117185376
+    },
+    "Desc": {
+      "hash": 2097062786
+    },
+    "ShowMonsterList": [
+      1012010,
+      1012030,
+      1002030,
+      1002040
+    ],
+    "RewardList": [
+      104070
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010:1": {
+    "ID": 1010,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 25,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 117185376
+    },
+    "Desc": {
+      "hash": 2097062786
+    },
+    "ShowMonsterList": [
+      1012010,
+      1012030,
+      1002030,
+      1002040
+    ],
+    "RewardList": [
+      104071
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010:2": {
+    "ID": 1010,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 25,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 117185376
+    },
+    "Desc": {
+      "hash": 2097062786
+    },
+    "ShowMonsterList": [
+      1012010,
+      1012030,
+      1002030,
+      1002040
+    ],
+    "RewardList": [
+      104072
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010:3": {
+    "ID": 1010,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 25,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 117185376
+    },
+    "Desc": {
+      "hash": 2097062786
+    },
+    "ShowMonsterList": [
+      1012010,
+      1012030,
+      1002030,
+      1002040
+    ],
+    "RewardList": [
+      104073
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010:4": {
+    "ID": 1010,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 25,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 117185376
+    },
+    "Desc": {
+      "hash": 2097062786
+    },
+    "ShowMonsterList": [
+      1012010,
+      1012030,
+      1002030,
+      1002040
+    ],
+    "RewardList": [
+      104074
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010:5": {
+    "ID": 1010,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 25,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 117185376
+    },
+    "Desc": {
+      "hash": 2097062786
+    },
+    "ShowMonsterList": [
+      1012010,
+      1012030,
+      1002030,
+      1002040
+    ],
+    "RewardList": [
+      104075
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010:6": {
+    "ID": 1010,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 25,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 117185376
+    },
+    "Desc": {
+      "hash": 2097062786
+    },
+    "ShowMonsterList": [
+      1012010,
+      1012030,
+      1002030,
+      1002040
+    ],
+    "RewardList": [
+      104076
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1101:0": {
+    "ID": 1101,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 96982399
+    },
+    "Desc": {
+      "hash": 2076859809
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012010
+    ],
+    "RewardList": [
+      104850
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1101:1": {
+    "ID": 1101,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 96982399
+    },
+    "Desc": {
+      "hash": 2076859809
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012010
+    ],
+    "RewardList": [
+      104851
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1101:2": {
+    "ID": 1101,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 96982399
+    },
+    "Desc": {
+      "hash": 2076859809
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012010
+    ],
+    "RewardList": [
+      104852
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1101:3": {
+    "ID": 1101,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 96982399
+    },
+    "Desc": {
+      "hash": 2076859809
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012010
+    ],
+    "RewardList": [
+      104853
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1101:4": {
+    "ID": 1101,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 96982399
+    },
+    "Desc": {
+      "hash": 2076859809
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012010
+    ],
+    "RewardList": [
+      104854
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1101:5": {
+    "ID": 1101,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 96982399
+    },
+    "Desc": {
+      "hash": 2076859809
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012010
+    ],
+    "RewardList": [
+      104855
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1101:6": {
+    "ID": 1101,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 96982399
+    },
+    "Desc": {
+      "hash": 2076859809
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012010
+    ],
+    "RewardList": [
+      104856
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1102:0": {
+    "ID": 1102,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 13,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1663066340
+    },
+    "Desc": {
+      "hash": -652023546
+    },
+    "ShowMonsterList": [
+      8003050
+    ],
+    "RewardList": [
+      104840
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1102:1": {
+    "ID": 1102,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 13,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1663066340
+    },
+    "Desc": {
+      "hash": -652023546
+    },
+    "ShowMonsterList": [
+      8003050
+    ],
+    "RewardList": [
+      104841
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1102:2": {
+    "ID": 1102,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 13,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1663066340
+    },
+    "Desc": {
+      "hash": -652023546
+    },
+    "ShowMonsterList": [
+      8003050
+    ],
+    "RewardList": [
+      104842
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1102:3": {
+    "ID": 1102,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 13,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1663066340
+    },
+    "Desc": {
+      "hash": -652023546
+    },
+    "ShowMonsterList": [
+      8003050
+    ],
+    "RewardList": [
+      104843
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1102:4": {
+    "ID": 1102,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 13,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1663066340
+    },
+    "Desc": {
+      "hash": -652023546
+    },
+    "ShowMonsterList": [
+      8003050
+    ],
+    "RewardList": [
+      104844
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1102:5": {
+    "ID": 1102,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 13,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1663066340
+    },
+    "Desc": {
+      "hash": -652023546
+    },
+    "ShowMonsterList": [
+      8003050
+    ],
+    "RewardList": [
+      104845
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1102:6": {
+    "ID": 1102,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 13,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1663066340
+    },
+    "Desc": {
+      "hash": -652023546
+    },
+    "ShowMonsterList": [
+      8003050
+    ],
+    "RewardList": [
+      104846
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1103:0": {
+    "ID": 1103,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1065817015
+    },
+    "Desc": {
+      "hash": 914060395
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022010
+    ],
+    "RewardList": [
+      104830
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1103:1": {
+    "ID": 1103,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1065817015
+    },
+    "Desc": {
+      "hash": 914060395
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022010
+    ],
+    "RewardList": [
+      104831
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1103:2": {
+    "ID": 1103,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1065817015
+    },
+    "Desc": {
+      "hash": 914060395
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022010
+    ],
+    "RewardList": [
+      104832
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1103:3": {
+    "ID": 1103,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1065817015
+    },
+    "Desc": {
+      "hash": 914060395
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022010
+    ],
+    "RewardList": [
+      104833
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1103:4": {
+    "ID": 1103,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1065817015
+    },
+    "Desc": {
+      "hash": 914060395
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022010
+    ],
+    "RewardList": [
+      104834
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1103:5": {
+    "ID": 1103,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1065817015
+    },
+    "Desc": {
+      "hash": 914060395
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022010
+    ],
+    "RewardList": [
+      104835
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1103:6": {
+    "ID": 1103,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1065817015
+    },
+    "Desc": {
+      "hash": 914060395
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022010
+    ],
+    "RewardList": [
+      104836
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1104:0": {
+    "ID": 1104,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 19,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 500266926
+    },
+    "Desc": {
+      "hash": -1458592600
+    },
+    "ShowMonsterList": [
+      8003020,
+      8001010,
+      1022020
+    ],
+    "RewardList": [
+      104810
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1104:1": {
+    "ID": 1104,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 19,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 500266926
+    },
+    "Desc": {
+      "hash": -1458592600
+    },
+    "ShowMonsterList": [
+      8003020,
+      8001010,
+      1022020
+    ],
+    "RewardList": [
+      104811
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1104:2": {
+    "ID": 1104,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 19,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 500266926
+    },
+    "Desc": {
+      "hash": -1458592600
+    },
+    "ShowMonsterList": [
+      8003020,
+      8001010,
+      1022020
+    ],
+    "RewardList": [
+      104812
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1104:3": {
+    "ID": 1104,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 19,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 500266926
+    },
+    "Desc": {
+      "hash": -1458592600
+    },
+    "ShowMonsterList": [
+      8003020,
+      8001010,
+      1022020
+    ],
+    "RewardList": [
+      104813
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1104:4": {
+    "ID": 1104,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 19,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 500266926
+    },
+    "Desc": {
+      "hash": -1458592600
+    },
+    "ShowMonsterList": [
+      8003020,
+      8001010,
+      1022020
+    ],
+    "RewardList": [
+      104814
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1104:5": {
+    "ID": 1104,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 19,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 500266926
+    },
+    "Desc": {
+      "hash": -1458592600
+    },
+    "ShowMonsterList": [
+      8003020,
+      8001010,
+      1022020
+    ],
+    "RewardList": [
+      104815
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1104:6": {
+    "ID": 1104,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 19,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 500266926
+    },
+    "Desc": {
+      "hash": -1458592600
+    },
+    "ShowMonsterList": [
+      8003020,
+      8001010,
+      1022020
+    ],
+    "RewardList": [
+      104816
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1105:0": {
+    "ID": 1105,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2066350867
+    },
+    "Desc": {
+      "hash": 107491341
+    },
+    "ShowMonsterList": [
+      1013020,
+      1012020,
+      1012010
+    ],
+    "RewardList": [
+      104800
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1105:1": {
+    "ID": 1105,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2066350867
+    },
+    "Desc": {
+      "hash": 107491341
+    },
+    "ShowMonsterList": [
+      1013020,
+      1012020,
+      1012010
+    ],
+    "RewardList": [
+      104801
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1105:2": {
+    "ID": 1105,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2066350867
+    },
+    "Desc": {
+      "hash": 107491341
+    },
+    "ShowMonsterList": [
+      1013020,
+      1012020,
+      1012010
+    ],
+    "RewardList": [
+      104802
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1105:3": {
+    "ID": 1105,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2066350867
+    },
+    "Desc": {
+      "hash": 107491341
+    },
+    "ShowMonsterList": [
+      1013020,
+      1012020,
+      1012010
+    ],
+    "RewardList": [
+      104803
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1105:4": {
+    "ID": 1105,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2066350867
+    },
+    "Desc": {
+      "hash": 107491341
+    },
+    "ShowMonsterList": [
+      1013020,
+      1012020,
+      1012010
+    ],
+    "RewardList": [
+      104804
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1105:5": {
+    "ID": 1105,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2066350867
+    },
+    "Desc": {
+      "hash": 107491341
+    },
+    "ShowMonsterList": [
+      1013020,
+      1012020,
+      1012010
+    ],
+    "RewardList": [
+      104805
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1105:6": {
+    "ID": 1105,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 21,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 2066350867
+    },
+    "Desc": {
+      "hash": 107491341
+    },
+    "ShowMonsterList": [
+      1013020,
+      1012020,
+      1012010
+    ],
+    "RewardList": [
+      104806
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1106:0": {
+    "ID": 1106,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 53,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -662532488
+    },
+    "Desc": {
+      "hash": 1673575282
+    },
+    "ShowMonsterList": [
+      1023020
+    ],
+    "RewardList": [
+      104820
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1106:1": {
+    "ID": 1106,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 53,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -662532488
+    },
+    "Desc": {
+      "hash": 1673575282
+    },
+    "ShowMonsterList": [
+      1023020
+    ],
+    "RewardList": [
+      104821
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1106:2": {
+    "ID": 1106,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 53,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -662532488
+    },
+    "Desc": {
+      "hash": 1673575282
+    },
+    "ShowMonsterList": [
+      1023020
+    ],
+    "RewardList": [
+      104822
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1106:3": {
+    "ID": 1106,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 53,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -662532488
+    },
+    "Desc": {
+      "hash": 1673575282
+    },
+    "ShowMonsterList": [
+      1023020
+    ],
+    "RewardList": [
+      104823
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1106:4": {
+    "ID": 1106,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 53,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -662532488
+    },
+    "Desc": {
+      "hash": 1673575282
+    },
+    "ShowMonsterList": [
+      1023020
+    ],
+    "RewardList": [
+      104824
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1106:5": {
+    "ID": 1106,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 53,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -662532488
+    },
+    "Desc": {
+      "hash": 1673575282
+    },
+    "ShowMonsterList": [
+      1023020
+    ],
+    "RewardList": [
+      104825
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1106:6": {
+    "ID": 1106,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 53,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -662532488
+    },
+    "Desc": {
+      "hash": 1673575282
+    },
+    "ShowMonsterList": [
+      1023020
+    ],
+    "RewardList": [
+      104826
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1107:0": {
+    "ID": 1107,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 7,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 903551453
+    },
+    "Desc": {
+      "hash": -1055308073
+    },
+    "ShowMonsterList": [
+      8003010,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104860
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1107:1": {
+    "ID": 1107,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 7,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 903551453
+    },
+    "Desc": {
+      "hash": -1055308073
+    },
+    "ShowMonsterList": [
+      8003010,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104861
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1107:2": {
+    "ID": 1107,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 7,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 903551453
+    },
+    "Desc": {
+      "hash": -1055308073
+    },
+    "ShowMonsterList": [
+      8003010,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104862
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1107:3": {
+    "ID": 1107,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 7,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 903551453
+    },
+    "Desc": {
+      "hash": -1055308073
+    },
+    "ShowMonsterList": [
+      8003010,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104863
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1107:4": {
+    "ID": 1107,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 7,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 903551453
+    },
+    "Desc": {
+      "hash": -1055308073
+    },
+    "ShowMonsterList": [
+      8003010,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104864
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1107:5": {
+    "ID": 1107,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 7,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 903551453
+    },
+    "Desc": {
+      "hash": -1055308073
+    },
+    "ShowMonsterList": [
+      8003010,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104865
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1107:6": {
+    "ID": 1107,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 7,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 903551453
+    },
+    "Desc": {
+      "hash": -1055308073
+    },
+    "ShowMonsterList": [
+      8003010,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104866
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1201:0": {
+    "ID": 1201,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 15,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1166573564
+    },
+    "Desc": {
+      "hash": 813303846
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012020,
+      8012010,
+      8012030,
+      8011020,
+      8011010
+    ],
+    "RewardList": [
+      104500
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1201:1": {
+    "ID": 1201,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 15,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1166573564
+    },
+    "Desc": {
+      "hash": 813303846
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012020,
+      8012010,
+      8012030,
+      8011020,
+      8011010
+    ],
+    "RewardList": [
+      104501
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1201:2": {
+    "ID": 1201,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 15,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1166573564
+    },
+    "Desc": {
+      "hash": 813303846
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012020,
+      8012010,
+      8012030,
+      8011020,
+      8011010
+    ],
+    "RewardList": [
+      104502
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1201:3": {
+    "ID": 1201,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 15,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1166573564
+    },
+    "Desc": {
+      "hash": 813303846
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012020,
+      8012010,
+      8012030,
+      8011020,
+      8011010
+    ],
+    "RewardList": [
+      104503
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1201:4": {
+    "ID": 1201,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 15,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1166573564
+    },
+    "Desc": {
+      "hash": 813303846
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012020,
+      8012010,
+      8012030,
+      8011020,
+      8011010
+    ],
+    "RewardList": [
+      104504
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1201:5": {
+    "ID": 1201,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 15,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1166573564
+    },
+    "Desc": {
+      "hash": 813303846
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012020,
+      8012010,
+      8012030,
+      8011020,
+      8011010
+    ],
+    "RewardList": [
+      104505
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1201:6": {
+    "ID": 1201,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 15,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1166573564
+    },
+    "Desc": {
+      "hash": 813303846
+    },
+    "ShowMonsterList": [
+      8013010,
+      8012020,
+      8012010,
+      8012030,
+      8011020,
+      8011010
+    ],
+    "RewardList": [
+      104506
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1202:0": {
+    "ID": 1202,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 69,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1562309791
+    },
+    "Desc": {
+      "hash": -752780095
+    },
+    "ShowMonsterList": [
+      1013010,
+      1012010,
+      1012020,
+      1012030
+    ],
+    "RewardList": [
+      104510
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1202:1": {
+    "ID": 1202,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 69,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1562309791
+    },
+    "Desc": {
+      "hash": -752780095
+    },
+    "ShowMonsterList": [
+      1013010,
+      1012010,
+      1012020,
+      1012030
+    ],
+    "RewardList": [
+      104511
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1202:2": {
+    "ID": 1202,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 69,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1562309791
+    },
+    "Desc": {
+      "hash": -752780095
+    },
+    "ShowMonsterList": [
+      1013010,
+      1012010,
+      1012020,
+      1012030
+    ],
+    "RewardList": [
+      104512
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1202:3": {
+    "ID": 1202,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 69,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1562309791
+    },
+    "Desc": {
+      "hash": -752780095
+    },
+    "ShowMonsterList": [
+      1013010,
+      1012010,
+      1012020,
+      1012030
+    ],
+    "RewardList": [
+      104513
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1202:4": {
+    "ID": 1202,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 69,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1562309791
+    },
+    "Desc": {
+      "hash": -752780095
+    },
+    "ShowMonsterList": [
+      1013010,
+      1012010,
+      1012020,
+      1012030
+    ],
+    "RewardList": [
+      104514
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1202:5": {
+    "ID": 1202,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 69,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1562309791
+    },
+    "Desc": {
+      "hash": -752780095
+    },
+    "ShowMonsterList": [
+      1013010,
+      1012010,
+      1012020,
+      1012030
+    ],
+    "RewardList": [
+      104515
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1202:6": {
+    "ID": 1202,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 69,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1562309791
+    },
+    "Desc": {
+      "hash": -752780095
+    },
+    "ShowMonsterList": [
+      1013010,
+      1012010,
+      1012020,
+      1012030
+    ],
+    "RewardList": [
+      104516
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1203:0": {
+    "ID": 1203,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 45,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -3774150
+    },
+    "Desc": {
+      "hash": 1976103260
+    },
+    "ShowMonsterList": [
+      8003020,
+      1022020,
+      8001010
+    ],
+    "RewardList": [
+      104520
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1203:1": {
+    "ID": 1203,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 45,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -3774150
+    },
+    "Desc": {
+      "hash": 1976103260
+    },
+    "ShowMonsterList": [
+      8003020,
+      1022020,
+      8001010
+    ],
+    "RewardList": [
+      104521
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1203:2": {
+    "ID": 1203,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 45,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -3774150
+    },
+    "Desc": {
+      "hash": 1976103260
+    },
+    "ShowMonsterList": [
+      8003020,
+      1022020,
+      8001010
+    ],
+    "RewardList": [
+      104522
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1203:3": {
+    "ID": 1203,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 45,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -3774150
+    },
+    "Desc": {
+      "hash": 1976103260
+    },
+    "ShowMonsterList": [
+      8003020,
+      1022020,
+      8001010
+    ],
+    "RewardList": [
+      104523
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1203:4": {
+    "ID": 1203,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 45,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -3774150
+    },
+    "Desc": {
+      "hash": 1976103260
+    },
+    "ShowMonsterList": [
+      8003020,
+      1022020,
+      8001010
+    ],
+    "RewardList": [
+      104524
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1203:5": {
+    "ID": 1203,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 45,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -3774150
+    },
+    "Desc": {
+      "hash": 1976103260
+    },
+    "ShowMonsterList": [
+      8003020,
+      1022020,
+      8001010
+    ],
+    "RewardList": [
+      104525
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1203:6": {
+    "ID": 1203,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 45,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -3774150
+    },
+    "Desc": {
+      "hash": 1976103260
+    },
+    "ShowMonsterList": [
+      8003020,
+      1022020,
+      8001010
+    ],
+    "RewardList": [
+      104526
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1204:0": {
+    "ID": 1204,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20131,
+    "FloorID": 20131001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1926088451
+    },
+    "Desc": {
+      "hash": 410019319
+    },
+    "ShowMonsterList": [
+      1003010,
+      1002040,
+      1002050,
+      1002030
+    ],
+    "RewardList": [
+      104530
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1204:1": {
+    "ID": 1204,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20131,
+    "FloorID": 20131001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1926088451
+    },
+    "Desc": {
+      "hash": 410019319
+    },
+    "ShowMonsterList": [
+      1003010,
+      1002040,
+      1002050,
+      1002030
+    ],
+    "RewardList": [
+      104531
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1204:2": {
+    "ID": 1204,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20131,
+    "FloorID": 20131001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1926088451
+    },
+    "Desc": {
+      "hash": 410019319
+    },
+    "ShowMonsterList": [
+      1003010,
+      1002040,
+      1002050,
+      1002030
+    ],
+    "RewardList": [
+      104532
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1204:3": {
+    "ID": 1204,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20131,
+    "FloorID": 20131001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1926088451
+    },
+    "Desc": {
+      "hash": 410019319
+    },
+    "ShowMonsterList": [
+      1003010,
+      1002040,
+      1002050,
+      1002030
+    ],
+    "RewardList": [
+      104533
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1204:4": {
+    "ID": 1204,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20131,
+    "FloorID": 20131001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1926088451
+    },
+    "Desc": {
+      "hash": 410019319
+    },
+    "ShowMonsterList": [
+      1003010,
+      1002040,
+      1002050,
+      1002030
+    ],
+    "RewardList": [
+      104534
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1204:5": {
+    "ID": 1204,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20131,
+    "FloorID": 20131001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1926088451
+    },
+    "Desc": {
+      "hash": 410019319
+    },
+    "ShowMonsterList": [
+      1003010,
+      1002040,
+      1002050,
+      1002030
+    ],
+    "RewardList": [
+      104535
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1204:6": {
+    "ID": 1204,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20131,
+    "FloorID": 20131001,
+    "GroupID": 19,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1926088451
+    },
+    "Desc": {
+      "hash": 410019319
+    },
+    "ShowMonsterList": [
+      1003010,
+      1002040,
+      1002050,
+      1002030
+    ],
+    "RewardList": [
+      104536
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1205:0": {
+    "ID": 1205,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 10,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 802794904
+    },
+    "Desc": {
+      "hash": -1156064622
+    },
+    "ShowMonsterList": [
+      1023020,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104540
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1205:1": {
+    "ID": 1205,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 10,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 802794904
+    },
+    "Desc": {
+      "hash": -1156064622
+    },
+    "ShowMonsterList": [
+      1023020,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104541
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1205:2": {
+    "ID": 1205,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 10,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 802794904
+    },
+    "Desc": {
+      "hash": -1156064622
+    },
+    "ShowMonsterList": [
+      1023020,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104542
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1205:3": {
+    "ID": 1205,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 10,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 802794904
+    },
+    "Desc": {
+      "hash": -1156064622
+    },
+    "ShowMonsterList": [
+      1023020,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104543
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1205:4": {
+    "ID": 1205,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 10,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 802794904
+    },
+    "Desc": {
+      "hash": -1156064622
+    },
+    "ShowMonsterList": [
+      1023020,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104544
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1205:5": {
+    "ID": 1205,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 10,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 802794904
+    },
+    "Desc": {
+      "hash": -1156064622
+    },
+    "ShowMonsterList": [
+      1023020,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104545
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1205:6": {
+    "ID": 1205,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 10,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 802794904
+    },
+    "Desc": {
+      "hash": -1156064622
+    },
+    "ShowMonsterList": [
+      1023020,
+      8001020,
+      1022010
+    ],
+    "RewardList": [
+      104546
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1206:0": {
+    "ID": 1206,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20134,
+    "FloorID": 20134001,
+    "GroupID": 6,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -763289037
+    },
+    "Desc": {
+      "hash": 1572818733
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022020,
+      8002010,
+      8001020
+    ],
+    "RewardList": [
+      104550
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1206:1": {
+    "ID": 1206,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20134,
+    "FloorID": 20134001,
+    "GroupID": 6,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -763289037
+    },
+    "Desc": {
+      "hash": 1572818733
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022020,
+      8002010,
+      8001020
+    ],
+    "RewardList": [
+      104551
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1206:2": {
+    "ID": 1206,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20134,
+    "FloorID": 20134001,
+    "GroupID": 6,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -763289037
+    },
+    "Desc": {
+      "hash": 1572818733
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022020,
+      8002010,
+      8001020
+    ],
+    "RewardList": [
+      104552
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1206:3": {
+    "ID": 1206,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20134,
+    "FloorID": 20134001,
+    "GroupID": 6,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -763289037
+    },
+    "Desc": {
+      "hash": 1572818733
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022020,
+      8002010,
+      8001020
+    ],
+    "RewardList": [
+      104553
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1206:4": {
+    "ID": 1206,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20134,
+    "FloorID": 20134001,
+    "GroupID": 6,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -763289037
+    },
+    "Desc": {
+      "hash": 1572818733
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022020,
+      8002010,
+      8001020
+    ],
+    "RewardList": [
+      104554
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1206:5": {
+    "ID": 1206,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20134,
+    "FloorID": 20134001,
+    "GroupID": 6,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -763289037
+    },
+    "Desc": {
+      "hash": 1572818733
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022020,
+      8002010,
+      8001020
+    ],
+    "RewardList": [
+      104555
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1206:6": {
+    "ID": 1206,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20134,
+    "FloorID": 20134001,
+    "GroupID": 6,
+    "ConfigID": 300001,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -763289037
+    },
+    "Desc": {
+      "hash": 1572818733
+    },
+    "ShowMonsterList": [
+      8003030,
+      1022020,
+      8002010,
+      8001020
+    ],
+    "RewardList": [
+      104556
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1301:0": {
+    "ID": 1301,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 379307401
+    },
+    "Desc": {
+      "hash": -1935782485
+    },
+    "ShowMonsterList": [
+      8015010
+    ],
+    "RewardList": [
+      104901,
+      104911,
+      104912,
+      104913
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1301:1": {
+    "ID": 1301,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 379307401
+    },
+    "Desc": {
+      "hash": -1935782485
+    },
+    "ShowMonsterList": [
+      8015010
+    ],
+    "RewardList": [
+      104901,
+      104911,
+      104912,
+      104913
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1301:2": {
+    "ID": 1301,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 379307401
+    },
+    "Desc": {
+      "hash": -1935782485
+    },
+    "ShowMonsterList": [
+      8015010
+    ],
+    "RewardList": [
+      104901,
+      104911,
+      104912,
+      104913
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1301:3": {
+    "ID": 1301,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 379307401
+    },
+    "Desc": {
+      "hash": -1935782485
+    },
+    "ShowMonsterList": [
+      8015010
+    ],
+    "RewardList": [
+      104901,
+      104911,
+      104912,
+      104913,
+      104914
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1301:4": {
+    "ID": 1301,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 379307401
+    },
+    "Desc": {
+      "hash": -1935782485
+    },
+    "ShowMonsterList": [
+      8015010
+    ],
+    "RewardList": [
+      104901,
+      104911,
+      104912,
+      104913,
+      104914
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1301:5": {
+    "ID": 1301,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 379307401
+    },
+    "Desc": {
+      "hash": -1935782485
+    },
+    "ShowMonsterList": [
+      8015010
+    ],
+    "RewardList": [
+      104901,
+      104911,
+      104912,
+      104913,
+      104914
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1301:6": {
+    "ID": 1301,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 379307401
+    },
+    "Desc": {
+      "hash": -1935782485
+    },
+    "ShowMonsterList": [
+      8015010
+    ],
+    "RewardList": [
+      104901,
+      104911,
+      104912,
+      104913,
+      104914
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1302:0": {
+    "ID": 1302,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -23977126
+    },
+    "Desc": {
+      "hash": 1955900284
+    },
+    "ShowMonsterList": [
+      1005012
+    ],
+    "RewardList": [
+      104902,
+      104911,
+      104912,
+      104913
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1302:1": {
+    "ID": 1302,
+    "WorldLevel": 1,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -23977126
+    },
+    "Desc": {
+      "hash": 1955900284
+    },
+    "ShowMonsterList": [
+      1005012
+    ],
+    "RewardList": [
+      104902,
+      104911,
+      104912,
+      104913
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1302:2": {
+    "ID": 1302,
+    "WorldLevel": 2,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -23977126
+    },
+    "Desc": {
+      "hash": 1955900284
+    },
+    "ShowMonsterList": [
+      1005012
+    ],
+    "RewardList": [
+      104902,
+      104911,
+      104912,
+      104913
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1302:3": {
+    "ID": 1302,
+    "WorldLevel": 3,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -23977126
+    },
+    "Desc": {
+      "hash": 1955900284
+    },
+    "ShowMonsterList": [
+      1005012
+    ],
+    "RewardList": [
+      104902,
+      104911,
+      104912,
+      104913,
+      104914
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1302:4": {
+    "ID": 1302,
+    "WorldLevel": 4,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -23977126
+    },
+    "Desc": {
+      "hash": 1955900284
+    },
+    "ShowMonsterList": [
+      1005012
+    ],
+    "RewardList": [
+      104902,
+      104911,
+      104912,
+      104913,
+      104914
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1302:5": {
+    "ID": 1302,
+    "WorldLevel": 5,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -23977126
+    },
+    "Desc": {
+      "hash": 1955900284
+    },
+    "ShowMonsterList": [
+      1005012
+    ],
+    "RewardList": [
+      104902,
+      104911,
+      104912,
+      104913,
+      104914
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1302:6": {
+    "ID": 1302,
+    "WorldLevel": 6,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -23977126
+    },
+    "Desc": {
+      "hash": 1955900284
+    },
+    "ShowMonsterList": [
+      1005012
+    ],
+    "RewardList": [
+      104902,
+      104911,
+      104912,
+      104913,
+      104914
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2201:0": {
+    "ID": 2201,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1166573661
+    },
+    "Desc": {
+      "hash": 813303881
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2202:0": {
+    "ID": 2202,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1562309694
+    },
+    "Desc": {
+      "hash": -752780060
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2203:0": {
+    "ID": 2203,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -3774247
+    },
+    "Desc": {
+      "hash": 1976103295
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2204:0": {
+    "ID": 2204,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": true,
+    "IsShowInFog": false,
+    "PlaneID": 10101,
+    "FloorID": 10101001,
+    "GroupID": 1,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -1926088548
+    },
+    "Desc": {
+      "hash": 410019354
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2206:0": {
+    "ID": 2206,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": true,
+    "IsShowInFog": false,
+    "PlaneID": 10102,
+    "FloorID": 10102001,
+    "GroupID": 23,
+    "ConfigID": 300002,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -763289134
+    },
+    "Desc": {
+      "hash": 1572818768
+    },
+    "ShowMonsterList": [],
+    "RewardList": [
+      100100
+    ],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2207:0": {
+    "ID": 2207,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1965594221
+    },
+    "Desc": {
+      "hash": 6734827
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2208:0": {
+    "ID": 2208,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 755740640
+    },
+    "Desc": {
+      "hash": -1559349114
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2209:0": {
+    "ID": 2209,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -810343301
+    },
+    "Desc": {
+      "hash": 1169534241
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2210:0": {
+    "ID": 2210,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 399510279
+    },
+    "Desc": {
+      "hash": -1915579475
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2211:0": {
+    "ID": 2211,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1166573662
+    },
+    "Desc": {
+      "hash": 813303880
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2212:0": {
+    "ID": 2212,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1562309693
+    },
+    "Desc": {
+      "hash": -752780061
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2213:0": {
+    "ID": 2213,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -3774248
+    },
+    "Desc": {
+      "hash": 1976103294
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2214:0": {
+    "ID": 2214,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1926088549
+    },
+    "Desc": {
+      "hash": 410019353
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2215:0": {
+    "ID": 2215,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 802794806
+    },
+    "Desc": {
+      "hash": -1156064588
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2216:0": {
+    "ID": 2216,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -763289135
+    },
+    "Desc": {
+      "hash": 1572818767
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2217:0": {
+    "ID": 2217,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1965594220
+    },
+    "Desc": {
+      "hash": 6734826
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2218:0": {
+    "ID": 2218,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 755740639
+    },
+    "Desc": {
+      "hash": -1559349115
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2219:0": {
+    "ID": 2219,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": true,
+    "IsShowInFog": false,
+    "PlaneID": 80112,
+    "FloorID": 80112001,
+    "GroupID": 1,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -810343302
+    },
+    "Desc": {
+      "hash": 1169534240
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2221:0": {
+    "ID": 2221,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1166573659
+    },
+    "Desc": {
+      "hash": 813303879
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2222:0": {
+    "ID": 2222,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1562309696
+    },
+    "Desc": {
+      "hash": -752780062
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2223:0": {
+    "ID": 2223,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -3774245
+    },
+    "Desc": {
+      "hash": 1976103293
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2224:0": {
+    "ID": 2224,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1926088546
+    },
+    "Desc": {
+      "hash": 410019352
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2225:0": {
+    "ID": 2225,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 802794809
+    },
+    "Desc": {
+      "hash": -1156064589
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2226:0": {
+    "ID": 2226,
+    "WorldLevel": 0,
+    "Type": "TYPE_TOWN",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -763289132
+    },
+    "Desc": {
+      "hash": 1572818766
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10001:0": {
+    "ID": 10001,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1840907920
+    },
+    "Desc": {
+      "hash": 134439250
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10002:0": {
+    "ID": 10002,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1840907923
+    },
+    "Desc": {
+      "hash": 134439251
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10003:0": {
+    "ID": 10003,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1840907922
+    },
+    "Desc": {
+      "hash": 134439252
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10004:0": {
+    "ID": 10004,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1840907917
+    },
+    "Desc": {
+      "hash": 134439253
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10005:0": {
+    "ID": 10005,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1840907916
+    },
+    "Desc": {
+      "hash": 134439254
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10006:0": {
+    "ID": 10006,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1840907919
+    },
+    "Desc": {
+      "hash": 134439255
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10007:0": {
+    "ID": 10007,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1840907918
+    },
+    "Desc": {
+      "hash": 134439256
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10008:0": {
+    "ID": 10008,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1840907913
+    },
+    "Desc": {
+      "hash": 134439257
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10009:0": {
+    "ID": 10009,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -1840907912
+    },
+    "Desc": {
+      "hash": 134439258
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10010:0": {
+    "ID": 10010,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 887975434
+    },
+    "Desc": {
+      "hash": -1431644692
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10011:0": {
+    "ID": 10011,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 887975435
+    },
+    "Desc": {
+      "hash": -1431644691
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10012:0": {
+    "ID": 10012,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 887975432
+    },
+    "Desc": {
+      "hash": -1431644690
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10013:0": {
+    "ID": 10013,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 887975433
+    },
+    "Desc": {
+      "hash": -1431644689
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10014:0": {
+    "ID": 10014,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 887975438
+    },
+    "Desc": {
+      "hash": -1431644688
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10015:0": {
+    "ID": 10015,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 887975439
+    },
+    "Desc": {
+      "hash": -1431644687
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10016:0": {
+    "ID": 10016,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 887975436
+    },
+    "Desc": {
+      "hash": -1431644686
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10017:0": {
+    "ID": 10017,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 887975437
+    },
+    "Desc": {
+      "hash": -1431644685
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10018:0": {
+    "ID": 10018,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 887975442
+    },
+    "Desc": {
+      "hash": -1431644684
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10020:0": {
+    "ID": 10020,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1291259961
+    },
+    "Desc": {
+      "hash": -1028360165
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10021:0": {
+    "ID": 10021,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1291259962
+    },
+    "Desc": {
+      "hash": -1028360164
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10022:0": {
+    "ID": 10022,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1291259959
+    },
+    "Desc": {
+      "hash": -1028360163
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10023:0": {
+    "ID": 10023,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1291259960
+    },
+    "Desc": {
+      "hash": -1028360162
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10024:0": {
+    "ID": 10024,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1291259965
+    },
+    "Desc": {
+      "hash": -1028360161
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10025:0": {
+    "ID": 10025,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1291259966
+    },
+    "Desc": {
+      "hash": -1028360160
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10026:0": {
+    "ID": 10026,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1291259963
+    },
+    "Desc": {
+      "hash": -1028360159
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10027:0": {
+    "ID": 10027,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1291259964
+    },
+    "Desc": {
+      "hash": -1028360158
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10028:0": {
+    "ID": 10028,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1291259969
+    },
+    "Desc": {
+      "hash": -1028360157
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10029:0": {
+    "ID": 10029,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1291259970
+    },
+    "Desc": {
+      "hash": -1028360156
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10030:0": {
+    "ID": 10030,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -274823980
+    },
+    "Desc": {
+      "hash": 1700523190
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10031:0": {
+    "ID": 10031,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -274823979
+    },
+    "Desc": {
+      "hash": 1700523191
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10032:0": {
+    "ID": 10032,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -274823982
+    },
+    "Desc": {
+      "hash": 1700523192
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10033:0": {
+    "ID": 10033,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -274823981
+    },
+    "Desc": {
+      "hash": 1700523193
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10034:0": {
+    "ID": 10034,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -274823976
+    },
+    "Desc": {
+      "hash": 1700523194
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10035:0": {
+    "ID": 10035,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -274823975
+    },
+    "Desc": {
+      "hash": 1700523195
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10036:0": {
+    "ID": 10036,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -274823978
+    },
+    "Desc": {
+      "hash": 1700523196
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10037:0": {
+    "ID": 10037,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -274823977
+    },
+    "Desc": {
+      "hash": 1700523197
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10038:0": {
+    "ID": 10038,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -274823972
+    },
+    "Desc": {
+      "hash": 1700523198
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10039:0": {
+    "ID": 10039,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -274823971
+    },
+    "Desc": {
+      "hash": 1700523199
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10040:0": {
+    "ID": 10040,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 128460547
+    },
+    "Desc": {
+      "hash": -1834929219
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "10041:0": {
+    "ID": 10041,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": false,
+    "IsShowInFog": false,
+    "PlaneID": 0,
+    "FloorID": 0,
+    "GroupID": 0,
+    "ConfigID": 0,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 128460548
+    },
+    "Desc": {
+      "hash": -1834929218
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1000001:0": {
+    "ID": 1000001,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 10000,
+    "FloorID": 10000000,
+    "GroupID": 2,
+    "ConfigID": 300002,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537165936
+    },
+    "Desc": {
+      "hash": -570932750
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010101:0": {
+    "ID": 1010101,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 10101,
+    "FloorID": 10101001,
+    "GroupID": 1,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537169040
+    },
+    "Desc": {
+      "hash": -570929646
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010102:0": {
+    "ID": 1010102,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 10101,
+    "FloorID": 10101001,
+    "GroupID": 1,
+    "ConfigID": 300002,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537169037
+    },
+    "Desc": {
+      "hash": -570929645
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010103:0": {
+    "ID": 1010103,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 10101,
+    "FloorID": 10101001,
+    "GroupID": 1,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537169038
+    },
+    "Desc": {
+      "hash": -570929644
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010201:0": {
+    "ID": 1010201,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 10102,
+    "FloorID": 10102001,
+    "GroupID": 30,
+    "ConfigID": 300002,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537169069
+    },
+    "Desc": {
+      "hash": -570929485
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010202:0": {
+    "ID": 1010202,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 10102,
+    "FloorID": 10102001,
+    "GroupID": 30,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537169072
+    },
+    "Desc": {
+      "hash": -570929486
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1010203:0": {
+    "ID": 1010203,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 10102,
+    "FloorID": 10102001,
+    "GroupID": 30,
+    "ConfigID": 300004,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537169071
+    },
+    "Desc": {
+      "hash": -570929487
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1000101:0": {
+    "ID": 1000101,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 10001,
+    "FloorID": 10001001,
+    "GroupID": 11,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537165903
+    },
+    "Desc": {
+      "hash": -570932783
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "1000102:0": {
+    "ID": 1000102,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 10001,
+    "FloorID": 10001001,
+    "GroupID": 11,
+    "ConfigID": 300002,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537165902
+    },
+    "Desc": {
+      "hash": -570932780
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2000101:0": {
+    "ID": 2000101,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 18,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537060270
+    },
+    "Desc": {
+      "hash": -570894668
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2000102:0": {
+    "ID": 2000102,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20001,
+    "FloorID": 20001001,
+    "GroupID": 18,
+    "ConfigID": 300002,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1537060271
+    },
+    "Desc": {
+      "hash": -570894671
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2000201:0": {
+    "ID": 2000201,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 1,
+    "ConfigID": 300006,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537060303
+    },
+    "Desc": {
+      "hash": -570894767
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2000202:0": {
+    "ID": 2000202,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 1,
+    "ConfigID": 300021,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1537060302
+    },
+    "Desc": {
+      "hash": -570894764
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2000203:0": {
+    "ID": 2000203,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 1,
+    "ConfigID": 300022,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1537060301
+    },
+    "Desc": {
+      "hash": -570894765
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2000204:0": {
+    "ID": 2000204,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20002,
+    "FloorID": 20002001,
+    "GroupID": 1,
+    "ConfigID": 300007,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1537060308
+    },
+    "Desc": {
+      "hash": -570894762
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2000301:0": {
+    "ID": 2000301,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20003,
+    "FloorID": 20003001,
+    "GroupID": 2,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537060336
+    },
+    "Desc": {
+      "hash": -570894734
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2000302:0": {
+    "ID": 2000302,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20003,
+    "FloorID": 20003001,
+    "GroupID": 2,
+    "ConfigID": 300002,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1537060333
+    },
+    "Desc": {
+      "hash": -570894733
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2000303:0": {
+    "ID": 2000303,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20003,
+    "FloorID": 20003001,
+    "GroupID": 2,
+    "ConfigID": 300003,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1537060334
+    },
+    "Desc": {
+      "hash": -570894732
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2010102:0": {
+    "ID": 2010102,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 17,
+    "ConfigID": 300002,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1537061360
+    },
+    "Desc": {
+      "hash": -570893582
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2010103:0": {
+    "ID": 2010103,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20101,
+    "FloorID": 20101001,
+    "GroupID": 17,
+    "ConfigID": 300003,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1537061359
+    },
+    "Desc": {
+      "hash": -570893583
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2011101:0": {
+    "ID": 2011101,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 2,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": -49225560
+    },
+    "Desc": {
+      "hash": 2137786798
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2011102:0": {
+    "ID": 2011102,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 2,
+    "ConfigID": 300002,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -49225557
+    },
+    "Desc": {
+      "hash": 2137786797
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2011103:0": {
+    "ID": 2011103,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20111,
+    "FloorID": 20111001,
+    "GroupID": 2,
+    "ConfigID": 300004,
+    "InitialEnable": false,
+    "Name": {
+      "hash": -49225558
+    },
+    "Desc": {
+      "hash": 2137786796
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2012101:0": {
+    "ID": 2012101,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 2,
+    "ConfigID": 300006,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1819386359
+    },
+    "Desc": {
+      "hash": -288568579
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2012102:0": {
+    "ID": 2012102,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 2,
+    "ConfigID": 300002,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1819386362
+    },
+    "Desc": {
+      "hash": -288568580
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2012103:0": {
+    "ID": 2012103,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20121,
+    "FloorID": 20121001,
+    "GroupID": 2,
+    "ConfigID": 300004,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1819386361
+    },
+    "Desc": {
+      "hash": -288568581
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2012201:0": {
+    "ID": 2012201,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 2,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1819386330
+    },
+    "Desc": {
+      "hash": -288568740
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2012202:0": {
+    "ID": 2012202,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 2,
+    "ConfigID": 300002,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1819386327
+    },
+    "Desc": {
+      "hash": -288568739
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2012203:0": {
+    "ID": 2012203,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20122,
+    "FloorID": 20122001,
+    "GroupID": 2,
+    "ConfigID": 300003,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1819386328
+    },
+    "Desc": {
+      "hash": -288568738
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2012301:0": {
+    "ID": 2012301,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 2,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 1819386425
+    },
+    "Desc": {
+      "hash": -288568645
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2012302:0": {
+    "ID": 2012302,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 2,
+    "ConfigID": 300002,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1819386424
+    },
+    "Desc": {
+      "hash": -288568642
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2012303:0": {
+    "ID": 2012303,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20123,
+    "FloorID": 20123001,
+    "GroupID": 2,
+    "ConfigID": 300003,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 1819386423
+    },
+    "Desc": {
+      "hash": -288568643
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2013101:0": {
+    "ID": 2013101,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20131,
+    "FloorID": 20131001,
+    "GroupID": 2,
+    "ConfigID": 300006,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 233099442
+    },
+    "Desc": {
+      "hash": -1874855496
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2013102:0": {
+    "ID": 2013102,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20131,
+    "FloorID": 20131001,
+    "GroupID": 2,
+    "ConfigID": 300003,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 233099445
+    },
+    "Desc": {
+      "hash": -1874855497
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2013103:0": {
+    "ID": 2013103,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20131,
+    "FloorID": 20131001,
+    "GroupID": 2,
+    "ConfigID": 300004,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 233099444
+    },
+    "Desc": {
+      "hash": -1874855498
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2013201:0": {
+    "ID": 2013201,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 1,
+    "ConfigID": 300007,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 233099413
+    },
+    "Desc": {
+      "hash": -1874855657
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2013202:0": {
+    "ID": 2013202,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 1,
+    "ConfigID": 300008,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 233099410
+    },
+    "Desc": {
+      "hash": -1874855656
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2013203:0": {
+    "ID": 2013203,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 1,
+    "ConfigID": 300009,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 233099411
+    },
+    "Desc": {
+      "hash": -1874855655
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2013204:0": {
+    "ID": 2013204,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20132,
+    "FloorID": 20132001,
+    "GroupID": 1,
+    "ConfigID": 300010,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 233099416
+    },
+    "Desc": {
+      "hash": -1874855654
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2013401:0": {
+    "ID": 2013401,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20134,
+    "FloorID": 20134001,
+    "GroupID": 2,
+    "ConfigID": 300001,
+    "InitialEnable": true,
+    "Name": {
+      "hash": 233099479
+    },
+    "Desc": {
+      "hash": -1874855459
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  },
+  "2013402:0": {
+    "ID": 2013402,
+    "WorldLevel": 0,
+    "Type": "TYPE_COCOON",
+    "IsTeleport": true,
+    "IsShowInFog": true,
+    "PlaneID": 20134,
+    "FloorID": 20134001,
+    "GroupID": 2,
+    "ConfigID": 300002,
+    "InitialEnable": false,
+    "Name": {
+      "hash": 233099480
+    },
+    "Desc": {
+      "hash": -1874855462
+    },
+    "ShowMonsterList": [],
+    "RewardList": [],
+    "IsShowRewardCount": false,
+    "isShowCleared": false
+  }
+}

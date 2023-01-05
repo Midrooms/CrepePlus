@@ -1,0 +1,168 @@
+{
+  "101": {
+    "ID": 101,
+    "TabName": {
+      "hash": -136005327
+    },
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryMaterialsIcon.png",
+    "DisplayInventoryType": "Normal",
+    "DisplayItemType": [
+      "Virtual",
+      "Placeholder",
+      "Material"
+    ],
+    "TabSortWeight": 10,
+    "ItemSortTypeList": [
+      "Count",
+      "Rarity"
+    ],
+    "DisplayCapacityLimit": 0
+  },
+  "102": {
+    "ID": 102,
+    "TabName": {
+      "hash": -1702089268
+    },
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryLightConeIcon.png",
+    "DisplayInventoryType": "Normal",
+    "DisplayItemType": [
+      "Equipment"
+    ],
+    "TabSortWeight": 9,
+    "ItemSortTypeList": [
+      "Rarity",
+      "Level",
+      "AvatarBaseType",
+      "Attack",
+      "Defence",
+      "HP",
+      "ObtainTime"
+    ],
+    "DisplayCapacityLimit": 2000
+  },
+  "103": {
+    "ID": 103,
+    "TabName": {
+      "hash": 1026794087
+    },
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryQuestIcon.png",
+    "DisplayInventoryType": "Normal",
+    "DisplayItemType": [
+      "Mission"
+    ],
+    "TabSortWeight": 6,
+    "ItemSortTypeList": [
+      "Rarity"
+    ],
+    "DisplayCapacityLimit": 0
+  },
+  "104": {
+    "ID": 104,
+    "TabName": {
+      "hash": -895520214
+    },
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryConsumablesIcon.png",
+    "DisplayInventoryType": "Normal",
+    "DisplayItemType": [
+      "Food"
+    ],
+    "TabSortWeight": 7,
+    "ItemSortTypeList": [
+      "Rarity"
+    ],
+    "DisplayCapacityLimit": 0
+  },
+  "105": {
+    "ID": 105,
+    "TabName": {
+      "hash": 1833363141
+    },
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryOtherIcon.png",
+    "DisplayInventoryType": "Normal",
+    "DisplayItemType": [
+      "Gift"
+    ],
+    "TabSortWeight": 5,
+    "ItemSortTypeList": [
+      "Rarity"
+    ],
+    "DisplayCapacityLimit": 0
+  },
+  "106": {
+    "ID": 106,
+    "TabName": {
+      "hash": 267279200
+    },
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryIcon.png",
+    "DisplayInventoryType": "Normal",
+    "DisplayItemType": [
+      "Relic"
+    ],
+    "TabSortWeight": 8,
+    "ItemSortTypeList": [
+      "Rarity",
+      "Level",
+      "ObtainTime",
+      "HPAddedRatio",
+      "HPDelta",
+      "AttackAddedRatio",
+      "AttackDelta",
+      "DefenceAddedRatio",
+      "DefenceDelta",
+      "SpeedBase",
+      "CriticalChance",
+      "CriticalDamage",
+      "StatusProbability"
+    ],
+    "DisplayCapacityLimit": 2000
+  },
+  "107": {
+    "ID": 107,
+    "TabName": {
+      "hash": -1298804741
+    },
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryConsumablesIcon.png",
+    "DisplayInventoryType": "Rogue",
+    "DisplayItemType": [
+      "RogueFood"
+    ],
+    "TabSortWeight": 1,
+    "ItemSortTypeList": [
+      "Rarity"
+    ],
+    "DisplayCapacityLimit": 0
+  },
+  "108": {
+    "ID": 108,
+    "TabName": {
+      "hash": 1786308974
+    },
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryLightConeIcon.png",
+    "DisplayInventoryType": "Rogue",
+    "DisplayItemType": [
+      "RogueMiracle"
+    ],
+    "TabSortWeight": 2,
+    "ItemSortTypeList": [
+      "Rarity"
+    ],
+    "DisplayCapacityLimit": 0
+  },
+  "109": {
+    "ID": 109,
+    "TabName": {
+      "hash": 220225033
+    },
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryMaterialsIcon.png",
+    "DisplayInventoryType": "Rogue",
+    "DisplayItemType": [
+      "RogueStone"
+    ],
+    "TabSortWeight": 3,
+    "ItemSortTypeList": [
+      "Count",
+      "Rarity"
+    ],
+    "DisplayCapacityLimit": 0
+  }
+}

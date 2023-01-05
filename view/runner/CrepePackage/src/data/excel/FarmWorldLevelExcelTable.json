@@ -1,0 +1,39 @@
+{
+  "COCOON": {
+    "FarmType": "COCOON",
+    "WorldLevelList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "COCOON2": {
+    "FarmType": "COCOON2",
+    "WorldLevelList": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "ELEMENT": {
+    "FarmType": "ELEMENT",
+    "WorldLevelList": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "RELIC": {
+    "FarmType": "RELIC",
+    "WorldLevelList": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "1": {
+    "GameModeType": 1,
+    "FuncEntranceIDList": [
+      29,
+      24,
+      2,
+      7,
+      3,
+      4,
+      5,
+      25,
+      23,
+      28,
+      6,
+      14,
+      15,
+      8,
+      12,
+      26,
+      30
+    ],
+    "BottomFuncEntranceIDList": [
+      9,
+      10,
+      11
+    ],
+    "HudFuncEntranceIDList": [
+      8,
+      23,
+      15,
+      6,
+      5,
+      3,
+      4
+    ],
+    "LeftHudFuncEntranceIDList": [
+      25
+    ],
+    "UnlockGotoTypeList": [
+      3,
+      2,
+      7,
+      4,
+      5,
+      6,
+      8,
+      11,
+      14,
+      15,
+      12,
+      20,
+      18,
+      23,
+      22,
+      19,
+      9,
+      10,
+      11,
+      24,
+      25,
+      17,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  "2": {
+    "GameModeType": 2,
+    "FuncEntranceIDList": [
+      29,
+      24,
+      2,
+      7,
+      3,
+      4,
+      5,
+      25,
+      23,
+      28,
+      6,
+      14,
+      15,
+      8,
+      12,
+      26,
+      30
+    ],
+    "BottomFuncEntranceIDList": [
+      9,
+      10,
+      11
+    ],
+    "HudFuncEntranceIDList": [
+      8,
+      23,
+      15,
+      6,
+      5,
+      3,
+      4
+    ],
+    "LeftHudFuncEntranceIDList": [
+      25
+    ],
+    "UnlockGotoTypeList": [
+      3,
+      2,
+      7,
+      4,
+      5,
+      6,
+      8,
+      11,
+      14,
+      15,
+      12,
+      20,
+      18,
+      23,
+      22,
+      19,
+      9,
+      10,
+      11,
+      24,
+      25,
+      17,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  "3": {
+    "GameModeType": 3,
+    "FuncEntranceIDList": [
+      29,
+      24,
+      2,
+      7,
+      3,
+      4,
+      5,
+      25,
+      23,
+      28,
+      6,
+      14,
+      15,
+      8,
+      12,
+      26,
+      30
+    ],
+    "BottomFuncEntranceIDList": [
+      9,
+      10,
+      11
+    ],
+    "HudFuncEntranceIDList": [
+      8,
+      23,
+      15,
+      6,
+      5,
+      3,
+      4
+    ],
+    "LeftHudFuncEntranceIDList": [
+      25
+    ],
+    "UnlockGotoTypeList": [
+      3,
+      2,
+      7,
+      4,
+      5,
+      6,
+      8,
+      11,
+      14,
+      15,
+      12,
+      20,
+      18,
+      23,
+      22,
+      19,
+      9,
+      10,
+      11,
+      24,
+      25,
+      17,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  "4": {
+    "GameModeType": 4,
+    "FuncEntranceIDList": [],
+    "BottomFuncEntranceIDList": [],
+    "HudFuncEntranceIDList": [],
+    "LeftHudFuncEntranceIDList": [
+      25
+    ],
+    "UnlockGotoTypeList": [
+      25
+    ]
+  },
+  "5": {
+    "GameModeType": 5,
+    "FuncEntranceIDList": [],
+    "BottomFuncEntranceIDList": [],
+    "HudFuncEntranceIDList": [
+      301,
+      4
+    ],
+    "LeftHudFuncEntranceIDList": [
+      25
+    ],
+    "UnlockGotoTypeList": [
+      4,
+      3,
+      25,
+      26,
+      27
+    ]
+  },
+  "6": {
+    "GameModeType": 6,
+    "FuncEntranceIDList": [],
+    "BottomFuncEntranceIDList": [],
+    "HudFuncEntranceIDList": [
+      302,
+      4
+    ],
+    "LeftHudFuncEntranceIDList": [
+      25
+    ],
+    "UnlockGotoTypeList": [
+      4,
+      3,
+      25,
+      27
+    ]
+  },
+  "7": {
+    "GameModeType": 7,
+    "FuncEntranceIDList": [
+      29,
+      24,
+      2,
+      7,
+      3,
+      4,
+      5,
+      25,
+      23,
+      28,
+      6,
+      14,
+      15,
+      8,
+      12,
+      26,
+      30
+    ],
+    "BottomFuncEntranceIDList": [
+      9,
+      10,
+      11
+    ],
+    "HudFuncEntranceIDList": [
+      8,
+      23,
+      15,
+      6,
+      5,
+      3,
+      4
+    ],
+    "LeftHudFuncEntranceIDList": [
+      25
+    ],
+    "UnlockGotoTypeList": [
+      3,
+      2,
+      7,
+      4,
+      5,
+      6,
+      8,
+      11,
+      14,
+      15,
+      12,
+      20,
+      18,
+      23,
+      22,
+      9,
+      10,
+      11,
+      19,
+      24,
+      25,
+      17,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  "8": {
+    "GameModeType": 8,
+    "FuncEntranceIDList": [
+      7,
+      4,
+      5,
+      23,
+      6,
+      28,
+      12
+    ],
+    "BottomFuncEntranceIDList": [
+      9,
+      10,
+      11
+    ],
+    "HudFuncEntranceIDList": [
+      4,
+      5,
+      6,
+      23
+    ],
+    "LeftHudFuncEntranceIDList": [
+      25
+    ],
+    "UnlockGotoTypeList": [
+      4,
+      5,
+      6,
+      7,
+      12,
+      23,
+      25,
+      9,
+      10,
+      11,
+      17,
+      28,
+      29,
+      30
+    ]
+  },
+  "9": {
+    "GameModeType": 9,
+    "FuncEntranceIDList": [
+      7,
+      4,
+      5,
+      23,
+      6,
+      28,
+      12
+    ],
+    "BottomFuncEntranceIDList": [
+      9,
+      10,
+      11
+    ],
+    "HudFuncEntranceIDList": [
+      4,
+      5,
+      6,
+      23
+    ],
+    "LeftHudFuncEntranceIDList": [
+      25
+    ],
+    "UnlockGotoTypeList": [
+      4,
+      5,
+      6,
+      7,
+      12,
+      23,
+      9,
+      25,
+      10,
+      11,
+      17,
+      28,
+      29,
+      30
+    ]
+  },
+  "10": {
+    "GameModeType": 10,
+    "FuncEntranceIDList": [],
+    "BottomFuncEntranceIDList": [],
+    "HudFuncEntranceIDList": [],
+    "LeftHudFuncEntranceIDList": [],
+    "UnlockGotoTypeList": []
+  },
+  "11": {
+    "GameModeType": 11,
+    "FuncEntranceIDList": [],
+    "BottomFuncEntranceIDList": [],
+    "HudFuncEntranceIDList": [
+      4
+    ],
+    "LeftHudFuncEntranceIDList": [],
+    "UnlockGotoTypeList": [
+      4
+    ]
+  }
+}

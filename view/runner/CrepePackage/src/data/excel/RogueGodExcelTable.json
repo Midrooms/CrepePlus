@@ -1,0 +1,79 @@
+{
+  "1": {
+    "GodID": 1,
+    "GodImage": "SpriteOutput/HoshinoKami/HoshinoKami_001.png",
+    "GodName": {
+      "hash": -2143332513
+    },
+    "GodIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionKnight.png",
+    "TalkName": {
+      "hash": 824881401
+    }
+  },
+  "2": {
+    "GodID": 2,
+    "GodImage": "SpriteOutput/HoshinoKami/HoshinoKami_000.png",
+    "GodName": {
+      "hash": -2143332514
+    },
+    "GodIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionShaman.png",
+    "TalkName": {
+      "hash": -1904001954
+    }
+  },
+  "3": {
+    "GodID": 3,
+    "GodImage": "SpriteOutput/HoshinoKami/HoshinoKami_000.png",
+    "GodName": {
+      "hash": -2143332515
+    },
+    "GodIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionWarlock.png",
+    "TalkName": {
+      "hash": -337918013
+    }
+  },
+  "4": {
+    "GodID": 4,
+    "GodImage": "SpriteOutput/HoshinoKami/HoshinoKami_000.png",
+    "GodName": {
+      "hash": -2143332509
+    },
+    "GodIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionPirest.png",
+    "TalkName": {
+      "hash": -1144487067
+    }
+  },
+  "5": {
+    "GodID": 5,
+    "GodImage": "SpriteOutput/HoshinoKami/HoshinoKami_000.png",
+    "GodName": {
+      "hash": -2143332510
+    },
+    "GodIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionRogue.png",
+    "TalkName": {
+      "hash": 421596874
+    }
+  },
+  "6": {
+    "GodID": 6,
+    "GodImage": "SpriteOutput/HoshinoKami/HoshinoKami_002.png",
+    "GodName": {
+      "hash": -2143332511
+    },
+    "GodIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionWarrior.png",
+    "TalkName": {
+      "hash": 1987680815
+    }
+  },
+  "7": {
+    "GodID": 7,
+    "GodImage": "SpriteOutput/HoshinoKami/HoshinoKami_000.png",
+    "GodName": {
+      "hash": -2143332508
+    },
+    "GodIcon": "SpriteOutput/ProfessionIconMiddle/IconProfessionMage.png",
+    "TalkName": {
+      "hash": 1584396288
+    }
+  }
+}

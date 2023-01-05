@@ -1,0 +1,32 @@
+{
+  "100": {
+    "ID": 100,
+    "PrestigeName": {
+      "hash": 880255568
+    },
+    "PrestigeDesc": {
+      "hash": 876672358
+    },
+    "ItemID": 170,
+    "MaxLevel": 10,
+    "UnlockMission": 0,
+    "TabIconPath": "SpriteOutput/TabIcon/World/World00Icon.png",
+    "MiddleWorldPicPath": "SpriteOutput/WorldPic/Middle/WorldPicMiddle_100.png",
+    "FullScreenWorldPicPath": "SpriteOutput/WorldPic/FullScreen/WorldPicFullScreen_100.png"
+  },
+  "101": {
+    "ID": 101,
+    "PrestigeName": {
+      "hash": -685828373
+    },
+    "PrestigeDesc": {
+      "hash": -689411583
+    },
+    "ItemID": 171,
+    "MaxLevel": 20,
+    "UnlockMission": 1010302,
+    "TabIconPath": "SpriteOutput/TabIcon/World/World01Icon.png",
+    "MiddleWorldPicPath": "SpriteOutput/WorldPic/Middle/WorldPicMiddle_101.png",
+    "FullScreenWorldPicPath": "SpriteOutput/WorldPic/FullScreen/WorldPicFullScreen_101.png"
+  }
+}

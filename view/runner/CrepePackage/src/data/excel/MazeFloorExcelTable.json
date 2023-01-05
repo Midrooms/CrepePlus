@@ -1,0 +1,3870 @@
+{
+  "10000000": {
+    "FloorID": 10000000,
+    "Comment": "列车客厢",
+    "FloorName": "FloorName_10000000",
+    "BaseFloorID": 10000000,
+    "FloorBGMGroupName": "StateGroup_Spaceship",
+    "FloorBGMNormalStateName": "State_Spaceship_Default",
+    "FloorDefaultEmotion": "State_Hollowing",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10001001": {
+    "FloorID": 10001001,
+    "Comment": "主控舱段",
+    "FloorName": "FloorName_10001001",
+    "BaseFloorID": 10001001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Master_Control_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_spacestation"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10101001": {
+    "FloorID": 10101001,
+    "Comment": "行政广场",
+    "FloorName": "FloorName_10101001",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MOverworld_Default",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "Config/ConfigMunicipal/Chap01_Square_MunicipalConfig.json",
+    "MapLayerNameList": [
+      {
+        "hash": 1326329648
+      },
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      }
+    ]
+  },
+  "10101002": {
+    "FloorID": 10101002,
+    "Comment": "市政厅",
+    "FloorName": "FloorName_10101002",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MOverworld_Default",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10101003": {
+    "FloorID": 10101003,
+    "Comment": "花店「长夏」",
+    "FloorName": "FloorName_10101003",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MFlowershop",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10101004": {
+    "FloorID": 10101004,
+    "Comment": "宾馆走廊",
+    "FloorName": "FloorName_10101004",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MOverworld_Default",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10101005": {
+    "FloorID": 10101005,
+    "Comment": "宾馆大堂",
+    "FloorName": "FloorName_10101005",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MOverworld_Default",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10101006": {
+    "FloorID": 10101006,
+    "Comment": "宾馆客房",
+    "FloorName": "FloorName_10101006",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MOverworld_Default",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10101007": {
+    "FloorID": 10101007,
+    "Comment": "机械屋「永动」",
+    "FloorName": "FloorName_10101007",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MOverworld_Default",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10101008": {
+    "FloorID": 10101008,
+    "Comment": "城镇战斗",
+    "FloorName": "FloorName_10101008",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MOverworld_Default",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10102001": {
+    "FloorID": 10102001,
+    "Comment": "磐岩市集",
+    "FloorName": "FloorName_10102001",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MUnderworld_Default",
+    "FloorDefaultEmotion": "State_Joyful_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "Config/ConfigMunicipal/Chap01_DownTown_MunicipalConfig.json",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10102002": {
+    "FloorID": 10102002,
+    "Comment": "廉价房间",
+    "FloorName": "FloorName_10102002",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MUnderworld_Default",
+    "FloorDefaultEmotion": "State_Joyful_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10102003": {
+    "FloorID": 10102003,
+    "Comment": "娜塔莎的诊所",
+    "FloorName": "FloorName_10102003",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MUnderworld_Default",
+    "FloorDefaultEmotion": "State_Joyful_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "Config/ConfigMunicipal/Common_WhiteBox_MunicipalConfig.json",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "10102004": {
+    "FloorID": 10102004,
+    "Comment": "搏击俱乐部",
+    "FloorName": "FloorName_10102004",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MUnderworld_Default",
+    "FloorDefaultEmotion": "State_Joyful_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_belobog"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "Config/ConfigMunicipal/Common_WhiteBox_MunicipalConfig.json",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20001001": {
+    "FloorID": 20001001,
+    "Comment": "基座舱段",
+    "FloorName": "FloorName_20001001",
+    "BaseFloorID": 20001001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Base_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_spacestation_n1"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20002001": {
+    "FloorID": 20002001,
+    "Comment": "收容舱段",
+    "FloorName": "FloorName_20002001",
+    "BaseFloorID": 20002001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Storage_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_spacestation_n2"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1326329648
+      },
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      }
+    ]
+  },
+  "20003001": {
+    "FloorID": 20003001,
+    "Comment": "支援舱段",
+    "FloorName": "FloorName_20003001",
+    "BaseFloorID": 20003001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Storage_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_spacestation_n3"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20101001": {
+    "FloorID": 20101001,
+    "Comment": "城南雪原",
+    "FloorName": "FloorName_20101001",
+    "BaseFloorID": 20101001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_MSnowland",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m0"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 2.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20111001": {
+    "FloorID": 20111001,
+    "Comment": "边缘通路",
+    "FloorName": "FloorName_20111001",
+    "BaseFloorID": 20111001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m1_1"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.5,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20121001": {
+    "FloorID": 20121001,
+    "Comment": "大矿区",
+    "FloorName": "FloorName_20121001",
+    "BaseFloorID": 20121001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M2_1",
+    "FloorDefaultEmotion": "State_Joyful_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m2_1"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20122001": {
+    "FloorID": 20122001,
+    "Comment": "铆钉镇",
+    "FloorName": "FloorName_20122001",
+    "BaseFloorID": 20122001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M2_2",
+    "FloorDefaultEmotion": "State_Joyful_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m2_2"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20123001": {
+    "FloorID": 20123001,
+    "Comment": "机械聚落",
+    "FloorName": "FloorName_20123001",
+    "BaseFloorID": 20123001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m2_3"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20131001": {
+    "FloorID": 20131001,
+    "Comment": "铁卫禁区",
+    "FloorName": "FloorName_20131001",
+    "BaseFloorID": 20131001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_1"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.5,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20132001": {
+    "FloorID": 20132001,
+    "Comment": "残响回廊",
+    "FloorName": "FloorName_20132001",
+    "BaseFloorID": 20132001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_2"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20133001": {
+    "FloorID": 20133001,
+    "Comment": "永冬岭",
+    "FloorName": "FloorName_20133001",
+    "BaseFloorID": 20132001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M3_3_EverwinterHill",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_3"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20133002": {
+    "FloorID": 20133002,
+    "Comment": "命途空间",
+    "FloorName": "FloorName_20133002",
+    "BaseFloorID": 20133001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M3_3_PathSpace",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_belobog_m3_3"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20134001": {
+    "FloorID": 20134001,
+    "Comment": "永冬岭",
+    "FloorName": "FloorName_20134001",
+    "BaseFloorID": 20134001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M3_3_EverwinterHill",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_3"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "20100001": {
+    "FloorID": 20100001,
+    "Comment": "命途空间",
+    "FloorName": "FloorName_20100001",
+    "BaseFloorID": 20133001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M3_3_PathSpace",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_3"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30101001": {
+    "FloorID": 30101001,
+    "Comment": "裂界碎渊 第一阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m1_1"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30102001": {
+    "FloorID": 30102001,
+    "Comment": "裂界碎渊 第二阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30103001": {
+    "FloorID": 30103001,
+    "Comment": "裂界碎渊 第三阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30104001": {
+    "FloorID": 30104001,
+    "Comment": "裂界碎渊 第四阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30105001": {
+    "FloorID": 30105001,
+    "Comment": "裂界碎渊 第五阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30106001": {
+    "FloorID": 30106001,
+    "Comment": "裂界碎渊 第六阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30107001": {
+    "FloorID": 30107001,
+    "Comment": "裂界碎渊 第七阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30108001": {
+    "FloorID": 30108001,
+    "Comment": "裂界碎渊 第八阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30109001": {
+    "FloorID": 30109001,
+    "Comment": "裂界碎渊 第九阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30110001": {
+    "FloorID": 30110001,
+    "Comment": "裂界碎渊 第十阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30111001": {
+    "FloorID": 30111001,
+    "Comment": "裂界碎渊 第十一阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30112001": {
+    "FloorID": 30112001,
+    "Comment": "裂界碎渊 第十二阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30113001": {
+    "FloorID": 30113001,
+    "Comment": "裂界碎渊 第十三阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30114001": {
+    "FloorID": 30114001,
+    "Comment": "裂界碎渊 第十四阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30115001": {
+    "FloorID": 30115001,
+    "Comment": "裂界碎渊 第十五阶",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30116001": {
+    "FloorID": 30116001,
+    "Comment": "裂界碎渊•黑月",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30117001": {
+    "FloorID": 30117001,
+    "Comment": "裂界碎渊•赤潮",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30118001": {
+    "FloorID": 30118001,
+    "Comment": "裂界碎渊•白垩",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30119001": {
+    "FloorID": 30119001,
+    "Comment": "裂界碎渊•青瘴",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30120001": {
+    "FloorID": 30120001,
+    "Comment": "遗器测试白盒",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30201001": {
+    "FloorID": 30201001,
+    "Comment": "侵蚀隧洞 • 金铁之径",
+    "FloorName": "FloorName_30201001",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Storage_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_spacestation_n2"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30202001": {
+    "FloorID": 30202001,
+    "Comment": "侵蚀隧洞 • 霜风之径",
+    "FloorName": "FloorName_30202001",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M2_1",
+    "FloorDefaultEmotion": "State_Joyful_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m2_1"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30203001": {
+    "FloorID": 30203001,
+    "Comment": "侵蚀隧洞 • 炽火之径",
+    "FloorName": "FloorName_30203001",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M2_2",
+    "FloorDefaultEmotion": "State_Joyful_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m2_2"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30204001": {
+    "FloorID": 30204001,
+    "Comment": "侵蚀隧洞 • 征战之径",
+    "FloorName": "FloorName_30204001",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_1"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30205001": {
+    "FloorID": 30205001,
+    "Comment": "侵蚀隧洞 • 坍缩之径",
+    "FloorName": "FloorName_30205001",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_2"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "30206001": {
+    "FloorID": 30206001,
+    "Comment": "侵蚀隧洞 • 雷霆之径",
+    "FloorName": "FloorName_30206001",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M3_3_EverwinterHill",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_3"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "40101001": {
+    "FloorID": 40101001,
+    "Comment": "残响回廊",
+    "FloorName": "FloorName_40101001",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_2"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80101001": {
+    "FloorID": 80101001,
+    "Comment": "肉鸽测试1",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80102001": {
+    "FloorID": 80102001,
+    "Comment": "初始之地",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80103001": {
+    "FloorID": 80103001,
+    "Comment": "肉鸽测试3",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80104001": {
+    "FloorID": 80104001,
+    "Comment": "边缘通路",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m1_1"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80104002": {
+    "FloorID": 80104002,
+    "Comment": "基座舱段",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Base_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_spacestation_n1"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80104003": {
+    "FloorID": 80104003,
+    "Comment": "大矿区",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M2_1",
+    "FloorDefaultEmotion": "State_Joyful_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m2_1"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80105001": {
+    "FloorID": 80105001,
+    "Comment": "机械聚落",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m2_3"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80105002": {
+    "FloorID": 80105002,
+    "Comment": "收容舱段",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Storage_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_spacestation_n2"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80105003": {
+    "FloorID": 80105003,
+    "Comment": "铆钉镇",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M2_2",
+    "FloorDefaultEmotion": "State_Joyful_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m2_2"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80106001": {
+    "FloorID": 80106001,
+    "Comment": "残响回廊",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_2"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80106002": {
+    "FloorID": 80106002,
+    "Comment": "铁卫禁区",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_1"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80106003": {
+    "FloorID": 80106003,
+    "Comment": "支援舱段",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Storage_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_spacestation_n3"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80107001": {
+    "FloorID": 80107001,
+    "Comment": "星与月的交界",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80108001": {
+    "FloorID": 80108001,
+    "Comment": "月与阳的交界",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80109001": {
+    "FloorID": 80109001,
+    "Comment": "终焉之间",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80110001": {
+    "FloorID": 80110001,
+    "Comment": "挑战之路",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80111001": {
+    "FloorID": 80111001,
+    "Comment": "小房间白盒",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_MCity_Belobog",
+    "FloorBGMNormalStateName": "State_Maze_M1",
+    "FloorDefaultEmotion": "State_Hollowing_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_sfx_amb_wind",
+      "Ev_amb_maze_belobog_m3_2"
+    ],
+    "ExitAudioEvent": [
+      "Ev_sfx_amb_wind_stop"
+    ],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80112001": {
+    "FloorID": 80112001,
+    "Comment": "黑塔的办公室",
+    "FloorName": "FloorName_80112001",
+    "BaseFloorID": 10001001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Master_Control_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [
+      "Ev_amb_city_spacestation"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Indoor",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80113001": {
+    "FloorID": 80113001,
+    "Comment": "小房间 序章场景 N1",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Base_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_spacestation_n1"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80113002": {
+    "FloorID": 80113002,
+    "Comment": "小房间 序章场景 N2",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Storage_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_spacestation_n2"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "80113003": {
+    "FloorID": 80113003,
+    "Comment": "小房间 序章场景 N3",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "StateGroup_Herta_Space_Station",
+    "FloorBGMNormalStateName": "State_Storage_Zone_Default",
+    "FloorDefaultEmotion": "State_Bgm_E_D",
+    "FloorBGMBusyStateName": "State_Maze_Busy",
+    "EnterAudioEvent": [
+      "Ev_amb_maze_spacestation_n3"
+    ],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201001": {
+    "FloorID": 90201001,
+    "Comment": "自由测试1",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201002": {
+    "FloorID": 90201002,
+    "Comment": "自由测试2",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201003": {
+    "FloorID": 90201003,
+    "Comment": "自由测试3",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201004": {
+    "FloorID": 90201004,
+    "Comment": "自由测试4",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201005": {
+    "FloorID": 90201005,
+    "Comment": "自由测试5",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201006": {
+    "FloorID": 90201006,
+    "Comment": "自由测试6",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201007": {
+    "FloorID": 90201007,
+    "Comment": "自由测试7",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201008": {
+    "FloorID": 90201008,
+    "Comment": "自由测试8",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201009": {
+    "FloorID": 90201009,
+    "Comment": "自由测试9",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201010": {
+    "FloorID": 90201010,
+    "Comment": "自由测试10",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201011": {
+    "FloorID": 90201011,
+    "Comment": "自由测试11",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90201012": {
+    "FloorID": 90201012,
+    "Comment": "自由测试12",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90301001": {
+    "FloorID": 90301001,
+    "Comment": "暴风雪白盒1",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90301002": {
+    "FloorID": 90301002,
+    "Comment": "推箱子白盒",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90301003": {
+    "FloorID": 90301003,
+    "Comment": "红蓝门",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90301004": {
+    "FloorID": 90301004,
+    "Comment": "踩格子",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90303001": {
+    "FloorID": 90303001,
+    "Comment": "垃圾场一号",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90303002": {
+    "FloorID": 90303002,
+    "Comment": "垃圾场二号",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90303003": {
+    "FloorID": 90303003,
+    "Comment": "垃圾场三号",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90303004": {
+    "FloorID": 90303004,
+    "Comment": "垃圾场四号",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90303005": {
+    "FloorID": 90303005,
+    "Comment": "垃圾场五号",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90303006": {
+    "FloorID": 90303006,
+    "Comment": "垃圾场六号",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90303007": {
+    "FloorID": 90303007,
+    "Comment": "垃圾场七号",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90303008": {
+    "FloorID": 90303008,
+    "Comment": "垃圾场八号",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90303009": {
+    "FloorID": 90303009,
+    "Comment": "垃圾场九号",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90302001": {
+    "FloorID": 90302001,
+    "Comment": "M2-1重做白盒",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90401001": {
+    "FloorID": 90401001,
+    "Comment": "玩法改动测试",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10102001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90501001": {
+    "FloorID": 90501001,
+    "Comment": "5房间车厢",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 90501001,
+    "FloorBGMGroupName": "StateGroup_Spaceship",
+    "FloorBGMNormalStateName": "State_Spaceship_Default",
+    "FloorDefaultEmotion": "State_Hollowing",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90501002": {
+    "FloorID": 90501002,
+    "Comment": "原车厢",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 90501002,
+    "FloorBGMGroupName": "StateGroup_Spaceship",
+    "FloorBGMNormalStateName": "State_Spaceship_Default",
+    "FloorDefaultEmotion": "State_Hollowing",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90501003": {
+    "FloorID": 90501003,
+    "Comment": "4房间车厢",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 90501003,
+    "FloorBGMGroupName": "StateGroup_Spaceship",
+    "FloorBGMNormalStateName": "State_Spaceship_Default",
+    "FloorDefaultEmotion": "State_Hollowing",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90501004": {
+    "FloorID": 90501004,
+    "Comment": "9.5x8.2房间",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 90501004,
+    "FloorBGMGroupName": "StateGroup_Spaceship",
+    "FloorBGMNormalStateName": "State_Spaceship_Default",
+    "FloorDefaultEmotion": "State_Hollowing",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90501005": {
+    "FloorID": 90501005,
+    "Comment": "9.5x10房间",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 90501005,
+    "FloorBGMGroupName": "StateGroup_Spaceship",
+    "FloorBGMNormalStateName": "State_Spaceship_Default",
+    "FloorDefaultEmotion": "State_Hollowing",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90501006": {
+    "FloorID": 90501006,
+    "Comment": "9.5x8.2房间",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 90501006,
+    "FloorBGMGroupName": "StateGroup_Spaceship",
+    "FloorBGMNormalStateName": "State_Spaceship_Default",
+    "FloorDefaultEmotion": "State_Hollowing",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90501007": {
+    "FloorID": 90501007,
+    "Comment": "9.5x10房间",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 90501006,
+    "FloorBGMGroupName": "StateGroup_Spaceship",
+    "FloorBGMNormalStateName": "State_Spaceship_Default",
+    "FloorDefaultEmotion": "State_Hollowing",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 0.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101001": {
+    "FloorID": 90101001,
+    "Comment": "探针白盒01",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101002": {
+    "FloorID": 90101002,
+    "Comment": "踩格子白盒02",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101003": {
+    "FloorID": 90101003,
+    "Comment": "玩法白盒03",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101004": {
+    "FloorID": 90101004,
+    "Comment": "玩法白盒04",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101005": {
+    "FloorID": 90101005,
+    "Comment": "玩法白盒05",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101006": {
+    "FloorID": 90101006,
+    "Comment": "特殊视野白盒",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101007": {
+    "FloorID": 90101007,
+    "Comment": "挖宝白盒",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101008": {
+    "FloorID": 90101008,
+    "Comment": "玩法白盒08",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101009": {
+    "FloorID": 90101009,
+    "Comment": "挖宝白盒M202",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101010": {
+    "FloorID": 90101010,
+    "Comment": "M2-1主题白盒",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101011": {
+    "FloorID": 90101011,
+    "Comment": "WzW战斗测试用",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101012": {
+    "FloorID": 90101012,
+    "Comment": "M2-1主题白盒",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90101013": {
+    "FloorID": 90101013,
+    "Comment": "挖宝白盒M301",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90134001": {
+    "FloorID": 90134001,
+    "Comment": "挑战关2",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99992": {
+    "FloorID": 99992,
+    "Comment": "行人性能测试",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "Config/ConfigMunicipal/Common_WhiteBox_MunicipalConfig.json",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99994": {
+    "FloorID": 99994,
+    "Comment": "TA性能测试",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99995": {
+    "FloorID": 99995,
+    "Comment": "音频触发测试",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99998": {
+    "FloorID": 99998,
+    "Comment": "迷宫性能测试【闲人勿动】",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99998001": {
+    "FloorID": 99998001,
+    "Comment": "迷宫怪物测试",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99998002": {
+    "FloorID": 99998002,
+    "Comment": "机械屋测试",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99998003": {
+    "FloorID": 99998003,
+    "Comment": "室内性能测试【闲人勿动】",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90000": {
+    "FloorID": 90000,
+    "Comment": "绿幕合成场景",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90001": {
+    "FloorID": 90001,
+    "Comment": "序章场景性能测试",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90002": {
+    "FloorID": 90002,
+    "Comment": "物件及特效测试",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "9000201": {
+    "FloorID": 9000201,
+    "Comment": "电梯测试",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90002001": {
+    "FloorID": 90002001,
+    "Comment": "交互测试1",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90002002": {
+    "FloorID": 90002002,
+    "Comment": "交互测试2",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "90003001": {
+    "FloorID": 90003001,
+    "Comment": "Chap01_Office_01_SSRdev",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99991001": {
+    "FloorID": 99991001,
+    "Comment": "战斗打光测试",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99993001": {
+    "FloorID": 99993001,
+    "Comment": "springbone测试场景",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99999001": {
+    "FloorID": 99999001,
+    "Comment": "冒烟测试边缘通路",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  },
+  "99997001": {
+    "FloorID": 99997001,
+    "Comment": "QA测试广场",
+    "FloorName": "MazeText_Empty",
+    "BaseFloorID": 10101001,
+    "FloorBGMGroupName": "",
+    "FloorBGMNormalStateName": "",
+    "FloorDefaultEmotion": "",
+    "FloorBGMBusyStateName": "",
+    "EnterAudioEvent": [],
+    "ExitAudioEvent": [],
+    "FloorType": "Default",
+    "WalkingEffectAdditiveScale": 1.0,
+    "MunicipalConfigPath": "",
+    "MapLayerNameList": [
+      {
+        "hash": 1279275398
+      },
+      {
+        "hash": 1279275401
+      },
+      {
+        "hash": 1279275400
+      }
+    ]
+  }
+}

@@ -1,0 +1,3842 @@
+{
+  "20000:1": {
+    "SkillID": 20000,
+    "SkillName": {
+      "hash": -953112923
+    },
+    "SkillDesc": {
+      "hash": 1777866215
+    },
+    "Level": 1,
+    "AbilityName": "Ability20000",
+    "ParamList": [
+      {
+        "RawValue": 515396076
+      }
+    ]
+  },
+  "20000:2": {
+    "SkillID": 20000,
+    "SkillName": {
+      "hash": -953112923
+    },
+    "SkillDesc": {
+      "hash": 1777866215
+    },
+    "Level": 2,
+    "AbilityName": "Ability20000",
+    "ParamList": [
+      {
+        "RawValue": 644245095
+      }
+    ]
+  },
+  "20000:3": {
+    "SkillID": 20000,
+    "SkillName": {
+      "hash": -953112923
+    },
+    "SkillDesc": {
+      "hash": 1777866215
+    },
+    "Level": 3,
+    "AbilityName": "Ability20000",
+    "ParamList": [
+      {
+        "RawValue": 773094114
+      }
+    ]
+  },
+  "20000:4": {
+    "SkillID": 20000,
+    "SkillName": {
+      "hash": -953112923
+    },
+    "SkillDesc": {
+      "hash": 1777866215
+    },
+    "Level": 4,
+    "AbilityName": "Ability20000",
+    "ParamList": [
+      {
+        "RawValue": 901943133
+      }
+    ]
+  },
+  "20000:5": {
+    "SkillID": 20000,
+    "SkillName": {
+      "hash": -953112923
+    },
+    "SkillDesc": {
+      "hash": 1777866215
+    },
+    "Level": 5,
+    "AbilityName": "Ability20000",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "20001:1": {
+    "SkillID": 20001,
+    "SkillName": {
+      "hash": 612971018
+    },
+    "SkillDesc": {
+      "hash": -951017140
+    },
+    "Level": 1,
+    "AbilityName": "Ability20001",
+    "ParamList": [
+      {
+        "RawValue": 687194768
+      }
+    ]
+  },
+  "20001:2": {
+    "SkillID": 20001,
+    "SkillName": {
+      "hash": 612971018
+    },
+    "SkillDesc": {
+      "hash": -951017140
+    },
+    "Level": 2,
+    "AbilityName": "Ability20001",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "20001:3": {
+    "SkillID": 20001,
+    "SkillName": {
+      "hash": 612971018
+    },
+    "SkillDesc": {
+      "hash": -951017140
+    },
+    "Level": 3,
+    "AbilityName": "Ability20001",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "20001:4": {
+    "SkillID": 20001,
+    "SkillName": {
+      "hash": 612971018
+    },
+    "SkillDesc": {
+      "hash": -951017140
+    },
+    "Level": 4,
+    "AbilityName": "Ability20001",
+    "ParamList": [
+      {
+        "RawValue": 1202590844
+      }
+    ]
+  },
+  "20001:5": {
+    "SkillID": 20001,
+    "SkillName": {
+      "hash": 612971018
+    },
+    "SkillDesc": {
+      "hash": -951017140
+    },
+    "Level": 5,
+    "AbilityName": "Ability20001",
+    "ParamList": [
+      {
+        "RawValue": 1374389536
+      }
+    ]
+  },
+  "20002:1": {
+    "SkillID": 20002,
+    "SkillName": {
+      "hash": 209686491
+    },
+    "SkillDesc": {
+      "hash": 615066801
+    },
+    "Level": 1,
+    "AbilityName": "Ability20002",
+    "ParamList": [
+      {
+        "RawValue": 687194768
+      }
+    ]
+  },
+  "20002:2": {
+    "SkillID": 20002,
+    "SkillName": {
+      "hash": 209686491
+    },
+    "SkillDesc": {
+      "hash": 615066801
+    },
+    "Level": 2,
+    "AbilityName": "Ability20002",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "20002:3": {
+    "SkillID": 20002,
+    "SkillName": {
+      "hash": 209686491
+    },
+    "SkillDesc": {
+      "hash": 615066801
+    },
+    "Level": 3,
+    "AbilityName": "Ability20002",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "20002:4": {
+    "SkillID": 20002,
+    "SkillName": {
+      "hash": 209686491
+    },
+    "SkillDesc": {
+      "hash": 615066801
+    },
+    "Level": 4,
+    "AbilityName": "Ability20002",
+    "ParamList": [
+      {
+        "RawValue": 1202590844
+      }
+    ]
+  },
+  "20002:5": {
+    "SkillID": 20002,
+    "SkillName": {
+      "hash": 209686491
+    },
+    "SkillDesc": {
+      "hash": 615066801
+    },
+    "Level": 5,
+    "AbilityName": "Ability20002",
+    "ParamList": [
+      {
+        "RawValue": 1374389536
+      }
+    ]
+  },
+  "20003:1": {
+    "SkillID": 20003,
+    "SkillName": {
+      "hash": 1775770432
+    },
+    "SkillDesc": {
+      "hash": -2113816554
+    },
+    "Level": 1,
+    "AbilityName": "Ability20003",
+    "ParamList": [
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 687194768
+      }
+    ]
+  },
+  "20003:2": {
+    "SkillID": 20003,
+    "SkillName": {
+      "hash": 1775770432
+    },
+    "SkillDesc": {
+      "hash": -2113816554
+    },
+    "Level": 2,
+    "AbilityName": "Ability20003",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "20003:3": {
+    "SkillID": 20003,
+    "SkillName": {
+      "hash": 1775770432
+    },
+    "SkillDesc": {
+      "hash": -2113816554
+    },
+    "Level": 3,
+    "AbilityName": "Ability20003",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "20003:4": {
+    "SkillID": 20003,
+    "SkillName": {
+      "hash": 1775770432
+    },
+    "SkillDesc": {
+      "hash": -2113816554
+    },
+    "Level": 4,
+    "AbilityName": "Ability20003",
+    "ParamList": [
+      {
+        "RawValue": 1202590844
+      },
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1202590844
+      }
+    ]
+  },
+  "20003:5": {
+    "SkillID": 20003,
+    "SkillName": {
+      "hash": 1775770432
+    },
+    "SkillDesc": {
+      "hash": -2113816554
+    },
+    "Level": 5,
+    "AbilityName": "Ability20003",
+    "ParamList": [
+      {
+        "RawValue": 1374389536
+      },
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1374389536
+      }
+    ]
+  },
+  "20004:1": {
+    "SkillID": 20004,
+    "SkillName": {
+      "hash": 1372485905
+    },
+    "SkillDesc": {
+      "hash": -191502253
+    },
+    "Level": 1,
+    "AbilityName": "Ability20004",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "20004:2": {
+    "SkillID": 20004,
+    "SkillName": {
+      "hash": 1372485905
+    },
+    "SkillDesc": {
+      "hash": -191502253
+    },
+    "Level": 2,
+    "AbilityName": "Ability20004",
+    "ParamList": [
+      {
+        "RawValue": 1073741825
+      }
+    ]
+  },
+  "20004:3": {
+    "SkillID": 20004,
+    "SkillName": {
+      "hash": 1372485905
+    },
+    "SkillDesc": {
+      "hash": -191502253
+    },
+    "Level": 3,
+    "AbilityName": "Ability20004",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "20004:4": {
+    "SkillID": 20004,
+    "SkillName": {
+      "hash": 1372485905
+    },
+    "SkillDesc": {
+      "hash": -191502253
+    },
+    "Level": 4,
+    "AbilityName": "Ability20004",
+    "ParamList": [
+      {
+        "RawValue": 1503238555
+      }
+    ]
+  },
+  "20004:5": {
+    "SkillID": 20004,
+    "SkillName": {
+      "hash": 1372485905
+    },
+    "SkillDesc": {
+      "hash": -191502253
+    },
+    "Level": 5,
+    "AbilityName": "Ability20004",
+    "ParamList": [
+      {
+        "RawValue": 1717986920
+      }
+    ]
+  },
+  "20005:1": {
+    "SkillID": 20005,
+    "SkillName": {
+      "hash": -1356397450
+    },
+    "SkillDesc": {
+      "hash": 1374581688
+    },
+    "Level": 1,
+    "AbilityName": "Ability20005",
+    "ParamList": [
+      {
+        "RawValue": 343597384
+      }
+    ]
+  },
+  "20005:2": {
+    "SkillID": 20005,
+    "SkillName": {
+      "hash": -1356397450
+    },
+    "SkillDesc": {
+      "hash": 1374581688
+    },
+    "Level": 2,
+    "AbilityName": "Ability20005",
+    "ParamList": [
+      {
+        "RawValue": 429496730
+      }
+    ]
+  },
+  "20005:3": {
+    "SkillID": 20005,
+    "SkillName": {
+      "hash": -1356397450
+    },
+    "SkillDesc": {
+      "hash": 1374581688
+    },
+    "Level": 3,
+    "AbilityName": "Ability20005",
+    "ParamList": [
+      {
+        "RawValue": 515396076
+      }
+    ]
+  },
+  "20005:4": {
+    "SkillID": 20005,
+    "SkillName": {
+      "hash": -1356397450
+    },
+    "SkillDesc": {
+      "hash": 1374581688
+    },
+    "Level": 4,
+    "AbilityName": "Ability20005",
+    "ParamList": [
+      {
+        "RawValue": 601295422
+      }
+    ]
+  },
+  "20005:5": {
+    "SkillID": 20005,
+    "SkillName": {
+      "hash": -1356397450
+    },
+    "SkillDesc": {
+      "hash": 1374581688
+    },
+    "Level": 5,
+    "AbilityName": "Ability20005",
+    "ParamList": [
+      {
+        "RawValue": 687194768
+      }
+    ]
+  },
+  "20006:1": {
+    "SkillID": 20006,
+    "SkillName": {
+      "hash": -1759681977
+    },
+    "SkillDesc": {
+      "hash": -1354301667
+    },
+    "Level": 1,
+    "AbilityName": "Ability20006",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "20006:2": {
+    "SkillID": 20006,
+    "SkillName": {
+      "hash": -1759681977
+    },
+    "SkillDesc": {
+      "hash": -1354301667
+    },
+    "Level": 2,
+    "AbilityName": "Ability20006",
+    "ParamList": [
+      {
+        "RawValue": 1073741825
+      }
+    ]
+  },
+  "20006:3": {
+    "SkillID": 20006,
+    "SkillName": {
+      "hash": -1759681977
+    },
+    "SkillDesc": {
+      "hash": -1354301667
+    },
+    "Level": 3,
+    "AbilityName": "Ability20006",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "20006:4": {
+    "SkillID": 20006,
+    "SkillName": {
+      "hash": -1759681977
+    },
+    "SkillDesc": {
+      "hash": -1354301667
+    },
+    "Level": 4,
+    "AbilityName": "Ability20006",
+    "ParamList": [
+      {
+        "RawValue": 1503238555
+      }
+    ]
+  },
+  "20006:5": {
+    "SkillID": 20006,
+    "SkillName": {
+      "hash": -1759681977
+    },
+    "SkillDesc": {
+      "hash": -1354301667
+    },
+    "Level": 5,
+    "AbilityName": "Ability20006",
+    "ParamList": [
+      {
+        "RawValue": 1717986920
+      }
+    ]
+  },
+  "20007:1": {
+    "SkillID": 20007,
+    "SkillName": {
+      "hash": -193598036
+    },
+    "SkillDesc": {
+      "hash": 211782274
+    },
+    "Level": 1,
+    "AbilityName": "Ability20007",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "20007:2": {
+    "SkillID": 20007,
+    "SkillName": {
+      "hash": -193598036
+    },
+    "SkillDesc": {
+      "hash": 211782274
+    },
+    "Level": 2,
+    "AbilityName": "Ability20007",
+    "ParamList": [
+      {
+        "RawValue": 1073741825
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "20007:3": {
+    "SkillID": 20007,
+    "SkillName": {
+      "hash": -193598036
+    },
+    "SkillDesc": {
+      "hash": 211782274
+    },
+    "Level": 3,
+    "AbilityName": "Ability20007",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "20007:4": {
+    "SkillID": 20007,
+    "SkillName": {
+      "hash": -193598036
+    },
+    "SkillDesc": {
+      "hash": 211782274
+    },
+    "Level": 4,
+    "AbilityName": "Ability20007",
+    "ParamList": [
+      {
+        "RawValue": 1503238555
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "20007:5": {
+    "SkillID": 20007,
+    "SkillName": {
+      "hash": -193598036
+    },
+    "SkillDesc": {
+      "hash": 211782274
+    },
+    "Level": 5,
+    "AbilityName": "Ability20007",
+    "ParamList": [
+      {
+        "RawValue": 1717986920
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "20008:1": {
+    "SkillID": 20008,
+    "SkillName": {
+      "hash": -596882563
+    },
+    "SkillDesc": {
+      "hash": 2134096575
+    },
+    "Level": 1,
+    "AbilityName": "Ability20008",
+    "ParamList": [
+      {
+        "RawValue": 34359738368
+      }
+    ]
+  },
+  "20008:2": {
+    "SkillID": 20008,
+    "SkillName": {
+      "hash": -596882563
+    },
+    "SkillDesc": {
+      "hash": 2134096575
+    },
+    "Level": 2,
+    "AbilityName": "Ability20008",
+    "ParamList": [
+      {
+        "RawValue": 38654705664
+      }
+    ]
+  },
+  "20008:3": {
+    "SkillID": 20008,
+    "SkillName": {
+      "hash": -596882563
+    },
+    "SkillDesc": {
+      "hash": 2134096575
+    },
+    "Level": 3,
+    "AbilityName": "Ability20008",
+    "ParamList": [
+      {
+        "RawValue": 42949672960
+      }
+    ]
+  },
+  "20008:4": {
+    "SkillID": 20008,
+    "SkillName": {
+      "hash": -596882563
+    },
+    "SkillDesc": {
+      "hash": 2134096575
+    },
+    "Level": 4,
+    "AbilityName": "Ability20008",
+    "ParamList": [
+      {
+        "RawValue": 47244640256
+      }
+    ]
+  },
+  "20008:5": {
+    "SkillID": 20008,
+    "SkillName": {
+      "hash": -596882563
+    },
+    "SkillDesc": {
+      "hash": 2134096575
+    },
+    "Level": 5,
+    "AbilityName": "Ability20008",
+    "ParamList": [
+      {
+        "RawValue": 51539607552
+      }
+    ]
+  },
+  "20009:1": {
+    "SkillID": 20009,
+    "SkillName": {
+      "hash": 969201378
+    },
+    "SkillDesc": {
+      "hash": -594786780
+    },
+    "Level": 1,
+    "AbilityName": "Ability20009",
+    "ParamList": [
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "20009:2": {
+    "SkillID": 20009,
+    "SkillName": {
+      "hash": 969201378
+    },
+    "SkillDesc": {
+      "hash": -594786780
+    },
+    "Level": 2,
+    "AbilityName": "Ability20009",
+    "ParamList": [
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1073741825
+      }
+    ]
+  },
+  "20009:3": {
+    "SkillID": 20009,
+    "SkillName": {
+      "hash": 969201378
+    },
+    "SkillDesc": {
+      "hash": -594786780
+    },
+    "Level": 3,
+    "AbilityName": "Ability20009",
+    "ParamList": [
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "20009:4": {
+    "SkillID": 20009,
+    "SkillName": {
+      "hash": 969201378
+    },
+    "SkillDesc": {
+      "hash": -594786780
+    },
+    "Level": 4,
+    "AbilityName": "Ability20009",
+    "ParamList": [
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1503238555
+      }
+    ]
+  },
+  "20009:5": {
+    "SkillID": 20009,
+    "SkillName": {
+      "hash": 969201378
+    },
+    "SkillDesc": {
+      "hash": -594786780
+    },
+    "Level": 5,
+    "AbilityName": "Ability20009",
+    "ParamList": [
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1717986920
+      }
+    ]
+  },
+  "20010:1": {
+    "SkillID": 20010,
+    "SkillName": {
+      "hash": -953112924
+    },
+    "SkillDesc": {
+      "hash": 1777866214
+    },
+    "Level": 1,
+    "AbilityName": "Ability20010",
+    "ParamList": [
+      {
+        "RawValue": 773094114
+      }
+    ]
+  },
+  "20010:2": {
+    "SkillID": 20010,
+    "SkillName": {
+      "hash": -953112924
+    },
+    "SkillDesc": {
+      "hash": 1777866214
+    },
+    "Level": 2,
+    "AbilityName": "Ability20010",
+    "ParamList": [
+      {
+        "RawValue": 901943133
+      }
+    ]
+  },
+  "20010:3": {
+    "SkillID": 20010,
+    "SkillName": {
+      "hash": -953112924
+    },
+    "SkillDesc": {
+      "hash": 1777866214
+    },
+    "Level": 3,
+    "AbilityName": "Ability20010",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "20010:4": {
+    "SkillID": 20010,
+    "SkillName": {
+      "hash": -953112924
+    },
+    "SkillDesc": {
+      "hash": 1777866214
+    },
+    "Level": 4,
+    "AbilityName": "Ability20010",
+    "ParamList": [
+      {
+        "RawValue": 1159641171
+      }
+    ]
+  },
+  "20010:5": {
+    "SkillID": 20010,
+    "SkillName": {
+      "hash": -953112924
+    },
+    "SkillDesc": {
+      "hash": 1777866214
+    },
+    "Level": 5,
+    "AbilityName": "Ability20010",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "20011:1": {
+    "SkillID": 20011,
+    "SkillName": {
+      "hash": 612971017
+    },
+    "SkillDesc": {
+      "hash": -951017141
+    },
+    "Level": 1,
+    "AbilityName": "Ability20011",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "20011:2": {
+    "SkillID": 20011,
+    "SkillName": {
+      "hash": 612971017
+    },
+    "SkillDesc": {
+      "hash": -951017141
+    },
+    "Level": 2,
+    "AbilityName": "Ability20011",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "20011:3": {
+    "SkillID": 20011,
+    "SkillName": {
+      "hash": 612971017
+    },
+    "SkillDesc": {
+      "hash": -951017141
+    },
+    "Level": 3,
+    "AbilityName": "Ability20011",
+    "ParamList": [
+      {
+        "RawValue": 1546188228
+      }
+    ]
+  },
+  "20011:4": {
+    "SkillID": 20011,
+    "SkillName": {
+      "hash": 612971017
+    },
+    "SkillDesc": {
+      "hash": -951017141
+    },
+    "Level": 4,
+    "AbilityName": "Ability20011",
+    "ParamList": [
+      {
+        "RawValue": 1803886266
+      }
+    ]
+  },
+  "20011:5": {
+    "SkillID": 20011,
+    "SkillName": {
+      "hash": 612971017
+    },
+    "SkillDesc": {
+      "hash": -951017141
+    },
+    "Level": 5,
+    "AbilityName": "Ability20011",
+    "ParamList": [
+      {
+        "RawValue": 2061584304
+      }
+    ]
+  },
+  "20012:1": {
+    "SkillID": 20012,
+    "SkillName": {
+      "hash": 209686490
+    },
+    "SkillDesc": {
+      "hash": 615066800
+    },
+    "Level": 1,
+    "AbilityName": "Ability20012",
+    "ParamList": [
+      {
+        "RawValue": 343597384
+      }
+    ]
+  },
+  "20012:2": {
+    "SkillID": 20012,
+    "SkillName": {
+      "hash": 209686490
+    },
+    "SkillDesc": {
+      "hash": 615066800
+    },
+    "Level": 2,
+    "AbilityName": "Ability20012",
+    "ParamList": [
+      {
+        "RawValue": 429496730
+      }
+    ]
+  },
+  "20012:3": {
+    "SkillID": 20012,
+    "SkillName": {
+      "hash": 209686490
+    },
+    "SkillDesc": {
+      "hash": 615066800
+    },
+    "Level": 3,
+    "AbilityName": "Ability20012",
+    "ParamList": [
+      {
+        "RawValue": 515396076
+      }
+    ]
+  },
+  "20012:4": {
+    "SkillID": 20012,
+    "SkillName": {
+      "hash": 209686490
+    },
+    "SkillDesc": {
+      "hash": 615066800
+    },
+    "Level": 4,
+    "AbilityName": "Ability20012",
+    "ParamList": [
+      {
+        "RawValue": 601295422
+      }
+    ]
+  },
+  "20012:5": {
+    "SkillID": 20012,
+    "SkillName": {
+      "hash": 209686490
+    },
+    "SkillDesc": {
+      "hash": 615066800
+    },
+    "Level": 5,
+    "AbilityName": "Ability20012",
+    "ParamList": [
+      {
+        "RawValue": 687194768
+      }
+    ]
+  },
+  "20013:1": {
+    "SkillID": 20013,
+    "SkillName": {
+      "hash": 1775770431
+    },
+    "SkillDesc": {
+      "hash": -2113816555
+    },
+    "Level": 1,
+    "AbilityName": "Ability20013",
+    "ParamList": [
+      {
+        "RawValue": 34359738368
+      }
+    ]
+  },
+  "20013:2": {
+    "SkillID": 20013,
+    "SkillName": {
+      "hash": 1775770431
+    },
+    "SkillDesc": {
+      "hash": -2113816555
+    },
+    "Level": 2,
+    "AbilityName": "Ability20013",
+    "ParamList": [
+      {
+        "RawValue": 42949672960
+      }
+    ]
+  },
+  "20013:3": {
+    "SkillID": 20013,
+    "SkillName": {
+      "hash": 1775770431
+    },
+    "SkillDesc": {
+      "hash": -2113816555
+    },
+    "Level": 3,
+    "AbilityName": "Ability20013",
+    "ParamList": [
+      {
+        "RawValue": 51539607552
+      }
+    ]
+  },
+  "20013:4": {
+    "SkillID": 20013,
+    "SkillName": {
+      "hash": 1775770431
+    },
+    "SkillDesc": {
+      "hash": -2113816555
+    },
+    "Level": 4,
+    "AbilityName": "Ability20013",
+    "ParamList": [
+      {
+        "RawValue": 60129542144
+      }
+    ]
+  },
+  "20013:5": {
+    "SkillID": 20013,
+    "SkillName": {
+      "hash": 1775770431
+    },
+    "SkillDesc": {
+      "hash": -2113816555
+    },
+    "Level": 5,
+    "AbilityName": "Ability20013",
+    "ParamList": [
+      {
+        "RawValue": 68719476736
+      }
+    ]
+  },
+  "21000:1": {
+    "SkillID": 21000,
+    "SkillName": {
+      "hash": -953113020
+    },
+    "SkillDesc": {
+      "hash": 1777866118
+    },
+    "Level": 1,
+    "AbilityName": "Ability21000",
+    "ParamList": [
+      {
+        "RawValue": 515396076
+      },
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "21000:2": {
+    "SkillID": 21000,
+    "SkillName": {
+      "hash": -953113020
+    },
+    "SkillDesc": {
+      "hash": 1777866118
+    },
+    "Level": 2,
+    "AbilityName": "Ability21000",
+    "ParamList": [
+      {
+        "RawValue": 644245095
+      },
+      {
+        "RawValue": 1073741825
+      }
+    ]
+  },
+  "21000:3": {
+    "SkillID": 21000,
+    "SkillName": {
+      "hash": -953113020
+    },
+    "SkillDesc": {
+      "hash": 1777866118
+    },
+    "Level": 3,
+    "AbilityName": "Ability21000",
+    "ParamList": [
+      {
+        "RawValue": 773094114
+      },
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "21000:4": {
+    "SkillID": 21000,
+    "SkillName": {
+      "hash": -953113020
+    },
+    "SkillDesc": {
+      "hash": 1777866118
+    },
+    "Level": 4,
+    "AbilityName": "Ability21000",
+    "ParamList": [
+      {
+        "RawValue": 901943133
+      },
+      {
+        "RawValue": 1503238555
+      }
+    ]
+  },
+  "21000:5": {
+    "SkillID": 21000,
+    "SkillName": {
+      "hash": -953113020
+    },
+    "SkillDesc": {
+      "hash": 1777866118
+    },
+    "Level": 5,
+    "AbilityName": "Ability21000",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 1717986920
+      }
+    ]
+  },
+  "21001:1": {
+    "SkillID": 21001,
+    "SkillName": {
+      "hash": 612970921
+    },
+    "SkillDesc": {
+      "hash": -951017237
+    },
+    "Level": 1,
+    "AbilityName": "Ability21001",
+    "ParamList": [
+      {
+        "RawValue": 515396076
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "21001:2": {
+    "SkillID": 21001,
+    "SkillName": {
+      "hash": 612970921
+    },
+    "SkillDesc": {
+      "hash": -951017237
+    },
+    "Level": 2,
+    "AbilityName": "Ability21001",
+    "ParamList": [
+      {
+        "RawValue": 644245095
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "21001:3": {
+    "SkillID": 21001,
+    "SkillName": {
+      "hash": 612970921
+    },
+    "SkillDesc": {
+      "hash": -951017237
+    },
+    "Level": 3,
+    "AbilityName": "Ability21001",
+    "ParamList": [
+      {
+        "RawValue": 773094114
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "21001:4": {
+    "SkillID": 21001,
+    "SkillName": {
+      "hash": 612970921
+    },
+    "SkillDesc": {
+      "hash": -951017237
+    },
+    "Level": 4,
+    "AbilityName": "Ability21001",
+    "ParamList": [
+      {
+        "RawValue": 901943133
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "21001:5": {
+    "SkillID": 21001,
+    "SkillName": {
+      "hash": 612970921
+    },
+    "SkillDesc": {
+      "hash": -951017237
+    },
+    "Level": 5,
+    "AbilityName": "Ability21001",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "21002:1": {
+    "SkillID": 21002,
+    "SkillName": {
+      "hash": 209686394
+    },
+    "SkillDesc": {
+      "hash": 615066704
+    },
+    "Level": 1,
+    "AbilityName": "Ability21002",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 343597384
+      }
+    ]
+  },
+  "21002:2": {
+    "SkillID": 21002,
+    "SkillName": {
+      "hash": 209686394
+    },
+    "SkillDesc": {
+      "hash": 615066704
+    },
+    "Level": 2,
+    "AbilityName": "Ability21002",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 386547057
+      }
+    ]
+  },
+  "21002:3": {
+    "SkillID": 21002,
+    "SkillName": {
+      "hash": 209686394
+    },
+    "SkillDesc": {
+      "hash": 615066704
+    },
+    "Level": 3,
+    "AbilityName": "Ability21002",
+    "ParamList": [
+      {
+        "RawValue": 1546188228
+      },
+      {
+        "RawValue": 429496730
+      }
+    ]
+  },
+  "21002:4": {
+    "SkillID": 21002,
+    "SkillName": {
+      "hash": 209686394
+    },
+    "SkillDesc": {
+      "hash": 615066704
+    },
+    "Level": 4,
+    "AbilityName": "Ability21002",
+    "ParamList": [
+      {
+        "RawValue": 1803886266
+      },
+      {
+        "RawValue": 472446403
+      }
+    ]
+  },
+  "21002:5": {
+    "SkillID": 21002,
+    "SkillName": {
+      "hash": 209686394
+    },
+    "SkillDesc": {
+      "hash": 615066704
+    },
+    "Level": 5,
+    "AbilityName": "Ability21002",
+    "ParamList": [
+      {
+        "RawValue": 2061584304
+      },
+      {
+        "RawValue": 515396076
+      }
+    ]
+  },
+  "21003:1": {
+    "SkillID": 21003,
+    "SkillName": {
+      "hash": 1775770335
+    },
+    "SkillDesc": {
+      "hash": -2113816651
+    },
+    "Level": 1,
+    "AbilityName": "Ability21003",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 515396076
+      }
+    ]
+  },
+  "21003:2": {
+    "SkillID": 21003,
+    "SkillName": {
+      "hash": 1775770335
+    },
+    "SkillDesc": {
+      "hash": -2113816651
+    },
+    "Level": 2,
+    "AbilityName": "Ability21003",
+    "ParamList": [
+      {
+        "RawValue": 1073741825
+      },
+      {
+        "RawValue": 644245095
+      }
+    ]
+  },
+  "21003:3": {
+    "SkillID": 21003,
+    "SkillName": {
+      "hash": 1775770335
+    },
+    "SkillDesc": {
+      "hash": -2113816651
+    },
+    "Level": 3,
+    "AbilityName": "Ability21003",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 773094114
+      }
+    ]
+  },
+  "21003:4": {
+    "SkillID": 21003,
+    "SkillName": {
+      "hash": 1775770335
+    },
+    "SkillDesc": {
+      "hash": -2113816651
+    },
+    "Level": 4,
+    "AbilityName": "Ability21003",
+    "ParamList": [
+      {
+        "RawValue": 1503238555
+      },
+      {
+        "RawValue": 901943133
+      }
+    ]
+  },
+  "21003:5": {
+    "SkillID": 21003,
+    "SkillName": {
+      "hash": 1775770335
+    },
+    "SkillDesc": {
+      "hash": -2113816651
+    },
+    "Level": 5,
+    "AbilityName": "Ability21003",
+    "ParamList": [
+      {
+        "RawValue": 1717986920
+      },
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "21004:1": {
+    "SkillID": 21004,
+    "SkillName": {
+      "hash": 1372485808
+    },
+    "SkillDesc": {
+      "hash": -191502350
+    },
+    "Level": 1,
+    "AbilityName": "Ability21004",
+    "ParamList": [
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 34359738368
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "21004:2": {
+    "SkillID": 21004,
+    "SkillName": {
+      "hash": 1372485808
+    },
+    "SkillDesc": {
+      "hash": -191502350
+    },
+    "Level": 2,
+    "AbilityName": "Ability21004",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 42949672960
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "21004:3": {
+    "SkillID": 21004,
+    "SkillName": {
+      "hash": 1372485808
+    },
+    "SkillDesc": {
+      "hash": -191502350
+    },
+    "Level": 3,
+    "AbilityName": "Ability21004",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 51539607552
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "21004:4": {
+    "SkillID": 21004,
+    "SkillName": {
+      "hash": 1372485808
+    },
+    "SkillDesc": {
+      "hash": -191502350
+    },
+    "Level": 4,
+    "AbilityName": "Ability21004",
+    "ParamList": [
+      {
+        "RawValue": 1202590844
+      },
+      {
+        "RawValue": 60129542144
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "21004:5": {
+    "SkillID": 21004,
+    "SkillName": {
+      "hash": 1372485808
+    },
+    "SkillDesc": {
+      "hash": -191502350
+    },
+    "Level": 5,
+    "AbilityName": "Ability21004",
+    "ParamList": [
+      {
+        "RawValue": 1374389536
+      },
+      {
+        "RawValue": 68719476736
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "21005:1": {
+    "SkillID": 21005,
+    "SkillName": {
+      "hash": -1356397547
+    },
+    "SkillDesc": {
+      "hash": 1374581591
+    },
+    "Level": 1,
+    "AbilityName": "Ability21005",
+    "ParamList": [
+      {
+        "RawValue": 515396076
+      }
+    ]
+  },
+  "21005:2": {
+    "SkillID": 21005,
+    "SkillName": {
+      "hash": -1356397547
+    },
+    "SkillDesc": {
+      "hash": 1374581591
+    },
+    "Level": 2,
+    "AbilityName": "Ability21005",
+    "ParamList": [
+      {
+        "RawValue": 644245095
+      }
+    ]
+  },
+  "21005:3": {
+    "SkillID": 21005,
+    "SkillName": {
+      "hash": -1356397547
+    },
+    "SkillDesc": {
+      "hash": 1374581591
+    },
+    "Level": 3,
+    "AbilityName": "Ability21005",
+    "ParamList": [
+      {
+        "RawValue": 773094114
+      }
+    ]
+  },
+  "21005:4": {
+    "SkillID": 21005,
+    "SkillName": {
+      "hash": -1356397547
+    },
+    "SkillDesc": {
+      "hash": 1374581591
+    },
+    "Level": 4,
+    "AbilityName": "Ability21005",
+    "ParamList": [
+      {
+        "RawValue": 901943133
+      }
+    ]
+  },
+  "21005:5": {
+    "SkillID": 21005,
+    "SkillName": {
+      "hash": -1356397547
+    },
+    "SkillDesc": {
+      "hash": 1374581591
+    },
+    "Level": 5,
+    "AbilityName": "Ability21005",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "21006:1": {
+    "SkillID": 21006,
+    "SkillName": {
+      "hash": -1759682074
+    },
+    "SkillDesc": {
+      "hash": -1354301764
+    },
+    "Level": 1,
+    "AbilityName": "Ability21006",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "21006:2": {
+    "SkillID": 21006,
+    "SkillName": {
+      "hash": -1759682074
+    },
+    "SkillDesc": {
+      "hash": -1354301764
+    },
+    "Level": 2,
+    "AbilityName": "Ability21006",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "21006:3": {
+    "SkillID": 21006,
+    "SkillName": {
+      "hash": -1759682074
+    },
+    "SkillDesc": {
+      "hash": -1354301764
+    },
+    "Level": 3,
+    "AbilityName": "Ability21006",
+    "ParamList": [
+      {
+        "RawValue": 1546188228
+      },
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1546188228
+      }
+    ]
+  },
+  "21006:4": {
+    "SkillID": 21006,
+    "SkillName": {
+      "hash": -1759682074
+    },
+    "SkillDesc": {
+      "hash": -1354301764
+    },
+    "Level": 4,
+    "AbilityName": "Ability21006",
+    "ParamList": [
+      {
+        "RawValue": 1803886266
+      },
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 1803886266
+      }
+    ]
+  },
+  "21006:5": {
+    "SkillID": 21006,
+    "SkillName": {
+      "hash": -1759682074
+    },
+    "SkillDesc": {
+      "hash": -1354301764
+    },
+    "Level": 5,
+    "AbilityName": "Ability21006",
+    "ParamList": [
+      {
+        "RawValue": 2061584304
+      },
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 2061584304
+      }
+    ]
+  },
+  "21007:1": {
+    "SkillID": 21007,
+    "SkillName": {
+      "hash": -193598133
+    },
+    "SkillDesc": {
+      "hash": 211782177
+    },
+    "Level": 1,
+    "AbilityName": "Ability21007",
+    "ParamList": [
+      {
+        "RawValue": 515396076
+      },
+      {
+        "RawValue": 17179869184
+      }
+    ]
+  },
+  "21007:2": {
+    "SkillID": 21007,
+    "SkillName": {
+      "hash": -193598133
+    },
+    "SkillDesc": {
+      "hash": 211782177
+    },
+    "Level": 2,
+    "AbilityName": "Ability21007",
+    "ParamList": [
+      {
+        "RawValue": 644245095
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "21007:3": {
+    "SkillID": 21007,
+    "SkillName": {
+      "hash": -193598133
+    },
+    "SkillDesc": {
+      "hash": 211782177
+    },
+    "Level": 3,
+    "AbilityName": "Ability21007",
+    "ParamList": [
+      {
+        "RawValue": 773094114
+      },
+      {
+        "RawValue": 25769803776
+      }
+    ]
+  },
+  "21007:4": {
+    "SkillID": 21007,
+    "SkillName": {
+      "hash": -193598133
+    },
+    "SkillDesc": {
+      "hash": 211782177
+    },
+    "Level": 4,
+    "AbilityName": "Ability21007",
+    "ParamList": [
+      {
+        "RawValue": 901943133
+      },
+      {
+        "RawValue": 30064771072
+      }
+    ]
+  },
+  "21007:5": {
+    "SkillID": 21007,
+    "SkillName": {
+      "hash": -193598133
+    },
+    "SkillDesc": {
+      "hash": 211782177
+    },
+    "Level": 5,
+    "AbilityName": "Ability21007",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 34359738368
+      }
+    ]
+  },
+  "21008:1": {
+    "SkillID": 21008,
+    "SkillName": {
+      "hash": -596882660
+    },
+    "SkillDesc": {
+      "hash": 2134096478
+    },
+    "Level": 1,
+    "AbilityName": "Ability21008",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "21008:2": {
+    "SkillID": 21008,
+    "SkillName": {
+      "hash": -596882660
+    },
+    "SkillDesc": {
+      "hash": 2134096478
+    },
+    "Level": 2,
+    "AbilityName": "Ability21008",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "21008:3": {
+    "SkillID": 21008,
+    "SkillName": {
+      "hash": -596882660
+    },
+    "SkillDesc": {
+      "hash": 2134096478
+    },
+    "Level": 3,
+    "AbilityName": "Ability21008",
+    "ParamList": [
+      {
+        "RawValue": 1546188228
+      },
+      {
+        "RawValue": 1546188228
+      }
+    ]
+  },
+  "21008:4": {
+    "SkillID": 21008,
+    "SkillName": {
+      "hash": -596882660
+    },
+    "SkillDesc": {
+      "hash": 2134096478
+    },
+    "Level": 4,
+    "AbilityName": "Ability21008",
+    "ParamList": [
+      {
+        "RawValue": 1803886266
+      },
+      {
+        "RawValue": 1803886266
+      }
+    ]
+  },
+  "21008:5": {
+    "SkillID": 21008,
+    "SkillName": {
+      "hash": -596882660
+    },
+    "SkillDesc": {
+      "hash": 2134096478
+    },
+    "Level": 5,
+    "AbilityName": "Ability21008",
+    "ParamList": [
+      {
+        "RawValue": 2061584304
+      },
+      {
+        "RawValue": 2061584304
+      }
+    ]
+  },
+  "21009:1": {
+    "SkillID": 21009,
+    "SkillName": {
+      "hash": 969201281
+    },
+    "SkillDesc": {
+      "hash": -594786877
+    },
+    "Level": 1,
+    "AbilityName": "Ability21009",
+    "ParamList": [
+      {
+        "RawValue": 8589934592
+      },
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "21009:2": {
+    "SkillID": 21009,
+    "SkillName": {
+      "hash": 969201281
+    },
+    "SkillDesc": {
+      "hash": -594786877
+    },
+    "Level": 2,
+    "AbilityName": "Ability21009",
+    "ParamList": [
+      {
+        "RawValue": 8589934592
+      },
+      {
+        "RawValue": 1159641171
+      }
+    ]
+  },
+  "21009:3": {
+    "SkillID": 21009,
+    "SkillName": {
+      "hash": 969201281
+    },
+    "SkillDesc": {
+      "hash": -594786877
+    },
+    "Level": 3,
+    "AbilityName": "Ability21009",
+    "ParamList": [
+      {
+        "RawValue": 8589934592
+      },
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "21009:4": {
+    "SkillID": 21009,
+    "SkillName": {
+      "hash": 969201281
+    },
+    "SkillDesc": {
+      "hash": -594786877
+    },
+    "Level": 4,
+    "AbilityName": "Ability21009",
+    "ParamList": [
+      {
+        "RawValue": 8589934592
+      },
+      {
+        "RawValue": 1417339209
+      }
+    ]
+  },
+  "21009:5": {
+    "SkillID": 21009,
+    "SkillName": {
+      "hash": 969201281
+    },
+    "SkillDesc": {
+      "hash": -594786877
+    },
+    "Level": 5,
+    "AbilityName": "Ability21009",
+    "ParamList": [
+      {
+        "RawValue": 8589934592
+      },
+      {
+        "RawValue": 1546188228
+      }
+    ]
+  },
+  "21010:1": {
+    "SkillID": 21010,
+    "SkillName": {
+      "hash": -953113019
+    },
+    "SkillDesc": {
+      "hash": 1777866119
+    },
+    "Level": 1,
+    "AbilityName": "Ability21010",
+    "ParamList": [
+      {
+        "RawValue": 343597384
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "21010:2": {
+    "SkillID": 21010,
+    "SkillName": {
+      "hash": -953113019
+    },
+    "SkillDesc": {
+      "hash": 1777866119
+    },
+    "Level": 2,
+    "AbilityName": "Ability21010",
+    "ParamList": [
+      {
+        "RawValue": 429496730
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "21010:3": {
+    "SkillID": 21010,
+    "SkillName": {
+      "hash": -953113019
+    },
+    "SkillDesc": {
+      "hash": 1777866119
+    },
+    "Level": 3,
+    "AbilityName": "Ability21010",
+    "ParamList": [
+      {
+        "RawValue": 515396076
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "21010:4": {
+    "SkillID": 21010,
+    "SkillName": {
+      "hash": -953113019
+    },
+    "SkillDesc": {
+      "hash": 1777866119
+    },
+    "Level": 4,
+    "AbilityName": "Ability21010",
+    "ParamList": [
+      {
+        "RawValue": 601295422
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "21010:5": {
+    "SkillID": 21010,
+    "SkillName": {
+      "hash": -953113019
+    },
+    "SkillDesc": {
+      "hash": 1777866119
+    },
+    "Level": 5,
+    "AbilityName": "Ability21010",
+    "ParamList": [
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "21011:1": {
+    "SkillID": 21011,
+    "SkillName": {
+      "hash": 612970922
+    },
+    "SkillDesc": {
+      "hash": -951017236
+    },
+    "Level": 1,
+    "AbilityName": "Ability21011",
+    "ParamList": [
+      {
+        "RawValue": 687194768
+      }
+    ]
+  },
+  "21011:2": {
+    "SkillID": 21011,
+    "SkillName": {
+      "hash": 612970922
+    },
+    "SkillDesc": {
+      "hash": -951017236
+    },
+    "Level": 2,
+    "AbilityName": "Ability21011",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "21011:3": {
+    "SkillID": 21011,
+    "SkillName": {
+      "hash": 612970922
+    },
+    "SkillDesc": {
+      "hash": -951017236
+    },
+    "Level": 3,
+    "AbilityName": "Ability21011",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "21011:4": {
+    "SkillID": 21011,
+    "SkillName": {
+      "hash": 612970922
+    },
+    "SkillDesc": {
+      "hash": -951017236
+    },
+    "Level": 4,
+    "AbilityName": "Ability21011",
+    "ParamList": [
+      {
+        "RawValue": 1202590844
+      }
+    ]
+  },
+  "21011:5": {
+    "SkillID": 21011,
+    "SkillName": {
+      "hash": 612970922
+    },
+    "SkillDesc": {
+      "hash": -951017236
+    },
+    "Level": 5,
+    "AbilityName": "Ability21011",
+    "ParamList": [
+      {
+        "RawValue": 1374389536
+      }
+    ]
+  },
+  "21012:1": {
+    "SkillID": 21012,
+    "SkillName": {
+      "hash": 209686395
+    },
+    "SkillDesc": {
+      "hash": 615066705
+    },
+    "Level": 1,
+    "AbilityName": "Ability21012",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "21012:2": {
+    "SkillID": 21012,
+    "SkillName": {
+      "hash": 209686395
+    },
+    "SkillDesc": {
+      "hash": 615066705
+    },
+    "Level": 2,
+    "AbilityName": "Ability21012",
+    "ParamList": [
+      {
+        "RawValue": 1073741825
+      },
+      {
+        "RawValue": 1073741825
+      }
+    ]
+  },
+  "21012:3": {
+    "SkillID": 21012,
+    "SkillName": {
+      "hash": 209686395
+    },
+    "SkillDesc": {
+      "hash": 615066705
+    },
+    "Level": 3,
+    "AbilityName": "Ability21012",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "21012:4": {
+    "SkillID": 21012,
+    "SkillName": {
+      "hash": 209686395
+    },
+    "SkillDesc": {
+      "hash": 615066705
+    },
+    "Level": 4,
+    "AbilityName": "Ability21012",
+    "ParamList": [
+      {
+        "RawValue": 1503238555
+      },
+      {
+        "RawValue": 1503238555
+      }
+    ]
+  },
+  "21012:5": {
+    "SkillID": 21012,
+    "SkillName": {
+      "hash": 209686395
+    },
+    "SkillDesc": {
+      "hash": 615066705
+    },
+    "Level": 5,
+    "AbilityName": "Ability21012",
+    "ParamList": [
+      {
+        "RawValue": 1717986920
+      },
+      {
+        "RawValue": 1717986920
+      }
+    ]
+  },
+  "21013:1": {
+    "SkillID": 21013,
+    "SkillName": {
+      "hash": 1775770336
+    },
+    "SkillDesc": {
+      "hash": -2113816650
+    },
+    "Level": 1,
+    "AbilityName": "Ability21013",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 77309411328
+      }
+    ]
+  },
+  "21013:2": {
+    "SkillID": 21013,
+    "SkillName": {
+      "hash": 1775770336
+    },
+    "SkillDesc": {
+      "hash": -2113816650
+    },
+    "Level": 2,
+    "AbilityName": "Ability21013",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 90194313216
+      }
+    ]
+  },
+  "21013:3": {
+    "SkillID": 21013,
+    "SkillName": {
+      "hash": 1775770336
+    },
+    "SkillDesc": {
+      "hash": -2113816650
+    },
+    "Level": 3,
+    "AbilityName": "Ability21013",
+    "ParamList": [
+      {
+        "RawValue": 1546188228
+      },
+      {
+        "RawValue": 103079215104
+      }
+    ]
+  },
+  "21013:4": {
+    "SkillID": 21013,
+    "SkillName": {
+      "hash": 1775770336
+    },
+    "SkillDesc": {
+      "hash": -2113816650
+    },
+    "Level": 4,
+    "AbilityName": "Ability21013",
+    "ParamList": [
+      {
+        "RawValue": 1803886266
+      },
+      {
+        "RawValue": 115964116992
+      }
+    ]
+  },
+  "21013:5": {
+    "SkillID": 21013,
+    "SkillName": {
+      "hash": 1775770336
+    },
+    "SkillDesc": {
+      "hash": -2113816650
+    },
+    "Level": 5,
+    "AbilityName": "Ability21013",
+    "ParamList": [
+      {
+        "RawValue": 2061584304
+      },
+      {
+        "RawValue": 128849018880
+      }
+    ]
+  },
+  "23000:1": {
+    "SkillID": 23000,
+    "SkillName": {
+      "hash": -953113086
+    },
+    "SkillDesc": {
+      "hash": 1777866052
+    },
+    "Level": 1,
+    "AbilityName": "Ability23000",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 343597384
+      }
+    ]
+  },
+  "23000:2": {
+    "SkillID": 23000,
+    "SkillName": {
+      "hash": -953113086
+    },
+    "SkillDesc": {
+      "hash": 1777866052
+    },
+    "Level": 2,
+    "AbilityName": "Ability23000",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 429496730
+      }
+    ]
+  },
+  "23000:3": {
+    "SkillID": 23000,
+    "SkillName": {
+      "hash": -953113086
+    },
+    "SkillDesc": {
+      "hash": 1777866052
+    },
+    "Level": 3,
+    "AbilityName": "Ability23000",
+    "ParamList": [
+      {
+        "RawValue": 1546188228
+      },
+      {
+        "RawValue": 515396076
+      }
+    ]
+  },
+  "23000:4": {
+    "SkillID": 23000,
+    "SkillName": {
+      "hash": -953113086
+    },
+    "SkillDesc": {
+      "hash": 1777866052
+    },
+    "Level": 4,
+    "AbilityName": "Ability23000",
+    "ParamList": [
+      {
+        "RawValue": 1803886266
+      },
+      {
+        "RawValue": 601295422
+      }
+    ]
+  },
+  "23000:5": {
+    "SkillID": 23000,
+    "SkillName": {
+      "hash": -953113086
+    },
+    "SkillDesc": {
+      "hash": 1777866052
+    },
+    "Level": 5,
+    "AbilityName": "Ability23000",
+    "ParamList": [
+      {
+        "RawValue": 2061584304
+      },
+      {
+        "RawValue": 687194768
+      }
+    ]
+  },
+  "23001:1": {
+    "SkillID": 23001,
+    "SkillName": {
+      "hash": 612970855
+    },
+    "SkillDesc": {
+      "hash": -951017303
+    },
+    "Level": 1,
+    "AbilityName": "Ability23001",
+    "ParamList": [
+      {
+        "RawValue": 515396076
+      },
+      {
+        "RawValue": 64424509440
+      },
+      {
+        "RawValue": 343597384
+      },
+      {
+        "RawValue": 343597384
+      },
+      {
+        "RawValue": 25769803776
+      }
+    ]
+  },
+  "23001:2": {
+    "SkillID": 23001,
+    "SkillName": {
+      "hash": 612970855
+    },
+    "SkillDesc": {
+      "hash": -951017303
+    },
+    "Level": 2,
+    "AbilityName": "Ability23001",
+    "ParamList": [
+      {
+        "RawValue": 644245095
+      },
+      {
+        "RawValue": 64424509440
+      },
+      {
+        "RawValue": 429496730
+      },
+      {
+        "RawValue": 429496730
+      },
+      {
+        "RawValue": 25769803776
+      }
+    ]
+  },
+  "23001:3": {
+    "SkillID": 23001,
+    "SkillName": {
+      "hash": 612970855
+    },
+    "SkillDesc": {
+      "hash": -951017303
+    },
+    "Level": 3,
+    "AbilityName": "Ability23001",
+    "ParamList": [
+      {
+        "RawValue": 773094114
+      },
+      {
+        "RawValue": 64424509440
+      },
+      {
+        "RawValue": 515396076
+      },
+      {
+        "RawValue": 515396076
+      },
+      {
+        "RawValue": 25769803776
+      }
+    ]
+  },
+  "23001:4": {
+    "SkillID": 23001,
+    "SkillName": {
+      "hash": 612970855
+    },
+    "SkillDesc": {
+      "hash": -951017303
+    },
+    "Level": 4,
+    "AbilityName": "Ability23001",
+    "ParamList": [
+      {
+        "RawValue": 901943133
+      },
+      {
+        "RawValue": 64424509440
+      },
+      {
+        "RawValue": 601295422
+      },
+      {
+        "RawValue": 601295422
+      },
+      {
+        "RawValue": 25769803776
+      }
+    ]
+  },
+  "23001:5": {
+    "SkillID": 23001,
+    "SkillName": {
+      "hash": 612970855
+    },
+    "SkillDesc": {
+      "hash": -951017303
+    },
+    "Level": 5,
+    "AbilityName": "Ability23001",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 64424509440
+      },
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 25769803776
+      }
+    ]
+  },
+  "23002:1": {
+    "SkillID": 23002,
+    "SkillName": {
+      "hash": 209686328
+    },
+    "SkillDesc": {
+      "hash": 615066638
+    },
+    "Level": 1,
+    "AbilityName": "Ability23002",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 343597384
+      },
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "23002:2": {
+    "SkillID": 23002,
+    "SkillName": {
+      "hash": 209686328
+    },
+    "SkillDesc": {
+      "hash": 615066638
+    },
+    "Level": 2,
+    "AbilityName": "Ability23002",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 429496730
+      },
+      {
+        "RawValue": 1073741825
+      }
+    ]
+  },
+  "23002:3": {
+    "SkillID": 23002,
+    "SkillName": {
+      "hash": 209686328
+    },
+    "SkillDesc": {
+      "hash": 615066638
+    },
+    "Level": 3,
+    "AbilityName": "Ability23002",
+    "ParamList": [
+      {
+        "RawValue": 1546188228
+      },
+      {
+        "RawValue": 515396076
+      },
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "23002:4": {
+    "SkillID": 23002,
+    "SkillName": {
+      "hash": 209686328
+    },
+    "SkillDesc": {
+      "hash": 615066638
+    },
+    "Level": 4,
+    "AbilityName": "Ability23002",
+    "ParamList": [
+      {
+        "RawValue": 1803886266
+      },
+      {
+        "RawValue": 601295422
+      },
+      {
+        "RawValue": 1503238555
+      }
+    ]
+  },
+  "23002:5": {
+    "SkillID": 23002,
+    "SkillName": {
+      "hash": 209686328
+    },
+    "SkillDesc": {
+      "hash": 615066638
+    },
+    "Level": 5,
+    "AbilityName": "Ability23002",
+    "ParamList": [
+      {
+        "RawValue": 2061584304
+      },
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 1717986920
+      }
+    ]
+  },
+  "23003:1": {
+    "SkillID": 23003,
+    "SkillName": {
+      "hash": 1775770269
+    },
+    "SkillDesc": {
+      "hash": -2113816717
+    },
+    "Level": 1,
+    "AbilityName": "Ability23003",
+    "ParamList": [
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 42949672960
+      }
+    ]
+  },
+  "23003:2": {
+    "SkillID": 23003,
+    "SkillName": {
+      "hash": 1775770269
+    },
+    "SkillDesc": {
+      "hash": -2113816717
+    },
+    "Level": 2,
+    "AbilityName": "Ability23003",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 53687091202
+      }
+    ]
+  },
+  "23003:3": {
+    "SkillID": 23003,
+    "SkillName": {
+      "hash": 1775770269
+    },
+    "SkillDesc": {
+      "hash": -2113816717
+    },
+    "Level": 3,
+    "AbilityName": "Ability23003",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 64424509440
+      }
+    ]
+  },
+  "23003:4": {
+    "SkillID": 23003,
+    "SkillName": {
+      "hash": 1775770269
+    },
+    "SkillDesc": {
+      "hash": -2113816717
+    },
+    "Level": 4,
+    "AbilityName": "Ability23003",
+    "ParamList": [
+      {
+        "RawValue": 1202590844
+      },
+      {
+        "RawValue": 75161927682
+      }
+    ]
+  },
+  "23003:5": {
+    "SkillID": 23003,
+    "SkillName": {
+      "hash": 1775770269
+    },
+    "SkillDesc": {
+      "hash": -2113816717
+    },
+    "Level": 5,
+    "AbilityName": "Ability23003",
+    "ParamList": [
+      {
+        "RawValue": 1374389536
+      },
+      {
+        "RawValue": 85899345920
+      }
+    ]
+  },
+  "23004:1": {
+    "SkillID": 23004,
+    "SkillName": {
+      "hash": 1372485742
+    },
+    "SkillDesc": {
+      "hash": -191502416
+    },
+    "Level": 1,
+    "AbilityName": "Ability23004",
+    "ParamList": [
+      {
+        "RawValue": 1202590844
+      },
+      {
+        "RawValue": 343597384
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "23004:2": {
+    "SkillID": 23004,
+    "SkillName": {
+      "hash": 1372485742
+    },
+    "SkillDesc": {
+      "hash": -191502416
+    },
+    "Level": 2,
+    "AbilityName": "Ability23004",
+    "ParamList": [
+      {
+        "RawValue": 1503238555
+      },
+      {
+        "RawValue": 429496730
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "23004:3": {
+    "SkillID": 23004,
+    "SkillName": {
+      "hash": 1372485742
+    },
+    "SkillDesc": {
+      "hash": -191502416
+    },
+    "Level": 3,
+    "AbilityName": "Ability23004",
+    "ParamList": [
+      {
+        "RawValue": 1803886266
+      },
+      {
+        "RawValue": 515396076
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "23004:4": {
+    "SkillID": 23004,
+    "SkillName": {
+      "hash": 1372485742
+    },
+    "SkillDesc": {
+      "hash": -191502416
+    },
+    "Level": 4,
+    "AbilityName": "Ability23004",
+    "ParamList": [
+      {
+        "RawValue": 2104533977
+      },
+      {
+        "RawValue": 601295422
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "23004:5": {
+    "SkillID": 23004,
+    "SkillName": {
+      "hash": 1372485742
+    },
+    "SkillDesc": {
+      "hash": -191502416
+    },
+    "Level": 5,
+    "AbilityName": "Ability23004",
+    "ParamList": [
+      {
+        "RawValue": 2405181688
+      },
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "23005:1": {
+    "SkillID": 23005,
+    "SkillName": {
+      "hash": -1356397613
+    },
+    "SkillDesc": {
+      "hash": 1374581525
+    },
+    "Level": 1,
+    "AbilityName": "Ability23005",
+    "ParamList": [
+      {
+        "RawValue": 8589934592
+      },
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "23005:2": {
+    "SkillID": 23005,
+    "SkillName": {
+      "hash": -1356397613
+    },
+    "SkillDesc": {
+      "hash": 1374581525
+    },
+    "Level": 2,
+    "AbilityName": "Ability23005",
+    "ParamList": [
+      {
+        "RawValue": 8589934592
+      },
+      {
+        "RawValue": 1073741825
+      },
+      {
+        "RawValue": 1073741825
+      },
+      {
+        "RawValue": 1073741825
+      }
+    ]
+  },
+  "23005:3": {
+    "SkillID": 23005,
+    "SkillName": {
+      "hash": -1356397613
+    },
+    "SkillDesc": {
+      "hash": 1374581525
+    },
+    "Level": 3,
+    "AbilityName": "Ability23005",
+    "ParamList": [
+      {
+        "RawValue": 8589934592
+      },
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 1288490190
+      }
+    ]
+  },
+  "23005:4": {
+    "SkillID": 23005,
+    "SkillName": {
+      "hash": -1356397613
+    },
+    "SkillDesc": {
+      "hash": 1374581525
+    },
+    "Level": 4,
+    "AbilityName": "Ability23005",
+    "ParamList": [
+      {
+        "RawValue": 8589934592
+      },
+      {
+        "RawValue": 1503238555
+      },
+      {
+        "RawValue": 1503238555
+      },
+      {
+        "RawValue": 1503238555
+      }
+    ]
+  },
+  "23005:5": {
+    "SkillID": 23005,
+    "SkillName": {
+      "hash": -1356397613
+    },
+    "SkillDesc": {
+      "hash": 1374581525
+    },
+    "Level": 5,
+    "AbilityName": "Ability23005",
+    "ParamList": [
+      {
+        "RawValue": 8589934592
+      },
+      {
+        "RawValue": 1717986920
+      },
+      {
+        "RawValue": 1717986920
+      },
+      {
+        "RawValue": 1717986920
+      }
+    ]
+  },
+  "23006:1": {
+    "SkillID": 23006,
+    "SkillName": {
+      "hash": -1759682140
+    },
+    "SkillDesc": {
+      "hash": -1354301830
+    },
+    "Level": 1,
+    "AbilityName": "Ability23006",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 171798692
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "23006:2": {
+    "SkillID": 23006,
+    "SkillName": {
+      "hash": -1759682140
+    },
+    "SkillDesc": {
+      "hash": -1354301830
+    },
+    "Level": 2,
+    "AbilityName": "Ability23006",
+    "ParamList": [
+      {
+        "RawValue": 987842479
+      },
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 214748365
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "23006:3": {
+    "SkillID": 23006,
+    "SkillName": {
+      "hash": -1759682140
+    },
+    "SkillDesc": {
+      "hash": -1354301830
+    },
+    "Level": 3,
+    "AbilityName": "Ability23006",
+    "ParamList": [
+      {
+        "RawValue": 1116691498
+      },
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 257698038
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "23006:4": {
+    "SkillID": 23006,
+    "SkillName": {
+      "hash": -1759682140
+    },
+    "SkillDesc": {
+      "hash": -1354301830
+    },
+    "Level": 4,
+    "AbilityName": "Ability23006",
+    "ParamList": [
+      {
+        "RawValue": 1245540517
+      },
+      {
+        "RawValue": 1202590844
+      },
+      {
+        "RawValue": 300647711
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "23006:5": {
+    "SkillID": 23006,
+    "SkillName": {
+      "hash": -1759682140
+    },
+    "SkillDesc": {
+      "hash": -1354301830
+    },
+    "Level": 5,
+    "AbilityName": "Ability23006",
+    "ParamList": [
+      {
+        "RawValue": 1374389536
+      },
+      {
+        "RawValue": 1374389536
+      },
+      {
+        "RawValue": 343597384
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ]
+  },
+  "23007:1": {
+    "SkillID": 23007,
+    "SkillName": {
+      "hash": -193598199
+    },
+    "SkillDesc": {
+      "hash": 211782111
+    },
+    "Level": 1,
+    "AbilityName": "Ability23007",
+    "ParamList": [
+      {
+        "RawValue": 3435973840
+      },
+      {
+        "RawValue": 12884901888
+      },
+      {
+        "RawValue": 1717986920
+      }
+    ]
+  },
+  "23007:2": {
+    "SkillID": 23007,
+    "SkillName": {
+      "hash": -193598199
+    },
+    "SkillDesc": {
+      "hash": 211782111
+    },
+    "Level": 2,
+    "AbilityName": "Ability23007",
+    "ParamList": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 12884901888
+      },
+      {
+        "RawValue": 2147483650
+      }
+    ]
+  },
+  "23007:3": {
+    "SkillID": 23007,
+    "SkillName": {
+      "hash": -193598199
+    },
+    "SkillDesc": {
+      "hash": 211782111
+    },
+    "Level": 3,
+    "AbilityName": "Ability23007",
+    "ParamList": [
+      {
+        "RawValue": 5153960756
+      },
+      {
+        "RawValue": 12884901888
+      },
+      {
+        "RawValue": 2576980380
+      }
+    ]
+  },
+  "23007:4": {
+    "SkillID": 23007,
+    "SkillName": {
+      "hash": -193598199
+    },
+    "SkillDesc": {
+      "hash": 211782111
+    },
+    "Level": 4,
+    "AbilityName": "Ability23007",
+    "ParamList": [
+      {
+        "RawValue": 6012954216
+      },
+      {
+        "RawValue": 12884901888
+      },
+      {
+        "RawValue": 3006477110
+      }
+    ]
+  },
+  "23007:5": {
+    "SkillID": 23007,
+    "SkillName": {
+      "hash": -193598199
+    },
+    "SkillDesc": {
+      "hash": 211782111
+    },
+    "Level": 5,
+    "AbilityName": "Ability23007",
+    "ParamList": [
+      {
+        "RawValue": 6871947676
+      },
+      {
+        "RawValue": 12884901888
+      },
+      {
+        "RawValue": 3435973840
+      }
+    ]
+  },
+  "29000:1": {
+    "SkillID": 29000,
+    "SkillName": {
+      "hash": -953113284
+    },
+    "SkillDesc": {
+      "hash": 1777865854
+    },
+    "Level": 1,
+    "AbilityName": "Ability29000",
+    "ParamList": []
+  },
+  "29000:2": {
+    "SkillID": 29000,
+    "SkillName": {
+      "hash": -953113284
+    },
+    "SkillDesc": {
+      "hash": 1777865854
+    },
+    "Level": 2,
+    "AbilityName": "Ability29000",
+    "ParamList": []
+  },
+  "29000:3": {
+    "SkillID": 29000,
+    "SkillName": {
+      "hash": -953113284
+    },
+    "SkillDesc": {
+      "hash": 1777865854
+    },
+    "Level": 3,
+    "AbilityName": "Ability29000",
+    "ParamList": []
+  },
+  "29000:4": {
+    "SkillID": 29000,
+    "SkillName": {
+      "hash": -953113284
+    },
+    "SkillDesc": {
+      "hash": 1777865854
+    },
+    "Level": 4,
+    "AbilityName": "Ability29000",
+    "ParamList": []
+  },
+  "29000:5": {
+    "SkillID": 29000,
+    "SkillName": {
+      "hash": -953113284
+    },
+    "SkillDesc": {
+      "hash": 1777865854
+    },
+    "Level": 5,
+    "AbilityName": "Ability29000",
+    "ParamList": []
+  },
+  "23008:1": {
+    "SkillID": 23008,
+    "SkillName": {
+      "hash": -596882726
+    },
+    "SkillDesc": {
+      "hash": 2134096412
+    },
+    "Level": 1,
+    "AbilityName": "Ability23008",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 68719476736
+      },
+      {
+        "RawValue": 21474836480
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "23008:2": {
+    "SkillID": 23008,
+    "SkillName": {
+      "hash": -596882726
+    },
+    "SkillDesc": {
+      "hash": 2134096412
+    },
+    "Level": 2,
+    "AbilityName": "Ability23008",
+    "ParamList": [
+      {
+        "RawValue": 1073741825
+      },
+      {
+        "RawValue": 85899345920
+      },
+      {
+        "RawValue": 21474836480
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "23008:3": {
+    "SkillID": 23008,
+    "SkillName": {
+      "hash": -596882726
+    },
+    "SkillDesc": {
+      "hash": 2134096412
+    },
+    "Level": 3,
+    "AbilityName": "Ability23008",
+    "ParamList": [
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 103079215104
+      },
+      {
+        "RawValue": 21474836480
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "23008:4": {
+    "SkillID": 23008,
+    "SkillName": {
+      "hash": -596882726
+    },
+    "SkillDesc": {
+      "hash": 2134096412
+    },
+    "Level": 4,
+    "AbilityName": "Ability23008",
+    "ParamList": [
+      {
+        "RawValue": 1503238555
+      },
+      {
+        "RawValue": 120259084288
+      },
+      {
+        "RawValue": 21474836480
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "23008:5": {
+    "SkillID": 23008,
+    "SkillName": {
+      "hash": -596882726
+    },
+    "SkillDesc": {
+      "hash": 2134096412
+    },
+    "Level": 5,
+    "AbilityName": "Ability23008",
+    "ParamList": [
+      {
+        "RawValue": 1717986920
+      },
+      {
+        "RawValue": 137438953472
+      },
+      {
+        "RawValue": 21474836480
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ]
+  },
+  "23009:1": {
+    "SkillID": 23009,
+    "SkillName": {
+      "hash": 969201215
+    },
+    "SkillDesc": {
+      "hash": -594786943
+    },
+    "Level": 1,
+    "AbilityName": "Ability23009",
+    "ParamList": [
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 1288490190
+      },
+      {
+        "RawValue": 687194768
+      }
+    ]
+  },
+  "23009:2": {
+    "SkillID": 23009,
+    "SkillName": {
+      "hash": 969201215
+    },
+    "SkillDesc": {
+      "hash": -594786943
+    },
+    "Level": 2,
+    "AbilityName": "Ability23009",
+    "ParamList": [
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 1610612736
+      },
+      {
+        "RawValue": 1610612736
+      },
+      {
+        "RawValue": 858993460
+      }
+    ]
+  },
+  "23009:3": {
+    "SkillID": 23009,
+    "SkillName": {
+      "hash": 969201215
+    },
+    "SkillDesc": {
+      "hash": -594786943
+    },
+    "Level": 3,
+    "AbilityName": "Ability23009",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 1932735285
+      },
+      {
+        "RawValue": 1932735285
+      },
+      {
+        "RawValue": 1030792152
+      }
+    ]
+  },
+  "23009:4": {
+    "SkillID": 23009,
+    "SkillName": {
+      "hash": 969201215
+    },
+    "SkillDesc": {
+      "hash": -594786943
+    },
+    "Level": 4,
+    "AbilityName": "Ability23009",
+    "ParamList": [
+      {
+        "RawValue": 1202590844
+      },
+      {
+        "RawValue": 2254857831
+      },
+      {
+        "RawValue": 2254857831
+      },
+      {
+        "RawValue": 1202590844
+      }
+    ]
+  },
+  "23009:5": {
+    "SkillID": 23009,
+    "SkillName": {
+      "hash": 969201215
+    },
+    "SkillDesc": {
+      "hash": -594786943
+    },
+    "Level": 5,
+    "AbilityName": "Ability23009",
+    "ParamList": [
+      {
+        "RawValue": 1374389536
+      },
+      {
+        "RawValue": 2576980380
+      },
+      {
+        "RawValue": 2576980380
+      },
+      {
+        "RawValue": 1374389536
+      }
+    ]
+  },
+  "23010:1": {
+    "SkillID": 23010,
+    "SkillName": {
+      "hash": -953113085
+    },
+    "SkillDesc": {
+      "hash": 1777866053
+    },
+    "Level": 1,
+    "AbilityName": "Ability23010",
+    "ParamList": [
+      {
+        "RawValue": 515396076
+      },
+      {
+        "RawValue": 687194768
+      },
+      {
+        "RawValue": 2576980380
+      }
+    ]
+  },
+  "23010:2": {
+    "SkillID": 23010,
+    "SkillName": {
+      "hash": -953113085
+    },
+    "SkillDesc": {
+      "hash": 1777866053
+    },
+    "Level": 2,
+    "AbilityName": "Ability23010",
+    "ParamList": [
+      {
+        "RawValue": 644245095
+      },
+      {
+        "RawValue": 858993460
+      },
+      {
+        "RawValue": 2576980380
+      }
+    ]
+  },
+  "23010:3": {
+    "SkillID": 23010,
+    "SkillName": {
+      "hash": -953113085
+    },
+    "SkillDesc": {
+      "hash": 1777866053
+    },
+    "Level": 3,
+    "AbilityName": "Ability23010",
+    "ParamList": [
+      {
+        "RawValue": 773094114
+      },
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 2576980380
+      }
+    ]
+  },
+  "23010:4": {
+    "SkillID": 23010,
+    "SkillName": {
+      "hash": -953113085
+    },
+    "SkillDesc": {
+      "hash": 1777866053
+    },
+    "Level": 4,
+    "AbilityName": "Ability23010",
+    "ParamList": [
+      {
+        "RawValue": 901943133
+      },
+      {
+        "RawValue": 1202590844
+      },
+      {
+        "RawValue": 2576980380
+      }
+    ]
+  },
+  "23010:5": {
+    "SkillID": 23010,
+    "SkillName": {
+      "hash": -953113085
+    },
+    "SkillDesc": {
+      "hash": 1777866053
+    },
+    "Level": 5,
+    "AbilityName": "Ability23010",
+    "ParamList": [
+      {
+        "RawValue": 1030792152
+      },
+      {
+        "RawValue": 1374389536
+      },
+      {
+        "RawValue": 2576980380
+      }
+    ]
+  }
+}

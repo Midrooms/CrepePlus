@@ -1,0 +1,37 @@
+{
+  "1001": {
+    "GodPlotID": 1001,
+    "StartDialogID": 10010001,
+    "EndDialogID": 10010001
+  },
+  "2001": {
+    "GodPlotID": 2001,
+    "StartDialogID": 20010001,
+    "EndDialogID": 20010001
+  },
+  "3001": {
+    "GodPlotID": 3001,
+    "StartDialogID": 30010001,
+    "EndDialogID": 30010001
+  },
+  "4001": {
+    "GodPlotID": 4001,
+    "StartDialogID": 50010001,
+    "EndDialogID": 50010001
+  },
+  "5001": {
+    "GodPlotID": 5001,
+    "StartDialogID": 60010001,
+    "EndDialogID": 60010001
+  },
+  "6001": {
+    "GodPlotID": 6001,
+    "StartDialogID": 70010001,
+    "EndDialogID": 70010001
+  },
+  "7001": {
+    "GodPlotID": 7001,
+    "StartDialogID": 40010001,
+    "EndDialogID": 40010001
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "189001": {
+    "ID": 189001,
+    "CureInfoTitle": {
+      "hash": 1845138937
+    },
+    "CureInfoDesc": {
+      "hash": 487603356
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/GamePlayTest_1.png"
+  },
+  "189002": {
+    "ID": 189002,
+    "CureInfoTitle": {
+      "hash": 1441854410
+    },
+    "CureInfoDesc": {
+      "hash": 487603355
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/GamePlayTest_5.png"
+  },
+  "189003": {
+    "ID": 189003,
+    "CureInfoTitle": {
+      "hash": -1287028945
+    },
+    "CureInfoDesc": {
+      "hash": 487603354
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/GamePlayTest_6.png"
+  },
+  "189004": {
+    "ID": 189004,
+    "CureInfoTitle": {
+      "hash": -1690313472
+    },
+    "CureInfoDesc": {
+      "hash": 487603361
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/GamePlayTest_7.png"
+  },
+  "189005": {
+    "ID": 189005,
+    "CureInfoTitle": {
+      "hash": -124229531
+    },
+    "CureInfoDesc": {
+      "hash": 487603360
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/GamePlayTest_8.png"
+  },
+  "189006": {
+    "ID": 189006,
+    "CureInfoTitle": {
+      "hash": -527514058
+    },
+    "CureInfoDesc": {
+      "hash": 487603359
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/GamePlayTest_9.png"
+  },
+  "140066": {
+    "ID": 140066,
+    "CureInfoTitle": {
+      "hash": 569836757
+    },
+    "CureInfoDesc": {
+      "hash": -218213510
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/SubMissionTest_2.png"
+  },
+  "140067": {
+    "ID": 140067,
+    "CureInfoTitle": {
+      "hash": 2135920698
+    },
+    "CureInfoDesc": {
+      "hash": -218213511
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/SubMissionTest_1.png"
+  },
+  "140074": {
+    "ID": 140074,
+    "CureInfoTitle": {
+      "hash": -592962658
+    },
+    "CureInfoDesc": {
+      "hash": -1784297449
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/Mission2000110_4.png"
+  },
+  "140075": {
+    "ID": 140075,
+    "CureInfoTitle": {
+      "hash": 973121283
+    },
+    "CureInfoDesc": {
+      "hash": -1784297450
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/SubMission2000101_1.png"
+  },
+  "140076": {
+    "ID": 140076,
+    "CureInfoTitle": {
+      "hash": 569836756
+    },
+    "CureInfoDesc": {
+      "hash": -1784297451
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/SubMission2000101_2.png"
+  },
+  "140077": {
+    "ID": 140077,
+    "CureInfoTitle": {
+      "hash": 2135920697
+    },
+    "CureInfoDesc": {
+      "hash": -1784297452
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/SubMission2000101_3.png"
+  },
+  "140087": {
+    "ID": 140087,
+    "CureInfoTitle": {
+      "hash": 2135920696
+    },
+    "CureInfoDesc": {
+      "hash": 588355543
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/SubMissionTest_3.png"
+  },
+  "140112": {
+    "ID": 140112,
+    "CureInfoTitle": {
+      "hash": 186755211
+    },
+    "CureInfoDesc": {
+      "hash": -621498130
+    },
+    "ImgPath": "SpriteOutput/UI/TempSprite/Mission2000104_1.png"
+  },
+  "190903": {
+    "ID": 190903,
+    "CureInfoTitle": {
+      "hash": 1065162976
+    },
+    "CureInfoDesc": {
+      "hash": 944586767
+    },
+    "ImgPath": ""
+  },
+  "190904": {
+    "ID": 190904,
+    "CureInfoTitle": {
+      "hash": 661878449
+    },
+    "CureInfoDesc": {
+      "hash": 944586774
+    },
+    "ImgPath": ""
+  },
+  "190905": {
+    "ID": 190905,
+    "CureInfoTitle": {
+      "hash": -2067004906
+    },
+    "CureInfoDesc": {
+      "hash": 944586773
+    },
+    "ImgPath": ""
+  },
+  "190906": {
+    "ID": 190906,
+    "CureInfoTitle": {
+      "hash": 1824677863
+    },
+    "CureInfoDesc": {
+      "hash": 944586772
+    },
+    "ImgPath": ""
+  },
+  "140097": {
+    "ID": 140097,
+    "CureInfoTitle": {
+      "hash": 2135920695
+    },
+    "CureInfoDesc": {
+      "hash": -977728398
+    },
+    "ImgPath": ""
+  }
+}

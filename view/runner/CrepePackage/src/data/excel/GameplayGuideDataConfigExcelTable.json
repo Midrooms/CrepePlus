@@ -1,0 +1,384 @@
+{
+  "1001": {
+    "ID": 1001,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_03.png",
+    "TabIconPath": "SpriteOutput/TabIcon/Shop/ShopMaterialsIcon.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2010101,
+    "UnlockMission": [
+      1010202
+    ],
+    "TabID": 1001,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1001
+  },
+  "1002": {
+    "ID": 1002,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_03.png",
+    "TabIconPath": "SpriteOutput/TabIcon/Shop/ShopMaterialsIcon.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2011101,
+    "UnlockMission": [
+      1010302
+    ],
+    "TabID": 1001,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1002
+  },
+  "1003": {
+    "ID": 1003,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_03.png",
+    "TabIconPath": "SpriteOutput/TabIcon/Shop/ShopMaterialsIcon.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2012101,
+    "UnlockMission": [
+      1010501
+    ],
+    "TabID": 1001,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1003
+  },
+  "1004": {
+    "ID": 1004,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_04.png",
+    "TabIconPath": "SpriteOutput/ProfessionIconSmall/IconProfessionWarriorSmall.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2000101,
+    "UnlockMission": [
+      1010902
+    ],
+    "TabID": 1002,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1004
+  },
+  "1005": {
+    "ID": 1005,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_04.png",
+    "TabIconPath": "SpriteOutput/ProfessionIconSmall/IconProfessionKnightSmall.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2000301,
+    "UnlockMission": [
+      1010902
+    ],
+    "TabID": 1002,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1005
+  },
+  "1006": {
+    "ID": 1006,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_04.png",
+    "TabIconPath": "SpriteOutput/ProfessionIconSmall/IconProfessionRogueSmall.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2010101,
+    "UnlockMission": [
+      1010902
+    ],
+    "TabID": 1002,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1006
+  },
+  "1007": {
+    "ID": 1007,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_04.png",
+    "TabIconPath": "SpriteOutput/ProfessionIconSmall/IconProfessionPirestSmall.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2011101,
+    "UnlockMission": [
+      1010902
+    ],
+    "TabID": 1002,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1007
+  },
+  "1008": {
+    "ID": 1008,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_04.png",
+    "TabIconPath": "SpriteOutput/ProfessionIconSmall/IconProfessionMageSmall.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2012201,
+    "UnlockMission": [
+      1010902
+    ],
+    "TabID": 1002,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1008
+  },
+  "1009": {
+    "ID": 1009,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_04.png",
+    "TabIconPath": "SpriteOutput/ProfessionIconSmall/IconProfessionShamanSmall.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2012301,
+    "UnlockMission": [
+      1010902
+    ],
+    "TabID": 1002,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1009
+  },
+  "1010": {
+    "ID": 1010,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_04.png",
+    "TabIconPath": "SpriteOutput/ProfessionIconSmall/IconProfessionWarlockSmall.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2013101,
+    "UnlockMission": [
+      1011102
+    ],
+    "TabID": 1002,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1010
+  },
+  "1101": {
+    "ID": 1101,
+    "IconPath": "SpriteOutput/MosterIcon/Monster_8013010.png",
+    "TabIconPath": "SpriteOutput/UI/Nature/IconNatureColorQuantum.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2000201,
+    "UnlockMission": [
+      4010101,
+      1000201
+    ],
+    "TabID": 1003,
+    "FarmType": "FarmElement",
+    "FarmID": 1101
+  },
+  "1102": {
+    "ID": 1102,
+    "IconPath": "SpriteOutput/MosterIcon/Monster_8003050.png",
+    "TabIconPath": "SpriteOutput/UI/Nature/IconNatureColorWind.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2000301,
+    "UnlockMission": [
+      4010101,
+      1000401
+    ],
+    "TabID": 1003,
+    "FarmType": "FarmElement",
+    "FarmID": 1102
+  },
+  "1103": {
+    "ID": 1103,
+    "IconPath": "SpriteOutput/MosterIcon/Monster_8003030.png",
+    "TabIconPath": "SpriteOutput/UI/Nature/IconNatureColorThunder.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2011101,
+    "UnlockMission": [
+      4010101,
+      1010302
+    ],
+    "TabID": 1003,
+    "FarmType": "FarmElement",
+    "FarmID": 1103
+  },
+  "1104": {
+    "ID": 1104,
+    "IconPath": "SpriteOutput/MosterIcon/Monster_8003020.png",
+    "TabIconPath": "SpriteOutput/UI/Nature/IconNatureColorFire.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2000101,
+    "UnlockMission": [
+      4010101,
+      1000101
+    ],
+    "TabID": 1003,
+    "FarmType": "FarmElement",
+    "FarmID": 1104
+  },
+  "1105": {
+    "ID": 1105,
+    "IconPath": "SpriteOutput/MosterIcon/Monster_1013020.png",
+    "TabIconPath": "SpriteOutput/UI/Nature/IconNaturePhysical.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2012101,
+    "UnlockMission": [
+      4010101,
+      1010501
+    ],
+    "TabID": 1003,
+    "FarmType": "FarmElement",
+    "FarmID": 1105
+  },
+  "1106": {
+    "ID": 1106,
+    "IconPath": "SpriteOutput/MosterIcon/Monster_1023020.png",
+    "TabIconPath": "SpriteOutput/UI/Nature/IconNatureColorIce.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2012301,
+    "UnlockMission": [
+      4010101,
+      1010902
+    ],
+    "TabID": 1003,
+    "FarmType": "FarmElement",
+    "FarmID": 1106
+  },
+  "1107": {
+    "ID": 1107,
+    "IconPath": "SpriteOutput/MosterIcon/Monster_8003010.png",
+    "TabIconPath": "SpriteOutput/UI/Nature/IconNatureColorImaginary.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2013201,
+    "UnlockMission": [
+      1011301,
+      4010101
+    ],
+    "TabID": 1003,
+    "FarmType": "FarmElement",
+    "FarmID": 1107
+  },
+  "1201": {
+    "ID": 1201,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_01.png",
+    "TabIconPath": "SpriteOutput/UI/Avatar/IconAvatarRelic.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2000201,
+    "UnlockMission": [
+      1011102
+    ],
+    "TabID": 1004,
+    "FarmType": "FarmRelic",
+    "FarmID": 1201
+  },
+  "1202": {
+    "ID": 1202,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_01.png",
+    "TabIconPath": "SpriteOutput/UI/Avatar/IconAvatarRelic.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2012101,
+    "UnlockMission": [
+      1011102
+    ],
+    "TabID": 1004,
+    "FarmType": "FarmRelic",
+    "FarmID": 1202
+  },
+  "1203": {
+    "ID": 1203,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_01.png",
+    "TabIconPath": "SpriteOutput/UI/Avatar/IconAvatarRelic.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2012201,
+    "UnlockMission": [
+      1011102
+    ],
+    "TabID": 1004,
+    "FarmType": "FarmRelic",
+    "FarmID": 1203
+  },
+  "1204": {
+    "ID": 1204,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_01.png",
+    "TabIconPath": "SpriteOutput/UI/Avatar/IconAvatarRelic.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2013101,
+    "UnlockMission": [
+      1011102
+    ],
+    "TabID": 1004,
+    "FarmType": "FarmRelic",
+    "FarmID": 1204
+  },
+  "1205": {
+    "ID": 1205,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_01.png",
+    "TabIconPath": "SpriteOutput/UI/Avatar/IconAvatarRelic.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2013201,
+    "UnlockMission": [
+      1011301
+    ],
+    "TabID": 1004,
+    "FarmType": "FarmRelic",
+    "FarmID": 1205
+  },
+  "1206": {
+    "ID": 1206,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_01.png",
+    "TabIconPath": "SpriteOutput/UI/Avatar/IconAvatarRelic.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2013401,
+    "UnlockMission": [
+      1011403
+    ],
+    "TabID": 1004,
+    "FarmType": "FarmRelic",
+    "FarmID": 1206
+  },
+  "1301": {
+    "ID": 1301,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_02.png",
+    "TabIconPath": "SpriteOutput/UI/Avatar/IconAvatarPaths.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2000301,
+    "UnlockMission": [
+      1011403
+    ],
+    "TabID": 1005,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1301
+  },
+  "1302": {
+    "ID": 1302,
+    "IconPath": "SpriteOutput/AdventureEnterIcon/Adventure_02.png",
+    "TabIconPath": "SpriteOutput/UI/Avatar/IconAvatarPaths.png",
+    "Desc": {
+      "hash": 371857150
+    },
+    "MapEntranceID": 2013401,
+    "UnlockMission": [
+      1011403
+    ],
+    "TabID": 1005,
+    "FarmType": "FarmCocoon",
+    "FarmID": 1302
+  }
+}

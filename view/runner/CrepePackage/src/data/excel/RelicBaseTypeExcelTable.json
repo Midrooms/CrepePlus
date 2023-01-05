@@ -1,0 +1,44 @@
+{
+  "HEAD": {
+    "Type": "HEAD",
+    "BaseTypeText": {
+      "hash": 1826268247
+    },
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicHead.png"
+  },
+  "HAND": {
+    "Type": "HAND",
+    "BaseTypeText": {
+      "hash": -2144127003
+    },
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicHands.png"
+  },
+  "BODY": {
+    "Type": "BODY",
+    "BaseTypeText": {
+      "hash": 1799740313
+    },
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicBody.png"
+  },
+  "FOOT": {
+    "Type": "FOOT",
+    "BaseTypeText": {
+      "hash": 1154536283
+    },
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicFoot.png"
+  },
+  "NECK": {
+    "Type": "NECK",
+    "BaseTypeText": {
+      "hash": 1873322474
+    },
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicNeck.png"
+  },
+  "OBJECT": {
+    "Type": "OBJECT",
+    "BaseTypeText": {
+      "hash": 74129613
+    },
+    "BaseTypeIconPath": "SpriteOutput/UI/Avatar/Relic/IconRelicGoods.png"
+  }
+}

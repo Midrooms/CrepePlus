@@ -1,0 +1,32 @@
+{
+  "1001": {
+    "ID": 1001,
+    "Name": {
+      "hash": -348099049
+    },
+    "IconPath": "SpriteOutput/MapPics/NaviIcons/IconMapNpc2.png",
+    "UnlockID": 9909,
+    "EntranceID": 1000001,
+    "MappingInfoID": 1000001
+  },
+  "1002": {
+    "ID": 1002,
+    "Name": {
+      "hash": -751383576
+    },
+    "IconPath": "SpriteOutput/MapPics/NaviIcons/IconMapExit2.png",
+    "UnlockID": 9910,
+    "EntranceID": 8011201,
+    "MappingInfoID": 2219
+  },
+  "1003": {
+    "ID": 1003,
+    "Name": {
+      "hash": 814700365
+    },
+    "IconPath": "SpriteOutput/MapPics/NaviIcons/IconMapChallenge.png",
+    "UnlockID": 9911,
+    "EntranceID": 1010201,
+    "MappingInfoID": 2206
+  }
+}

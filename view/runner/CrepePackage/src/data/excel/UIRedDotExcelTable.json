@@ -1,0 +1,607 @@
+{
+  "ItemIcon": {
+    "RedDot": "ItemIcon",
+    "RedDotChildren": [],
+    "Type": 3,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "DailyMission": {
+    "RedDot": "DailyMission",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 9901
+  },
+  "DailyQuest": {
+    "RedDot": "DailyQuest",
+    "RedDotChildren": [],
+    "Type": 3,
+    "Weight": [],
+    "UnlockID": 9903
+  },
+  "AdventureBook": {
+    "RedDot": "AdventureBook",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 9902
+  },
+  "AvatarSideIcon": {
+    "RedDot": "AvatarSideIcon",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 400
+  },
+  "Notice": {
+    "RedDot": "Notice",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "MailNew": {
+    "RedDot": "MailNew",
+    "RedDotChildren": [],
+    "Type": 3,
+    "Weight": [],
+    "UnlockID": 900
+  },
+  "MailRedDot": {
+    "RedDot": "MailRedDot",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 900
+  },
+  "EquipmentTag": {
+    "RedDot": "EquipmentTag",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "AvatarPromotion": {
+    "RedDot": "AvatarPromotion",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "PrestigeMissionSubTab": {
+    "RedDot": "PrestigeMissionSubTab",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 2400
+  },
+  "PrestigeMissionSubTabGroup": {
+    "RedDot": "PrestigeMissionSubTabGroup",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 2400
+  },
+  "PrestigeMissionReward": {
+    "RedDot": "PrestigeMissionReward",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 2400
+  },
+  "PrestigeLevelReward": {
+    "RedDot": "PrestigeLevelReward",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 2400
+  },
+  "Prestige": {
+    "RedDot": "Prestige",
+    "RedDotChildren": [
+      "PrestigeMissionReward",
+      "PrestigeLevelReward"
+    ],
+    "Type": 1,
+    "Weight": [
+      2,
+      1
+    ],
+    "UnlockID": 0
+  },
+  "PhoneMessageGroup": {
+    "RedDot": "PhoneMessageGroup",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "PhoneMessageContract": {
+    "RedDot": "PhoneMessageContract",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "PhoneMessageEntrance": {
+    "RedDot": "PhoneMessageEntrance",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 2900
+  },
+  "HandbookGuideSubTab": {
+    "RedDot": "HandbookGuideSubTab",
+    "RedDotChildren": [],
+    "Type": 3,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "HandbookGuideMainTab": {
+    "RedDot": "HandbookGuideMainTab",
+    "RedDotChildren": [],
+    "Type": 3,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "HandbookGuide": {
+    "RedDot": "HandbookGuide",
+    "RedDotChildren": [],
+    "Type": 3,
+    "Weight": [],
+    "UnlockID": 9903
+  },
+  "Activity": {
+    "RedDot": "Activity",
+    "RedDotChildren": [
+      "DailyMission",
+      "AdventureBook",
+      "HandbookGuide"
+    ],
+    "Type": 1,
+    "Weight": [
+      3,
+      2,
+      1
+    ],
+    "UnlockID": 0
+  },
+  "Mail": {
+    "RedDot": "Mail",
+    "RedDotChildren": [
+      "MailNew",
+      "MailRedDot"
+    ],
+    "Type": 1,
+    "Weight": [
+      2,
+      1
+    ],
+    "UnlockID": 0
+  },
+  "MailSingle": {
+    "RedDot": "MailSingle",
+    "RedDotChildren": [
+      "MailNew",
+      "MailRedDot"
+    ],
+    "Type": 0,
+    "Weight": [
+      2,
+      1
+    ],
+    "UnlockID": 0
+  },
+  "MissionTab_1": {
+    "RedDot": "MissionTab_1",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "MissionTab_2": {
+    "RedDot": "MissionTab_2",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "MissionTab_3": {
+    "RedDot": "MissionTab_3",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "MissionTab_All": {
+    "RedDot": "MissionTab_All",
+    "RedDotChildren": [
+      "MissionTab_1",
+      "MissionTab_2",
+      "MissionTab_3"
+    ],
+    "Type": 1,
+    "Weight": [
+      3,
+      2,
+      1
+    ],
+    "UnlockID": 0
+  },
+  "AvatarRelic_1": {
+    "RedDot": "AvatarRelic_1",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "AvatarRelic_2": {
+    "RedDot": "AvatarRelic_2",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "AvatarRelic_3": {
+    "RedDot": "AvatarRelic_3",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "AvatarRelic_4": {
+    "RedDot": "AvatarRelic_4",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "AvatarRelic_5": {
+    "RedDot": "AvatarRelic_5",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "AvatarRelic_6": {
+    "RedDot": "AvatarRelic_6",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "AvatarRelic_All": {
+    "RedDot": "AvatarRelic_All",
+    "RedDotChildren": [
+      "AvatarRelic_1",
+      "AvatarRelic_2",
+      "AvatarRelic_3",
+      "AvatarRelic_4",
+      "AvatarRelic_5",
+      "AvatarRelic_6"
+    ],
+    "Type": 2,
+    "Weight": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "UnlockID": 0
+  },
+  "AvatarRank": {
+    "RedDot": "AvatarRank",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "Avatar": {
+    "RedDot": "Avatar",
+    "RedDotChildren": [
+      "AvatarSideIcon",
+      "AvatarRank"
+    ],
+    "Type": 1,
+    "Weight": [
+      2,
+      1
+    ],
+    "UnlockID": 0
+  },
+  "ActivityQuest": {
+    "RedDot": "ActivityQuest",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "ChallengeActivityReward": {
+    "RedDot": "ChallengeActivityReward",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "ChallengeActivity": {
+    "RedDot": "ChallengeActivity",
+    "RedDotChildren": [
+      "ChallengeActivityReward"
+    ],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "ActivityQuest_All": {
+    "RedDot": "ActivityQuest_All",
+    "RedDotChildren": [
+      "ActivityQuest",
+      "ChallengeActivityReward"
+    ],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "ChallengeGroup_1": {
+    "RedDot": "ChallengeGroup_1",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "ChallengeGroup_2": {
+    "RedDot": "ChallengeGroup_2",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "ChallengeGroup_3": {
+    "RedDot": "ChallengeGroup_3",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "ChallengeGroup_4": {
+    "RedDot": "ChallengeGroup_4",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "ChallengeGroup_5": {
+    "RedDot": "ChallengeGroup_5",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "ChallengeGroup_All": {
+    "RedDot": "ChallengeGroup_All",
+    "RedDotChildren": [
+      "ChallengeGroup_1",
+      "ChallengeGroup_2",
+      "ChallengeGroup_3",
+      "ChallengeGroup_4",
+      "ChallengeGroup_5"
+    ],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "CustomerIM": {
+    "RedDot": "CustomerIM",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "TutorialGuide_1": {
+    "RedDot": "TutorialGuide_1",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "TutorialGuide_2": {
+    "RedDot": "TutorialGuide_2",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "TutorialGuide_3": {
+    "RedDot": "TutorialGuide_3",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "TutorialGuide_4": {
+    "RedDot": "TutorialGuide_4",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "TutorialType_1": {
+    "RedDot": "TutorialType_1",
+    "RedDotChildren": [
+      "TutorialGuide_1"
+    ],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "TutorialType_2": {
+    "RedDot": "TutorialType_2",
+    "RedDotChildren": [
+      "TutorialGuide_2"
+    ],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "TutorialType_3": {
+    "RedDot": "TutorialType_3",
+    "RedDotChildren": [
+      "TutorialGuide_3"
+    ],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "TutorialType_4": {
+    "RedDot": "TutorialType_4",
+    "RedDotChildren": [
+      "TutorialGuide_4"
+    ],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "TutorialOverview": {
+    "RedDot": "TutorialOverview",
+    "RedDotChildren": [
+      "TutorialGuide_1",
+      "TutorialGuide_2",
+      "TutorialGuide_3",
+      "TutorialGuide_4"
+    ],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "AchievementSeries": {
+    "RedDot": "AchievementSeries",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "AchievementLevelReward": {
+    "RedDot": "AchievementLevelReward",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "AchievementEnter": {
+    "RedDot": "AchievementEnter",
+    "RedDotChildren": [
+      "AchievementSeries",
+      "AchievementLevelReward"
+    ],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "PhoneNotificationsGroup": {
+    "RedDot": "PhoneNotificationsGroup",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "PhoneNotificationsEntrance": {
+    "RedDot": "PhoneNotificationsEntrance",
+    "RedDotChildren": [
+      "PhoneNotificationsGroup"
+    ],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 0
+  },
+  "ExpeditionGroup_All": {
+    "RedDot": "ExpeditionGroup_All",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 3100
+  },
+  "ExpeditionGroup_1": {
+    "RedDot": "ExpeditionGroup_1",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 3100
+  },
+  "ExpeditionGroup_2": {
+    "RedDot": "ExpeditionGroup_2",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 3100
+  },
+  "ExpeditionGroup_3": {
+    "RedDot": "ExpeditionGroup_3",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 3100
+  },
+  "ExpeditionGroup_4": {
+    "RedDot": "ExpeditionGroup_4",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 3100
+  },
+  "ExpeditionGroup_5": {
+    "RedDot": "ExpeditionGroup_5",
+    "RedDotChildren": [],
+    "Type": 1,
+    "Weight": [],
+    "UnlockID": 3100
+  },
+  "ExpeditionIsNew": {
+    "RedDot": "ExpeditionIsNew",
+    "RedDotChildren": [],
+    "Type": 3,
+    "Weight": [],
+    "UnlockID": 3100
+  },
+  "ExpeditionGroupIsNew": {
+    "RedDot": "ExpeditionGroupIsNew",
+    "RedDotChildren": [],
+    "Type": 3,
+    "Weight": [],
+    "UnlockID": 3100
+  },
+  "Phone": {
+    "RedDot": "Phone",
+    "RedDotChildren": [
+      "MailNew",
+      "MailRedDot",
+      "Notice",
+      "PrestigeMissionReward",
+      "PrestigeLevelReward",
+      "CustomerIM",
+      "AchievementSeries",
+      "AchievementLevelReward",
+      "PhoneMessageEntrance",
+      "ExpeditionGroup_1",
+      "ExpeditionGroup_2",
+      "ExpeditionGroup_3",
+      "ExpeditionGroup_4",
+      "ExpeditionGroup_5"
+    ],
+    "Type": 1,
+    "Weight": [
+      9,
+      8,
+      7,
+      6,
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "UnlockID": 0
+  }
+}

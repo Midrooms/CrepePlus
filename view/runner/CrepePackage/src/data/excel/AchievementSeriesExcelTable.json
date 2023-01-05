@@ -1,0 +1,92 @@
+{
+  "1": {
+    "SeriesID": 1,
+    "SeriesTitle": {
+      "hash": 1584069034
+    },
+    "MainIconPath": "SpriteOutput/Achievement/CultivateAchievementIcon.png",
+    "IconPath": "SpriteOutput/Achievement/CultivateAchievementIcon_s.png",
+    "ShowType": "Always",
+    "ShowParamInt1": 0
+  },
+  "2": {
+    "SeriesID": 2,
+    "SeriesTitle": {
+      "hash": 17985093
+    },
+    "MainIconPath": "SpriteOutput/Achievement/CollectAchievementIcon.png",
+    "IconPath": "SpriteOutput/Achievement/CollectAchievementIcon_s.png",
+    "ShowType": "Always",
+    "ShowParamInt1": 0
+  },
+  "3": {
+    "SeriesID": 3,
+    "SeriesTitle": {
+      "hash": -1548098848
+    },
+    "MainIconPath": "SpriteOutput/Achievement/MainLineAchievementIcon.png",
+    "IconPath": "SpriteOutput/Achievement/MainLineAchievementIcon_s.png",
+    "ShowType": "Always",
+    "ShowParamInt1": 0
+  },
+  "4": {
+    "SeriesID": 4,
+    "SeriesTitle": {
+      "hash": 824554147
+    },
+    "MainIconPath": "SpriteOutput/Achievement/ExploreAchievementIcon.png",
+    "IconPath": "SpriteOutput/Achievement/ExploreAchievementIcon_s.png",
+    "ShowType": "Always",
+    "ShowParamInt1": 0
+  },
+  "5": {
+    "SeriesID": 5,
+    "SeriesTitle": {
+      "hash": -741529794
+    },
+    "MainIconPath": "SpriteOutput/Achievement/ReputationAchievementIcon.png",
+    "IconPath": "SpriteOutput/Achievement/ReputationAchievementIcon_s.png",
+    "ShowType": "Always",
+    "ShowParamInt1": 0
+  },
+  "6": {
+    "SeriesID": 6,
+    "SeriesTitle": {
+      "hash": 1987353561
+    },
+    "MainIconPath": "SpriteOutput/Achievement/ChallengeAchievementIcon.png",
+    "IconPath": "SpriteOutput/Achievement/ChallengeAchievementIcon_s.png",
+    "ShowType": "Always",
+    "ShowParamInt1": 0
+  },
+  "7": {
+    "SeriesID": 7,
+    "SeriesTitle": {
+      "hash": 421269620
+    },
+    "MainIconPath": "SpriteOutput/Achievement/BattleAchievementIcon.png",
+    "IconPath": "SpriteOutput/Achievement/BattleAchievementIcon_s.png",
+    "ShowType": "Always",
+    "ShowParamInt1": 0
+  },
+  "8": {
+    "SeriesID": 8,
+    "SeriesTitle": {
+      "hash": -788583961
+    },
+    "MainIconPath": "SpriteOutput/Achievement/TrackAchievementIcon.png",
+    "IconPath": "SpriteOutput/Achievement/TrackAchievementIcon_s.png",
+    "ShowType": "Always",
+    "ShowParamInt1": 0
+  },
+  "9": {
+    "SeriesID": 9,
+    "SeriesTitle": {
+      "hash": 1940299394
+    },
+    "MainIconPath": "SpriteOutput/Achievement/RougeAchievementIcon.png",
+    "IconPath": "SpriteOutput/Achievement/RougeAchievementIcon_s.png",
+    "ShowType": "Always",
+    "ShowParamInt1": 0
+  }
+}

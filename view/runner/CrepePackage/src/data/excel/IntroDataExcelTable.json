@@ -1,0 +1,137 @@
+{
+  "1": {
+    "ID": 1,
+    "Title": "InfoText_WorldLevel_Title",
+    "Desc": "InfoText_WorldLevel_Text"
+  },
+  "2": {
+    "ID": 2,
+    "Title": "InfoText_ChallengeMaze_Title",
+    "Desc": "InfoText_ChallengeMaze_Text"
+  },
+  "3": {
+    "ID": 3,
+    "Title": "InfoText_ItemCompose_Title",
+    "Desc": "InfoText_ItemCompose_Text"
+  },
+  "4": {
+    "ID": 4,
+    "Title": "InfoText_Character_Title",
+    "Desc": "InfoText_Character_Text"
+  },
+  "5": {
+    "ID": 5,
+    "Title": "InfoText_SkillTree_Title",
+    "Desc": "InfoText_SkillTree_Text"
+  },
+  "6": {
+    "ID": 6,
+    "Title": "InfoText_LightCone_Title",
+    "Desc": "InfoText_LightCone_Text"
+  },
+  "7": {
+    "ID": 7,
+    "Title": "InfoText_DailyRecord_Title",
+    "Desc": "InfoText_DailyRecord_Text"
+  },
+  "8": {
+    "ID": 8,
+    "Title": "InfoText_Mission_Title",
+    "Desc": "InfoText_Mission_Text"
+  },
+  "9": {
+    "ID": 9,
+    "Title": "InfoText_Map_Title",
+    "Desc": "InfoText_Map_Text"
+  },
+  "10": {
+    "ID": 10,
+    "Title": "InfoText_Cocoon_Title",
+    "Desc": "InfoText_Cocoon_Text"
+  },
+  "11": {
+    "ID": 11,
+    "Title": "InfoText_Mail_Title",
+    "Desc": "InfoText_Mail_Text"
+  },
+  "12": {
+    "ID": 12,
+    "Title": "InfoText_Rogue_Title",
+    "Desc": "InfoText_Rogue_Text1"
+  },
+  "13": {
+    "ID": 13,
+    "Title": "InfoText_HeroPaths_Title",
+    "Desc": "InfoText_HeroPaths_Text"
+  },
+  "14": {
+    "ID": 14,
+    "Title": "InfoText_Prestige_Title",
+    "Desc": "InfoText_Prestige_Text"
+  },
+  "15": {
+    "ID": 15,
+    "Title": "InfoText_Cocoon2_Title",
+    "Desc": "InfoText_Cocoon2_Text"
+  },
+  "16": {
+    "ID": 16,
+    "Title": "InfoText_FarmElement_Title",
+    "Desc": "InfoText_FarmElement_Text"
+  },
+  "17": {
+    "ID": 17,
+    "Title": "InfoText_FarmRelic_Title",
+    "Desc": "InfoText_FarmRelic_Text"
+  },
+  "18": {
+    "ID": 18,
+    "Title": "InfoText_HealPool_Title",
+    "Desc": "InfoText_HealPool_Text"
+  },
+  "19": {
+    "ID": 19,
+    "Title": "InfoText_RogueGacha_Title",
+    "Desc": "InfoText_RogueGacha_Text"
+  },
+  "20": {
+    "ID": 20,
+    "Title": "InfoText_ChallengeMaze_Theme1_Title",
+    "Desc": "InfoText_ChallengeMaze_Theme1_Text"
+  },
+  "21": {
+    "ID": 21,
+    "Title": "InfoText_Rogue_Title",
+    "Desc": "InfoText_Rogue_Text1"
+  },
+  "22": {
+    "ID": 22,
+    "Title": "InfoText_Rogue_Title",
+    "Desc": "InfoText_Rogue_Text1"
+  },
+  "23": {
+    "ID": 23,
+    "Title": "InfoText_RogueAppraisal_Title",
+    "Desc": "InfoText_RogueAppraisal_Text"
+  },
+  "24": {
+    "ID": 24,
+    "Title": "InfoText_Achievement_Title",
+    "Desc": "InfoText_Achievement_Text"
+  },
+  "25": {
+    "ID": 25,
+    "Title": "InfoText_Expedition_Title",
+    "Desc": "InfoText_Expedition_Text"
+  },
+  "26": {
+    "ID": 26,
+    "Title": "InfoText_PhoneMessage_Title",
+    "Desc": "InfoText_PhoneMessage_Text"
+  },
+  "27": {
+    "ID": 27,
+    "Title": "InfoText_PhoneNotifications_Title",
+    "Desc": "InfoText_PhoneNotifications_Text"
+  }
+}

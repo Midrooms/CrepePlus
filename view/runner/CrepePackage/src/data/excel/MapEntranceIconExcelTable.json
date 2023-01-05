@@ -1,0 +1,18 @@
+{
+  "1": {
+    "ID": 1,
+    "ActiveMapIconImgPath": "SpriteOutput/MapPics/MapTab/MapFloorCityIcon.png"
+  },
+  "2": {
+    "ID": 2,
+    "ActiveMapIconImgPath": ""
+  },
+  "3": {
+    "ID": 3,
+    "ActiveMapIconImgPath": ""
+  },
+  "4": {
+    "ID": 4,
+    "ActiveMapIconImgPath": "SpriteOutput/MapPics/MapTab/MapFloorTrainIcon.png"
+  }
+}

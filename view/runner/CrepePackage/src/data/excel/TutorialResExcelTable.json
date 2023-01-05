@@ -1,0 +1,70 @@
+{
+  "1": {
+    "ID": 1,
+    "PrefabPath": "UI/Guide/Widget/GuideBtnTypeRound.prefab"
+  },
+  "2": {
+    "ID": 2,
+    "PrefabPath": "UI/Guide/Widget/GuideBtnTypeRectagle.prefab"
+  },
+  "3": {
+    "ID": 3,
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsDown.prefab"
+  },
+  "4": {
+    "ID": 4,
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsUp.prefab"
+  },
+  "5": {
+    "ID": 5,
+    "PrefabPath": "UI/Guide/GuideHintDialog.prefab"
+  },
+  "6": {
+    "ID": 6,
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsLeftUp.prefab"
+  },
+  "7": {
+    "ID": 7,
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsLeftDown.prefab"
+  },
+  "8": {
+    "ID": 8,
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsRightUp.prefab"
+  },
+  "9": {
+    "ID": 9,
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsRightDown.prefab"
+  },
+  "10": {
+    "ID": 10,
+    "PrefabPath": "UI/Guide/Widget/GuideEffLine.prefab"
+  },
+  "11": {
+    "ID": 11,
+    "PrefabPath": "UI/Guide/Widget/GuideBtnTypeRectagle_AutoFadeOut.prefab"
+  },
+  "12": {
+    "ID": 12,
+    "PrefabPath": "UI/Guide/Widget/GuideArrowBtn.prefab"
+  },
+  "13": {
+    "ID": 13,
+    "PrefabPath": "UI/Guide/Widget/ActionHint/JoystickRotation.prefab"
+  },
+  "14": {
+    "ID": 14,
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsLeft.prefab"
+  },
+  "15": {
+    "ID": 15,
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsRight.prefab"
+  },
+  "16": {
+    "ID": 16,
+    "PrefabPath": "UI/Guide/Widget/GuideBtnType3D.prefab"
+  },
+  "17": {
+    "ID": 17,
+    "PrefabPath": "UI/Guide/Widget/GuideArrowBtn_Tiny.prefab"
+  }
+}

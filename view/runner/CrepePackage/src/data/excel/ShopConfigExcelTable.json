@@ -1,0 +1,278 @@
+{
+  "104": {
+    "ShopID": 104,
+    "ShopMainType": "Main",
+    "ShopType": 1,
+    "ShopName": {
+      "hash": 1034630529
+    },
+    "ShopDesc": {
+      "hash": -1803443209
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopDrawcardIcon02.png",
+    "ShopBar": "Shop104Page",
+    "ShopSortID": 1,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      1
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": true,
+    "ServerVerification": false,
+    "ScheduleDataID": 300104
+  },
+  "105": {
+    "ShopID": 105,
+    "ShopMainType": "Main",
+    "ShopType": 1,
+    "ShopName": {
+      "hash": -1694252826
+    },
+    "ShopDesc": {
+      "hash": -237359268
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopDrawcardIcon01.png",
+    "ShopBar": "Shop105Page",
+    "ShopSortID": 2,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      1
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": true,
+    "ServerVerification": false,
+    "ScheduleDataID": 300105
+  },
+  "201": {
+    "ShopID": 201,
+    "ShopMainType": "Npc",
+    "ShopType": 2,
+    "ShopName": {
+      "hash": -632209961
+    },
+    "ShopDesc": {
+      "hash": 260033593
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopTrainIcon.png",
+    "ShopBar": "Shop201Page",
+    "ShopSortID": 1,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      1
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": false,
+    "ServerVerification": true,
+    "ScheduleDataID": 300201
+  },
+  "301": {
+    "ShopID": 301,
+    "ShopMainType": "Npc",
+    "ShopType": 3,
+    "ShopName": {
+      "hash": 913671004
+    },
+    "ShopDesc": {
+      "hash": 1805914558
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopMaterialsIcon.png",
+    "ShopBar": "Shop301Page",
+    "ShopSortID": 1,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      1
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": true,
+    "ServerVerification": true,
+    "ScheduleDataID": 300301
+  },
+  "401": {
+    "ShopID": 401,
+    "ShopMainType": "Npc",
+    "ShopType": 4,
+    "ShopName": {
+      "hash": -349884959
+    },
+    "ShopDesc": {
+      "hash": 1107008599
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopMaterialsIcon.png",
+    "ShopBar": "Shop401Page",
+    "ShopSortID": 1,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      1
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": true,
+    "ServerVerification": true,
+    "ScheduleDataID": 300401
+  },
+  "504": {
+    "ShopID": 504,
+    "ShopMainType": "Main",
+    "ShopType": 1,
+    "ShopName": {
+      "hash": 1955510893
+    },
+    "ShopDesc": {
+      "hash": -882562845
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopRogueIcon.png",
+    "ShopBar": "Shop504Page",
+    "ShopSortID": 3,
+    "LimitType1": "MainMission",
+    "LimitValue1List": [
+      1000601
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": true,
+    "ServerVerification": false,
+    "ScheduleDataID": 300504
+  },
+  "993": {
+    "ShopID": 993,
+    "ShopMainType": "Npc",
+    "ShopType": 8,
+    "ShopName": {
+      "hash": -1660753413
+    },
+    "ShopDesc": {
+      "hash": 2121738973
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopMaterialsIcon.png",
+    "ShopBar": "Shop993Page",
+    "ShopSortID": 1,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      1
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": true,
+    "ServerVerification": true,
+    "ScheduleDataID": 300993
+  },
+  "994": {
+    "ShopID": 994,
+    "ShopMainType": "Npc",
+    "ShopType": 10,
+    "ShopName": {
+      "hash": -94669472
+    },
+    "ShopDesc": {
+      "hash": 1362224086
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopMaterialsIcon.png",
+    "ShopBar": "Shop994Page",
+    "ShopSortID": 1,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      1
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": true,
+    "ServerVerification": true,
+    "ScheduleDataID": 300994
+  },
+  "995": {
+    "ShopID": 995,
+    "ShopMainType": "Npc",
+    "ShopType": 11,
+    "ShopName": {
+      "hash": 1471414469
+    },
+    "ShopDesc": {
+      "hash": -1366659269
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopMaterialsIcon.png",
+    "ShopBar": "Shop995Page",
+    "ShopSortID": 1,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      1
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": true,
+    "ServerVerification": true,
+    "ScheduleDataID": 300995
+  },
+  "998": {
+    "ShopID": 998,
+    "ShopMainType": "Main",
+    "ShopType": 1,
+    "ShopName": {
+      "hash": 1874698996
+    },
+    "ShopDesc": {
+      "hash": -963374742
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopMaterialsIcon.png",
+    "ShopBar": "RechargePage",
+    "ShopSortID": 1,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      0
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": false,
+    "ServerVerification": true,
+    "ScheduleDataID": 300998
+  },
+  "999": {
+    "ShopID": 999,
+    "ShopMainType": "Main",
+    "ShopType": 1,
+    "ShopName": {
+      "hash": -854184359
+    },
+    "ShopDesc": {
+      "hash": 602709199
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopPayIcon.png",
+    "ShopBar": "Shop999Page",
+    "ShopSortID": 100,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      1
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": true,
+    "ServerVerification": false,
+    "ScheduleDataID": 300999
+  },
+  "1000": {
+    "ShopID": 1000,
+    "ShopMainType": "Main",
+    "ShopType": 100,
+    "ShopName": {
+      "hash": -1388351843
+    },
+    "ShopDesc": {
+      "hash": 70242995
+    },
+    "ShopIconPath": "SpriteOutput/TabIcon/Shop/ShopCrystalIcon.png",
+    "ShopBar": "Shop1000Page",
+    "ShopSortID": 100,
+    "LimitType1": "Level",
+    "LimitValue1List": [
+      1
+    ],
+    "LimitType2": "Null",
+    "LimitValue2List": [],
+    "IsOpen": true,
+    "ServerVerification": false,
+    "ScheduleDataID": 301000
+  }
+}

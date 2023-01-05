@@ -1,0 +1,32 @@
+{
+  "Level": {
+    "LimitType": "Level",
+    "LimitTypeDesc": {
+      "hash": 1371317480
+    }
+  },
+  "PrestigeLevel": {
+    "LimitType": "PrestigeLevel",
+    "LimitTypeDesc": {
+      "hash": 1371317477
+    }
+  },
+  "MainMission": {
+    "LimitType": "MainMission",
+    "LimitTypeDesc": {
+      "hash": 1371317478
+    }
+  },
+  "EventMission": {
+    "LimitType": "EventMission",
+    "LimitTypeDesc": {
+      "hash": 1371317483
+    }
+  },
+  "WorldLevel": {
+    "LimitType": "WorldLevel",
+    "LimitTypeDesc": {
+      "hash": 1371317484
+    }
+  }
+}

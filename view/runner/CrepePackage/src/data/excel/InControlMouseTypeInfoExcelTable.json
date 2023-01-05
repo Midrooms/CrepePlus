@@ -1,0 +1,77 @@
+{
+  "LeftButton": {
+    "controlType": "LeftButton",
+    "isSettingMouseType": false,
+    "iconForMouse": "SpriteOutput/KeyMapIcons/PC/IconMouseLeftKey.png"
+  },
+  "RightButton": {
+    "controlType": "RightButton",
+    "isSettingMouseType": false,
+    "iconForMouse": "SpriteOutput/KeyMapIcons/PC/IconMouseRightKey.png"
+  },
+  "MiddleButton": {
+    "controlType": "MiddleButton",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  },
+  "NegativeX": {
+    "controlType": "NegativeX",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  },
+  "PositiveX": {
+    "controlType": "PositiveX",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  },
+  "NegativeY": {
+    "controlType": "NegativeY",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  },
+  "PositiveY": {
+    "controlType": "PositiveY",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  },
+  "PositiveScrollWheel": {
+    "controlType": "PositiveScrollWheel",
+    "isSettingMouseType": false,
+    "iconForMouse": "SpriteOutput/KeyMapIcons/PC/IconMouseCenterKeyScroll.png"
+  },
+  "NegativeScrollWheel": {
+    "controlType": "NegativeScrollWheel",
+    "isSettingMouseType": false,
+    "iconForMouse": "SpriteOutput/KeyMapIcons/PC/IconMouseCenterKeyScroll.png"
+  },
+  "Button4": {
+    "controlType": "Button4",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  },
+  "Button5": {
+    "controlType": "Button5",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  },
+  "Button6": {
+    "controlType": "Button6",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  },
+  "Button7": {
+    "controlType": "Button7",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  },
+  "Button8": {
+    "controlType": "Button8",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  },
+  "Button9": {
+    "controlType": "Button9",
+    "isSettingMouseType": false,
+    "iconForMouse": ""
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "1001229": {
+    "TimedID": 1001229,
+    "QuestList": [
+      1001229
+    ],
+    "MinLevel": 1,
+    "MaxLevel": 999,
+    "BeginDayTime": "04:00:00",
+    "EndDayTime": "03:59:59",
+    "IsNextDay": true,
+    "WeekDayList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "ScheduleDataID": 21001229
+  },
+  "1001230": {
+    "TimedID": 1001230,
+    "QuestList": [
+      1001230
+    ],
+    "MinLevel": 1,
+    "MaxLevel": 999,
+    "BeginDayTime": "04:00:00",
+    "EndDayTime": "03:59:59",
+    "IsNextDay": true,
+    "WeekDayList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "ScheduleDataID": 21001230
+  },
+  "1001231": {
+    "TimedID": 1001231,
+    "QuestList": [
+      1001231
+    ],
+    "MinLevel": 1,
+    "MaxLevel": 999,
+    "BeginDayTime": "04:00:00",
+    "EndDayTime": "03:59:59",
+    "IsNextDay": true,
+    "WeekDayList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "ScheduleDataID": 21001231
+  }
+}

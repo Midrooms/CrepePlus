@@ -1,0 +1,20 @@
+{
+  "1": {
+    "ID": 1,
+    "Max": 0.3,
+    "Color": "#e23977ff",
+    "IsDanger": true
+  },
+  "2": {
+    "ID": 2,
+    "Max": 0.7,
+    "Color": "#d6e5fcff",
+    "IsDanger": false
+  },
+  "3": {
+    "ID": 3,
+    "Max": 1.0,
+    "Color": "#d6e5fcff",
+    "IsDanger": false
+  }
+}

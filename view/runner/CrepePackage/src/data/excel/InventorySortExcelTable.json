@@ -1,0 +1,116 @@
+{
+  "Count": {
+    "SortType": "Count",
+    "SortTypeName": {
+      "hash": 842389391
+    }
+  },
+  "Rarity": {
+    "SortType": "Rarity",
+    "SortTypeName": {
+      "hash": 439104864
+    }
+  },
+  "Level": {
+    "SortType": "Level",
+    "SortTypeName": {
+      "hash": 2005188805
+    }
+  },
+  "AvatarBaseType": {
+    "SortType": "AvatarBaseType",
+    "SortTypeName": {
+      "hash": 1601904278
+    }
+  },
+  "Attack": {
+    "SortType": "Attack",
+    "SortTypeName": {
+      "hash": -1126979077
+    }
+  },
+  "Defence": {
+    "SortType": "Defence",
+    "SortTypeName": {
+      "hash": -1530263604
+    }
+  },
+  "HP": {
+    "SortType": "HP",
+    "SortTypeName": {
+      "hash": 35820337
+    }
+  },
+  "ObtainTime": {
+    "SortType": "ObtainTime",
+    "SortTypeName": {
+      "hash": -1079924910
+    }
+  },
+  "HPAddedRatio": {
+    "SortType": "HPAddedRatio",
+    "SortTypeName": {
+      "hash": 486159031
+    }
+  },
+  "HPDelta": {
+    "SortType": "HPDelta",
+    "SortTypeName": {
+      "hash": -1265111329
+    }
+  },
+  "AttackAddedRatio": {
+    "SortType": "AttackAddedRatio",
+    "SortTypeName": {
+      "hash": -1265111328
+    }
+  },
+  "AttackDelta": {
+    "SortType": "AttackDelta",
+    "SortTypeName": {
+      "hash": -1265111327
+    }
+  },
+  "DefenceAddedRatio": {
+    "SortType": "DefenceAddedRatio",
+    "SortTypeName": {
+      "hash": -1265111326
+    }
+  },
+  "DefenceDelta": {
+    "SortType": "DefenceDelta",
+    "SortTypeName": {
+      "hash": -1265111333
+    }
+  },
+  "SpeedBase": {
+    "SortType": "SpeedBase",
+    "SortTypeName": {
+      "hash": -1265111332
+    }
+  },
+  "CriticalChance": {
+    "SortType": "CriticalChance",
+    "SortTypeName": {
+      "hash": -1265111331
+    }
+  },
+  "CriticalDamage": {
+    "SortType": "CriticalDamage",
+    "SortTypeName": {
+      "hash": -1265111330
+    }
+  },
+  "StatusProbability": {
+    "SortType": "StatusProbability",
+    "SortTypeName": {
+      "hash": -1265111337
+    }
+  },
+  "StatusResistance": {
+    "SortType": "StatusResistance",
+    "SortTypeName": {
+      "hash": -1265111336
+    }
+  }
+}

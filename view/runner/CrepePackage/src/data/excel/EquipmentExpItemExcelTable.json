@@ -1,0 +1,12 @@
+{
+  "221": {
+    "ItemID": 221,
+    "ExpProvide": 1000,
+    "CoinCost": 500
+  },
+  "222": {
+    "ItemID": 222,
+    "ExpProvide": 5000,
+    "CoinCost": 2500
+  }
+}
