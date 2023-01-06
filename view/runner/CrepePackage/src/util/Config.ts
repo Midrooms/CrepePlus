@@ -28,12 +28,6 @@ const DEFAULT_CONFIG = {
         MAINTENANCE: false,
         MAINTENANCE_MSG: "Server is in maintenance mode."
     },
-    RCON: {
-        RCON_ENABLED: false,
-        RCON_PASSWORD: "password",
-        RCON_PORT: 22103,
-        RCON_CLIENT_LIMIT: 1
-    },
     AUTO_ACCOUNT: false
 }
 type DefaultConfig = typeof DEFAULT_CONFIG;
@@ -88,12 +82,6 @@ export default class Config {
         MAINTENANCE_MSG: string;
     } = Config.config.GAMESERVER;
     public static AUTO_ACCOUNT: boolean = Config.config.AUTO_ACCOUNT;
-    public static RCON: {
-        RCON_ENABLED: boolean;
-        RCON_PASSWORD: string;
-        RCON_PORT: number;
-        RCON_CLIENT_LIMIT: number;
-    } = Config.config.RCON;
 
     private constructor() { }
 }

@@ -13,7 +13,6 @@
     "mongodb": "^4.8.0",
     "node-kcp-token": "github:memetrollsxd/node-kcp",
     "protobufjs": "^7.0.0",
-    "rcon-server": "^0.1.1",
     "typescript": "^4.7.4"
   }
 }
